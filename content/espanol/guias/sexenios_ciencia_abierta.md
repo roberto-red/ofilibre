@@ -12,11 +12,11 @@ Información relacionada con los aspectos de ciencia abierta de la Convocatoria 
 
 ## Sesión informativa
 
-[Sesión de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmEwODZkMmMtYjNlMC00Y2Q1LWExY2EtM2RmNjk4NTNlYWZh%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%2244e7f65e-1806-450a-9295-93efd42a6d88%22%7d).
-
 Cuándo: Lunes 22 de enero de 2024, 13:00.
 
-Temas que se tratarán:
+[Grabación de la sesión](https://tv.urjc.es/video/65b15438e8dbc093a310d0fb)
+
+Temas que se trataron:
 
 * Depósito de aportaciones en el Archivo Abierto de la Universidad
   - Depósito de artículos ya publicados en acceso abierto
