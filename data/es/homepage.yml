@@ -4,15 +4,26 @@ slider:
   bg_image : "images/logo-ofilibre.png"
   slider_item:
     # slider item loop
-    - title : "Convocatoria de publicación de asignaturas en abierto 2023-2024"
-      content : "La URJC ha publicado la convocatoria de publicación de asignaturas en abierto para el curso 2023-2024."
+    - title : "Terceras Jornadas de Cultura Libre"
+      content : "Los próximos 20 y 21 de marzo tendrán lugar en el Campus de Fuenlabrada las Terceras Jornadas de Cultura Libre. La convocatoria de contribuciones (presentaciones y clarlas, talleres, mesas para la feria, etc.) está abierta. Las Jornadas están concebidas como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Más información"
-        link : "guias/convocatoria-asignaturas-abierto/"
+        link : "blog/2024-01-10-jornadas/"
+
+    # slider item loop
+    - title : "Convocatoria de Sexenios y Ciencia Abierta"
+      content : "Ayuda e información sobre los aspectos de ciencia abierta de la convocatoria de sexenios de investigación."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Más información"
+        link : "guias/sexenios_ciencia_abierta/"
 
     # slider item loop
     - title : "Publicación de Trabajos de Fin de Grado en abierto"
@@ -24,39 +35,6 @@ slider:
         enable : true
         label : "Más información"
         link : "guias/tfg-abierto/"
-
-    # slider item loop
-    - title : "Segundas Jornadas de Cultura Libre"
-      content : "Los pasados 29 y 30 de marzo de 2023 tuvieron lugar las Segundas Jornadas de Cultura Libre de la URJC en el Campus de Fuenlabrada. Las Jornadas fueron concebida como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Más información"
-        link : "blog/jornadas-programa/"
-
-    # slider item loop
-    - title : "Resultados de la convocatoria de asignaturas en abierto"
-      content : "Una vez finalizada la convocatoria de asignaturas en abierto para el segundo cuatrimestre, ya está disponible el análisis de resultados realizado desde la Ofilibre."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Más información"
-        link : "blog/2023-resultados-convocatoria-asignaturas/"
-
-    # slider item loop
-    - title : "Catálogo de recursos educativos abiertos"
-      content : "Este catálogo incluye materiales docentes de acceso abierto producidos por personal de la URJC."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Ver recursos"
-        link : "catalogo"
         
     # slider item loop
     - title : "Guías de la OfiLibre"
@@ -68,17 +46,6 @@ slider:
         enable : true
         label : "Ver guías"
         link : "guias"
-
-    # slider item loop
-    - title : "El Concilio de lo Libre"
-      content : "“Compartir el conocimiento es la clave de una sociedad libre y justa.” Actividades gratuitas sobre conocimiento y cultura libres. En colaboración con las oficinas de software libre de la Universidad de Granada y la Universidad Complutense."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Leer más"
-        link : "blog/el-concilio-de-lo-libre/"
 
 
 ############################# blog ################################
