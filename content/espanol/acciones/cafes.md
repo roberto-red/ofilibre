@@ -21,10 +21,20 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 17 de enero: Jornadas de Publicación en Abierto.
+* 21 de febrero: Revistas de acceso abierto de la URJC.
 
 
 Cafés ya disfrutados [videos de todos los cafés pasados](https://tv.urjc.es/series/655f2053f8ceb778a509d85f):
+
+* 14 de febrero: Datos abiertos, con Adrián Escuedero Alcántara, catedráticon en la ESCET.
+
+* 7 de febrero: Licencias en software libre.
+
+* 31 de enero: Monografías en abierto.
+
+* 24 de enero: Jornadas de Cultura Libre.
+
+* 17 de enero: Sexenios con publicación en abierto.
 
 * 10 de enero: Cómo se plantea el 2024. Comentarios sobre los plantes que tenemos en la OfiLibre para este año que empieza.
 
