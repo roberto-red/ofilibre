@@ -1,30 +1,25 @@
 ---
-title: Publicación del trabajo fin de grado en abierto
-date: 2022-03-22
+title: Publicación de la tesis doctoral en abierto
+date: 2024-03-12
 logo: logo-ofilibre.png
 published: true
 type: guias
 ---
-[ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023!: [Infografía resumen](/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
 
-En la Universidad Rey Juan Carlos, los alumnos que realizan un
-Trabajo Fin de Grado (TFG) pueden decidir que éstos se publiquen
-en acceso abierto en el Archivo Abierto de la Universidad
+En la Universidad Rey Juan Carlos, los alumnos de la Escuela Internacional
+de Doctorado que presentan su tesis doctoral pueden decidir que esta
+se publique en acceso abierto en el Archivo Abierto de la Universidad
 ([BURJC Digital](https://burjcdigital.urjc.es/)).
 
-> “El TFG quedará depositado en la plataforma de recursos digitales de la Universidad con fines de conservación y archivo institucional. Los titulares de la autoría podrán autorizar la publicación en abierto del trabajo, siempre y cuando no contenga información confidencial (existencia de convenios de confidencialidad con empresas, posibilidad de generación de patentes, etc.). En estos casos, la Universidad podrá solicitar al autor un documento alternativo sin la información potencialmente confidencial."
->
-> > [Reglamento Marco de TFG, art 4.5](https://www.urjc.es/images/Intranet/TFG/reglamento.pdf) (26 mayo 2023)
-
-Puedes publicar en acceso abierto la memoria de tu TFG,
+Puedes publicar en acceso abierto tu tesis doctoral,
 y también datos y otros materiales que puedan estar
-relacionados con él, incluyendo programas de ordenador
-que hayas creado (en este caso, publicándolo como
-software libre). Si decides publicar tu TFG en acceso abierto, aparecerá como parte de la [colección de TFGs de la Universidad](https://burjcdigital.urjc.es/handle/10115/19269).
+relacionados con ella, incluyendo programas de ordenador
+que hayas creado (en este caso, publicándolos como
+software libre). Si decides publicar tu tesis en acceso abierto, aparecerá como parte de la [colección de tesis de la Universidad](https://burjcdigital.urjc.es/handle/10115/19278).
 
-## Cómo publicar tu TFG en acceso abierto
+## Cómo publicar tu tesis en acceso abierto
 
-Si decides publicar la memoria de tu TFG en acceso abierto,
+Si decides publicar la memoria de tu tesis en acceso abierto,
 tendrás que seguir los siguientes pasos:
 
 * Comprobar que todo lo que hay en tu memoria ha sido
@@ -34,15 +29,14 @@ tendrás que seguir los siguientes pasos:
 * Elegir la licencia de distribución de tu memoria, entre
   las que se consideran como de acceso abierto.
 * Marcar la memoria con la licencia elegida.
-* Publicar la memoria en el Archivo Abierto de la Universidad. Desde el 13 de junio de 2023 este es un proceso automático, que se realiza al subir la memoria a la plataforma de TFGs.
 
-<iframe src='https://tv.urjc.es/iframe/64820d00f8ceb7023e4d5862' id='pumukitiframe' frameborder='0' border='0' width='50%' height='300px' allowfullscreen></iframe>
+De esta manera, cuando la memoria sea depositada en el Archivo Abierto de la Universidad, quedará publicada en acceso abierto con la licencia que hayas elegido..
 
 Vamos a ver estos pasos con más detalle.
 
 ## Comprobación de propiedad y permisos
 
-El contenido de la memoria del TFG será, en general, de
+El contenido de la memoria será, en general, de
 quien lo ha realizado. Pero a veces se utilizan algunos
 elementos de terceros. Por eso, como paso previo a la
 publicación de la memoria (vaya a publicarse en acceso
@@ -89,8 +83,8 @@ por las que puede no ser conveniente incluir ciertas
 obras de terceros en tu memoria, y que puede haber
 ciertas convenciones sobre cómo incluirlas y cómo citarlas
 que te conviene conocer. Si tienes cualquier duda,
-consulta con tu tutor de TFG, o con el responsable de
-TFGs en tu grado.
+consulta con tu director de tesis, o con la persona coordinadora
+de tu programa de doctorado.
 
 Cuando hayas terminado con este paso, tendrás una memoria
 que estará lista para publicar, pues incluirá sólo obra tuya
@@ -98,7 +92,7 @@ y obra con permiso para ser incluida.
 
 ## Elección de licencia
 
-El siguiente paso para publicar tu TFG en acceso abierto
+El siguiente paso para publicar tu tesis en acceso abierto
 será elegir la licencia con la que lo vas a publicar, entre
 las que son reconocidas como "de acceso abierto" por el
 Consejo de Publicación Abierta de la Universidad.
@@ -118,7 +112,7 @@ otorgando a quien reciba tu obra, automáticamente
 y sin que te tenga que pedir permiso específicamente.
 En general, estos permisos incluirán los que detallan
 las definiciones más habituales de publicación en acceso
-abierto. Por ejemplo, la declaración de Berlin sobre
+abierto. Por ejemplo, la declaración de Berlín sobre
 Acceso Abierto indica que para que una obra se considere
 publicada en acceso abierto:
 
@@ -168,7 +162,7 @@ la memoria con esa licencia. Para ello, pondremos en la memoria
 un texto similar a este:
 
 ```
-©2021 Autora Mengánez Zutánez  
+©2024 Autora Mengánez Zutánez  
 Algunos derechos reservados  
 Este documento se distribuye bajo la licencia  
 “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
@@ -180,12 +174,13 @@ Normalmente, este texto se pone en una de las primeras páginas
 de la memoria, en el mismo sitio que suele verse en los libros
 la nota de copyright y "Todos los derechos reservados". El año
 es el año de publicación, y "Autora Mengánez Zutánez" sería
-el nombre de al persona autora de la memoria (y del TFG).
+el nombre de al persona autora de la memoria de tesis.
 Naturalmente, la referencia a la licencia será a la que
 se haya elegido en el paso anterior.
 
-Es recomendable que la memoria que se deposite en la
-plataforma de TFG (normalmente en formato PDF)
+Es recomendable que la memoria de tesis que se deposite en la
+Escuela de Doctorado, para comenzar los trámites encaminados a
+su presentación (normalmente en formato PDF)
 ya venga marcada de esta manera.
 
 Y con esto estaremos listos para el último paso.
@@ -193,35 +188,14 @@ Y con esto estaremos listos para el último paso.
 ## Publicación
 
 El proceso termina con la publicación de la memoria.
-Desde el 12 de junio de 2023, la plataforma de TFGs está conectada
-automáticamente con el Archivo Abierto de la Universidad. Por ello,
-al depositar la memoria en
-la plataforma de TFGs se indicará mediante un formulario
-la licencia que se ha elegido, y el depósito en el Archivo
-Abierto se realizará automáticamente, con esa licencia,
-una vez el TFG haya sido evaluado positivamente.
+Esta publicación tiene lugar en BURJC Digital, donde es depositada
+por la Escuela Internacional de Doctorado poco después de que tesis
+haya sido presentada y evaluada positivamente por el tribunal.
 
-<!--
-Mientras la plataforma de TFGs no esté conectada con
-el Archivo Abierto, hay que hacer el depósito en el Archivo
-Abierto manualmente. Para ello, una vez el TFG ha sido
-evaluado positivamente, se seguirán las instrucciones
-descritas en \["Cómo publicar"](https://burjcdigital.urjc.es/page/howtopublish)
-en el \[sitio web de BURJC Digital](https://burjcdigital.urjc.es).
-Junto con la memoria en formato PDF se puede (y es conveniente) depositar
-otros materiales relacionados con el TFG, en un archivo ZIP.
-Por ejemplo, se puede depositar la memoria en formato editable
-(DOC o DOCX de Word, ODF de LibreOffice y otras herramientas,
-LaTeX, etc.), fotos, figuras, datos, software, documentos multimedia, etc.
-
-Poco tiempo después de haber realizado el depósito,
-el TFG quedará depositado, y disponible públicamente en el
-Archivo Abierto.
--->
 
 ## Qué pasa a continuación
 
-La publicación en el archivo abierto proporcionará una dirección
+La publicación en el Archivo Abierto proporcionará una dirección
 única ("handle", que es un identificador único, normalmente
 representado mediante una url o hipervínculo) para la memoria,
 y que será preservada por la Biblioteca de la Universidad.
@@ -230,6 +204,7 @@ Además, esa dirección, junto con los metadatos de la memoria
  bibliográficos, de forma que podrá ser localizada por
 buscadores bibliográficos, y también buscadores generalistas.
 
-Con esto, la memoria del TFG (y los materiales depositados con ella)
+Con esto, la memoria de la tesis (y si es caso,
+los materiales depositados con ella)
 pasarán a formar parte del conocimiento universal publicado en
 acceso abierto, y quedará a disposición de toda la humanidad.
