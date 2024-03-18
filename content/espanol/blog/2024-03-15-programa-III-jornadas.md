@@ -1,12 +1,16 @@
 ---
 title: Contenidos de las III Jornadas de Cultura Libre
 date: 2024-03-14
-description: "Aquí teneis un resumen  del programa y los ponentes que participarán en las III Jornadas"
+description: "Resumen  del programa y los ponentes que participarán en las III Jornadas"
 slug: programa-III-jornadas
 type: post
 categories:
   - OfiLibre
-tags: []
+tags:
+  - "Jornadas"
+  - "URJC"
+  - "Cultura libre"
+
 bg_image: /images/CONTENIDO_III_JORNADAS_bg.png
 thumb: /images/Contenido_III_Jornadas_thumb.png
 ---
