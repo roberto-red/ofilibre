@@ -23,7 +23,8 @@ Programa (tentativo) para los próximos cafés:
 
 * 20 de marzo: Apertura de las III Jornadas de Cultura Libre.
 
-Cafés ya disfrutados [videos de todos los cafés pasados](https://tv.urjc.es/series/655f2053f8ceb778a509d85f):
+
+Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
 * 13 de marzo: [Programa de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/65f835a0a848b9f23a3206e2). Presentamos y comentamos el progrmaa de las Jornadas de Cultura Libre de este año.
 

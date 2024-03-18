@@ -17,7 +17,7 @@ thumb: /images/logo-ofilibre.png
 
 Desde 2022 se celebran, anualmente, las Jornadas de Cultura Libre de la URJC:
 
-* III Jornadas de Cultura Libre] (20 y 21 de marzo de 2023) [programa final, inclyendo materiales](/blog/programa-iii-jornadas/), [anuncio](/blog/2024-01-10-jornadas/)
+* III Jornadas de Cultura Libre] (20 y 21 de marzo de 2024) [programa final, inclyendo materiales](/blog/programa-iii-jornadas/), [anuncio](/blog/2024-01-10-jornadas/)
 
 * II Jornadas de Cultura Libre (29 y 30 de marzo de 2023) [programa final, incluyendo materiales y videos](https://ofilibre.urjc.es/blog/resumen-segundas-jornadas-2023/), [anuncio](/blog/jornadas-cultura-libre-2/)
 
