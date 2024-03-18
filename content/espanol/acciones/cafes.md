@@ -21,22 +21,25 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 21 de febrero: Revistas de acceso abierto de la URJC.
-
+* 20 de marzo: Apertura de las III Jornadas de Cultura Libre.
 
 Cafés ya disfrutados [videos de todos los cafés pasados](https://tv.urjc.es/series/655f2053f8ceb778a509d85f):
 
-* 14 de febrero: Datos abiertos, con Adrián Escuedero Alcántara, catedráticon en la ESCET.
+* 13 de marzo: [Programa de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/65f835a0a848b9f23a3206e2). Presentamos y comentamos el progrmaa de las Jornadas de Cultura Libre de este año.
 
-* 7 de febrero: Licencias en software libre.
+* 21 de febrero: [Revistas de acceso abierto de la URJC](https://tv.urjc.es/video/65d8471ea848b9c51921ad63), con Laura de la Cruz, Servicio de Publicaciones de la URJC. ¿Qué es el servicio de publicaciones de la URJC? ¿Cómo funciona la convocatoria de revistas en abierto? ¿Cúales son los pasos a seguir para publicar una revista en abierto? ¿Qué es el proyecto de monografías?
 
-* 31 de enero: Monografías en abierto.
+* 14 de febrero: [Datos abiertos](https://tv.urjc.es/video/65d4b570a848b90ab40ad74c), con Adrián Escuedero Alcántara, catedráticon en la ESCET. ¿Qué quiere decir datos abiertos? ¿Cómo trabaja el grupo de investigación de alto rendimiento en Ecología de comunidades de la URJC con los datos? ¿Cómo obtiene el grupo los datos de investigación? ¿Qué diferencias hay a la hora de publicar los datos? ¿Qué es realmente "publicar datos abiertos"?
 
-* 24 de enero: Jornadas de Cultura Libre.
+* 7 de febrero: [Licencias en software libre](https://tv.urjc.es/video/65d4b7daa848b90bb448ff75). Cómo funcionan las licencias en software libre, quién puede crear una licencia de software libre, qué es realmente el software libre, y mucho más.
 
-* 17 de enero: Sexenios con publicación en abierto.
+* 31 de enero: [Monografías en abierto](https://tv.urjc.es/video/65c9b5cda848b9e858770cf2). Explicamos la convocatoria de publicación de Monografías en abierto de la URJC.
 
-* 10 de enero: Cómo se plantea el 2024. Comentarios sobre los plantes que tenemos en la OfiLibre para este año que empieza.
+* 24 de enero: [Jornadas de Cultura Libre](https://tv.urjc.es/video/65c9b914a848b9e86870130c). Qué son las Jornadas de Cultura Libre, quiénes pueden asistir, cómo participar en ellas...
+
+* 17 de enero: [Sexenios con publicación en abierto](https://tv.urjc.es/video/65ae0ed1e8dbc0a31461c4cf). Algunos comentarios sobre los aspectos relacionados con la publicación en abierdo de la convocatoria de sexenios de investigación.
+
+* 10 de enero: [Cómo se plantea el 2024](https://tv.urjc.es/video/65a256c8e8dbc047d736a4ac). Comentarios sobre los plantes que tenemos en la OfiLibre para este año que empieza.
 
 * 20 de diciembre: [Sexenios y Repositorio Abierto](https://tv.urjc.es/video/65859b2bf8ceb7499c24511c). Publicación en abierto de aportaciones para la Convocatoria de Sexenios de Investigación
 
