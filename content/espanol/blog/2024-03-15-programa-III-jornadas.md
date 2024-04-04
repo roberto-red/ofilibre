@@ -25,42 +25,41 @@ Como acto de apertura tenemos uno de nuestros [cafés con la OfiLibre](/acciones
 
 ##### PRESENTACIONES
 
-* Museo Virtual de la URJC en el Metaverso. Ponente y autor: Agustín Martín Peláez
+* Museo Virtual de la URJC en el Metaverso. Ponente y autor: Agustín Martín Peláez. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-02-01-Museo_Virtual.pdf))
 
-* Clínica Jurídica URJC. Ponente y autor: David Belaguer Medrano.
+* Clínica Jurídica URJC. Ponente y autor: David Belaguer Medrano.([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-02-02-Clinica_Juridica.pdf))
 
 ##### PONENCIA INVITADA
 
-* *Del Acceso  Abierto a la Ciencia Abierta: Retos de la Edición Técnica.* Autor y ponente: Remedios Pérez García, Jefa del Servicio de publicaciones Universidad Politécnica de Valencia
+* *Del Acceso  Abierto a la Ciencia Abierta: Retos de la Edición Técnica.* Autor y ponente: Remedios Pérez García, Jefa del Servicio de publicaciones Universidad Politécnica de Valencia ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-08-invitada-Reme_P_URJ.pdf))
 
 ##### PONENCIAS CORTAS
 
 ###### Wikimedia como paradigma de la cultura libre
-* *Investigación científica e innovación docente a través de la cultura libre: El caso de la editatona #GastrónomasBNE.* Yanet Acosta
+* *Investigación científica e innovación docente a través de la cultura libre: El caso de la editatona #GastrónomasBNE.* Yanet Acosta. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-03-wiki-01-editatona_GastrónomasBNE.pdf))
 
-* *Club Wikipedia URJC: Conocimiento abierto para mejorar la divulgación científica y el aprendizaje.* José María García de Madariaga
+* *Club Wikipedia URJC: Conocimiento abierto para mejorar la divulgación científica y el aprendizaje.* José María García de Madariaga. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-03-wiki-02_Club_wikipedia.pdf))
 
-* *Wikitodología: Wikipedia como recurso de innovación docente en el Grado de Periodismo.* Rebeca Suárez. ([Presentación](https://gitlab.eif.urjc.es/ofilibre/plan/-/blob/master/Jornadas%202024/Diapositivas%20PONENTES/WIKIPEDIA_03_SUA%CC%81REZ_A%CC%81LVAREZ.odp?ref_type=heads))
+* *Wikitodología: Wikipedia como recurso de innovación docente en el Grado de Periodismo.* Rebeca Suárez. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-03-wiki-03WIKIPEDIA_03_SUÁREZ_ÁLVAREZ.pdf))
 
-* *Wikipedia como herramienta para el uso y difusión de la producción científica.* Pilar de la Prieta (Wikimedia España): 
+* *Wikipedia como herramienta para el uso y difusión de la producción científica.* Pilar de la Prieta (Wikimedia España). ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-03-wiki-04_Wikimedia.pdf))
 ###### Recursos educativos en abierto y cultura libre en las aulas
 
-* *ECO2. Creación de un ecosistema de entornos de Conocimiento Abierto desde la innovación educativa.* María del Carmen Gálvez. 
+* *ECO2. Creación de un ecosistema de entornos de Conocimiento Abierto desde la innovación educativa.* María del Carmen Gálvez. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-05-rea-01-ECO2-Galvez.pdf))
 
-* *Hemos creado los contenidos y ahora qué: el caso de los materiales del Grupo CINTER.* Félix Labrador. ([Presentación](https://gitlab.eif.urjc.es/ofilibre/plan/-/blob/master/Jornadas%202024/Diapositivas%20PONENTES/REA_02_LABRADOR_ARROYO.odp?ref_type=heads))
+* *Hemos creado los contenidos y ahora qué: el caso de los materiales del Grupo CINTER.* Félix Labrador. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-05-rea-02REA_02_LABRADOR_ARROYO.pdf))
 
-* *Proyecto VIRION: Recursos Educativos Abiertos en realidad virtual para el fomento de las vocaciones STEM.* David García Marín. 
+* *Proyecto VIRION: Recursos Educativos Abiertos en realidad virtual para el fomento de las vocaciones STEM.* David García Marín.([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-05-rea-03-Virion-david_martin.pdf))
 
-* *Proyecto DOMINOES: resiliencia digital frente a la desinformación a través de la educación abierta.* Cristina Arribas. 
+* *Proyecto DOMINOES: resiliencia digital frente a la desinformación a través de la educación abierta.* Cristina Arribas. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-05-rea-04-Dominoes.pdf)) 
 
-* *Sostenibilidad, Recursos en Abierto y Software Libre.* Iria Paz.([Presentación](https://gitlab.eif.urjc.es/ofilibre/plan/-/blob/master/Jornadas%202024/Diapositivas%20PONENTES/REA_05_PAZ_GIL.odp?ref_type=heads))
- 
+* *Sostenibilidad, Recursos en Abierto y Software Libre.* Iria Paz.([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-05-rea-05_REA_05_PAZ_GIL.pdf))
 
 ##### CHARLAS
 
 * Innovación Educativa - CIED
 
-* Sexenios. ¿Cómo fue el proceso de depósito y publicación en abierto en BURJC Digital?. Ponente: Fernando Silva de Biblioteca.([Presentación](https://gitlab.eif.urjc.es/ofilibre/plan/-/blob/master/Jornadas%202024/Diapositivas%20PONENTES/BURJC_SEXENIOS.odp?ref_type=heads))
+* Sexenios. ¿Cómo fue el proceso de depósito y publicación en abierto en BURJC Digital?. Ponente: Fernando Silva de Biblioteca.([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-07-sex-BURJC_SEXENIOS.pdf))
 
 * Servicio de publicaciones de URJC. Presentación del Servicio de Revistas y Monografías en abierto. Ponente: Laura de la Cruz Parra
 
