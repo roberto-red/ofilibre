@@ -94,52 +94,51 @@ Colaboradores:
 
 * *TALLER DE SOFTWARE LIBRE.* Jesús M. González Barahona (URJC)
 
-## Miércoles 21 de marzo
+## Jueves 21 de marzo
 
 #####  PONENCIA INVITADA
 
-* **Datos en Abierto: Movimiento de Expansión**. Autor y Ponente: Sonia Castro García-Muñoz, Coordinadora en Red.es de la Iniciativa Aporta/datos.gob.es
+* **Datos en Abierto: Movimiento de Expansión**. Autor y Ponente: Sonia Castro García-Muñoz, Coordinadora en Red.es de la Iniciativa Aporta/datos.gob.es. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-04-invitada-DatosAbiertos_Castro_García-Muñoz.pdf))
 
 ##### PONENCIAS CORTAS
 ###### Datos en Abierto
 
-* *Una base de datos de acceso público para analizar la representación de la infancia en la publicidad española.* Juan Manuel Vara Mesa. 
+* *Una base de datos de acceso público para analizar la representación de la infancia en la publicidad española.* Juan Manuel Vara Mesa. ([Presentacion](/transpas/jornada-cultura-libre/2024/))
 
-* *Modelo emancipatorio de gestión de conocimiento aplicado a la prevención de conflictos organizacionales.* Helena Nadal Sánchez y Cristina Del Prado Higuera. 
+
+* *Modelo emancipatorio de gestión de conocimiento aplicado a la prevención de conflictos organizacionales.* Helena Nadal Sánchez y Cristina Del Prado Higuera. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-06-CA-01-Modelo_emancipatorio.pdf))
 
 ###### Ciencia Abierta
 
-* *PODCAST Y CONOCIMIENTO LIBRE: UNA EXPERIENCIA.*  Pablo Acosta Gallo. 
+* *PODCAST Y CONOCIMIENTO LIBRE: UNA EXPERIENCIA.*  Pablo Acosta Gallo. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-06-CA-02_Pablo_Acosta_podcast_libre.pdf))
 
-* *MOVEDUCA: un podcast en abierto sobre movimiento y salud.* Francisco Molina Rueda
+* *MOVEDUCA: un podcast en abierto sobre movimiento y salud.* Francisco Molina Rueda ([Presentacion](/transpas/jornada-cultura-libre/2024/02-06-CA-03-Moveduca_Francisco_Molina_Rueda.pdf))
 
-* *Estrategia de RRHH para investigadores: herramientas en abierto ¿Cómo puedes beneficiarte?.* Rosa Mesa Vélez. ([Presentación](https://gitlab.eif.urjc.es/ofilibre/plan/-/blob/master/Jornadas%202024/Diapositivas%20PONENTES/CIENCIA_ABIERTA_03_MESA_VE%CC%81LEZ.pptx?ref_type=heads))
+* *Estrategia de RRHH para investigadores: herramientas en abierto ¿Cómo puedes beneficiarte?.* Rosa Mesa Vélez. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-06-CA-04-CIENCIA_ABIERTA_03_MESA_VÉLEZ.pdf))
 
-* *Reducción de errores durante la unificación de rúbricas de distintos Profesores de una misma asignatura en Ciencias de la Salud con el software libre R.* José Luis Arias Buría.
+* *Reducción de errores durante la unificación de rúbricas de distintos Profesores de una misma asignatura en Ciencias de la Salud con el software libre R.* José Luis Arias Buría. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-06-CA-05-Reduccion_de_errores.pdf))
 
 ###### Software y Hardware Libre
 
-* *Pasado, presente y futuro de EducaMadrid.* Adolfo Sanz de Diego.
+* *Pasado, presente y futuro de EducaMadrid.* Adolfo Sanz de Diego.([Presentacion](/transpas/jornada-cultura-libre/2024/02-01-soft-01-Educamadrid.pdf))
 
-* *Love is in the air.* Ana Alzaga 
+* *JULIA, o cuando un programa libre es mejor que uno de pago.* Ana Isabel Muñoz Montalvo.([Presentacion](/transpas/jornada-cultura-libre/2024/02-01-soft-02-SHLIBRE_03_MUÑOZ_MONTALVO.pdf))
 
-* *JULIA, o cuando un programa libre es mejor que uno de pago.* Ana Isabel Muñoz Montalvo.[Presentación](https://gitlab.eif.urjc.es/ofilibre/plan/-/blob/master/Jornadas%202024/Diapositivas%20PONENTES/SHLIBRE_03_MUN%CC%83OZ_MONTALVO.pdf?ref_type=heads))
+* *Acelerando el Diseño Hardware con Hardware Libre.* Rubén Nieto Capuchino. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-01-soft-03_Acelerando_el_diseño_hardware.pdf))
 
-* *Acelerando el Diseño Hardware con Hardware Libre.* Rubén Nieto Capuchino.
-
-* *Administrando los 600 equipos de laboratorios docentes de la EIF con software libre.* Antonio Gutiérrez.
+* *Administrando los 600 equipos de laboratorios docentes de la EIF con software libre.* Antonio Gutiérrez. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-01-soft-04_Laboratorio_linux_Jornadas_cultura_libre.pdf))
 
 
 ##### CHARLAS
 
 * *Digitalización: Modernizando nuestras aplicaciones: OpenShift Comercial vs Kubernetes Software Libre.* Imparte: Ana María García Márquez Del Prado.
-De cómo desde el Vicerrectorado de Transformación y educación digital e Inteligencia Artificial se llevó a cabo la elección de un sistema para desplegar aplicaciones, comparando distintas soluciones,tanto comerciales como software libre, evaluando sus ventajas e inconvenientes.
+De cómo desde el Vicerrectorado de Transformación y educación digital e Inteligencia Artificial se llevó a cabo la elección de un sistema para desplegar aplicaciones, comparando distintas soluciones,tanto comerciales como software libre, evaluando sus ventajas e inconvenientes. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-02-digi-digitalizacion_modernizando_aplicaciones.pdf))
 
-* *Escuela de Doctorado.*
+* *Escuela de Doctorado.* Desbloqueando al conocimiento: Tesis Doctorales en Abierto. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-09-EID-_Escuela_int_de_doctorado.pdf))
 
-* *Jardines Digitales, una propuesta para liberar la investigación científica NODO COMÚN.* Daniel Cotillas, comunicador social y Pedro Fernández de Castro, investigador predoctoral.
+* *Jardines Digitales, una propuesta para liberar la investigación científica NODO COMÚN.* Daniel Cotillas, comunicador social y Pedro Fernández de Castro, investigador predoctoral. ([Presentacion](https://nodocomun.org/expo-jardines-digitales/?transition=zoom))
 
-* *Bibliometría Narrativa: El impulso de la publicación en abierto.* Roberto Negral de Biblioteca.  
+* *Bibliometría Narrativa: El impulso de la publicación en abierto.* Roberto Negral de Biblioteca. ([Presentacion](/transpas/jornada-cultura-libre/2024/02-08-Bibliometria_Narrativa.pdf))
 
 #### OfiLibre. ¿ Todavía no sabes qué hacemos?
 
