@@ -25,9 +25,9 @@ Como acto de apertura tenemos uno de nuestros [cafés con la OfiLibre](/acciones
 
 ##### PRESENTACIONES
 
-* Museo Virtual de la URJC en el Metaverso. Ponente y autor: Agustín Martín Peláez. ([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-02-01-Museo_Virtual.pdf))
+* Museo Virtual de la URJC en el Metaverso. Ponente y autor: Agustín Martín Peláez. ([Presentacion](/transpas/jornada-cultura-libre/2024/01-02-01-Museo_Virtual.pdf))
 
-* Clínica Jurídica URJC. Ponente y autor: David Belaguer Medrano.([Presentacion](/static/transpas/jornada-cultura-libre/2024/01-02-02-Clinica_Juridica.pdf))
+* Clínica Jurídica URJC. Ponente y autor: David Belaguer Medrano.([Presentacion](/transpas/jornada-cultura-libre/2024/01-02-02-Clinica_Juridica.pdf))
 
 ##### PONENCIA INVITADA
 
