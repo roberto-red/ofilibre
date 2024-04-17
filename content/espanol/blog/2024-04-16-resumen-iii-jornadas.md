@@ -12,7 +12,7 @@ tags:
   - "Cultura libre"
 
 bg_image: /images/CONTENIDO_III_JORNADAS_bg.png
-thumb: /images/RESUMEN-III-Jornadas-thumb.png
+thumb: /images/RESUMEN-III-Jornadas-thumb.jpg
 ---
 Nuestras III [*Jornadas de Cultura Libre*](/blog/programa-iii-jornadas/) han sido todo un éxito. 
 
