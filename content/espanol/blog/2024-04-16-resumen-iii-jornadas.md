@@ -22,17 +22,24 @@ Esta nueva convocatoria citó a alumnos, profesores y profesionales del mundo de
 
 El acto de apertura de estas jornadas estuvo a cargo de nuestra Vicerrectora Mercedes del Hoyo Hurtado junto a Jesus González Barahona que realizaron uno de nuestros "Cafés con la OfiLibre". 
 
-Contamos con la participación de dos ponentes invitadas: Remedios Pérez García. Jefa de Servicio de Publicaciones de la Universidad Politécnica de Valencia la cual nos ilustro con su ponencia ["Del Acceso Abierto a la Ciencia Abierta: Retos de la Edición Técnica."](/transpas/jornada-cultura-libre/2024/01-08-invitada-Reme_P_URJ.pdf) y Sonia Castro García-Muñoz. Coordinadora en Red.es de la Iniciativa Aporta/datos.gob.es la cual nos ilustró con su ponencia ["Datos en Abierto: Movimiento de Expansión"](/transpas/jornada-cultura-libre/2024/02-04-invitada-DatosAbiertos_Castro_García-Muñoz.pdf)
+Contamos con la participación de varios ponentes invitados: 
+- Remedios Pérez García *"Del Acceso Abierto a la Ciencia Abierta: Retos de la Edición Técnica"*
+- Sonia Castro García-Muñoz *"Datos en Abierto: Movimiento de Expansión"*.
 
-Este año, hemos contado con una tarde dedicada a la Intelgencia Artificial donde hemos hablado desde "*Podcast e inteligencia artifical*" hasta "*Una Inteligencia artificial generativa libre*".
+ Además, como novedad, hemos tenido una tarde dedicada a la Inteligencia Artificial Abierta que incluyó la presencia de: 
+ - Jose Antonio Gelado *"Podcast Libre. Podcast e Inteligencia Artificial"*
+ - Pablo Aragón *"Wikimedia Research en la Era de la Inteligencia Artificial"*
+ - Pedro Cuenca *"Inteligencia Artificial Generativa Abierta"*.
 
-Además, no podemos olvidar la Mesa Redonda (Logros y retos de las revistas URJC de acceso abierto: Un diálogo compartido con la comunidad científica) moderada por Tomás Zarza quien también tuvo un pequeño momento donde se le presentó como nuevo Coordinador de Publicaciones en Abierto y nuevo integrante de la OfiLibre. 
+<br/>
 
-Pasear por la feria, participar en uno de los talleres, asistir a una representacion teatral y tomar un café entre personas con la misma inquietud por la cultura libre convierten estas jornadas en un evento único de nuestra universidad. 
+Asimismo, No podemos olvidar la Mesa Redonda (Logros y retos de las revistas URJC de acceso abierto: Un diálogo compartido con la comunidad científica) moderada por Tomás Zarza quien también tuvo un pequeño momento donde se le presentó como nuevo Coordinador de Publicaciones en Abierto y nuevo integrante de la OfiLibre. 
+
+Pasear por la feria, participar en uno de los talleres, asistir a una representacion teatral y tomar un café entre personas con la misma inquietud por la cultura libre han convertido estas jornadas en un evento único de nuestra universidad. 
 
 Gracias a todos los participantes y asistences. Esperamos veros el año que viene. 
 
-[Enlace a TV URJC](https://tv.urjc.es/series/65f1c4c5a848b9cfa425be43) donde podreis ver todas las jornadas en diferido. 
+[**Enlace a TV URJC**](https://tv.urjc.es/series/65f1c4c5a848b9cfa425be43) donde podreis ver todas las jornadas en diferido. 
 
 ### Números de las III Jornadas
 
