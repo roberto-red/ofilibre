@@ -12,7 +12,7 @@ tags:
   - "Cultura libre"
 
 bg_image: /images/CONTENIDO_III_JORNADAS_bg.png
-thumb: /images/Contenido_III_Jornadas_thumb.png
+thumb: /images/RESUMEN-III-Jornadas-thumb.png
 ---
 Nuestras III [*Jornadas de Cultura Libre*](/blog/programa-iii-jornadas/) han sido todo un éxito. 
 
@@ -28,7 +28,9 @@ Este año, hemos contado con una tarde dedicada a la Intelgencia Artificial dond
 
 Además, no podemos olvidar la Mesa Redonda (Logros y retos de las revistas URJC de acceso abierto: Un diálogo compartido con la comunidad científica) moderada por Tomás Zarza quien también tuvo un pequeño momento donde se le presentó como nuevo Coordinador de Publicaciones en Abierto y nuevo integrante de la OfiLibre. 
 
-Pasear por la feria, participar en uno de los talleres, asistir a una representacion teatral y tomar un café entre personas con la misma inquietud por la cultura libre convierten estas jornadas en un evento uíico de nuestra universidad. Gracias a todos los participantes y asistences. Esperamos veros el año que viene. 
+Pasear por la feria, participar en uno de los talleres, asistir a una representacion teatral y tomar un café entre personas con la misma inquietud por la cultura libre convierten estas jornadas en un evento único de nuestra universidad. 
+
+Gracias a todos los participantes y asistences. Esperamos veros el año que viene. 
 
 [Enlace a TV URJC](https://tv.urjc.es/series/65f1c4c5a848b9cfa425be43) donde podreis ver todas las jornadas en diferido. 
 
