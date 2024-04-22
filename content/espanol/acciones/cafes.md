@@ -21,11 +21,11 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
+* 24 de abril: Modelos generativos de IA abiertos
 
+* 8 de mayo: Datos abiertos
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
-
-* 22 de abril: LLMs (modelos grandes de lenguaje) abiertos (IA abierta)
 
 * 17 de abril: Trabajos fin de grado en abierto
 
