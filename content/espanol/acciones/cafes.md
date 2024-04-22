@@ -1,6 +1,6 @@
 ---
 title: "Café con la OfiLibre"
-date: 2024-01-10
+date: 2024-04-22
 slug: cafes
 draft: false
 author: "OfiLibre"
@@ -17,14 +17,23 @@ thumb: /images/logo-ofilibre.png
 
 Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el Café con la OfiLibre, por videoconferencia. Un rato para charlar de forma relajada sobre los temas que nos preocupan. Cada día tratamos un tema: sólo tienes que conectarte y escuchar. Y participar, si te apetece. Al fin y al cabo, una forma de mantener contacto entre los que estamos interesados en la cultura libre, la publicación en acceso abierto, el software libre, los datos abiertos, y todos estos jaleos. Eso sí, el café (o el té, o el vaso de agua, o lo que te apetezca) lo tienes que traer tú.
 
-> [Sala de Teams para Café con la OfiLibre](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0ODZlYWItMzRkNi00OTMwLWE3MDEtMzNiY2Y4N2U1MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
+> [Café con la OfiLibre en directo](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9)
 
 Programa (tentativo) para los próximos cafés:
 
-* 20 de marzo: Apertura de las III Jornadas de Cultura Libre.
 
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 22 de abril: LLMs (modelos grandes de lenguaje) abiertos (IA abierta)
+
+* 17 de abril: Trabajos fin de grado en abierto
+
+* 10 de abril: [Cómo funciona Wikipedia](https://tv.urjc.es/video/661f7dde43c849604343ebc3)
+
+* 3 de abril: Revistas en acceso abierto
+
+* 20 de marzo: Apertura de las III Jornadas de Cultura Libre
 
 * 13 de marzo: [Programa de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/65f835a0a848b9f23a3206e2). Presentamos y comentamos el progrmaa de las Jornadas de Cultura Libre de este año.
 
