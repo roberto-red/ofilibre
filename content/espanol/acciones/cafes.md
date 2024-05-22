@@ -21,19 +21,23 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 24 de abril: Modelos generativos de IA abiertos
-
-* 8 de mayo: Datos abiertos
+* 29 de mayo: Software libre en la URJC
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 17 de abril: Trabajos fin de grado en abierto
+* 22 de mayo Revistas en abierto de la URJC
+
+* 8 de mayo: Datos abiertos
+
+* 24 de abril: [Modelos generativos de IA abiertos](https://tv.urjc.es/video/6630bca143c849ecde7bb7e2?track_id=6630be9d43c849ed8d574cc2)
+
+* 17 de abril: [Trabajos fin de grado en abierto](https://tv.urjc.es/video/6626935443c849b9ae5cdf20)
 
 * 10 de abril: [Cómo funciona Wikipedia](https://tv.urjc.es/video/661f7dde43c849604343ebc3)
 
 * 3 de abril: Revistas en acceso abierto
 
-* 20 de marzo: Apertura de las III Jornadas de Cultura Libre
+* 20 de marzo: [Apertura de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/6630bf7943c849ee787c2085)
 
 * 13 de marzo: [Programa de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/65f835a0a848b9f23a3206e2). Presentamos y comentamos el progrmaa de las Jornadas de Cultura Libre de este año.
 
