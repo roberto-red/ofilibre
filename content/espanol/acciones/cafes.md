@@ -27,19 +27,19 @@ Programa (tentativo) para los próximos cafés:
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 22 de mayo Revistas en abierto de la URJC
+* 22 de mayo Revistas en abierto de la URJC, con Laura de la Cruz (responsable de Publicaciones, URJC). ¿Cómo es el programa de publicación de revistas en acceso abierto de la URJC? ¿Cómo se puede participar en él? ¿Qué relación tiene con la ciencia abierta?
 
-* 8 de mayo: Datos abiertos
+* 8 de mayo: [Archivos públicos de datos abiertos](https://tv.urjc.es/video/664df0a843c84998e868d785), con Marta Ortiz (URJC), Carmen de Pablos (URJC) y Alberto Abella (FIWARE). El mundo de los datos abiertos, la importancia de que las administraciones públicas y otras instituciones los produzcan, y lo importante que es que se ofrezcan con la calidad adecuada.
 
-* 24 de abril: [Modelos generativos de IA abiertos](https://tv.urjc.es/video/6630bca143c849ecde7bb7e2?track_id=6630be9d43c849ed8d574cc2)
+* 24 de abril: [Modelos generativos de IA abiertos](https://tv.urjc.es/video/6630bca143c849ecde7bb7e2?track_id=6630be9d43c849ed8d574cc2). Una (muy rápida y superficial) visita al mundo de los modelos de IA generativos que puedes instalar en tu ordenador.
 
-* 17 de abril: [Trabajos fin de grado en abierto](https://tv.urjc.es/video/6626935443c849b9ae5cdf20)
+* 17 de abril: [Trabajos fin de grado en abierto](https://tv.urjc.es/video/6626935443c849b9ae5cdf20). ¿Cómo se publica un trabajo fin de grado en abierto? ¿Por qué le puede interesar al alumno? ¿Qué hay que hacer con la memoria del TFG para poder publicarla en abierto? ¿Qué consecuencias tiene esa publicación?
 
-* 10 de abril: [Cómo funciona Wikipedia](https://tv.urjc.es/video/661f7dde43c849604343ebc3)
+* 10 de abril: [Cómo funciona Wikipedia](https://tv.urjc.es/video/661f7dde43c849604343ebc3). Los procesos de edición, la calidad de los artículos, la sostenibilidad del proyecto, la vida de los editores...
 
 * 3 de abril: Revistas en acceso abierto
 
-* 20 de marzo: [Apertura de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/6630bf7943c849ee787c2085)
+* 20 de marzo: [Apertura de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/6630bf7943c849ee787c2085), con Mercedes del Hoyo (Vicerrectora de Comunidad Campus, Cultura y Deporte, URJC). Cómo vemos la cultura libre en la URJC.
 
 * 13 de marzo: [Programa de las III Jornadas de Cultura Libre](https://tv.urjc.es/video/65f835a0a848b9f23a3206e2). Presentamos y comentamos el progrmaa de las Jornadas de Cultura Libre de este año.
 
