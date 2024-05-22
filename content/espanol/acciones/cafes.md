@@ -23,6 +23,8 @@ Programa (tentativo) para los próximos cafés:
 
 * 29 de mayo: Software libre en la URJC
 
+* 5 de junio: Recursos educativos en abierto
+
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
 * 22 de mayo Revistas en abierto de la URJC
