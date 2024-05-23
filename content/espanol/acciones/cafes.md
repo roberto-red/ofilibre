@@ -29,7 +29,7 @@ Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/
 
 * 22 de mayo Revistas en abierto de la URJC, con Laura de la Cruz (responsable de Publicaciones, URJC). ¿Cómo es el programa de publicación de revistas en acceso abierto de la URJC? ¿Cómo se puede participar en él? ¿Qué relación tiene con la ciencia abierta?
 
-* 8 de mayo: [Archivos públicos de datos abiertos](https://tv.urjc.es/video/664df0a843c84998e868d785), con Marta Ortiz (URJC), Carmen de Pablos (URJC) y Alberto Abella (FIWARE). El mundo de los datos abiertos, la importancia de que las administraciones públicas y otras instituciones los produzcan, y lo importante que es que se ofrezcan con la calidad adecuada.
+* 8 de mayo: [Archivos públicos de datos abiertos](https://tv.urjc.es/video/664df0a843c84998e868d785), con Marta Ortiz de Urbina (URJC), Carmen de Pablos (URJC) y Alberto Abella (FIWARE). El mundo de los datos abiertos, la importancia de que las administraciones públicas y otras instituciones los produzcan, y lo importante que es que se ofrezcan con la calidad adecuada.
 
 * 24 de abril: [Modelos generativos de IA abiertos](https://tv.urjc.es/video/6630bca143c849ecde7bb7e2?track_id=6630be9d43c849ed8d574cc2). Una (muy rápida y superficial) visita al mundo de los modelos de IA generativos que puedes instalar en tu ordenador.
 
