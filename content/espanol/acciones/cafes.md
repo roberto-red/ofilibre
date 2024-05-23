@@ -23,7 +23,7 @@ Programa (tentativo) para los próximos cafés:
 
 * 29 de mayo: Software libre en la URJC
 
-* 5 de junio: Recursos educativos en abierto
+* 12 de junio: Recursos educativos en abierto, con Oriol Borrás (URJC).
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
