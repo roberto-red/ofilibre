@@ -29,6 +29,8 @@ Programa (tentativo) para los próximos cafés:
 
 * 19 de junio: Software libre en la URJC, con Micael Gallego (Director Académico del Programa para la Transformación Digital, URJC).
 
+* 26 de junio: El curso 2023-2024 visto desde la OfiLibre.
+
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
 * 22 de mayo Revistas en abierto de la URJC, con Laura de la Cruz (responsable de Publicaciones, URJC). ¿Cómo es el programa de publicación de revistas en acceso abierto de la URJC? ¿Cómo se puede participar en él? ¿Qué relación tiene con la ciencia abierta?
