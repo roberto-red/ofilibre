@@ -21,9 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 29 de mayo: Software libre en la URJC
+* 29 de mayo: El congreso esLibre.
 
-* 12 de junio: Recursos educativos en abierto, con Oriol Borrás (URJC).
+* 5 de junio: Ciclo de revistas en abierto de la URJC: Guerra Colonial, con Miguel Madueño (Director de la revista Guerra Colonial).
+
+* 12 de junio: Recursos educativos en abierto, con Oriol Borrás (Coordinador Académico del Programa de Tecnologías Educativas del CIED, URJC).
+
+* 19 de junio: Software libre en la URJC, con Micael Gallego (Director Académico del Programa para la Transformación Digital, URJC).
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
