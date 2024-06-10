@@ -21,7 +21,7 @@ thumb: /images/openaccess-square.png
 
 Hace unos meses nos hemos presentado a la convocatoria de Ayudas María de Guzmán para el fomento de la investigación científica de excelencia. Ya se ha publicado la resolución definitiva y... ¡y nos las dieron!
 
-El proyecto que presentamos busca mejorar la calidad de las publicaciones académicas en acceso abierto, especialmente en revistas y monografías. Para lograrlo, se proponen mejoras en la infraestructura informática, y la capacitación para autoras/es y editoras/es. El proyecto se alinea con la Estrategia Nacional de Ciencia Abierta y la Ley de la Ciencia, la Tecnología y la Innovación. Los objetivos de nuestra propuesta abarcan tres ejes: Información, apoyo y formación.
+Los proyectos presentados (liderados por Biblioteca y Publicaciones de la Universidad) buscan mejorar el archivo abierto de la URJC ([BURJC digital](https://burjcdigital.urjc.es/)) y las plataformas de publicación académicas en acceso abierto, especialmente la de [revistas](https://revistas.urjc.es/) y la de monografías. Para lograrlo, se proponen mejoras en la infraestructura informática, y la capacitación para autoras/es y editoras/es. El proyecto se alinea con la Estrategia Nacional de Ciencia Abierta y la Ley de la Ciencia, la Tecnología y la Innovación. Los objetivos de nuestra propuesta abarcan tres ejes: información, apoyo y formación.
 
 Somos una de las (solo) cuatro instituciones que han tenido dos proyectos María de Guzmán aprobados en la Línea de actuación 2 (Ciencia en Abierto e Interoperabilidad en Infraestructuras Digitales Institucionales). Somos la segunda institución que más fondos ha captado de esta convocatoria, con un total financiado de unos 165.000 euros.
 
