@@ -10,7 +10,7 @@ description: "La Universidad Rey Juan Carlos aprueba una Declaración Institucio
 
 # post images 
 bg_image: "images/blog/publicacion-abierta/logo-horizontal-blanco.jpg"
-feature: "images/blog/publicacion-abierta/logo-horizontal-blanco.jpg"
+image: "images/blog/publicacion-abierta/logo-horizontal-blanco.jpg"
 thumb: "images/blog/publicacion-abierta/LOGO_U.png"
 ---
 La Universidad Rey Juan Carlos [aprobó](https://www.urjc.es/todas-las-noticias-de-actualidad/4951-apuesta-clara-de-la-urjc-por-el-conocimiento-abierto) el pasado 31 de enero un documento donde hace una apuesta clara por el conocimiento abierto. Dicho documento recoge la voluntad de la institución por integrar entre sus actividades, políticas institucionales y planes de futuro, la creación de un entorno en el que se favorezcan la ciencia y la educación abierta. Para ello, se dotará de los mecanismos y las acciones necesarias.
