@@ -1,38 +1,33 @@
 ---
-title: Reconocimiento de publicación de asignaturas en abierto 2024-2025
-date: 2024-07-16
+title: Reconocimiento de publicación de asignaturas en abierto 2023-2024
+date: 2023-07-05
 logo: logo-urjc-square.png
 published: true
 type: guias
 ---
 
-<!-- **Ya está disponible el [formulario para la convocatoria 2024-2025 (procedimiento en la sede virtual de la Universidad)]().** -->
+**Ya está disponible el [formulario para la convocatoria 2023-2024 (segundo cuatrometre)](https://forms.office.com/e/wvBVTR7pdu). Plazo: hasta el 31 de diciembre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 20 de diciembre, incluido, y no se tramitarán de ninguna manera durante el periodo de vacaciones).**
 
-**El formulario para la convocatoria 2024-2025 (procedimiento en la sede virtual de la Universidad) estará disponible en breve**
+Esta segunda convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
 
-**Plazos:**
+Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2023-2024](/documentos/convocatoria-asignaturas-abierto-2023-2024.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y el documento, tendrá validez el documento, que es el oficialmente publicado por la Universidad.
 
-* hasta el 15 de noviembre de 2024 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 13 de noviembre, incluido)
+* Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp).
 
-* hasta el 21 de febrero de 2025 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 19 de febrero, incluido).
+Ofrecemos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
 
-Esta tercera convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
+* Lunes 4 de septiembre, 13hs [vía TEAMs en este enlace](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZkYjc0YjUtYjQ3YS00OTMyLTljYzEtNGUzZjE2ZWEyNGFj%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%224b95d670-09cc-412f-8199-23774cac862f%22%7d)
+* Aquí la grabación de la sesión de julio:
 
-Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2024-2025](/documentos/convocatoria-asignaturas-abierto-2024-2025.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
-
-<!-- * Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp). -->
-
-Ofreceremos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
-
-* Lunes 4 de septiembre, 11:00 ([enlace a la sala Teams donde tendrá lugar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d))
+<iframe src='https://tv.urjc.es/iframe/64af9ea3f8ceb74e7203fbf8' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
 
 ### Objeto
 
-Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2024-25.
+Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2023-24.
 
 ### Participación
 
-La participación en esta convocatoria se hace proponiendo asignaturas del [aula virtual de la URJC](https://aulavirtual.urjc.es), que tendrán que ser de docencia oficial en un grado o máster universitario de la URJC durante el curso 2024-2025. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
+La participación en esta convocatoria se hace proponiendo asignaturas del [aula virtual de la URJC](https://aulavirtual.urjc.es), que tendrán que ser de docencia oficial en un grado o máster universitario de la URJC durante el curso 2023-2024. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
 
 ### Publicación de materiales en acceso abierto
 
@@ -44,25 +39,25 @@ Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/
 
 ### Presentación de solicitudes
 
-A la convocatoria se podrán presentar asignaturas individuales, entendiendo como tales asignaturas que se presentan como tales en el aula virtual. En el caso de grupos de asignaturas que compartan los mismos materiales (por ejemplo, distintos grupos de la misma asignatura, o asignaturas similares en distintos grados) se presentarán como una única asignatura agrupada.
+Para propuesta de una asignatura, una vez sus materiales se hayan publicado en abierto, la realizará su responsable de grupo de actas (según figure en el Plan de Ordenación Docente) rellenando el [formulario de la convocatoria (primer cuatrimestre)](https://forms.office.com/e/gPrvVmFYah).
 
-Para formalizar la solicitud para una asignatura o grupo de asignaturas, una vez sus materiales se hayan publicado en abierto, la realizará el responsable de grupo de actas de una de las asignaturas agrupadas (según figure en el Plan de Ordenación Docente) rellenando los datos solicitados en el procedimiento de solicitud para esta convocatoria que se encuentra en la sede electrónica de la Universidad (ver enlace al principio de este documento).
-
-Las asignaturas que se impartan durante el primer cuatrimestre podrán presentarse hasta el día 15 de noviembre de 2024, y las que se impartan durante el segundo cuatrimestre, hasta el 21 de febrero de 2025.
+Las asignaturas que se impartan durante el primer cuatrimestre podrán presentarse hasta el día 10 de septiembre de 2023, y las que se impartan durante el segundo cuatrimestre, hasta el 30 de diciembre de 2023.
 
 ### Resolución de dudas
 
 Para resolver dudas relacionadas con esta convocatoria, se ha planificado un videoencuentro que quedará grabado y colgado el enlace en esta misma web:
 
-* Lunes 4 de septiembre, 11.00. Enlace al principio de este documento.
+* Lunes 4 de septiembre, 13hs [vía TEAMs en este enlace](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZkYjc0YjUtYjQ3YS00OTMyLTljYzEtNGUzZjE2ZWEyNGFj%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%224b95d670-09cc-412f-8199-23774cac862f%22%7d)
 
 También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
 ### Preguntas más frecuentes sobre esta convocatoria[🔗](#faq)
 
-#### Si ya me he presentado en convocatorias anteriores, ¿puedo participar en esta con la misma asignatura?
+#### Si ya me he presentado en la convocatoria de 2022-2023, ¿puedo participar en esta con la misma asignatura?
 
-Sí, pero solo se valorarán las categorías en donde no se haya obtenido el máximo puntaje, y los incentivos tendrán que ver con el incremento en puntuación de la asignatura.
+Sí, pero solo se valorarán las categorías en donde no se haya obtenido el máximo puntaje. Veamos un supuesto: Hermenegilda Gómez Stravinsky presentó la asignatura Ingeniería Multicolor, con el siguiente resultado:
+
+![Ejemplo](/images/guias/convocatoria-asignaturas-abierto/ejemplo.png)
 
 #### ¿Hay algún formato específico para los documentos (presentaciones, documentos de texto…)?
 
@@ -77,7 +72,7 @@ Este es un ejemplo:
 ![](/images/cc-by-sa-miniatura.jpg)
 
 ```
-©2024 Autora Hermenegilda Gómez Stravinsky
+©2023 Autora Hermenegilda Gómez Stravinsky
 
 Algunos derechos reservados 
 
@@ -117,7 +112,7 @@ Las instrucciones para subir los materiales al archivo abierto institucional pue
 
 #### ¿Quién puede presentar la solicitud para mi asignatura en la convocatoria?
 
-Exclusivamente el responsable del grupo de actas de la asignatura, si es una sola la que se presenta, o de una cualquiera del grupo de asignaturas, si es un grupo de asiganturas con los mismos materiales lo que se presenta.
+Exclusivamente el responsable del grupo de actas de la asignatura. 
 
 #### ¿Qué ocurre si mis materiales no encajan en ninguna de las categorías contempladas en la convocatoria?
 
@@ -133,25 +128,29 @@ Los vídeos y podcasts se deben subir primero a la plataforma [TV URJC](https://
 
 Los vídeos subidos desde TV URJC a Aula Virtual siguiendo este procedimiento son visibles para los estudiantes de la asignatura. Si la asignatura se aprueba para que esté disponible en abierto, esa colección se abrirá al público en general, por lo que la podrá ver todo el mundo.
 
-#### Ya he enviado la solicitud, pero quiero realizar cambios, ¿cómo lo hago?
+#### Ya he enviado el formulario, pero quiero realizar cambios, ¿cómo lo hago?
 
-Una vez enviada la solicitud no se puede modificar. Puede realizar otra solicitud, y el comité evaluador considerará siempre la última versión enviada para cada asignatura.
+Una vez enviado el formulario, no se puede modificar. Puede rellenar el formulario de nuevo, y el comité evaluador considerará siempre la última versión enviada para cada asignatura.
 
 #### ¿Puedo aportar software (programas de ordenador) que utilizo en mis clases en alguna categoría?
 
 El software libre que se utiliza en docencia podría aportarse en la categoría “Otros materiales” de la convocatoria, si cumple ciertos requisitos. Para explicar cuáles son estos requisitos, y en general para su consulta por los docentes que son autores de software libre que utilizan en sus clases hemos preparado unas recomendaciones específicas: [Convocatoria de asignaturas en abierto: software para docencia](/guias/convocatoria-asignaturas-abierto-software).
 
+#### ¿Cómo se vería mi asignatura en abierto? ¿Puedo ver algún ejemplo?
+
+Para ver una asignatura en abierto, puedes ir al Aula Virtual y antes de ingresar, [hay varias disponibles](https://www.aulavirtual.urjc.es/moodle/theme/urjc/code/courses.php)
+
 #### ¿Tengo que cambiar la forma de presentar mis materiales para participar?
 
 No necesariamente. Aunque para subirlos al Archivo Abierto Institucional de la URJC (BURJC Digital) debe estar agrupados. La idea es mantener la forma en que damos las clases y hacer un compilado para depositar.
 
-#### ¿Solo se pueden usar las licencias CC Atribución y CC Atribución-CompartirIgual? ¿Por qué no otras?
+#### ¿Solo se pueden usar las licencias CCBY y CCBYSA? ¿Por qué no CCBYNC?
 
-Las licencias aceptadas son CC Atribución y CC Atribución-CompartirIgual. No se aceptan otras porque no han sido aceptadas como licencias de publicación en acceso abierto por el Consejo de Publicación en Abierto, siguiendo la Definición de Berlín de Acceso Abierto.
+Las licencias aceptadas son CCBY y CCBYSA. CCBYNC no se acepta porque no es parte de las licencias acordadas por el Consejo de publicación en abierto.
 
 #### ¿Cuándo es el último día para participar de la Convocatoria?
 
-Pueden verse las fechas al comienzo de este documento. Pero atención, para poder hacer enviar la solicitud, los materiales deben estar subidos, previamente, en los repositorios correspondientes. Es importante tener en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material es dos días anterior a la fecha límite de la convocatoria. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
+El 10/09/2023 es el último día para completar el formulario de la convocatoria con la información requerida, pero para poder hacerlo deben estar subidos, previamente, en los repositorios correspondientes. Es importante tomar en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material al BURJC Digital es el 6 de septiembre. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
 
 En la convocatoria, el punto 2 dice lo siguiente:
 
@@ -179,7 +178,7 @@ Los programas de ordenador sí pueden participar de la convocatoria. Hay un proc
 
 #### Si imparto clases en el segundo cuatrimestre… ¿Puedo participar ahora?
 
-Sí, la convocatoria del segundo cuatrimestre queda abierta a la vez que la del primero, aunque cerrará en su propia fecha.
+No, hay que esperar a la convocatoria del segundo cuatrimestre
 
 #### He subido vídeos a TV URJC y no los veo disponibles
 
@@ -197,8 +196,14 @@ El documento completo puede ser simplemente una concatenación de los PDF (si ne
 
 #### El máximo de incentivo económico personal ¿es para todo el curso?
 
-El máximo que especifica la convocatoria es para todo el curso académico. Esto supone, por ejemplo, que si ya se ha alcanzado el máximo personal con asignaturas del primer cuatrimestre no se va a poder recibir incentivo económico si se participa en asignaturas presentadas en el segundo cuatrimestre. En cualquier caso, si se llega a este máximo, los demás beneficios de la convocatoria se seguirán aplicando, por lo que se puede participar en la convocatoria con asignaturas del segundo cuatrimestre aunque ya se haya alcanzado el máximo personal durante el primer cuatrimestre.
+El máximo de 1.500 por persona es para todo el curso académico. Esto supone, por ejemplo, que si ya se ha alcanzado el máximo personal con asignaturas del primer cuatrimestre no se va a poder recibir incentivo económico si se participa en asignaturas presentadas en el segundo cuatrimestre. En cualquier caso, si se llega a este máximo, los demás beneficios de la convocatoria se seguirán aplicando, por lo que se puede participar en la convocatoria con asignaturas del segundo cuatrimestre aunque ya se haya alcanzado el máximo personal durante el primer cuatrimestre.
 
 #### Una asignatura anual, ¿en qué cuatrimestre se puede presentar?
 
 Puedes presentar la asignatura en la convocatoria de cualquiera de los dos cuatrimestres, pero sólo en una de ellas. En cualquier caso, se presentará toda la asignatura.
+
+#### Con respecto a la migración de asignaturas que se va a hacer, en el texto de la convocatoria (p. 10) dice lo siguiente: "En este último caso, si los docentes indican su interés de hacerlo ellos mismos, lo harán siguiendo las mismas indicaciones que se prevén para las asignaturas presentadas a la convocatoria de este curso y como reconocimiento al trabajo realizado, se dotará de un incentivo de 400 euros por asignatura creada". No acabo de entender qué es exactamente lo que hay que hacer ni cómo se haría. ¿Dónde podría encontrar esa información?
+
+Abierto, se indica que sus profesores tendrán que montar una nueva asignatura en el aula virtual, en una categoría de asignaturas llamadas "asignaturas en abierto". Harán esto según las indicaciones del CIED, bien basándose en la asignatura "original" (importando elementos de ella) o bien componiendo la nueva asignatura desde cero. En cualquier caso, como mínimo, deberán enlazarse los documentos que se presentaros a la convocatoria (esto es, los documentos docentes que fueron baremados). El objetivo es que los visitantes encuentren los materiales bien organizados en asignaturas diseñadas para ser consultadas por ellos, mientras que los alumnos matriculados siguen trabajando en su asignatura "original", donde el profesor quizás prefiera presentarles los materiales de alguna otra manera.
+
+En el caso de las asignaturas de Acceso Abierto del curso 2022-2023, no se hizo esto. Por lo tanto, durante este curso que viene, habrá que realizar esta migración. Para ello, contactaremos con los profesores que propusieron estas asignaturas, y podrán decidir montar ellos las nuevas asignaturas (con el incentivo económico mencionado), o dejar que lo haga el CIED.
