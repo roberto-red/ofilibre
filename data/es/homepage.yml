@@ -4,6 +4,28 @@ slider:
   bg_image : "images/logo-ofilibre.png"
   slider_item:
     # slider item loop
+    - title : "Convocatoria de Asignaturas en Abierto"
+      content : "Convocatoria de Asignaturas en Abierto, curso 2024-2025."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Más información"
+        link : "guias/convocatoria-asignaturas-abierto/"
+
+    # slider item loop
+    - title : "Revistas Académicas en Abierto de la URJC"
+      content : "Plataforma de revistas académicas publicadas en acceso abierto por la URJC. Todas estas revistas siguen la vía diamante."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Plataforma de revistas"
+        link : "http://revistas.urjc.es"
+
+   # slider item loop
     - title : "Terceras Jornadas de Cultura Libre"
       content : "Los próximos 20 y 21 de marzo tendrán lugar en el Campus de Fuenlabrada las Terceras Jornadas de Cultura Libre. La convocatoria de contribuciones (presentaciones y clarlas, talleres, mesas para la feria, etc.) está abierta. Las Jornadas están concebidas como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc."
       animation_in : "left"
@@ -13,17 +35,6 @@ slider:
         enable : true
         label : "Más información"
         link : "blog/2024-01-10-jornadas/"
-
-    # slider item loop
-    - title : "Convocatoria de Sexenios y Ciencia Abierta"
-      content : "Ayuda e información sobre los aspectos de ciencia abierta de la convocatoria de sexenios de investigación."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Más información"
-        link : "guias/sexenios_ciencia_abierta/"
 
     # slider item loop
     - title : "Publicación de Trabajos de Fin de Grado en abierto"
