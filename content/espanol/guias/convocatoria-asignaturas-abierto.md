@@ -16,6 +16,13 @@ type: guias
 
 * hasta el 21 de febrero de 2025 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 19 de febrero, incluido).
 
+**Material auxiliar:**
+
+* [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2024-2025/Mapa_Conceptual.pdf)
+* [Guía-resumen para rellenar el formulario de solicitud](/documentos/convocatoria-asignaturas-abierto-2024-2025/Guia.pdf)
+
+**Características principales:**
+
 Esta tercera convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
 
 Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2024-2025](/documentos/convocatoria-asignaturas-abierto-2024-2025.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
@@ -62,15 +69,15 @@ También, se pueden consultar las preguntas más frecuentes, con sus respuestas,
 
 #### Si ya me he presentado en convocatorias anteriores, ¿puedo participar en esta con la misma asignatura?
 
-Sí, pero solo se valorarán las categorías en donde no se haya obtenido el máximo puntaje, y los incentivos tendrán que ver con el incremento en puntuación de la asignatura.
+Sí, pero solo se valorarán las categorías en donde no se haya obtenido el máximo de puntos, y los incentivos tendrán que ver con el incremento en puntuación de la asignatura.
 
 #### ¿Hay algún formato específico para los documentos (presentaciones, documentos de texto…)?
 
-Aunque no es obligatorio, en la OfiLibre se han elaborado unas [plantillas que pueden ser uilizadas para los materiales publicados en acceso abierto](/guias/plantillas-asignaturas-abierto/).
+Aunque no es obligatorio, en la OfiLibre se han elaborado unas [plantillas que pueden ser utilizadas para los materiales publicados en acceso abierto](/guias/plantillas-asignaturas-abierto/).
 
 #### ¿Cómo especifico la licencia en mis documentos?
 
-Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aperecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. Puede ver más información en [esta guía de publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto/#marcado-con-la-licencia-elegida) donde se explica con más detalle cómo incluir la licencia en los materiales.
+Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aparecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. Puede ver más información en [esta guía de publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto/#marcado-con-la-licencia-elegida) donde se explica con más detalle cómo incluir la licencia en los materiales.
 
 Este es un ejemplo: 
 
@@ -100,12 +107,12 @@ Esta licencia no se aplica a materiales de terceros que puedan estar incluidos e
 
 Son dos las licencias que han sido aprobadas por el Consejo de Publicación Abierta de la URJC como licencias válidas para materiales en abierto:
 
-* Creative Commons BY 4.0
-* Creative Commons BY-SA 4.0.
+* Creative Commons BY (Atribución) 4.0
+* Creative Commons BY-SA (Atribución-CompartirIgual) 4.0.
 
 En la [Guía sobre la publicación de materiales docentes en acceso abierto](/guias/materiales-docentes-abierto/) se explican en más detalle ambas licencias.
 
-Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aperecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. 
+Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aparecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. 
 
 #### ¿Quién puede subir los materiales de una asignatura al archivo abierto?
 
@@ -117,11 +124,11 @@ Las instrucciones para subir los materiales al archivo abierto institucional pue
 
 #### ¿Quién puede presentar la solicitud para mi asignatura en la convocatoria?
 
-Exclusivamente el responsable del grupo de actas de la asignatura, si es una sola la que se presenta, o de una cualquiera del grupo de asignaturas, si es un grupo de asiganturas con los mismos materiales lo que se presenta.
+Exclusivamente el responsable del grupo de actas de la asignatura, si es una sola la que se presenta, o de una cualquiera del grupo de asignaturas, si es un grupo de asignaturas con los mismos materiales lo que se presenta.
 
 #### ¿Qué ocurre si mis materiales no encajan en ninguna de las categorías contempladas en la convocatoria?
 
-En caso de materiales que no encajan en ninguna categoría, inclúyalos en otros y justifiquelo adecuadamente.
+En caso de materiales que no encajan en ninguna categoría, inclúyalos en otros y justifíquelo adecuadamente.
 
 #### ¿Dónde pongo mis recursos abiertos en mi asignatura de aula virtual?
 
