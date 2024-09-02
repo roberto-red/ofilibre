@@ -31,7 +31,9 @@ Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria
 
 Ofreceremos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
 
-* Lunes 4 de septiembre, 11:00 ([enlace a la sala Teams donde tendrá lugar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d))
+* Lunes 4 de septiembre, 11:00:
+  * [enlace a la sala Teams donde tendrá lugar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
+  * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
 
 ### Objeto
 
