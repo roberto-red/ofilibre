@@ -32,7 +32,7 @@ Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria
 
 Ofreceremos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
 
-* Lunes 4 de septiembre, 11:00:
+* Miércoles 4 de septiembre, 11:00:
   * [enlace a la sala Teams donde tendrá lugar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
   * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
 
@@ -46,7 +46,7 @@ La participación en esta convocatoria se hace proponiendo asignaturas del [aula
 
 ### Publicación de materiales en acceso abierto
 
-Los materiales que se sometan a evaluación deben estar tener en [lugar visible la licencia bajo la que se publican](/blog/publicar-abierto/), que tendrá que ser una de las licencias de publicación en acceso abierto aprobadas por el Consejo de Publicación Abierta de la URJC, con el consentimiento de todos sus autores (licencias [Atribución](https://creativecommons.org/licenses/by/4.0/deed.es) o [Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es) de Creative Commons).
+Los materiales que se sometan a evaluación deben tener en [lugar visible la licencia bajo la que se publican](/blog/publicar-abierto/), que tendrá que ser una de las licencias de publicación en acceso abierto aprobadas por el Consejo de Publicación Abierta de la URJC, con el consentimiento de todos sus autores (licencias [Atribución](https://creativecommons.org/licenses/by/4.0/deed.es) o [Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es) de Creative Commons).
 
 Los materiales en formato bibliográfico (guías, apuntes, colecciones de problemas y ejercicios, colecciones de exámenes, presentaciones, etc.) deben publicarse en el repositorio abierto institucional, [BURJC Digital](https://burjcdigital.urjc.es). Los vídeos y audios deben subirse a [TV URJC](https://tv.urjc.es/).
 
@@ -161,7 +161,7 @@ Las licencias aceptadas son CC Atribución y CC Atribución-CompartirIgual. No s
 
 #### ¿Cuándo es el último día para participar de la Convocatoria?
 
-Pueden verse las fechas al comienzo de este documento. Pero atención, para poder hacer enviar la solicitud, los materiales deben estar subidos, previamente, en los repositorios correspondientes. Es importante tener en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material es dos días anterior a la fecha límite de la convocatoria. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
+Pueden verse las fechas al comienzo de este documento. Pero atención, para poder enviar la solicitud, los materiales deben estar subidos, previamente, en los repositorios correspondientes. Es importante tener en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material es dos días anterior a la fecha límite de la convocatoria. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
 
 En la convocatoria, el punto 2 dice lo siguiente:
 
