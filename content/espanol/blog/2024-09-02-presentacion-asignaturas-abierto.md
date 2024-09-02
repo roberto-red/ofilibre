@@ -17,6 +17,7 @@ thumb: /images/logo-urjc-square.png
 
 ---
 
+
 El próximo miércoles 4 de septiembre tendremos una videoconferencia de presentación de la convocatoria 2024-2025 de reconocimiento a la publicación de asignaturas en acceso abierto. Como en cursos anteriores, esta convocatoria pretende fomentar la publicación de materiales docentes en acceso abierto, mediante ciertos incentivos y reconocimientos al personal docente que los ha producido y los utiliza en sus clases.
 
 * Videoconferencia de presentación: miércoles 4 de septiembre, 11:00, [enlace Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
