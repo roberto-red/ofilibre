@@ -20,6 +20,7 @@ type: guias
 
 * [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2024-2025/Mapa_Conceptual.pdf)
 * [Guía-resumen para rellenar el formulario de solicitud](/documentos/convocatoria-asignaturas-abierto-2024-2025/Guia.pdf)
+* Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
 
 **Características principales:**
 
