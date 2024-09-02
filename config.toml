@@ -133,6 +133,7 @@ languageName = "Es"
 languageCode = "es-es"
 contentDir = "content/espanol"
 weight = 1
+  [Languages.es.params]
 home = "Inicio"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
