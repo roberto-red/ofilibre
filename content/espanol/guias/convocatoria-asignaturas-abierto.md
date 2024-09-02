@@ -6,15 +6,15 @@ published: true
 type: guias
 ---
 
-<!-- **Ya está disponible el [formulario para la convocatoria 2024-2025 (procedimiento en la sede virtual de la Universidad)]().** -->
 
-**El formulario para la convocatoria 2024-2025 (procedimiento en la sede virtual de la Universidad) estará disponible en breve**
+**Solicitudes:**
 
-**Plazos:**
+Convocatorias en la sede virtual de la Universidad:
 
-* hasta el 15 de noviembre de 2024 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 13 de noviembre, incluido)
+* [Asignaturas primer cuatrimestre](https://sede.urjc.es/convocatorias?p_p_id=BPMPortlet_WAR_bpmportlet_INSTANCE_7GICssIlJSdw&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_BPMPortlet_WAR_bpmportlet_INSTANCE_7GICssIlJSdw_id=IFhxO21000-10CM7C3). Hasta el 15 de noviembre de 2024 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 13 de noviembre, incluido).
 
-* hasta el 21 de febrero de 2025 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 19 de febrero, incluido).
+* [Asignaturas segundo cuatrimestre](https://sede.urjc.es/convocatorias?p_p_id=BPMPortlet_WAR_bpmportlet_INSTANCE_7GICssIlJSdw&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_BPMPortlet_WAR_bpmportlet_INSTANCE_7GICssIlJSdw_id=IFhxO21000-1aJz4z3). Hasta el 21 de febrero de 2025 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 19 de febrero, incluido).
+
 
 **Material auxiliar:**
 
