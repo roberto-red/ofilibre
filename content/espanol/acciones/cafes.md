@@ -1,6 +1,6 @@
 ---
 title: "Café con la OfiLibre"
-date: 2024-04-22
+date: 2024-09-04
 slug: cafes
 draft: false
 author: "OfiLibre"
@@ -21,19 +21,22 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 29 de mayo: El congreso esLibre.
+* 11 de septiembre: Comienzo de curso: qué haremos en 2024-2025.
 
-* 5 de junio: Ciclo de revistas en abierto de la URJC: Guerra Colonial, con Miguel Madueño (Director de la revista Guerra Colonial).
-
-* 12 de junio: Recursos educativos en abierto, con Oriol Borrás (Coordinador Académico del Programa de Tecnologías Educativas del CIED, URJC).
-
-* 19 de junio: Software libre en la URJC, con Micael Gallego (Director Académico del Programa para la Transformación Digital, URJC).
-
-* 26 de junio: El curso 2023-2024 visto desde la OfiLibre.
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 22 de mayo Revistas en abierto de la URJC, con Laura de la Cruz (responsable de Publicaciones, URJC). ¿Cómo es el programa de publicación de revistas en acceso abierto de la URJC? ¿Cómo se puede participar en él? ¿Qué relación tiene con la ciencia abierta?
+* 26 de junio: [El curso 2023-2024 visto desde la OfiLibre](https://tv.urjc.es/video/667d7f7a43c849ef446ed6f6).
+
+* 19 de junio: [Software libre en la URJC](https://tv.urjc.es/video/667bf0ba43c849b5a17c2980), con Micael Gallego (Director Académico del Programa para la Transformación Digital, URJC).
+
+* 12 de junio: [Recursos educativos en abierto](https://tv.urjc.es/video/667c296d43c849c11d0b89d7), con Oriol Borrás (Coordinador Académico del Programa de Tecnologías Educativas del CIED, URJC).
+
+* 5 de junio: Ciclo de revistas en abierto de la URJC: [Guerra Colonial](https://tv.urjc.es/video/667bf40443c849b6db623444), con Miguel Madueño (Director de la revista Guerra Colonial).
+
+* 29 de mayo: [El congreso esLibre](https://tv.urjc.es/video/66572cdd43c84987b8317a72)
+
+* 22 de mayo: [Revistas en abierto de la URJC](https://tv.urjc.es/video/6656f68743c84972826ab6ec), con Laura de la Cruz (responsable de Publicaciones, URJC). ¿Cómo es el programa de publicación de revistas en acceso abierto de la URJC? ¿Cómo se puede participar en él? ¿Qué relación tiene con la ciencia abierta?
 
 * 8 de mayo: [Archivos públicos de datos abiertos](https://tv.urjc.es/video/664df0a843c84998e868d785), con Marta Ortiz de Urbina (URJC), Carmen de Pablos (URJC) y Alberto Abella (FIWARE). El mundo de los datos abiertos, la importancia de que las administraciones públicas y otras instituciones los produzcan, y lo importante que es que se ofrezcan con la calidad adecuada.
 
