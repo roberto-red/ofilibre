@@ -1,6 +1,6 @@
 ---
 title: Presentación de convocatoria de asignaturas en abierto
-date: 2025-09-02
+date: 2024-09-02
 description:  La Universidad Rey Juan Carlos ha vuelto a publicar su convocatoria para el reconocimiento del esfuerzo en publicar materiales docentes en abierto. Esta presentación explicará las principales características de la convocatoria.
 type: post
 categories:
