@@ -1,6 +1,6 @@
 ---
 title: ¡Vuelven los cafés de la OfiLibre!
-date: 2025-09-04
+date: 2024-09-04
 description:  Este nuevo curso volvemos a tener cafés los miércoles a las 10:00, en directo a través de TV-URJC.
 type: post
 categories:
