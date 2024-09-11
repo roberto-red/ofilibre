@@ -22,7 +22,8 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 Programa (tentativo) para los próximos cafés:
 
 * 11 de septiembre: Comienzo de curso: qué haremos en 2024-2025.
-
+* 18 de septiembre: Convocatoria de asignaturas en acceso abierto.
+* 25 de septiembre: Declaración de Barcelona sobre la información abierta de investigación.
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
