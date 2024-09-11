@@ -21,20 +21,16 @@ Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](
 * [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2024-2025/Mapa_Conceptual.pdf)
 * [Guía-resumen para rellenar el formulario de solicitud](/documentos/convocatoria-asignaturas-abierto-2024-2025/Guia.pdf)
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
-
+* El miércoles 4 de septiembre se ofreció una sesión telemática pública sobre la convocatoria:
+  * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
+  * [grabación en video de la sesión](https://urjc-my.sharepoint.com/:v:/g/personal/jesus_gonzalez_barahona_urjc_es/EZkgo9FKR5FKvVI5BtcRRjIBmZhoknbEbQZ_2KyrFC6aIA?e=XoevbI)
+  
 **Características principales:**
 
 Esta tercera convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
 
 Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2024-2025](/documentos/convocatoria-asignaturas-abierto-2024-2025.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
 
-<!-- * Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp). -->
-
-Ofreceremos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
-
-* Miércoles 4 de septiembre, 11:00:
-  * [enlace a la sala Teams donde tendrá lugar](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
-  * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
 
 ### Objeto
 
