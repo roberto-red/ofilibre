@@ -23,7 +23,7 @@ Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
 * El miércoles 4 de septiembre se ofreció una sesión telemática pública sobre la convocatoria:
   * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
-  * [grabación en video de la sesión](https://urjc-my.sharepoint.com/:v:/g/personal/jesus_gonzalez_barahona_urjc_es/EZkgo9FKR5FKvVI5BtcRRjIBmZhoknbEbQZ_2KyrFC6aIA?e=XoevbI)
+  * [grabación en video de la sesión](https://tv.urjc.es/video/66e7fa5b43c849203b1e4b85)
   
 **Características principales:**
 
