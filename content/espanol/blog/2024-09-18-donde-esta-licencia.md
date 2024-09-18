@@ -19,6 +19,8 @@ thumb: /images/openaccess-square.png
 
 ---
 
+<iframe src='https://tv.urjc.es/iframe/66ab576943c84969a63ad8b6' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+
 Te ofrecemos el vídeo [¿Dónde está la licencia?](https://tv.urjc.es/video/66ab576943c84969a63ad8b6), para ayudar a identificar licencias de acceso abierto en revistas de investigación.
 
 En la OfiLibre, nos encontramos a menudo con la siguiente pregunta: "¿Cómo sé qué licencia tiene el artículo que publiqué en tal o cual revista?" o "¿Cómo puedo saber bajo qué condiciones se ha publicado un material?". Conocer la licencia de uso de una revista o artículo es fundamental, pero no siempre recordamos lo que firmamos al publicar un artículo. A menudo, en nuestro afán por publicar, simplemente hacemos clic en "aceptar" sin tener claro qué implicaciones tiene ni qué condiciones de uso se aplicarán a nuestro material una vez que forme parte de la revista.
