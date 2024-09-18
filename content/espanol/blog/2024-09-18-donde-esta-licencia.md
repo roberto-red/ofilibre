@@ -4,7 +4,7 @@ date: 2024-09-18
 description: "¿Cómo sé qué licencia tiene el artículo que publiqué en tal o cual revista? ¿Cómo puedo saber bajo qué condiciones se ha publicado un material? Encuentra la respuesta a estas y otras preguntas en el vídeo ¿Dónde está la licencia?"
 type: post
 categories:
-  - OfiLibre
+  - "OfiLibre"
   - "Cultura Libre"
 tags:
   - "Licencias
