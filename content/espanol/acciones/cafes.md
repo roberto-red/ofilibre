@@ -23,6 +23,7 @@ Programa (tentativo) para los próximos cafés:
 
 * 18 de septiembre: Convocatoria de asignaturas en acceso abierto.
 * 25 de septiembre: Declaración de Barcelona sobre la información abierta de investigación.
+* 2 de octubre: Jornadas de Innovación docente y cultura libre, con Irene Ros (Coordinadora Académicoa del Programa Innovación Docente, CIED).
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
