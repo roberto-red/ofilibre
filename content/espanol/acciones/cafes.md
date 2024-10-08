@@ -25,9 +25,9 @@ Programa (tentativo) para los próximos cafés:
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 2 de octubre: Jornadas de Innovación docente y cultura libre, con Irene Ros (Coordinadora Académicoa del Programa Innovación Docente, CIED).
+* 2 de octubre: [Jornadas de Innovación docente](https://tv.urjc.es/video/66fec7d943c8499bd864d552), con Irene Ros (Coordinadora Académicoa del Programa Innovación Docente, CIED).
 
-* 25 de septiembre: Declaración de Barcelona sobre la información abierta de investigación.
+* 25 de septiembre: [Declaración de Barcelona sobre la información abierta de investigación](https://tv.urjc.es/video/66f70cba43c849b6f33fc5e2).
 
 * 18 de septiembre: [Convocatoria de asignaturas en acceso abierto](https://tv.urjc.es/video/66ec871d43c8499db5643342)
 
