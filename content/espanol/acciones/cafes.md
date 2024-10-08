@@ -21,10 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 25 de septiembre: Declaración de Barcelona sobre la información abierta de investigación.
-* 2 de octubre: Jornadas de Innovación docente y cultura libre, con Irene Ros (Coordinadora Académicoa del Programa Innovación Docente, CIED).
+* 9 de octubre: Revista ICONO 14 (una de las [revistas de la URJC](https://revistas.urjc.es/), con Manuel Gertrudix (editor de ICONO 14). 
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 2 de octubre: Jornadas de Innovación docente y cultura libre, con Irene Ros (Coordinadora Académicoa del Programa Innovación Docente, CIED).
+
+* 25 de septiembre: Declaración de Barcelona sobre la información abierta de investigación.
 
 * 18 de septiembre: [Convocatoria de asignaturas en acceso abierto](https://tv.urjc.es/video/66ec871d43c8499db5643342)
 
