@@ -28,7 +28,7 @@ screenshots:
     file: captura.png
   - name: Octave en funcionamiento (captura)
     file: captura2.png
-date: 19/03/12
+date: 2019-03-12
 type: fichas
 ---
 Octave o GNU Octave es un programa y lenguaje de programación para realizar cálculos numéricos. Como su nombre indica, Octave es parte del proyecto GNU. Es considerado el equivalente libre de MATLAB. Entre varias características que comparten, se puede destacar que ambos ofrecen un intérprete, permitiendo ejecutar órdenes en modo interactivo. Nótese que Octave no es un sistema de álgebra computacional, como lo es Maxima, sino que está orientado al análisis numérico. 

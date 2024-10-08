@@ -44,7 +44,7 @@ screenshots:
     file: captura5.png
   - name: Gimp en funcionamiento (captura)
     file: captura6.png    
-date: 19/04/19
+date: 2019-04-19
 type: fichas
 ---
 

@@ -2,7 +2,6 @@
 title: Reconocimiento de publicación de asignaturas en abierto 2024-2025
 date: 2024-07-16
 logo: logo-urjc-square.png
-published: true
 type: guias
 ---
 

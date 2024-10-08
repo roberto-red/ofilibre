@@ -2,7 +2,6 @@
 title: "Consulta al experto: Utilización de licencias CC BY y CC BY-SA"
 logo: openaccess-square.png
 date: 2022-10-27
-published: true
 type: guias
 slug: consulta_a_expertos_1
 tags: [OfiLibre]
