@@ -2,7 +2,6 @@
 title: Convocatorias previas de publicación de asignaturas en abierto
 logo: logo-urjc-square.png
 date: 2022-07-05
-published: true
 type: guias
 ---
 

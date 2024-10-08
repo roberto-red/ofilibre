@@ -2,7 +2,6 @@
 title: Publicación de la tesis doctoral en abierto
 date: 2024-03-12
 logo: logo-ofilibre.png
-published: true
 type: guias
 ---
 

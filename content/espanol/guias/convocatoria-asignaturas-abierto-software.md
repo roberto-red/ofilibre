@@ -2,7 +2,6 @@
 title: "Convocatoria de asignaturas en abierto: software para docencia"
 logo: software-libre/logo.png
 date: 2022-09-06
-published: true
 type: guias
 ---
 

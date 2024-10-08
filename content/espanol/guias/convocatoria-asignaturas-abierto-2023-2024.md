@@ -2,7 +2,6 @@
 title: Reconocimiento de publicación de asignaturas en abierto 2023-2024
 date: 2023-07-05
 logo: logo-urjc-square.png
-published: true
 type: guias
 ---
 

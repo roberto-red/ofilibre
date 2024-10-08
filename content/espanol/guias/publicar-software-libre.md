@@ -2,7 +2,6 @@
 title: Publicación de software libre
 logo: software-libre/logo.png
 date: 2022-04-19
-published: true
 type: guias
 ---
 

@@ -2,7 +2,6 @@
 title: Plantillas para publicación de asignaturas en abierto
 logo: logo-urjc-square.png
 date: 2022-07-28
-published: true
 type: guias
 ---
 

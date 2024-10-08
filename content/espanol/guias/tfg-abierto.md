@@ -2,7 +2,6 @@
 title: Publicación del trabajo fin de grado en abierto
 date: 2022-03-22
 logo: logo-ofilibre.png
-published: true
 type: guias
 ---
 [ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023!: [Infografía resumen](/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
