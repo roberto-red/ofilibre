@@ -21,11 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 16 de octubre: Biblioteca y Semana del acceso abierto, con Fernando Silva (Biblioteca URJC).
+* 23 de octubre: Cómo el software te quita o te da libertad.
 
 * 6 de noviembre: Arqueología y recursos educativos abiertos, con Alberto Polo (URJC).
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 16 de octubre: [Biblioteca y Semana del acceso abierto](https://tv.urjc.es/video/670f90eb43c849495d329432), con Fernando Silva (Biblioteca URJC).
 
 * 9 de octubre: [Revista ICONO 14](https://tv.urjc.es/video/670b7a4143c84956df212678) (una de las [revistas de la URJC](https://revistas.urjc.es/), con Manuel Gertrudix (editor de ICONO 14). 
 
