@@ -45,7 +45,7 @@ Los materiales que se sometan a evaluación deben tener en [lugar visible la lic
 
 Los materiales en formato bibliográfico (guías, apuntes, colecciones de problemas y ejercicios, colecciones de exámenes, presentaciones, etc.) deben publicarse en el repositorio abierto institucional, [BURJC Digital](https://burjcdigital.urjc.es). Los vídeos y audios deben subirse a [TV URJC](https://tv.urjc.es/).
 
-Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y videos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093).
+Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y videos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://urjc.atlassian.net/wiki/spaces/BDCP/pages/9899928/Procedimiento+de+subida+de+v+deos+Convocatoria+para+el+reconocimiento+de+publicaci+n+de+asignaturas+en+acceso+abierto).
 
 ### Presentación de solicitudes
 
