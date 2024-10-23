@@ -22,7 +22,7 @@ Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
 * El miércoles 4 de septiembre se ofreció una sesión telemática pública sobre la convocatoria:
   * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
-  * [grabación en video de la sesión](https://tv.urjc.es/video/66e7fa5b43c849203b1e4b85)
+  * [grabación en vídeo de la sesión](https://tv.urjc.es/video/66e7fa5b43c849203b1e4b85)
   
 **Características principales:**
 
@@ -45,7 +45,7 @@ Los materiales que se sometan a evaluación deben tener en [lugar visible la lic
 
 Los materiales en formato bibliográfico (guías, apuntes, colecciones de problemas y ejercicios, colecciones de exámenes, presentaciones, etc.) deben publicarse en el repositorio abierto institucional, [BURJC Digital](https://burjcdigital.urjc.es). Los vídeos y audios deben subirse a [TV URJC](https://tv.urjc.es/).
 
-Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y videos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://urjc.atlassian.net/wiki/spaces/BDCP/pages/9899928/Procedimiento+de+subida+de+v+deos+Convocatoria+para+el+reconocimiento+de+publicaci+n+de+asignaturas+en+acceso+abierto).
+Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y vídeos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://urjc.atlassian.net/wiki/spaces/BDCP/pages/9899928/Procedimiento+de+subida+de+v+deos+Convocatoria+para+el+reconocimiento+de+publicaci+n+de+asignaturas+en+acceso+abierto).
 
 ### Presentación de solicitudes
 
@@ -62,6 +62,35 @@ Para resolver dudas relacionadas con esta convocatoria, se ha planificado un vid
 * Lunes 4 de septiembre, 11.00. Enlace al principio de este documento.
 
 También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
+
+### Lista de comprobaciones de material depositado en BURJC Digital
+
+Para todos los materiales que se depositen en BURJC Digital con idea de presentarlos a esta convocatoria, puede seguirse esta lista de comprobaciones, para asegurarse de que se cumple lo indicado en la convocatoria, y las buenas prácticas recomendables para materiales docentes en acceso abierto:
+
+* Portada:
+
+  * Título del material: ¿Se ha incluido un título del material en la portada? Normalmente, este título hará referencia al nombre de la asignatura, y a la tipología del material. Por ejemplo, "Apuntes para el alumno de Diseño de Aplicaciones Telemáticas" o "Transparencias de la asignatura Arte en la Edad Media".
+  * Autores y/o autoras: ¿Se indica claramente el nombre completo de las personas que se consideran autoras de la obra?
+  * Grado(s) en los que se imparte: ¿Se ha incluido el listado de grados (y en su caso, nombres específicos de la asignatura en esos grados) en que se imparte? Este listado se puede incluir en un tamaño de letra menor que el título, y no necesariamente debajo de este, pero debería dar una idea rápida a quien vea la portada de en qué asignaturas y grados se están usando el material en cuestión.
+  * Fecha o año: ¿Se incluye una fecha, o al menos un año de la obra? Esto es importante para que el lector pueda ver rápidamente cuánto de actualizado puede estar el material, y sobre todo referirse de forma adecuada a la versión del material que le interese.
+  * Logo de la licencia elegida: ¿Se incluye el logo de la licencia elegida en la portada? Es importante que el logo de la licencia elegida (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual) aparezca en portada, si es preciso en tamaño pequeño, para que el lector tenga una idea rápida de que el documento se distribuye en acceso abierto.
+
+* En página interior, normalmente la primera página impresa tras la portada:
+
+  * Nota de copyright: "¿Se ha incluido una nota de copyright completa? Ha de incluirse una nota de copyright, incluyendo la palabra o el símbolo "Copyright", el año (o el intervalo de años) y el listado completo de las personas y/o organizaciones que detentan los derechos de autor de la obra.
+  * Referencia a la licencia: ¿Se ha incluido una referencia precisa a la licencia utilizada? Debe incluirse una referencia detallada a la licencia concreta que se ha empleado  (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual).
+  * Ejemplo de texto completo, incluyendo nota de copyright y referencia a la licencia:
+
+```
+©2022 Autora Mengánez Zutánez  
+Algunos derechos reservados  
+Este documento se distribuye bajo la licencia  
+“Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
+disponible en  
+https://creativecommons.org/licenses/by-sa/4.0/deed.es
+```
+
+Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra en el documento [Publicación de materiales docentes en abierto](materiales-docentes-abierto)
 
 ### Preguntas más frecuentes sobre esta convocatoria[🔗](#faq)
 
