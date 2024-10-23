@@ -78,11 +78,11 @@ Para todos los materiales que se depositen en BURJC Digital con idea de presenta
 * En página interior, normalmente la primera página impresa tras la portada:
 
   * Nota de copyright: "¿Se ha incluido una nota de copyright completa? Ha de incluirse una nota de copyright, incluyendo la palabra o el símbolo "Copyright", el año (o el intervalo de años) y el listado completo de las personas y/o organizaciones que detentan los derechos de autor de la obra.
-  * Referencia a la licencia: ¿Se ha incluido una referencia precisa a la licencia utilizada? Debe incluirse una referencia detallada a la licencia concreta que se ha empleado  (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual).
+  * Referencia a la licencia: ¿Se ha incluido una referencia precisa a la licencia utilizada? Debe incluirse una referencia detallada a la licencia concreta que se ha empleado  (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual). Además, esta licencia debe ser la misma que se indicó, incluyendo su logo, en la portada.
   * Ejemplo de texto completo, incluyendo nota de copyright y referencia a la licencia:
 
 ```
-©2022 Autora Mengánez Zutánez  
+©2024 Autora Mengánez Zutánez  
 Algunos derechos reservados  
 Este documento se distribuye bajo la licencia  
 “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
@@ -90,6 +90,10 @@ disponible en
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
 ```
 
+* En metadatos del depósito:
+
+  * Mismos datos que en la portada del documento: ¿Coinciden los datos de la portada con los indicados en los formularios de depósito? En particular, es importante que el título, el listado de personas autoras y la licencia se correspondan exactamente con lo indicado en la portada de la obra.
+  
 Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra en el documento [Publicación de materiales docentes en abierto](materiales-docentes-abierto)
 
 ### Preguntas más frecuentes sobre esta convocatoria[🔗](#faq)
