@@ -21,13 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 30 de octubre: Tipos de letra libres, con José Vélez Serrano (URJC)
-
-* 6 de noviembre: Arqueología y recursos educativos abiertos, con Alberto Polo (URJC).
-
 * 13 de noviembre: La historia del proyecto Creative Commons.
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 6 de noviembre: Arqueología y recursos educativos abiertos, con Alberto Polo (URJC).
+
+* 30 de octubre: Tipos de letra libres, con José Vélez Serrano (URJC)
 
 * 23 de octubre: Cómo el software te quita o te da libertad.
 
