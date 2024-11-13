@@ -8,9 +8,9 @@ categories:
 tags:
   - "Redes sociales"
 
-bg_image: /images/logo-ofilbre.png
-image: /images/logo-ofilbre.png
-thumb: /images/logo-ofilbre.png
+bg_image: /images/logo-ofilibre.png
+image: /images/logo-ofilibre.png
+thumb: /images/logo-ofilibre.png
 
 ---
 
