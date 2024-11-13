@@ -21,15 +21,17 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 13 de noviembre: La historia del proyecto Creative Commons.
+* 20 de noviembre: La historia del proyecto Creative Commons.
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 13 de noviembre: ¿Qué es el Fediverso?
 
 * 6 de noviembre: Arqueología y recursos educativos abiertos, con Alberto Polo (URJC).
 
 * 30 de octubre: Tipos de letra libres, con José Vélez Serrano (URJC)
 
-* 23 de octubre: Cómo el software te quita o te da libertad.
+* 23 de octubre: [¿Niveles de libertad?](https://tv.urjc.es/video/6723247043c8491af3428d5d) Cómo el software te quita o te da libertad.
 
 * 16 de octubre: [Biblioteca y Semana del acceso abierto](https://tv.urjc.es/video/670f90eb43c849495d329432), con Fernando Silva (Biblioteca URJC).
 
