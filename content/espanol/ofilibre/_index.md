@@ -18,7 +18,7 @@ En la OfiLibre queremos ayudar a la comunidad universitaria a comprender la cult
 
 La OfiLibre es una iniciativa que trata de contar con la participación de toda la comunidad universitaria para que, entre todos, podamos encontrar nuestro camino en el mundo del conocimiento y la cultura libres.
 
-Puede que te interese ver una breve [Presentación de la Ofilibre](/presentaciones/Ofilibre-presentacion.pdf).
+Puede que te interese ver una breve [Presentación de la Ofilibre](/transpas/ofilibre/Ofilibre-presentacion.pdf).
 
 ## Vídeo-presentación
 <iframe src='https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
