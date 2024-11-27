@@ -1,7 +1,7 @@
 ---
 title: "¡Comenzamos el curso con becarios!"
 date: 2024-11-27
-description: ""
+description: "Durante este curso contamos con un nuevo y excepcionalmente amplio grupo de Becarios"
 type: post
 categories:
   - OfiLibre
