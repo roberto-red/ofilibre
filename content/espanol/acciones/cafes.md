@@ -1,6 +1,6 @@
 ---
 title: "Café con la OfiLibre"
-date: 2024-09-04
+date: 2024-11-02
 slug: cafes
 draft: false
 author: "OfiLibre"
@@ -21,9 +21,25 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 20 de noviembre: La historia del proyecto Creative Commons.
+* 4 de dicieembre: El proyecto Creative Commons (segunda parte).
+
+* 11 de diciembre: Revista Studia Humanitatis
+
+* 18 de diciembre: Repaso del año 2024
+
+* 8 de enero: Jornadas de Cultura Libre
+
+* 15 de enero: Aniversario de Wikipedia
+
+* 22 de enero: Revista de Innovación Docente en el Aula Universitaria
+
+* 29 de enero: Asignatura en abierto
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 27 de noviembre: El proyecto Creative Commons (primera parte).
+
+* 20 de noviembre: Visita al Congreso de la Unión de Editoriales Universitarias Españolas.
 
 * 13 de noviembre: ¿Qué es el Fediverso?
 
