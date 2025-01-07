@@ -21,11 +21,6 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 4 de dicieembre: El proyecto Creative Commons (segunda parte).
-
-* 11 de diciembre: Revista Studia Humanitatis
-
-* 18 de diciembre: Repaso del año 2024
 
 * 8 de enero: Jornadas de Cultura Libre
 
@@ -37,15 +32,21 @@ Programa (tentativo) para los próximos cafés:
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 27 de noviembre: El proyecto Creative Commons (primera parte).
+* 18 de diciembre: [Repaso del año 2024](https://tv.urjc.es/video/677b8eb49978f3350b5a3041).
 
-* 20 de noviembre: Visita al Congreso de la Unión de Editoriales Universitarias Españolas.
+* 11 de diciembre: [Publicar en Abierto](https://tv.urjc.es/video/677b91f19978f335181972cc), con Laura de la Cruz (Jefa de Servicio de Publicaciones). Revistas en abierto, estándares de publicaciones académicas...
 
-* 13 de noviembre: ¿Qué es el Fediverso?
+* 4 de diciembre: [El proyecto Creative Commons (segunda parte)](https://tv.urjc.es/video/675fefcd9978f37061497533).
 
-* 6 de noviembre: Arqueología y recursos educativos abiertos, con Alberto Polo (URJC).
+* 27 de noviembre: [El proyecto Creative Commons (primera parte)](https://tv.urjc.es/video/67596cdf9978f3016e1195a2).
 
-* 30 de octubre: Tipos de letra libres, con José Vélez Serrano (URJC)
+* 20 de noviembre: [Visita al Congreso de la Unión de Editoriales Universitarias Españolas](https://tv.urjc.es/video/6747025b9978f310f17833dc).
+
+* 13 de noviembre: [Redes federadas](https://tv.urjc.es/video/674477d59978f351f44de4ad). ¿Qué es el Fediverso, Mastodon, y todo eso? ¿Qué caracteriza las redes sociales federadas, frente a las centralizadas, como Facebook, X, Instagram o Tiktok?
+
+* 6 de noviembre: [Arqueología y recursos educativos abiertos](https://tv.urjc.es/video/674702449978f310f06bcc42), con Alberto Polo (URJC).
+
+* 30 de octubre: [Tipos de letra libres](), con José Vélez Serrano (URJC)
 
 * 23 de octubre: [¿Niveles de libertad?](https://tv.urjc.es/video/6723247043c8491af3428d5d) Cómo el software te quita o te da libertad.
 
@@ -53,7 +54,7 @@ Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/
 
 * 9 de octubre: [Revista ICONO 14](https://tv.urjc.es/video/670b7a4143c84956df212678) (una de las [revistas de la URJC](https://revistas.urjc.es/), con Manuel Gertrudix (editor de ICONO 14). 
 
-* 2 de octubre: [Jornadas de Innovación docente](https://tv.urjc.es/video/66fec7d943c8499bd864d552), con Irene Ros (Coordinadora Académicoa del Programa Innovación Docente, CIED).
+* 2 de octubre: [Jornadas de Innovación docente](https://tv.urjc.es/video/66fec7d943c8499bd864d552), con Irene Ros (Coordinadora Académica del Programa Innovación Docente, CIED).
 
 * 25 de septiembre: [Declaración de Barcelona sobre la información abierta de investigación](https://tv.urjc.es/video/66f70cba43c849b6f33fc5e2).
 
