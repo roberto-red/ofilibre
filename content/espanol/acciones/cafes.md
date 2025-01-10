@@ -46,7 +46,7 @@ Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/
 
 * 6 de noviembre: [Arqueología y recursos educativos abiertos](https://tv.urjc.es/video/674702449978f310f06bcc42), con Alberto Polo (URJC).
 
-* 30 de octubre: [Tipos de letra libres](), con José Vélez Serrano (URJC)
+* 30 de octubre: [Tipos de letra libres](https://tv.urjc.es/video/672327b843c8491bb40f216b), con José Vélez Serrano (URJC)
 
 * 23 de octubre: [¿Niveles de libertad?](https://tv.urjc.es/video/6723247043c8491af3428d5d) Cómo el software te quita o te da libertad.
 
