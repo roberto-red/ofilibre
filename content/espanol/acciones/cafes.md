@@ -22,15 +22,16 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 Programa (tentativo) para los próximos cafés:
 
 
-* 15 de enero: Jornadas de Cultura Libre
 
-* 22 de enero: Aniversario de Wikipedia
+* 22 de enero: Presentación del proyecto ALMASI (mutualización de servicios de ciencia abierta)
 
 * 29 de enero: Revista de Innovación Docente en el Aula Universitaria
 
 * 5 de febrero: Asignaturas en abierto
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 15 de enero: Jornadas de Cultura Libre y Aniversario de Wikipedia
 
 * 18 de diciembre: [Repaso del año 2024](https://tv.urjc.es/video/677b8eb49978f3350b5a3041).
 
