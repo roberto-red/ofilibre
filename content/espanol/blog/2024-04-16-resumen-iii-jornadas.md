@@ -35,7 +35,9 @@ Contamos con la participación de varios ponentes invitados:
 
 Asimismo, No podemos olvidar la Mesa Redonda (Logros y retos de las revistas URJC de acceso abierto: Un diálogo compartido con la comunidad científica) moderada por Tomás Zarza quien también tuvo un pequeño momento donde se le presentó como nuevo Coordinador de Publicaciones en Abierto y nuevo integrante de la OfiLibre. 
 
-Pasear por la feria, participar en uno de los talleres, asistir a una representacion teatral y tomar un café entre personas con la misma inquietud por la cultura libre han convertido estas jornadas en un evento único de nuestra universidad. 
+Pasear por la feria, participar en uno de los talleres, asistir a una representacion teatral y tomar un café entre personas con la misma inquietud por la cultura libre han convertido estas jornadas en un evento único de nuestra universidad.
+
+Los pósters utilizados fueron recopilados en [esta entrada del blog.](../pósters-de-las-iii-jornadas-de-cultura-libre)
 
 Gracias a todos los participantes y asistences. Esperamos veros el año que viene. 
 

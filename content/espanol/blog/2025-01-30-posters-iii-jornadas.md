@@ -7,9 +7,8 @@ categories:
   - OfiLibre
 tags:
   - "OfiLibre"
-bg_image: /images/logo-ofilibre.png
-image: /images/logo-ofilibre.png
-thumb: /images/logo-ofilibre.png
+bg_image: /images/newsletterEmailBanner.png
+thumb: /images/posters-iii-jornadas.png
 ---
 Aquí se encuentran todos los pósters que se presentaron en las III Jornadas de Cultura Libre. Esperamos que os gusten y, si los queréis usar, ¡recordad citar autoría!
 
