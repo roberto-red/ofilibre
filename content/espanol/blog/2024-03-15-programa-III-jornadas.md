@@ -15,7 +15,7 @@ bg_image: /images/CONTENIDO_III_JORNADAS_bg.png
 thumb: /images/Contenido_III_Jornadas_thumb.png
 ---
 
-Programa de las Jornadas, incluyendo enlaces a los materiales utilizados en las presentaciones y talleres.
+Programa de las Jornadas, incluyendo enlaces a los materiales utilizados en las presentaciones y talleres. Los pósters los puedes encontrar en [esta entrada del blog.](../pósters-de-las-iii-jornadas-de-cultura-libre)
 
 ## Miércoles 20 de marzo
 
