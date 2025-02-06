@@ -1,12 +1,6 @@
 backend:
-  name: gitlab
-  repo: ofilibre/ofilibre.gitlab.io
-  branch: master # Branch to update (optional; defaults to master)
-  api_root: https://gitlab.com/api/v4 
-  base_url: https://gitlab.com
-  auth_type: pkce
-  app_id: ba44978a94e18763a29c4f3f365d09e9d6e5b4fdbbb02c271ba13d0cbf0694d5
-  auth_endpoint: oauth/authorize
+  name: git-gateway
+  branch: master
 media_folder: static/images
 public_folder: /images
 collections:
