@@ -179,6 +179,11 @@ hasChildren = true
   url = "fichas"
 
   [[Languages.es.menu.main]]
+  parent = "Recursos" 
+  name = "Cursos"
+  url = "cursos"
+
+  [[Languages.es.menu.main]]
   parent = "Recursos"
   name = "Guías"
   url = "guias"
