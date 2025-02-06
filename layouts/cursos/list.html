@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- cursos -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ range .Data.Pages}}
+      <!-- cursos item -->
+      <div class="col-lg-3 col-sm-6 mb-2">
+        {{ .Render "cursos" }}</div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /cursos -->
+
+{{ end }}

@@ -1,0 +1,54 @@
+{{ define "main" }}
+{{ $dir := ( .File.TranslationBaseName | lower ) }}
+
+<!-- cursos single -->
+<section class="section-sm">
+  <div class="container">
+    <!-- Title -->
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+    </div>
+
+    <!-- Description -->
+    <div class="row">
+      <div class="col-12 mb-2">
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+
+    <!-- Divider -->
+    <hr style="margin: 10px 0;">
+
+    <!-- Materials Section -->
+    <div class="row">
+      <div class="col-12 mb-2">
+        <h4>Materiales</h4>
+        <ul>
+          {{ range .Params.materiales }}
+          <li>
+            <a href="{{ .file }}" target="_blank">{{ .name }}</a>
+            <p style="margin-left: 20px;">{{ .description }}</p>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Divider -->
+    <hr style="margin: 10px 0;">
+
+    <!-- Additional Information -->
+    <div class="row">
+      <div class="col-12">
+        <h4>Información adicional</h4>
+        <p>{{ .Params.adicional | markdownify }}</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+<!-- /cursos single -->
+
+{{ end }}
