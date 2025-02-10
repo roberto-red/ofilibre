@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://ofilibre.urjc.es"
+baseURL = "https://ofilibre.urjc.es"
 title = "OfiLibre URJC"
 subtitle = "Oficina de Conocimiento y Cultura Libres URJC"
 theme = "educenter-hugo"
