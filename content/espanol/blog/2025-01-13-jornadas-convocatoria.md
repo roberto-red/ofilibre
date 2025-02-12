@@ -19,7 +19,7 @@ Abrimos la convocatoria para enviar propuestas para participar en las IV Jornada
 ## ¿Cómo puedes participar este año?
 
 * 🎤 Ponencias cortas: puedes dar a conocer tus trabajos en un formato breve y presencial.
-* 🖼️ Posters: si prefieres una propuesta visual, los posters con una licencia libre son una buena opción para exponer el trabajo de forma creativa.
+* 🖼️ Posters: si prefieres una propuesta visual, los posters con una licencia libre son una buena opción para exponer el trabajo de forma creativa. Escribe la propuesta y, si es aceptada, en marzo nos mandas el material.
 * ✨ Stand en la feria: si tienes un proyecto, herramienta o recurso, puedes pedir un stand para compartirlo con los asistentes.
 * 🛠️ Talleres: si tienes alguna actividad práctica o dinámica que pueda interesar al público, ¡puedes organizar tu propio taller!
 * 🛋️ Salas temáticas: un espacio para que todos aquellos con intereses comunes puedan reunirse, compartir ideas e interactuar sobre temas de interés.
