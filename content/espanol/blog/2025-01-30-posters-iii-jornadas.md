@@ -10,7 +10,7 @@ tags:
 bg_image: /images/newsletterEmailBanner.png
 thumb: /images/posters-iii-jornadas.png
 ---
-Aquí se encuentran todos los pósters que se presentaron en las III Jornadas de Cultura Libre. Esperamos que os gusten y, si los queréis usar, ¡recordad citar autoría!
+Aquí se encuentran todos los pósters que se presentaron en las III Jornadas de Cultura Libre. Recordad que también tenemos entradas en el blog dedicadas a los [contenidos](https://ofilibre.urjc.es/blog/programa-iii-jornadas/), así como un [resumen](https://ofilibre.urjc.es/blog/resumen-iii-jornadas/) de estas Jornadas. Esperamos que os gusten y, si los queréis usar, ¡recordad citar autoría!
 
 * **Climate Warriors**
 
