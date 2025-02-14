@@ -21,9 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 5 de febrero: Asignaturas en abierto
+
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 12 de febrero: [Asignaturas en abierto (segunda parte)](https://tv.urjc.es/video/67aeeff79978f3b1831bf371)
+
+* 5 de febrero: Asignaturas en abierto (primera parte)
 
 * 29 de enero: Revista de Innovación Docente en el Aula Universitaria
 
