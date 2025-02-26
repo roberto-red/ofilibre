@@ -21,13 +21,17 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-
+12 de marzo: Con Manuel Palomo de la oficina de Software libre de la Universidad de Cádiz
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
+* 26 de febrero: Accesibilidad en el mundo de las publicaciones académicas, con Marcos Ferreira Sanmamed (Glaux, empresa de apoyo a la editorial Academia Abierta de la URJC)
+
+* 19 de febrero: Inteligencia Artificial desde la cultura libre
+
 * 12 de febrero: [Asignaturas en abierto (segunda parte)](https://tv.urjc.es/video/67aeeff79978f3b1831bf371)
 
-* 5 de febrero: Asignaturas en abierto (primera parte)
+* 5 de febrero: [Asignaturas en abierto (primera parte)](https://tv.urjc.es/video/67aef2299978f3b18f10953b)
 
 * 29 de enero: Revista de Innovación Docente en el Aula Universitaria
 
