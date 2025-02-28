@@ -177,7 +177,7 @@
   z-index: 1;
 
   &-block {
-    padding-left: 50px;
+    padding-left: 67px;
 
     @include mobile {
       padding-left: 15px;
@@ -209,6 +209,9 @@
 }
 
 .newsletter-block {
+  margin-left: auto; /* Alinea a la derecha */
+  width: 100%; /* Ocupa el ancho completo de la columna */
+  max-width: 652px; /* Ajusta este valor según el ancho deseado */
   .form-control {
     height: 90px;
   }
