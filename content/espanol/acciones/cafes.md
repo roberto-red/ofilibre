@@ -21,11 +21,12 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 5 de marzo: Ley de la Ciencia, propiedad intelectual y fomento de la reversión a la comunidad, con José Antonio Castillo Parrilla (Investigador Ramón y Cajal en el Departamento de Derecho Civil de la Universidad de Granada)
+* 12 de marzo: Conocimiento abierto y software libre en la Universidad, con Manuel Palomo (Oficina de Software libre de la Universidad de Cádiz)
 
-* 12 de marzo: Con Manuel Palomo de la oficina de Software libre de la Universidad de Cádiz
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 5 de marzo: Ley de la Ciencia, propiedad intelectual y fomento de la reversión a la comunidad, con José Antonio Castillo Parrilla (Investigador Ramón y Cajal en el Departamento de Derecho Civil de la Universidad de Granada)
 
 * 26 de febrero: Accesibilidad en el mundo de las publicaciones académicas, con Marcos Ferreira Sanmamed (Glaux, empresa de apoyo a la editorial Academia Abierta de la URJC)
 

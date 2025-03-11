@@ -26,4 +26,4 @@ date: 2019-03-26
 type: fichas
 ---
 
-Un gestor de contraseñas o administrador de contraseñas es un programa de cómputo que se utiliza para almacenar una gran cantidad de parejas usuario/contraseña. La base de datos donde se guarda esta información está cifrada mediante una única clave (contraseña maestra; en inglés, master password), de forma que el usuario solo tenga que memorizar una clave para acceder a todas las demás. Esto facilita la administración de contraseñas y fomenta que los usuarios escojan claves complejas sin miedo a que no podrán recordarlas posteriormente.
+Un gestor o administrador de contraseñas es un programa de cómputo que se utiliza para almacenar una gran cantidad de parejas usuario/contraseña. La base de datos donde se guarda esta información está cifrada mediante una única clave (contraseña maestra; en inglés, master password), de forma que el usuario solo tenga que memorizar una clave para acceder a todas las demás. Esto facilita la administración de contraseñas y fomenta que los usuarios escojan claves complejas sin miedo a que no podrán recordarlas posteriormente.

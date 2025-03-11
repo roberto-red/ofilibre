@@ -1,13 +1,21 @@
-<div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0">
-  <img class="card-img-top rounded-0" src="{{.Site.BaseURL}}/images/guias/{{ .Params.logo }}">  
-  <div class="card-body">
-    <!-- Title with max 4 lines and ellipsis -->
-    <h4 class="card-title" style="display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; height: 120px;">
+<div class="card rounded-0 hover-shadow border-top-0 border-left-0 border-right-0" style="height: 100%; display: flex; flex-direction: column;">
+  <!-- Imagen con tamaño fijo de 255x255 píxeles -->
+  <img class="card-img-top rounded-0" src="{{.Site.BaseURL}}/images/guias/{{ .Params.logo }}" alt="{{ .Title }}" style="width: 255px; height: 255px; object-fit: cover;">
+  
+  <div class="card-body d-flex flex-column" style="flex-grow: 1;">
+    {{ if .Params.logoLicense }}
+    <p class="text-muted mt-2 mb-2" style="font-size: 0.65rem;">
+      Imagen: "<a href="{{ .Params.logoLicense.url }}">{{ .Params.logoLicense.name }}</a>" 
+      por <a href="{{ .Params.logoLicense.license }}">{{ .Params.logoLicense.author }}</a>, 
+      licenciado bajo <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0.</a>
+    </p>
+    {{ end }}
+    <!-- Título con máximo 4 líneas y puntos suspensivos -->
+    <h4 class="card-title" style="display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; flex-grow: 1;">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h4>
-    <!-- post meta -->
+    <!-- Fecha de publicación -->
     <ul class="list-inline mt-auto mb-0">
-      <!-- post date -->
       <li class="list-inline-item mr-3 ml-0"><i class="fas fa-calendar-alt"></i> {{ .PublishDate.Format "02 Jan, 2006" }}</li>
     </ul>
   </div>

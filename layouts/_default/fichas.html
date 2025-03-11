@@ -2,7 +2,7 @@
   <img class="card-img-top rounded-0" style="height: 255px; width: 255px; object-fit: cover;" src="{{.Site.BaseURL}}/images/fichas/{{.File.TranslationBaseName | lower }}/{{ .Params.logo }}" alt="{{ .Title }}">  
   <div class="card-body d-flex flex-column" style="height: 268.5px; width: 255px;">
     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p class="card-text">{{ .Content | truncate 90 }}</p>
+    <p class="card-text text-truncate-4">{{ .Content | truncate 90 }}</p>
     <!-- post meta -->
     <ul class="list-inline mt-auto mb-0">
       <!-- post date -->
