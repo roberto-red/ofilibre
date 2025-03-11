@@ -5,8 +5,8 @@
   <div class="card-body d-flex flex-column" style="flex-grow: 1;">
     {{ if .Params.logoLicense }}
     <p class="text-muted mt-2 mb-2" style="font-size: 0.65rem;">
-      Imagen: "<a href="{{ .Params.logoLicense.url }}">{{ .Params.logoLicense.name }}</a>" 
-      por <a href="{{ .Params.logoLicense.license }}">{{ .Params.logoLicense.author }}</a>, 
+      Imagen: "{{ .Params.logoLicense.name }}" 
+      por <a href="{{ .Params.logoLicense.url }}">{{ .Params.logoLicense.author }}</a>, 
       licenciado bajo <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0.</a>
     </p>
     {{ end }}
