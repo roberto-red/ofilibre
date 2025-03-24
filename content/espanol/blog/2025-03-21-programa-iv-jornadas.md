@@ -40,7 +40,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 *   Jesús González Barahona, Tomás Zarza Núñez y Florencia Claes, OfiLibre.
 
-### 09:30 - 10:00 ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre 
+### 09:15 - 09:45 ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre 
 
 *   **Javier Ramos**, Rector de la URJC.
 
@@ -52,13 +52,13 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 ### **10:45 - 11:00 Biblioteca y su experiencia en laboratorios**  
 
-*   **Cristina Rivera Miraut**  
+*   **Cristina Rincón Moreno**  
 
 ### **11:00 - 11:30 Ponencias cortas: CIENCIA CIUDADANA, WIKIPEDIA**
 
 *   **Piedad Tolmos Rodríguez-Piñero**: *Conexiones con el entorno: laboratorios ciudadanos.*
 
-*   **Alberto Polo Romero**: *Arqueología pública en Guzmán (Burgos). Un proyecto de ciencia ciudadana y abierta.*
+*   **Victoria Mora de la Torre y David García Marín**: *El libro blanco del proyecto erasmus + VIRION.*
 
 *   **Lizette Martínez Valerio**: *¿Confían los mayores en Wikipedia? ¿Qué saben sobre el conocimiento libre? ¿Qué fiabilidad les otorgan a las fuentes en abierto?*
 
@@ -73,6 +73,8 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
     *   Oficina de Conocimiento y Cultura libres
     *   Clínica Jurídica
     *   RoboTech
+    *   Open Source Robotics
+    *   Intelligent Robotics Lab
 *   La organización invita a quienes asistan a café, zumos y bollitos.
 
 ### 12:00 - 14:00 BLOQUE EDUCACIÓN
@@ -85,7 +87,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 #### CULTURA LIBRE EN LAS AULAS
 
-*   **Rafael Fernando Linares Palomar**: *Tras las cámaras:  podcast sobre los oficios y los profesionales en la industria cinematográfica. Herramienta de innovación en la docencia de Comunicación Audiovisual.*
+*   **Rafael Fernando Linares Palomar y Laura Fernández Ramírez**: *Tras las cámaras:  podcast sobre los oficios y los profesionales en la industria cinematográfica. Herramienta de innovación en la docencia de Comunicación Audiovisual.*
 
 *   **Oriol Borrás Gené, Almudena Macías Guillén**: *Impulsando la cultura libre en la formación de futuros docentes de Secundaria y Bachillerato.*
 
@@ -117,14 +119,14 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 *   *No te guardes tus ideas, regálalas*, por **Irene Ros**
 
-### **14:00 - 15:00 COMIDA - FERIA** 
+### 14:00 - 15:00 COMIDA - FERIA
 
 *   Stands presentes en la Feria y Pósters
     *   Museo Virtual URJC
     *   Oficina de Conocimiento y Cultura libres
     *   Clínica Jurídica
     *   RoboTech
-
+    *   Open Source Robotics
 *   La organización invita a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :) 
 
 ### 15:00 - 17:00 Talleres (requieren inscripción especial)
@@ -185,6 +187,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
     *   Oficina de Conocimiento y Cultura libres
     *   Clínica Jurídica
     *   RoboTech
+    *   Open Source Robotics
 *   La organización invita a quienes asistan a café, zumos y bollitos
 
 ### 12:00 - 12:55 Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA
@@ -207,8 +210,6 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 *   **Adolfo Sanz De Diego**: *EducaMadrid es la Plataforma Educativa de la Comunidad de Madrid.*
 
-*   **Antonio Gutiérrez Mayoral**: *Laboratorios de software libre en la Escuela de Ingeniería de Fuenlabrada en la URJC.*
-
 *   **Ángel Obregón Sierra**:  *Integración de conjuntos de datos abiertos en Wikidata, la base de conocimiento estructurado de la Fundación Wikimedia.*
 
 *   **Ricardo Curto Rodríguez, Daniel Ferrández y Rafael Marcos**: *Datos abiertos.*
@@ -220,7 +221,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 ### 14:00 - 15:00 COMIDA- FERIA
 
 *   Stands presentes en la Feria y Pósters
-*   Museo Virtual URJC
+    *   Museo Virtual URJC
     *   Oficina de Conocimiento y Cultura libres
     *   Clínica Jurídica
     *   RoboTech
