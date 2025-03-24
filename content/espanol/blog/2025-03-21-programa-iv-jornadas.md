@@ -53,6 +53,10 @@ thumb: /images/blog/jornadas-2025/poster.png
 ### **11:30 - 12:00 DESCANSO, CAFÉ Y FERIA** 
 
 *   Stands presentes en la Feria y Pósters.
+    *   Museo Virtual URJC
+    *   Oficina de Conocimiento y Cultura libres
+    *   Clínica Jurídica
+    *   RoboTech
 *   La organización invita a quienes asistan a café, zumos y bollitos.
 
 ### 12:00 - 14:00 BLOQUE EDUCACIÓN
@@ -167,11 +171,11 @@ thumb: /images/blog/jornadas-2025/poster.png
     *   RoboTech
 *   La organización invita a quienes asistan a café, zumos y bollitos
 
-### 12:00 - 12:45 Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA
+### 12:00 - 12:55 Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA
 
 *   **Pedro Vicente-Mullor.**
 
-### 12:45 - 13:15 Cultura libre dentro de la universidad
+### 12:55 - 13:15 Cultura libre dentro de la universidad
 
 *   *Clínica Jurídica:  Guía de Orientación jurídica para los damnificados por la DANA, de la red de clínicas jurídicas.*
 
@@ -200,6 +204,11 @@ thumb: /images/blog/jornadas-2025/poster.png
 ### 14:00 - 15:00 COMIDA- FERIA
 
 *   Stands presentes en la Feria y Pósters
+*   Museo Virtual URJC
+    *   Oficina de Conocimiento y Cultura libres
+    *   Clínica Jurídica
+    *   RoboTech
+    *   Open Source Robotics
 *   La organización invita a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :)
 
 ### 15:00 - 17:00 Talleres (requieren inscripción especial) ###
