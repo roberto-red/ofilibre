@@ -14,6 +14,22 @@ thumb: /images/blog/jornadas-2025/poster.png
 
 ---
 
+El próximo 26 y 27 de marzo de 2025 tendrán lugar las **Cuartas Jornadas de Cultura Libre de la URJC**. Están concebidas como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc.
+
+Contará con **presentaciones de expertos** sobre algunos de estos temas, con **talleres** sobre temas específicos, y con presentación de **ponencias** por parte de la comunidad universitaria. Este año volvemos a contar con un **espacio de feria**, donde compartiremos herramientas y novedades sobre cultura y software libre; y espacio de exposición de posters.
+ 
+**Lugar**: Salón de Actos y hall principal, Edificio de Gestión, Campus de Fuenlabrada
+
+[**Acceso al streaming**](https://tv.urjc.es/live/event/67c850009978f33b527be5b5)
+
+[**Inscripción**](https://eventos.urjc.es/126904/tickets/iv-jornadas-de-cultura-libre-de-la-urjc.html)
+ 
+Los créditos de RAC se otorgarán en función de la cantidad de horas de asistencia presencial, pudiendo el alumnado asistir a las jornadas en su totalidad o a bloques específicos. Para esto, deberá marcar asistencia mediante los métodos propuestos en las Jornadas. **Si se participa de todas las jornadas y sus talleres, se puede sumar créditos RAC**.
+
+Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**](https://eventos.urjc.es/126904/tickets/iv-jornadas-de-cultura-libre-de-la-urjc.html). Además, si quieres participar en un taller concreto, debes inscribirte en el **enlace correspondiente** que aparece en el programa.
+
+## Programa completo:
+
 ## MIÉRCOLES 26 - Salón de actos Edif. Gestión Fuenlabrada
 
 ### 08:30 - 09:30 REGISTRO
