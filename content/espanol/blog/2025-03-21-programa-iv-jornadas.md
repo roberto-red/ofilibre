@@ -34,23 +34,25 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 ### 08:30 - 09:30 REGISTRO
 
-### 08:40 - 9:15 Café con OfiLibre: Los candidatos a rector y el conocimiento libre
+### 08:40 - 09:15 Café con OfiLibre: Los candidatos a rector y el conocimiento libre
 
 *   Sesión con los dos candidatos a rector: **Fernando García Muiña** y **Abraham Duarte**, donde hablaremos sobre conocimiento libre, publicación en acceso abierto, ciencia abierta, software libre, datos abiertos, etc. En directo en el Salón de Grados del Edificio de Gestión del campus de Fuenlabrada.
 
 *   Jesús González Barahona, Tomás Zarza Núñez y Florencia Claes, OfiLibre.
 
-### 09:15 - 09:45 ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre 
+### 09:15 - 09:30 REGISTRO
+
+### 09:30 - 09:50 ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre 
 
 *   **Javier Ramos**, Rector de la URJC.
 
 *   **Mercedes del Hoyo**, Vicerrectora de Comunidad Campus, Cultura y Deporte.
 
-### 9:45 - 10:45 Ponencia Invitada: Laboratorios ciudadanos
+### 09:50 - 10:45 Ponencia Invitada: Laboratorios ciudadanos
 
 *   **María García Cristóbal**
 
-### **10:45 - 11:00 Biblioteca y su experiencia en laboratorios**  
+### 10:45 - 11:00 Biblioteca y su experiencia en laboratorios ciudadanos 
 
 *   **Cristina Rincón Moreno**  
 
@@ -66,7 +68,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 *   **José María García de Madariaga**: *Club Wikimedia: proyecto para mejorar contenidos sobre ciencia e innovación en Wikipedia en español.*
 
-### **11:30 - 12:00 DESCANSO, CAFÉ Y FERIA** 
+### 11:30 - 12:00 DESCANSO, CAFÉ Y FERIA
 
 *   Stands presentes en la Feria y Pósters.
     *   Museo Virtual URJC
@@ -75,7 +77,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
     *   RoboTech
     *   Open Source Robotics
     *   Intelligent Robotics Lab
-*   La organización invita a quienes asistan a café, zumos y bollitos.
+*   La organización **invita** a quienes asistan a café, zumos y bollitos.
 
 ### 12:00 - 14:00 BLOQUE EDUCACIÓN
 
@@ -127,7 +129,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
     *   Clínica Jurídica
     *   RoboTech
     *   Open Source Robotics
-*   La organización invita a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :) 
+*   La organización **invita** a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :) 
 
 ### 15:00 - 17:00 Talleres (requieren inscripción especial)
 
@@ -188,7 +190,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
     *   Clínica Jurídica
     *   RoboTech
     *   Open Source Robotics
-*   La organización invita a quienes asistan a café, zumos y bollitos
+*   La organización **invita** a quienes asistan a café, zumos y bollitos
 
 ### 12:00 - 12:55 Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA
 
@@ -226,7 +228,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
     *   Clínica Jurídica
     *   RoboTech
     *   Open Source Robotics
-*   La organización invita a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :)
+*   La organización **invita** a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :)
 
 ### 15:00 - 17:00 Talleres (requieren inscripción especial) ###
 
