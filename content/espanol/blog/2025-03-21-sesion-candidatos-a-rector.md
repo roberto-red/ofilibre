@@ -1,5 +1,5 @@
 ---
-title: "Sesión con los candidatos a rector en las IV Jornadas de Cultura Libre"
+title: "Sesión con los candidatos a Rector en las IV Jornadas de Cultura Libre"
 date: "2025-03-21T10:00:00"
 slug: "sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre"
 description: "Consulta los detalles sobre el próximo café, que dará comienzo a las IV Jornadas de Cultura Libre, con los dos candidatos a rector, Abraham Duarte Muñoz y Fernando García Muiña."
