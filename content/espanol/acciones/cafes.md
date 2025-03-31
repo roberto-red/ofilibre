@@ -21,22 +21,28 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 12 de marzo: Conocimiento abierto y software libre en la Universidad, con Manuel Palomo (Oficina de Software libre de la Universidad de Cádiz)
+* 2 de abril: Repaso de las IV Jornadas de Cultura Libre
 
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 5 de marzo: Ley de la Ciencia, propiedad intelectual y fomento de la reversión a la comunidad, con José Antonio Castillo Parrilla (Investigador Ramón y Cajal en el Departamento de Derecho Civil de la Universidad de Granada)
+* 26 de marzo: [Café con los canidadtos a rector de la URJC](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3), Abraham Duarte y Fernando García Muiña
 
-* 26 de febrero: Accesibilidad en el mundo de las publicaciones académicas, con Marcos Ferreira Sanmamed (Glaux, empresa de apoyo a la editorial Academia Abierta de la URJC)
+* 19 de marzo: [IV Jornadas de Cultura Libre](https://tv.urjc.es/video/67e2fa20babe004d40238d15)
 
-* 19 de febrero: Inteligencia Artificial desde la cultura libre
+* 12 de marzo: [Conocimiento abierto y software libre en la Universidad](https://tv.urjc.es/video/67ea805fbabe00d11c2daea3), con Manuel Palomo (Oficina de Software libre de la Universidad de Cádiz)
+
+* 5 de marzo: [Ley de la Ciencia, propiedad intelectual y fomento de la reversión a la comunidad](https://tv.urjc.es/video/67ea7f4bbabe00d137355f87), con José Antonio Castillo Parrilla (Investigador Ramón y Cajal en el Departamento de Derecho Civil de la Universidad de Granada)
+
+* 26 de febrero: [Accesibilidad en el mundo de las publicaciones académicas](https://tv.urjc.es/video/67ea7b54babe00cfa07dba72), con Marcos Ferreira Sanmamed (Glaux, empresa de apoyo a la editorial Academia Abierta de la URJC)
+
+* 19 de febrero: [Inteligencia Artificial desde la cultura libre](https://tv.urjc.es/video/67ea7728babe00cd484b0442)
 
 * 12 de febrero: [Asignaturas en abierto (segunda parte)](https://tv.urjc.es/video/67aeeff79978f3b1831bf371)
 
 * 5 de febrero: [Asignaturas en abierto (primera parte)](https://tv.urjc.es/video/67aef2299978f3b18f10953b)
 
-* 29 de enero: Revista de Innovación Docente en el Aula Universitaria
+* 29 de enero: [Revista de Innovación Docente en el Aula Universitaria](https://tv.urjc.es/video/67dbd06d9978f3f43644a9aa)
 
 * 22 de enero: [Presentación del proyecto ALMASI (mutualización de servicios de ciencia abierta)](https://tv.urjc.es/video/67a330f29978f37ad90c5dd1)
 
