@@ -29,4 +29,18 @@
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
+  <script type="text/javascript">
+    (
+      function() {
+        var sbSiteSecret = '24d91532-5fe7-4f62-b2df-3a0f5f91f9ca';
+        window.sitebehaviourTrackingSecret = sbSiteSecret;
+        var scriptElement = document.createElement('script');
+        scriptElement.async = true;
+        scriptElement.id = 'site-behaviour-script-v2';
+        scriptElement.src = 'https://sitebehaviour-cdn.fra1.cdn.digitaloceanspaces.com/index.min.js?sitebehaviour-secret=' + sbSiteSecret;
+        document.head.appendChild(scriptElement); 
+      }
+    )()
+</script>
+
 </head>
