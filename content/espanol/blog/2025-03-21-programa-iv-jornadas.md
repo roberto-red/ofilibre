@@ -14,35 +14,53 @@ thumb: /images/blog/jornadas-2025/poster.png
 
 ---
 
+El próximo 26 y 27 de marzo de 2025 tendrán lugar las **Cuartas Jornadas de Cultura Libre de la URJC**. Están concebidas como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc.
+
+Contará con **presentaciones de expertos** sobre algunos de estos temas, con **talleres** sobre temas específicos, y con presentación de **ponencias** por parte de la comunidad universitaria. Este año volvemos a contar con un **espacio de feria**, donde compartiremos herramientas y novedades sobre cultura y software libre; y espacio de exposición de posters.
+ 
+**Lugar**: Salón de Actos y hall principal, Edificio de Gestión, Campus de Fuenlabrada
+
+[**Acceso al streaming**](https://tv.urjc.es/live/event/67c850009978f33b527be5b5)
+
+[**Inscripción**](https://eventos.urjc.es/126904/tickets/iv-jornadas-de-cultura-libre-de-la-urjc.html)
+ 
+Los créditos de RAC se otorgarán en función de la cantidad de horas de asistencia presencial, pudiendo el alumnado asistir a las jornadas en su totalidad o a bloques específicos. Para esto, deberá marcar asistencia mediante los métodos propuestos en las Jornadas. **Si se participa de todas las jornadas y sus talleres, se puede sumar créditos RAC**.
+
+Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**](https://eventos.urjc.es/126904/tickets/iv-jornadas-de-cultura-libre-de-la-urjc.html). Además, si quieres participar en un taller concreto, debes inscribirte en el **enlace correspondiente** que aparece en el programa.
+
+## Programa completo:
+
 ## MIÉRCOLES 26 - Salón de actos Edif. Gestión Fuenlabrada
 
 ### 08:30 - 09:30 REGISTRO
 
-### 08:40 - 9:15 Café con OfiLibre: Los candidatos a rector y el conocimiento libre
+### 08:40 - 09:15 Café con OfiLibre: Los candidatos a rector y el conocimiento libre
 
 *   Sesión con los dos candidatos a rector: **Fernando García Muiña** y **Abraham Duarte**, donde hablaremos sobre conocimiento libre, publicación en acceso abierto, ciencia abierta, software libre, datos abiertos, etc. En directo en el Salón de Grados del Edificio de Gestión del campus de Fuenlabrada.
 
 *   Jesús González Barahona, Tomás Zarza Núñez y Florencia Claes, OfiLibre.
 
-### 09:30 - 10:00 ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre 
+### 09:15 - 09:30 REGISTRO
+
+### 09:30 - 09:50 ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre 
 
 *   **Javier Ramos**, Rector de la URJC.
 
 *   **Mercedes del Hoyo**, Vicerrectora de Comunidad Campus, Cultura y Deporte.
 
-### 9:45 - 10:45 Ponencia Invitada: Laboratorios ciudadanos
+### 09:50 - 10:45 Ponencia Invitada: Laboratorios ciudadanos
 
 *   **María García Cristóbal**
 
-### **10:45 - 11:00 Biblioteca y su experiencia en laboratorios**  
+### 10:45 - 11:00 Biblioteca y su experiencia en laboratorios ciudadanos 
 
-*   **Cristina Rivera Miraut**  
+*   **Cristina Rincón Moreno**  
 
 ### **11:00 - 11:30 Ponencias cortas: CIENCIA CIUDADANA, WIKIPEDIA**
 
 *   **Piedad Tolmos Rodríguez-Piñero**: *Conexiones con el entorno: laboratorios ciudadanos.*
 
-*   **Alberto Polo Romero**: *Arqueología pública en Guzmán (Burgos). Un proyecto de ciencia ciudadana y abierta.*
+*   **Victoria Mora de la Torre y David García Marín**: *El libro blanco del proyecto erasmus + VIRION.*
 
 *   **Lizette Martínez Valerio**: *¿Confían los mayores en Wikipedia? ¿Qué saben sobre el conocimiento libre? ¿Qué fiabilidad les otorgan a las fuentes en abierto?*
 
@@ -50,10 +68,16 @@ thumb: /images/blog/jornadas-2025/poster.png
 
 *   **José María García de Madariaga**: *Club Wikimedia: proyecto para mejorar contenidos sobre ciencia e innovación en Wikipedia en español.*
 
-### **11:30 - 12:00 DESCANSO, CAFÉ Y FERIA** 
+### 11:30 - 12:00 DESCANSO, CAFÉ Y FERIA
 
 *   Stands presentes en la Feria y Pósters.
-*   La organización invita a quienes asistan a café, zumos y bollitos.
+    *   Museo Virtual URJC
+    *   Oficina de Conocimiento y Cultura libres
+    *   Clínica Jurídica
+    *   RoboTech
+    *   Open Source Robotics
+    *   Intelligent Robotics Lab
+*   La organización **invita** a quienes asistan a café, zumos y bollitos.
 
 ### 12:00 - 14:00 BLOQUE EDUCACIÓN
 
@@ -65,7 +89,7 @@ thumb: /images/blog/jornadas-2025/poster.png
 
 #### CULTURA LIBRE EN LAS AULAS
 
-*   **Rafael Fernando Linares Palomar**: *Tras las cámaras:  podcast sobre los oficios y los profesionales en la industria cinematográfica. Herramienta de innovación en la docencia de Comunicación Audiovisual.*
+*   **Rafael Fernando Linares Palomar y Laura Fernández Ramírez**: *Tras las cámaras:  podcast sobre los oficios y los profesionales en la industria cinematográfica. Herramienta de innovación en la docencia de Comunicación Audiovisual.*
 
 *   **Oriol Borrás Gené, Almudena Macías Guillén**: *Impulsando la cultura libre en la formación de futuros docentes de Secundaria y Bachillerato.*
 
@@ -97,15 +121,15 @@ thumb: /images/blog/jornadas-2025/poster.png
 
 *   *No te guardes tus ideas, regálalas*, por **Irene Ros**
 
-### **14:00 - 15:00 COMIDA - FERIA** 
+### 14:00 - 15:00 COMIDA - FERIA
 
 *   Stands presentes en la Feria y Pósters
     *   Museo Virtual URJC
     *   Oficina de Conocimiento y Cultura libres
     *   Clínica Jurídica
     *   RoboTech
-
-*   La organización invita a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :) 
+    *   Open Source Robotics
+*   La organización **invita** a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :) 
 
 ### 15:00 - 17:00 Talleres (requieren inscripción especial)
 
@@ -165,13 +189,14 @@ thumb: /images/blog/jornadas-2025/poster.png
     *   Oficina de Conocimiento y Cultura libres
     *   Clínica Jurídica
     *   RoboTech
-*   La organización invita a quienes asistan a café, zumos y bollitos
+    *   Open Source Robotics
+*   La organización **invita** a quienes asistan a café, zumos y bollitos
 
-### 12:00 - 12:45 Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA
+### 12:00 - 12:55 Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA
 
 *   **Pedro Vicente-Mullor.**
 
-### 12:45 - 13:15 Cultura libre dentro de la universidad
+### 12:55 - 13:15 Cultura libre dentro de la universidad
 
 *   *Clínica Jurídica:  Guía de Orientación jurídica para los damnificados por la DANA, de la red de clínicas jurídicas.*
 
@@ -187,8 +212,6 @@ thumb: /images/blog/jornadas-2025/poster.png
 
 *   **Adolfo Sanz De Diego**: *EducaMadrid es la Plataforma Educativa de la Comunidad de Madrid.*
 
-*   **Antonio Gutiérrez Mayoral**: *Laboratorios de software libre en la Escuela de Ingeniería de Fuenlabrada en la URJC.*
-
 *   **Ángel Obregón Sierra**:  *Integración de conjuntos de datos abiertos en Wikidata, la base de conocimiento estructurado de la Fundación Wikimedia.*
 
 *   **Ricardo Curto Rodríguez, Daniel Ferrández y Rafael Marcos**: *Datos abiertos.*
@@ -200,7 +223,12 @@ thumb: /images/blog/jornadas-2025/poster.png
 ### 14:00 - 15:00 COMIDA- FERIA
 
 *   Stands presentes en la Feria y Pósters
-*   La organización invita a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :)
+    *   Museo Virtual URJC
+    *   Oficina de Conocimiento y Cultura libres
+    *   Clínica Jurídica
+    *   RoboTech
+    *   Open Source Robotics
+*   La organización **invita** a quienes asistan a  bebidas, bocatas, sándwiches y abrazos gratis :)
 
 ### 15:00 - 17:00 Talleres (requieren inscripción especial) ###
 
