@@ -94,7 +94,7 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 *   *Diseño, producción y difusión de podcast educativo.* Pablo **Acosta Gallo**
     *   En este taller se enseñó a elaborar podcasts para fines educativos. Destinatarios: docentes y estudiantes.
 
-*   *OpenStreetMap.* Miguel **Sevilla-Callejo** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Talleres/20250326-taller-osm-urjc.pdf))
+*   *OpenStreetMap.* Miguel **Sevilla-Callejo**, Iván **Sánchez Ortega** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Talleres/20250326-taller-osm-urjc.pdf))
     *   Este taller quiere dar a conocer las bases de la cartografía colaborativa con OpenStreetMap con una breve introducción de lo que es el proyecto, una breve introducción a la naturaleza de los datos de esta plataforma y luego mostrar varias herramientas para introducir datos directamente sobre el terreno con el móvil.
 
 *   *Introducción a los modelos de lenguaje de código abierto*. Asociación de Inteligencia Artificial
