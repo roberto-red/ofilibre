@@ -17,21 +17,19 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 
 ## MIÉRCOLES 26 DE MARZO
 
-### Café con OfiLibre: Los candidatos a rector y el conocimiento libre
+### Café con OfiLibre: Los candidatos a rector y el conocimiento libre [(vídeo)](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3)
 
-*   [Sesión con los dos candidatos a rector](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3): Fernando **García Muiña** y Abraham **Duarte**, donde hablamos sobre conocimiento libre, publicación en acceso abierto, ciencia abierta, software libre, datos abiertos, etc.
+*   Sesión con los dos candidatos a rector: Fernando **García Muiña** y Abraham **Duarte**, donde hablamos sobre conocimiento libre, publicación en acceso abierto, ciencia abierta, software libre, datos abiertos, etc.
 
 *   Jesús **González Barahona**, Tomás **Zarza Núñez** y Florencia **Claes**, OfiLibre.
 
 ### ACTO DE APERTURA - Inauguración de las IV Jornadas de Cultura Libre [(vídeo)](https://tv.urjc.es/video/67e40685babe0084a452bda2)
 
-*   Javier **Ramos**, Rector de la URJC.
-
 *   Mercedes **del Hoyo**, Vicerrectora de Comunidad Campus, Cultura y Deporte.
 
 ### PONENCIA INVITADA: 
 
-*   *Laboratorios ciudadanos.* Marcos **García Cristóbal**
+*   *Laboratorios ciudadanos.* Marcos **García Cristóbal** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/marcosGarcia.pdf)) ([vídeo](https://tv.urjc.es/video/67e4093bbabe0085b35bda9d))
 
 ###  PONENCIAS CORTAS: CIENCIA CIUDADANA, WIKIPEDIA
 
@@ -77,11 +75,11 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 
 ### CULTURA LIBRE Y SUS EXPERIENCIAS DENTRO DE LA UNIVERSIDAD
 
-*   *Biblioteca: Materiales que sí puedes usar: guía práctica para docentes en busca de recursos abiertos*. Emilio **Alvarado Pérez** ([vídeo](https://tv.urjc.es/video/67e410e3babe0088815345f2))
+*   *Biblioteca: Materiales que sí puedes usar: guía práctica para docentes en busca de recursos abiertos*. Emilio **Alvarado Pérez** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/PresentacionOfiLibreEmilioAlvarado.pdf)) ([vídeo](https://tv.urjc.es/video/67e410e3babe0088815345f2))
 
 *   *Oficina de Proyectos Europeos: Vídeo-Podcast para promocionar las convocatorias del programa marco de investigación e innovación europeo Horizonte Europa e incentivar la participación de los investigadores en este programa*. Rosa María **Mesa Vélez** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/RosaMaria_20.pdf)) ([vídeo](https://tv.urjc.es/video/67e40fa6babe00887e22f863))
 
-*   *Escuela Internacional de Doctorado: Publicación en abierto de Tesis Doctoral. Repositorio Institucional (actividad formativa) y Colección de monografías con Premio Extraordinario*. Inmaculada **Mora**, Isabel **Jiménez** y María Del Pilar **Abad Romero** ([vídeo](https://tv.urjc.es/video/67e410acbabe00887d10e0c3))
+*   *Escuela Internacional de Doctorado: Publicación en abierto de Tesis Doctoral. Repositorio Institucional (actividad formativa) y Colección de monografías con Premio Extraordinario*. Inmaculada **Mora**, Isabel **Jiménez** y María Del Pilar **Abad Romero** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/eidFinal.pdf)) ([vídeo](https://tv.urjc.es/video/67e410acbabe00887d10e0c3))
 
 *   *Director Académico de Cultura de la URJC: Concursos culturales y cultura abierta*. Javier Enrique **Otero García** ([vídeo](https://tv.urjc.es/video/67e40fabbabe0088836934a2))
 
@@ -96,7 +94,7 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 *   *Diseño, producción y difusión de podcast educativo.* Pablo **Acosta Gallo**
     *   En este taller se enseñó a elaborar podcasts para fines educativos. Destinatarios: docentes y estudiantes.
 
-*   *OpenStreetMap.* Miguel **Sevilla-Callejo** ([vídeo](https://tv.urjc.es/video/67e476f7babe00aa1d521aca))
+*   *OpenStreetMap.* Miguel **Sevilla-Callejo** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Talleres/20250326-taller-osm-urjc.pdf))
     *   Este taller quiere dar a conocer las bases de la cartografía colaborativa con OpenStreetMap con una breve introducción de lo que es el proyecto, una breve introducción a la naturaleza de los datos de esta plataforma y luego mostrar varias herramientas para introducir datos directamente sobre el terreno con el móvil.
 
 *   *Introducción a los modelos de lenguaje de código abierto*. Asociación de Inteligencia Artificial
@@ -109,7 +107,7 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 
 ### PONENCIAS INVITADAS
 
-*   *Publicación en abierto y Ciencia Abierta*. Ignasi **Labastida** ([vídeo](https://tv.urjc.es/video/67e5601bbabe00d8110e8b9c))
+*   *Publicación en abierto y Ciencia Abierta*. Ignasi **Labastida** ([presentación](/transpas/jornada-cultura-libre/2025/27marzo/Labastida_URJC_2025.pdf)) ([vídeo](https://tv.urjc.es/video/67e5601bbabe00d8110e8b9c))
 
 *   *Recuperar las memorias. Conservación y restauración digital de fotografías dañadas por la DANA.* Pedro **Vicente-Mullor.** ([vídeo](https://tv.urjc.es/video/67e5c6fdbabe0005512c34fa))
 
@@ -144,9 +142,9 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 
 ### CHARLAS
 
-*   *Innovación docente: Tejiendo Conexiones en la URJC - CIED.* Jaime **Urquiza Fuentes** - Director Académico del Centro de Innovación Docente y Educación Digital ([vídeo](https://tv.urjc.es/video/67e55aafbabe00d5f16428e3))
+*   *Innovación docente: Tejiendo Conexiones en la URJC - CIED.* Jaime **Urquiza Fuentes** - Director Académico del Centro de Innovación Docente y Educación Digital ([presentación](/transpas/jornada-cultura-libre/2025/27marzo/2025-CIED-IVJornadasCulturaLibre.pdf)) ([vídeo](https://tv.urjc.es/video/67e55aafbabe00d5f16428e3))
 
-*   *Publicaciones en abierto: REVISTAS en la URJC.* Tomás **Zarza Núñez**, Laura de la **Cruz Parra**, Manuel **Gértrudix** y Manuel **Madueño** ([presentación](/transpas/jornada-cultura-libre/2025/27marzo/TomasLaura.pdf)) ([vídeo](https://tv.urjc.es/video/67e55f66babe00d7f4028ed9))
+*   *Publicaciones en abierto: REVISTAS en la URJC.* Tomás **Zarza Núñez**, Laura de la **Cruz Parra**, Manuel **Gértrudix** y Miguel **Madueño** ([presentación](/transpas/jornada-cultura-libre/2025/27marzo/TomasLaura.pdf)) ([vídeo](https://tv.urjc.es/video/67e55f66babe00d7f4028ed9))
 
 *   *Datos abiertos para abrir boca*. Carmen de Pablos **Heredero**, Emilio **López Romero**, José Máximo **López Vilaboa**, Olga **Quirós**, Alberto **Abella** y Ascensión **Hidalgo Bellota** ([presentación](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/2-Acension-Actualizada.pdf)) ([vídeo](https://tv.urjc.es/video/67e5c11fbabe0003bb5c9667))
 
@@ -155,6 +153,6 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 *   *¡Despide la burocracia, dale la bienvenida a la IA! Crea el asistente que revolucionará tu revista científica.* Antonio Julio **López Galisteo** 
     *   En el taller se exploró la creación de asistentes de inteligencia artificial para la revisión de artículos que llegan a las revistas     científicas, así como asistentes que ayudan al envío de artículos a la revista a sus autores.
 
-*   *Oportunidades para emprender desde la reutilización de los datos abiertos.* Carmen de Pablos **Heredero**, Emilio **López Romero**, José Máximo **López Vilaboa**, Olga **Quirós** y Alberto **Abella** ([presentación](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/2-Maximo.pdf)) ([vídeo](https://tv.urjc.es/video/67e5cbc8babe00065357c72a))
+*   *Oportunidades para emprender desde la reutilización de los datos abiertos.* Carmen de Pablos **Heredero**, Emilio **López Romero**, José Máximo **López Vilaboa**, Olga **Quirós** y Alberto **Abella** (presentaciones [1](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/2-Maximo.pdf), [2](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/2-Acension-Actualizada.pdf), [3](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/3-CarmenDePablos.pdf), [4](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/4-Emilio.pdf)) ([vídeo](https://tv.urjc.es/video/67e5cbc8babe00065357c72a))
 
     *   El taller abordó el uso y la importancia de los datos abiertos desde distintas perspectivas, comenzando con una presentación del Observatorio de Reutilización de Datos Abiertos de la URJC. Se exploró el portal de datos abiertos del Ayuntamiento de Madrid y su papel en la transparencia, seguido de una ponencia sobre la relación entre datos abiertos y sostenibilidad. También se analizó las oportunidades de emprendimiento que ofrecen estos datos y se presentó el portal de datos abiertos de Castilla y León. Finalmente, se celebró una mesa redonda para escuchar necesidades de mejora de los responsables de los portales abiertos de los ayuntamientos de la Comunidad de Madrid y cercanos.
