@@ -53,7 +53,7 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 
 #### IA Y RECURSOS EDUCATIVOS EN ABIERTO
 
-*    *Producción de Recursos Educativos Abiertos empleando Inteligencia Artificial Generativa.* Nerea **Benitez Aranda** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/NereaBenitez_11.pdf)) ([vídeo](https://tv.urjc.es/video/67e40cb4babe0087370922d2))
+*    *Producción de Recursos Educativos Abiertos empleando Inteligencia Artificial Generativa.* Nerea **Benitez Aranda** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Producción_Recursos_Educativos_Abiertos_Empleando_IAG.pdf)) ([vídeo](https://tv.urjc.es/video/67e40cb4babe0087370922d2))
 
 *   *Uso de la Inteligencia Artificial generativa: potenciar el aprendizaje activo e interactivo en el aula universitaria.* Antonio Julio **López Galisteo** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/AntonioJLGalisteo_13.pdf)) ([vídeo](https://tv.urjc.es/video/67e40db8babe0087673e2150))
 
@@ -88,7 +88,7 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 
 ### TALLERES
 
-*   *Organiza, diseña y comparte conocimiento con LaTeX*. Marcelo **Moreno Porras** y  Patricia **Labrador Ballestero**  
+*   *Organiza, diseña y comparte conocimiento con LaTeX*. Marcelo **Moreno Porras** y  Patricia **Labrador Ballestero** ([presentación](/transpas/jornada-cultura-libre/2025/26marzo/Talleres/latex.pdf))  ([todo el material](https://github.com/marcelomijas/taller-latex-urjc-2025))
     *   En este taller se presentó cómo usar LaTeX mediante la web de Overleaf para crear hojas de referencia (cheat sheets), muy útiles para comprimir y compartir conocimiento. El público objetivo son profesores e investigadores.
 
 *   *Diseño, producción y difusión de podcast educativo.* Pablo **Acosta Gallo**
