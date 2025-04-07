@@ -151,7 +151,7 @@ Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos d
 ### TALLERES
 
 *   *¡Despide la burocracia, dale la bienvenida a la IA! Crea el asistente que revolucionará tu revista científica.* Antonio Julio **López Galisteo** 
-    *   En el taller se exploró la creación de asistentes de inteligencia artificial para la revisión de artículos que llegan a las revistas     científicas, así como asistentes que ayudan al envío de artículos a la revista a sus autores.
+    *   En el taller se exploró la creación de asistentes de inteligencia artificial para la revisión de artículos que llegan a las revistas     científicas, así como asistentes que ayudan al envío de artículos a la revista a sus autores. ([presentación]( https://www.notion.so/TALLER-DE-CREACI-N-DE-GPT-para-revista-cient-fica-1cece267efe980d4aff5c247c2db4bfd?pvs=4))
 
 *   *Oportunidades para emprender desde la reutilización de los datos abiertos.* Carmen de Pablos **Heredero**, Emilio **López Romero**, José Máximo **López Vilaboa**, Olga **Quirós** y Alberto **Abella** (presentaciones [1](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/2-Maximo.pdf), [2](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/2-Acension-Actualizada.pdf), [3](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/3-CarmenDePablos.pdf), [4](/transpas/jornada-cultura-libre/2025/27marzo/TallerDatosAbiertos/4-Emilio.pdf)) ([vídeo](https://tv.urjc.es/video/67e5cbc8babe00065357c72a))
 
