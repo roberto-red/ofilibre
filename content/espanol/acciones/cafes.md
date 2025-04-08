@@ -21,10 +21,11 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 2 de abril: Repaso de las IV Jornadas de Cultura Libre
-
+* 9 de abril: Asociación RoboTech URJC
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 2 de abril: Repaso de las IV Jornadas de Cultura Libre
 
 * 26 de marzo: [Café con los canidadtos a rector de la URJC](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3), Abraham Duarte y Fernando García Muiña
 
