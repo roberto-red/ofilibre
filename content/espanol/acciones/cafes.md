@@ -21,7 +21,7 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 9 de abril: [Asociación RoboTech URJC](https://robotech-urjc.github.io/mainweb/). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera.
+* 9 de abril: [Asociación RoboTech URJC](https://robotech-urjc.github.io/mainweb/). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera (estudiantes miembros de ToboTech)
 
 * 23 de abril: asignaturas en abierto (por confirmar)
 
@@ -34,11 +34,11 @@ Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/
 
 * 2 de abril: Repaso de las IV Jornadas de Cultura Libre
 
-* 26 de marzo: [Café con los canidadtos a rector de la URJC](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3), con Abraham Duarte y Fernando García Muiña
+* 26 de marzo: [Café con los canidadtos a rector de la URJC](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3), con Abraham Duarte y Fernando García Muiña (candidatos a rector de la URJC)
 
 * 19 de marzo: [IV Jornadas de Cultura Libre](https://tv.urjc.es/video/67e2fa20babe004d40238d15)
 
-* 12 de marzo: [Conocimiento abierto y software libre en la Universidad](https://tv.urjc.es/video/67ea805fbabe00d11c2daea3), con Manuel Palomo (Oficina de Software libre de la Universidad de Cádiz)
+* 12 de marzo: [Conocimiento abierto y software libre en la Universidad](https://tv.urjc.es/video/67ea805fbabe00d11c2daea3), con Manuel Palomo (Director de Secretariado de Conocimiento Abierto de la Universidad de Cádiz)
 
 * 5 de marzo: [Ley de la Ciencia, propiedad intelectual y fomento de la reversión a la comunidad](https://tv.urjc.es/video/67ea7f4bbabe00d137355f87), con José Antonio Castillo Parrilla (Investigador Ramón y Cajal en el Departamento de Derecho Civil de la Universidad de Granada)
 
