@@ -8,19 +8,29 @@ type: guias
 <iframe src='https://tv.urjc.es/iframe/65f2da29a848b9022f6e62a9' id='pumukitiframe' frameborder='0' border='0' width='80%' height='500px' allowfullscreen></iframe>
 
 En la Universidad Rey Juan Carlos, los alumnos de la Escuela Internacional
-de Doctorado que presentan su tesis doctoral pueden decidir que esta
-se publique en acceso abierto en el Archivo Abierto de la Universidad
-([BURJC Digital](https://burjcdigital.urjc.es/)).
+de Doctorado que presentan su tesis doctoral han de publicarla en acceso
+abierto en el Archivo Abierto de la Universidad
+([BURJC Digital](https://burjcdigital.urjc.es/)):
 
-Puedes publicar en acceso abierto tu tesis doctoral,
-y también datos y otros materiales que puedan estar
+*"De acuerdo con
+el Real Decreto 576/2023, una vez aprobada la tesis doctoral (esto es,
+defendida y calificada favorablemente), la universidad se ocupará del
+archivo de la tesis doctoral en formato electrónico abierto en el
+repositorio institucional de la URJC. Esto implica la publicación en
+acceso abierto de la tesis doctoral"*
+Art. 35, Normativa de los Estudios de Doctorado de la URJC
+aprobada en Consejo de Gobierno el 19 de julio de 2024
+
+Ademásd de publicar en acceso abierto tu tesis doctoral,
+también puedes publicar datos y otros materiales que puedan estar
 relacionados con ella, incluyendo programas de ordenador
 que hayas creado (en este caso, publicándolos como
-software libre). Si decides publicar tu tesis en acceso abierto, aparecerá como parte de la [colección de tesis de la Universidad](https://burjcdigital.urjc.es/handle/10115/19278).
+software libre). Una vez haya sido publicada en acceso abierto,
+tu tesis aparecerá como parte de la [colección de tesis de la Universidad](https://burjcdigital.urjc.es/handle/10115/19278).
 
 ## Cómo publicar tu tesis en acceso abierto
 
-Si decides publicar la memoria de tu tesis en acceso abierto,
+Para publicar la memoria de tu tesis en acceso abierto,
 tendrás que seguir los siguientes pasos:
 
 * Comprobar que todo lo que hay en tu memoria ha sido
@@ -98,9 +108,9 @@ será elegir la licencia con la que lo vas a publicar, entre
 las que son reconocidas como "de acceso abierto" por el
 Consejo de Publicación Abierta de la Universidad.
 
-El autor, por el hecho de ser autor de su obra, tiene
+La persona que creó una obra, por el hecho de crearla, tiene
 originalmente todos los derechos sobre ella. Quien recibe
-esa obra sólo puede ejercer los derechos que el autor
+esa obra sólo puede ejercer los derechos que quien la creó
 le haya otorgado. Quien recibe la
 obra no puede reproducirla, ni redistribuirla, ni incluirla
 en una compilación, ni realizar una obra derivada
@@ -179,10 +189,10 @@ el nombre de al persona autora de la memoria de tesis.
 Naturalmente, la referencia a la licencia será a la que
 se haya elegido en el paso anterior.
 
-Es recomendable que la memoria de tesis que se deposite en la
+La memoria de tesis que se deposite en la
 Escuela de Doctorado, para comenzar los trámites encaminados a
 su presentación (normalmente en formato PDF)
-ya venga marcada de esta manera.
+ya debería venir marcada de esta manera.
 
 Y con esto estaremos listos para el último paso.
 
