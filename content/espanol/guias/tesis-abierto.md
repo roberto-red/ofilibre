@@ -7,8 +7,8 @@ type: guias
 
 <iframe src='https://tv.urjc.es/iframe/65f2da29a848b9022f6e62a9' id='pumukitiframe' frameborder='0' border='0' width='80%' height='500px' allowfullscreen></iframe>
 
-En la Universidad Rey Juan Carlos, los alumnos de la Escuela Internacional
-de Doctorado que presentan su tesis doctoral han de publicarla en acceso
+En la Universidad Rey Juan Carlos, las tesis que se presenten en la
+Escuela Internacional de Doctorado han de quedar publicadas en en acceso
 abierto en el Archivo Abierto de la Universidad
 ([BURJC Digital](https://burjcdigital.urjc.es/)):
 
