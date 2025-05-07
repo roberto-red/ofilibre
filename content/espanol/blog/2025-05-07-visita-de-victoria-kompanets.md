@@ -17,4 +17,6 @@ Durante su visita, en la que estuvieron presentes Jesús María González-Baraho
 
 La visita de Victoria fue una excelente oportunidad para fortalecer los lazos entre nuestras instituciones y para aprender de su experiencia en el campo. Agradecemos profundamente a Victoria por su tiempo y por compartir sus valiosos conocimientos con nosotros. Estamos entusiasmados por las posibilidades de cooperación que surgieron de esta reunión y esperamos continuar este valioso intercambio en el futuro próximo.
 
-![Imagen de tres personas sentadas alrededor de una mesa en una oficina. La persona a la izquierda lleva una chaqueta blanca y está escribiendo en un cuaderno. La persona en el centro sostiene una taza y tiene un termo sobre la mesa. La persona a la derecha está gesticulando con una mano mientras habla. Sobre la mesa hay varios objetos, incluyendo una caja de bombones, un par de gafas y algunos dispositivos electrónicos. En el fondo, hay pósteres, gráficos y estanterías con varios objetos.](/images/blog/visita-de-victoria-kompanets/diseño-sin-título-4.png)
+
+
+![](/images/blog/visita-de-victoria-kompanets/diseño-sin-título-4.png)
