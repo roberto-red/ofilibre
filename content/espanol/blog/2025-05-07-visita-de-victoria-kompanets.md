@@ -9,6 +9,8 @@ tags:
   - visita
 bg_image: /images/backgrounds/page-title.jpg
 thumb: /images/logo-ofilibre.png
+files:
+  - file: /documentos/visita-de-victoria-kompanets/imagen-visita-victoria.jpg
 ---
 Este martes 6 de mayo de 2025 hemos tenido el placer de recibir en nuestra oficina a Victoria Kompanets, investigadora y profesora de LUT University (Finlandia).
 
