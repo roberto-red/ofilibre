@@ -19,4 +19,4 @@ La visita de Victoria fue una excelente oportunidad para fortalecer los lazos en
 
 
 
-![](/images/blog/visita-de-victoria-kompanets/diseño-sin-título-4.png)
+![](/images/blog/visita-de-victoria-kompanets/yeyeyye.jpg)
