@@ -11,7 +11,7 @@ bg_image: /images/backgrounds/page-title.jpg
 thumb: /images/blog/visita-de-victoria-kompanets/diseño-sin-título-3.png
 files: []
 ---
-Este martes 6 de mayo de 2025 hemos tenido el placer de recibir en nuestra oficina a Victoria Kompanets, personal de administración de LUT University (Finlandia), integrante de EULiST.
+Este martes 6 de mayo de 2025 hemos tenido el placer de recibir en nuestra oficina a Victoria Kompanets, Funding Advisor, Research Services de LUT University (Finlandia), integrante de EULiST.
 
 Durante su visita, en la que estuvieron presentes Jesús María González-Barahona y Florencia Claes, dialogamos sobre las diversas iniciativas impulsadas por la Oficina de Conocimiento y Cultura Libres (OfiLibre) de la Universidad Rey Juan Carlos. Entre los temas tratados, destacaron las jornadas y otras actividades orientadas a promover el acceso abierto, el software libre y la cultura libre. Estas iniciativas son fundamentales para fomentar un entorno académico y profesional más inclusivo y colaborativo, donde el conocimiento y los recursos estén disponibles para todos.
 
