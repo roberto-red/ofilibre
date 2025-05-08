@@ -1,5 +1,5 @@
 ---
-title: Visita de LUT university
+title: "Visita de LUT university"
 date: 2025-05-06T09:16:14.213Z
 description: La universidad de LUT visita la Ofilibre
 type: post

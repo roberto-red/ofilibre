@@ -62,7 +62,7 @@
   <div class="container-fluid p-0">
     <div class="row no-gutters">
       <div class="col-xl-4 col-lg-4 align-self-center">
-        <img class="img-fluid w-5" style="padding-left: 70px;" src="{{ .image | absURL }}" alt="banner-feature">
+        <img class="img-fluid w-5" style="padding-left: 0px;" src="{{ .image | absURL }}" alt="banner-feature">
       </div>
       <div class="col-xl-8 col-lg-7">
         <div class="row feature-blocks bg-gray justify-content-between">
@@ -93,7 +93,7 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary">{{ .label }}</a>
+        <a href="{{ .link | absLangURL }}" class="btn btn-primary btn-sm">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>
