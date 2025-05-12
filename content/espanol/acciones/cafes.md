@@ -21,20 +21,22 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Programa (tentativo) para los próximos cafés:
 
-* 9 de abril: [Asociación RoboTech URJC](https://robotech-urjc.github.io/mainweb/). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera (estudiantes miembros de ToboTech)
-
-* 23 de abril: asignaturas en abierto (por confirmar)
-
-* 30 abril: Datos abiertos en el [Instituto Canario de Estadística](https://www.gobiernodecanarias.org/istac/).
-
-* 7 de mayo: Monografía en acceso abierto (por confirmar)
-
+* 21 de mayo: Asignaturas en abierto con María del Carmen Gálvez, Coordinadora del Grado en Comunicación Digital
+  
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
+* 7 de mayo: Monografías en acceso abierto
+  
+* 30 abril: [Datos abiertos en el Instituto Canario de Estadística (ISTAC)](https://tv.urjc.es/video/6819dd79b0e0d0baed5472d1) ([sitio oficial](https://www.gobiernodecanarias.org/istac/))
+
+* 23 de abril: Asignaturas en abierto
+
+* 9 de abril: [Asociación RoboTech URJC](https://robotech-urjc.github.io/mainweb/). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera (estudiantes miembros de RoboTech)
+
 * 2 de abril: Repaso de las IV Jornadas de Cultura Libre
 
-* 26 de marzo: [Café con los canidadtos a rector de la URJC](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3), con Abraham Duarte y Fernando García Muiña (candidatos a rector de la URJC)
+* 26 de marzo: [Café con los candidatos a rector de la URJC](https://tv.urjc.es/video/67e3bb6dbabe006734402ff3), con Abraham Duarte y Fernando García Muiña
 
 * 19 de marzo: [IV Jornadas de Cultura Libre](https://tv.urjc.es/video/67e2fa20babe004d40238d15)
 
