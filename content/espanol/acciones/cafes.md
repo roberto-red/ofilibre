@@ -26,13 +26,13 @@ Programa (tentativo) para los próximos cafés:
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 7 de mayo: Monografías en acceso abierto
+* 7 de mayo: [OpenStreetMap](https://tv.urjc.es/video/6822d983b0e0d0386770e988) ([sitio oficial](https://www.openstreetmap.org/#map=6/40.01/-2.49)), con Miguel Sevilla-Callejo
   
-* 30 abril: [Datos abiertos en el Instituto Canario de Estadística (ISTAC)](https://tv.urjc.es/video/6819dd79b0e0d0baed5472d1) ([sitio oficial](https://www.gobiernodecanarias.org/istac/))
+* 30 abril: [Datos abiertos en el Instituto Canario de Estadística (ISTAC)](https://tv.urjc.es/video/6819dd79b0e0d0baed5472d1) ([sitio oficial](https://www.gobiernodecanarias.org/istac/)), con Albérica García Rodríguez
 
 * 23 de abril: Asignaturas en abierto
 
-* 9 de abril: [Asociación RoboTech URJC](https://robotech-urjc.github.io/mainweb/). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera (estudiantes miembros de RoboTech)
+* 9 de abril: [Asociación RoboTech URJC](https://tv.urjc.es/video/6822da0eb0e0d038d3454695) ([sitio oficial](https://robotech-urjc.github.io/mainweb/)). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera (estudiantes miembros de RoboTech)
 
 * 2 de abril: Repaso de las IV Jornadas de Cultura Libre
 
