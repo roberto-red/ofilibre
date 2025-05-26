@@ -20,17 +20,19 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 > [Café con la OfiLibre en directo](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9)
 
 Programa (tentativo) para los próximos cafés:
-
-* 21 de mayo: Asignaturas en abierto con María del Carmen Gálvez, Coordinadora del Grado en Comunicación Digital
   
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 21 de mayo: Asignaturas en abierto con María del Carmen Gálvez, Coordinadora del Grado en Comunicación Digital
+
+* 14 de mayo: [Ciencia Abierta](https://tv.urjc.es/video/682db380b0e0d060ad7d8532)
 
 * 7 de mayo: [OpenStreetMap](https://tv.urjc.es/video/6822d983b0e0d0386770e988) ([sitio oficial](https://www.openstreetmap.org/#map=6/40.01/-2.49)), con Miguel Sevilla-Callejo
   
 * 30 abril: [Datos abiertos en el Instituto Canario de Estadística (ISTAC)](https://tv.urjc.es/video/6819dd79b0e0d0baed5472d1) ([sitio oficial](https://www.gobiernodecanarias.org/istac/)), con Albérica García Rodríguez
 
-* 23 de abril: Asignaturas en abierto
+* 23 de abril: [Asignaturas en abierto](https://tv.urjc.es/video/682dacecb0e0d05df56bdcfa), con Eva Castro y José Centeno
 
 * 9 de abril: [Asociación RoboTech URJC](https://tv.urjc.es/video/6822da0eb0e0d038d3454695) ([sitio oficial](https://robotech-urjc.github.io/mainweb/)). Software libre en robótica, con Claudia Élez Mencía y Adrián Manzanares Romera (estudiantes miembros de RoboTech)
 
