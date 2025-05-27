@@ -20,7 +20,8 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 > [Café con la OfiLibre en directo](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9)
 
 Programa (tentativo) para los próximos cafés:
-  
+
+* 28 de mayo: Software libre
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
