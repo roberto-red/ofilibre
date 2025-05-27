@@ -1,11 +1,14 @@
 ---
 title: Plantillas para publicación de asignaturas en abierto
-logo: logo-urjc-square.png
 date: 2022-07-28
+description: De cara a facilitar la elaboración de materiales docentes en
+  abierto, por ejemplo para participar en la convocatoria de asignaturas en
+  abierto, la OfiLibre pone a disposición de la comunidad universitaria
+  plantillas para la elaboración de documentos de texto y presentaciones.
+logo: logo-urjc-square.png
 type: guias
 ---
-
-De cara a facilitar la elaboración de materiales docentes en abierto, por ejemplo para participar en la [convocatoria de asignaturas en abierto](/guias/convocatoria-asignaturas-abierto/), la OfiLibre pone a disposición de la comunidad universitaria plantillas para la elaboración de documentos de texto y presentaciones. Estas plantillas se proporcionan en formato [LibreOffice](https://es.libreoffice.org/), una suite ofimática de código abierto disponible para sistemas operativos Windows, Linux y MacOS, que utiliza el formato estándar [Open Document](https://opendocumentformat.org/) para guardar los documentos que creemos con esta suite libre, pero que es compatible y puede abrir también los formatos de Microsoft Office (entre otros). 
+Estas plantillas se proporcionan en formato [LibreOffice](https://es.libreoffice.org/), una suite ofimática de código abierto disponible para sistemas operativos Windows, Linux y MacOS, que utiliza el formato estándar [Open Document](https://opendocumentformat.org/) para guardar los documentos que creemos con esta suite libre, pero que es compatible y puede abrir también los formatos de Microsoft Office (entre otros). 
 
 Se proporcionan dos plantillas en formato LibreOffice:
 
