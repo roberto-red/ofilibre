@@ -7,20 +7,20 @@ type: guias
 ---
 **Solicitudes:**
 
-Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias).
+Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias). (También puedes descargarlo directamente haciendo [clic aquí](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
 
 * Asignaturas primer cuatrimestre: Hasta el 17 de noviembre de 2025 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de noviembre, incluido).
 * Asignaturas segundo cuatrimestre: Hasta el 16 de febrero de 2026 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 14 de febrero, incluido).
 
 **Material auxiliar:**
 
-* [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2024-2025/Mapa_Conceptual.pdf)
-* [Guía-resumen para rellenar el formulario de solicitud](/documentos/convocatoria-asignaturas-abierto-2024-2025/Guia.pdf)
+* Infografía-resumen de la convocatoria (Pendiente subida)
+* Guía-resumen para rellenar el formulario de solicitud  (Pendiente subida)
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
-* El martes 3 de junio se ofreció una sesión telemática pública sobre la convocatoria:
+* El martes 3 de junio se ofrecerá una sesión telemática pública sobre la convocatoria, aceso via teams de 12:00 a 13:00. https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm
 
-  * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
-  * [grabación en vídeo de la sesión](https://tv.urjc.es/video/66e7fa5b43c849203b1e4b85)
+  * transparencias utilizadas durante la presentación (Pendiente subida)
+  * grabación en vídeo de la sesión (Pendiente subida)
 
 **Características principales:**
 
@@ -44,6 +44,17 @@ Los materiales en formato bibliográfico (guías, apuntes, colecciones de proble
 
 Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y vídeos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://urjc.atlassian.net/wiki/spaces/BDCP/pages/9899928/Procedimiento+de+subida+de+v+deos+Convocatoria+para+el+reconocimiento+de+publicaci+n+de+asignaturas+en+acceso+abierto).
 
+En resumen, no te puede faltar esto:
+
+a) Título, autores, y fecha.
+b) Texto “Material docente en abierto de la Universidad Rey Juan Carlos”.
+c) Nombre de la asignatura o asignaturas, y grado o grados correspondientes, en las que se utiliza el
+material.
+d) Lugar de depósito (TV URJC o BURJC Digital, junto con el enlace a la plataforma).
+e) Licencia de distribución en acceso abierto del material. Bastará con incluir el icono correspondiente
+a la licencia, cuando este sea claramente reconocible (por ejemplo, los de una licencia específica de
+Creative Commons) y la información detallada de licenciamiento vaya en otra parte del material.
+
 ### Presentación de solicitudes
 
 A la convocatoria se podrán presentar asignaturas individuales, entendiendo como tales asignaturas que se presentan como tales en el aula virtual. En el caso de grupos de asignaturas que compartan los mismos materiales (por ejemplo, distintos grupos de la misma asignatura, o asignaturas similares en distintos grados) se presentarán como una única asignatura agrupada.
@@ -56,7 +67,7 @@ Las asignaturas que se impartan durante el primer cuatrimestre podrán presentar
 
 Para resolver dudas relacionadas con esta convocatoria, se ha planificado un videoencuentro que quedará grabado y colgado el enlace en esta misma web:
 
-* Martes 4 de junio, 12.00. Enlace al principio de este documento.
+* Martes 3 de junio, 12.00. Enlace al principio de este documento. (También puedes acceder desde [aquí](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm))
 
 También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
@@ -67,6 +78,7 @@ Para todos los materiales que se depositen en BURJC Digital con idea de presenta
 * Portada:
 
   * Título del material: ¿Se ha incluido un título del material en la portada? Normalmente, este título hará referencia al nombre de la asignatura, y a la tipología del material. Por ejemplo, "Apuntes para el alumno de Diseño de Aplicaciones Telemáticas" o "Transparencias de la asignatura Arte en la Edad Media".
+  * Texto: “Material docente en abierto de la Universidad Rey Juan Carlos”
   * Autores y/o autoras: ¿Se indica claramente el nombre completo de las personas que se consideran autoras de la obra?
   * Grado(s) en los que se imparte: ¿Se ha incluido el listado de grados (y en su caso, nombres específicos de la asignatura en esos grados) en que se imparte? Este listado se puede incluir en un tamaño de letra menor que el título, y no necesariamente debajo de este, pero debería dar una idea rápida a quien vea la portada de en qué asignaturas y grados se están usando el material en cuestión.
   * Fecha o año: ¿Se incluye una fecha, o al menos un año de la obra? Esto es importante para que el lector pueda ver rápidamente cuánto de actualizado puede estar el material, y sobre todo referirse de forma adecuada a la versión del material que le interese.
@@ -77,8 +89,12 @@ Para todos los materiales que se depositen en BURJC Digital con idea de presenta
   * Referencia a la licencia: ¿Se ha incluido una referencia precisa a la licencia utilizada? Debe incluirse una referencia detallada a la licencia concreta que se ha empleado  (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual). Además, esta licencia debe ser la misma que se indicó, incluyendo su logo, en la portada.
   * Ejemplo de texto completo, incluyendo nota de copyright y referencia a la licencia:
 
+
+
 ```
-©2024 Autora Mengánez Zutánez  
+Material docente en abierto de la Universidad Rey Juan Carlos
+
+©2025 Autora Mengánez Zutánez  
 Algunos derechos reservados  
 Este documento se distribuye bajo la licencia  
 “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
