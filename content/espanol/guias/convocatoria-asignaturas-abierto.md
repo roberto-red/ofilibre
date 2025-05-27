@@ -1,43 +1,40 @@
 ---
-title: Reconocimiento de publicación de asignaturas en abierto 2024-2025
+title: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 date: 2024-07-16
+description: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 logo: logo-urjc-square.png
 type: guias
 ---
-
-
 **Solicitudes:**
 
 Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias).
 
-* Asignaturas primer cuatrimestre: Hasta el 15 de noviembre de 2024 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 13 de noviembre, incluido).
-
-* Asignaturas segundo cuatrimestre: Hasta el 21 de febrero de 2025 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 19 de febrero, incluido).
-
+* Asignaturas primer cuatrimestre: Hasta el 17 de noviembre de 2025 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de noviembre, incluido).
+* Asignaturas segundo cuatrimestre: Hasta el 16 de febrero de 2026 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 14 de febrero, incluido).
 
 **Material auxiliar:**
 
 * [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2024-2025/Mapa_Conceptual.pdf)
 * [Guía-resumen para rellenar el formulario de solicitud](/documentos/convocatoria-asignaturas-abierto-2024-2025/Guia.pdf)
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
-* El miércoles 4 de septiembre se ofreció una sesión telemática pública sobre la convocatoria:
+* El martes 3 de junio se ofreció una sesión telemática pública sobre la convocatoria:
+
   * [transparencias utilizadas durante la presentación](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf)
   * [grabación en vídeo de la sesión](https://tv.urjc.es/video/66e7fa5b43c849203b1e4b85)
-  
+
 **Características principales:**
 
 Esta tercera convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
 
-Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2024-2025](/documentos/convocatoria-asignaturas-abierto-2024-2025.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
-
+Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-202](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf)6. A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
 
 ### Objeto
 
-Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2024-25.
+Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2025-26.
 
 ### Participación
 
-La participación en esta convocatoria se hace proponiendo asignaturas del [aula virtual de la URJC](https://aulavirtual.urjc.es), que tendrán que ser de docencia oficial en un grado o máster universitario de la URJC durante el curso 2024-2025. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
+La participación en esta convocatoria se hace proponiendo asignaturas del [aula virtual de la URJC](https://aulavirtual.urjc.es), que tendrán que ser de docencia oficial en un grado o máster universitario de la URJC durante el curso 2025-2026. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
 
 ### Publicación de materiales en acceso abierto
 
@@ -53,13 +50,13 @@ A la convocatoria se podrán presentar asignaturas individuales, entendiendo com
 
 Para formalizar la solicitud para una asignatura o grupo de asignaturas, una vez sus materiales se hayan publicado en abierto, la realizará el responsable de grupo de actas de una de las asignaturas agrupadas (según figure en el Plan de Ordenación Docente) rellenando los datos solicitados en el procedimiento de solicitud para esta convocatoria que se encuentra en la sede electrónica de la Universidad (ver enlace al principio de este documento).
 
-Las asignaturas que se impartan durante el primer cuatrimestre podrán presentarse hasta el día 15 de noviembre de 2024, y las que se impartan durante el segundo cuatrimestre, hasta el 21 de febrero de 2025.
+Las asignaturas que se impartan durante el primer cuatrimestre podrán presentarse hasta el día 17 de noviembre de 2025, y las que se impartan durante el segundo cuatrimestre, hasta el 16 de febrero de 2026.
 
 ### Resolución de dudas
 
 Para resolver dudas relacionadas con esta convocatoria, se ha planificado un videoencuentro que quedará grabado y colgado el enlace en esta misma web:
 
-* Lunes 4 de septiembre, 11.00. Enlace al principio de este documento.
+* Martes 4 de junio, 12.00. Enlace al principio de este documento.
 
 También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
@@ -74,7 +71,6 @@ Para todos los materiales que se depositen en BURJC Digital con idea de presenta
   * Grado(s) en los que se imparte: ¿Se ha incluido el listado de grados (y en su caso, nombres específicos de la asignatura en esos grados) en que se imparte? Este listado se puede incluir en un tamaño de letra menor que el título, y no necesariamente debajo de este, pero debería dar una idea rápida a quien vea la portada de en qué asignaturas y grados se están usando el material en cuestión.
   * Fecha o año: ¿Se incluye una fecha, o al menos un año de la obra? Esto es importante para que el lector pueda ver rápidamente cuánto de actualizado puede estar el material, y sobre todo referirse de forma adecuada a la versión del material que le interese.
   * Logo de la licencia elegida: ¿Se incluye el logo de la licencia elegida en la portada? Es importante que el logo de la licencia elegida (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual) aparezca en portada, si es preciso en tamaño pequeño, para que el lector tenga una idea rápida de que el documento se distribuye en acceso abierto.
-
 * En página interior, normalmente la primera página impresa tras la portada:
 
   * Nota de copyright: "¿Se ha incluido una nota de copyright completa? Ha de incluirse una nota de copyright, incluyendo la palabra o el símbolo "Copyright", el año (o el intervalo de años) y el listado completo de las personas y/o organizaciones que detentan los derechos de autor de la obra.
@@ -93,7 +89,7 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.es
 * En metadatos del depósito:
 
   * Mismos datos que en la portada del documento: ¿Coinciden los datos de la portada con los indicados en los formularios de depósito? En particular, es importante que el título, el listado de personas autoras y la licencia se correspondan exactamente con lo indicado en la portada de la obra.
-  
+
 Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra en el documento [Publicación de materiales docentes en abierto](materiales-docentes-abierto).
 
 ### Preguntas más frecuentes sobre esta convocatoria[🔗](#faq)
