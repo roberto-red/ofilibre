@@ -89,8 +89,6 @@ Para todos los materiales que se depositen en BURJC Digital con idea de presenta
   * Referencia a la licencia: ¿Se ha incluido una referencia precisa a la licencia utilizada? Debe incluirse una referencia detallada a la licencia concreta que se ha empleado  (Creative Commons Atribución o Creative Commons Atribución-CompartirIgual). Además, esta licencia debe ser la misma que se indicó, incluyendo su logo, en la portada.
   * Ejemplo de texto completo, incluyendo nota de copyright y referencia a la licencia:
 
-
-
 ```
 Material docente en abierto de la Universidad Rey Juan Carlos
 
@@ -201,11 +199,7 @@ Las licencias aceptadas son CC Atribución y CC Atribución-CompartirIgual. No s
 
 #### ¿Cuándo es el último día para participar de la Convocatoria?
 
-Pueden verse las fechas al comienzo de este documento. Pero atención, para poder enviar la solicitud, los materiales deben estar subidos, previamente, en los repositorios correspondientes. Es importante tener en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material es dos días anterior a la fecha límite de la convocatoria. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
-
-En la convocatoria, el punto 2 dice lo siguiente:
-
- “Han de incluir claramente en el encabezado, primera página o equivalente los siguientes datos: Autores, título, y fecha. También incluirá una referencia a la URJC, a la asignatura o asignaturas en las que se utiliza el material y al lugar de depósito (TV URJC o BURJC digital, incluyendo su enlace) y de forma clara la licencia de distribución en acceso abierto”. 
+Pueden verse las fechas al comienzo de este documento. Pero atención, para poder enviar la solicitud, los materiales deben estar subidos, previamente, en los repositorios correspondientes. Es importante tener en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material es dos días anterior a la fecha límite de la convocatoria. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto. 
 
 #### Entonces, cuando dice “incluyendo su enlace” ¿qué quiere decir?
 
