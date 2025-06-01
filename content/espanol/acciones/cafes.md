@@ -11,8 +11,8 @@ categories: ["acciones"]
 description: "Café con la OfiLibre. Unos minutos cada semana con la cultura libre, al publicación en acceso abierto, el software libre, los datos abiertos, y todas estas cosas que te interesan"
 
 # post images
-bg_image: /images/logo-ofilibre.png
-thumb: /images/logo-ofilibre.png
+bg_image: /images/logo-ofilibre-2025.jpg
+thumb: /images/logo-ofilibre-2025.jpg
 ---
 
 Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el Café con la OfiLibre, por videoconferencia. Un rato para charlar de forma relajada sobre los temas que nos preocupan. Cada día tratamos un tema: sólo tienes que conectarte y escuchar. Y participar, si te apetece. Al fin y al cabo, una forma de mantener contacto entre los que estamos interesados en la cultura libre, la publicación en acceso abierto, el software libre, los datos abiertos, y todos estos jaleos. Eso sí, el café (o el té, o el vaso de agua, o lo que te apetezca) lo tienes que traer tú.

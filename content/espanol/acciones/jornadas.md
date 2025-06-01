@@ -11,8 +11,8 @@ categories: ["acciones"]
 description: "Jornadas de Cultura Libre: unos días para celebrar la cultura libre, la publicación en abierto, los datos abiertos, el software libre..."
 
 # post images
-bg_image: /images/logo-ofilibre.png
-thumb: /images/logo-ofilibre.png
+bg_image: /images/logo-ofilibre-2025.jpg
+thumb: /images/logo-ofilibre-2025.jpg
 ---
 
 Desde 2022 se celebran, anualmente, las Jornadas de Cultura Libre de la URJC:

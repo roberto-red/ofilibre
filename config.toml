@@ -74,6 +74,9 @@ google_analitycs_id = "" # your id
 # top header
 top_header = false
 
+[params.sectionNames]
+  consejo-publicacion-abierta = "Consejo de Publicación Abierta"
+
 # Preloader
 [params.preloader]
 enable = true

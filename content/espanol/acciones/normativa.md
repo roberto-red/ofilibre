@@ -11,8 +11,8 @@ categories: ["acciones"]
 description: "Normativa (reglamentos, desarrollos de reglamentos, etc.) relacionados con OfiLibre."
 
 # post images
-bg_image: /images/logo-ofilibre.png
-thumb: /images/logo-ofilibre.png
+bg_image: /images/logo-ofilibre-2025.jpg
+thumb: /images/logo-ofilibre-2025.jpg
 ---
 
 Algunas de las principales normativas de la URJC relacionadas con las competencias de la OfiLibre:
