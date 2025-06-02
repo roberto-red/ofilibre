@@ -5,6 +5,15 @@ description: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 logo: logo-urjc-square.png
 type: guias
 ---
+### ¡Resolvemos tus dudas sobre la convocatoria!
+
+Este **martes 3 de junio** te invitamos a una sesión en la que responderemos a todas tus preguntas sobre la convocatoria actual. Será un espacio para aclarar cualquier duda, conocer mejor los requisitos y resolver inquietudes de forma directa con el equipo organizador. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, este videoencuentro es para ti.
+
+📍 **Dónde:** Sala de Microsoft Teams\
+🔗 **Accede directamente desde este enlace:** [](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)[https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm ](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)
+
+No hace falta inscripción previa, ¡simplemente conéctate el día y la hora indicados y participa!                                                                                                    
+
 **Solicitudes:**
 
 Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias). (También puedes descargarlo directamente haciendo [clic aquí](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
