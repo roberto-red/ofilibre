@@ -5,25 +5,25 @@ slider:
   slider_item:
     # slider item loop
     - title : "Jornadas de Cultura Libre"
-      content : "Los próximos 26 y 27 de marzo tendrán lugar en el Campus de Fuenlabrada las Cuartas Jornadas de Cultura Libre. La convocatoria de contribuciones (presentaciones y clarlas, talleres, mesas para la feria, etc.) está abierta. Las Jornadas están concebidas como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc."
+      content : "Consulta el contenido completo de las IV Jornadas de Cultura Libre, con enlaces a los vídeos de las presentaciones, así como a los materiales utilizados en las mismas. Ponencias, talleres y actividades sobre acceso abierto, educación, ciencia ciudadana e innovación, entre otras actividades. ¡No te pierdas ningún detalle!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Más información"
-        link : "acciones/jornadas/"
+        link : "blog/contenido-de-las-iv-jornadas-de-cultura-libre/"
 
     # slider item loop
-    - title : "Sesión con los candidatos a rector en las IV Jornadas de Cultura Libre"
-      content : "Consulta los detalles sobre el próximo café, que dará comienzo a las IV Jornadas de Cultura Libre, con los dos candidatos a rector, Abraham Duarte Muñoz y Fernando García Muiña."
+    - title : "Convocatoria de asignaturas en abierto 2025-2026"
+      content : "Consulta los detalles sobre la Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Más información"
-        link : "blog/sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre/"
+        link : "blog/convocatoria-de-asignaturas-en-abierto-2025-2026/"
 
     # slider item loop
     - title : "Café con la OfiLibre"
@@ -37,15 +37,15 @@ slider:
         link : "acciones/cafes/"
 
     # slider item loop
-    - title : "Novedades de diciembre"
-      content : "Editorial URJC, plataforma de revistas, y mucho más."
+    - title : "Asignaturas en abierto"
+      content : "Materiales relacionados cn la convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Más información"
-        link : "blog/novedades-de-diciembre/"
+        link : "acciones/asignaturas-en-abierto/"
 
     # slider item loop
     - title : "Revistas Académicas en Abierto de la URJC"
