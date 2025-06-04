@@ -1,5 +1,5 @@
 ---
-title: Convocatoria de asignaturas en abierto (2025-2026)
+title: Convocatoria de asignaturas en abierto 2025-2026
 date: 2025-04-09
 description: Se ha publicado la Convocatoria para el reconocimiento de la
   publicación en acceso abierto de materiales docentes del curso 2025-2026.
