@@ -1,45 +1,48 @@
 ---
 title: Reconocimiento de publicación de asignaturas en abierto 2025-2026
-date: 2024-07-16
+date: 2025-06-05
 description: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 logo: logo-urjc-square.png
 type: guias
 ---
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
-Este **martes 3 de junio** te invitamos a una sesión en la que responderemos a todas tus preguntas sobre la convocatoria actual. Será un espacio para aclarar cualquier duda, conocer mejor los requisitos y resolver inquietudes de forma directa con el equipo organizador. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, este videoencuentro es para ti.
+Este **martes 3 de junio** te invitamos a una sesión en la que responderemos a todas tus preguntas sobre la convocatoria actual. Será un espacio para aclarar cualquier duda, conocer mejor los requisitos y resolver inquietudes de forma directa con el equipo organizador. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, este videoencuentro es para ti. No hace falta inscripción previa, ¡simplemente conéctate el día y la hora indicados y participa! 
 
-📍 **Dónde:** Sala de Microsoft Teams\
-🔗 **Accede directamente desde este enlace:** [](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)[https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm ](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)
+📍 **Dónde:** Sala de Microsoft Teams \
+🔗 **Directo:** Accede directamente desde [**este enlace**](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)                                                                                    
+🎥 **Grabación:** Accede a la grabación desde [**este enlace**](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
 
-No hace falta inscripción previa, ¡simplemente conéctate el día y la hora indicados y participa!                                                                                                    
-
-**Solicitudes:**
+### Solicitudes
 
 Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias). (También puedes descargarlo directamente haciendo [clic aquí](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
 
 * Asignaturas primer cuatrimestre: Hasta el 17 de noviembre de 2025 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de noviembre, incluido).
+
 * Asignaturas segundo cuatrimestre: Hasta el 16 de febrero de 2026 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 14 de febrero, incluido).
 
-**Material auxiliar:**
+### Material auxiliar
 
 * Infografía-resumen de la convocatoria (Pendiente subida)
 * Guía-resumen para rellenar el formulario de solicitud  (Pendiente subida)
-* Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
-* El martes 3 de junio se ofrecerá una sesión telemática pública sobre la convocatoria, aceso via teams de 12:00 a 13:00. https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm
+* Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
+* El martes 3 de junio se ofrecerá una sesión telemática pública sobre la convocatoria, aceso via teams de 12:00 a 13:00.
 
-  * transparencias utilizadas durante la presentación (Pendiente subida)
-  * grabación en vídeo de la sesión (Pendiente subida)
+  * [Enlace al directo](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)
 
-**Características principales:**
+  * Transparencias utilizadas durante la presentación (Pendiente subida)
+
+  * [Grabación en vídeo de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+
+### Características principales
 
 Esta tercera convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
 
-Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-202](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf)6. A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
+Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-2026](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
 
 ### Objeto
 
-Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2025-26.
+Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2025-2026.
 
 ### Participación
 
@@ -55,11 +58,11 @@ Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/
 
 En resumen, no te puede faltar esto:
 
-a) Título, autores, y fecha.
-b) Texto “Material docente en abierto de la Universidad Rey Juan Carlos”.
+a) Título, autores, y fecha.\
+b) Texto “Material docente en abierto de la Universidad Rey Juan Carlos”.\
 c) Nombre de la asignatura o asignaturas, y grado o grados correspondientes, en las que se utiliza el
-material.
-d) Lugar de depósito (TV URJC o BURJC Digital, junto con el enlace a la plataforma).
+material.\
+d) Lugar de depósito (TV URJC o BURJC Digital, junto con el enlace a la plataforma).\
 e) Licencia de distribución en acceso abierto del material. Bastará con incluir el icono correspondiente
 a la licencia, cuando este sea claramente reconocible (por ejemplo, los de una licencia específica de
 Creative Commons) y la información detallada de licenciamiento vaya en otra parte del material.
@@ -77,6 +80,8 @@ Las asignaturas que se impartan durante el primer cuatrimestre podrán presentar
 Para resolver dudas relacionadas con esta convocatoria, se ha planificado un videoencuentro que quedará grabado y colgado el enlace en esta misma web:
 
 * Martes 3 de junio, 12.00. Enlace al principio de este documento. (También puedes acceder desde [aquí](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm))
+
+* [Enlace a la grabación](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
 
 También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
@@ -158,6 +163,7 @@ Esta licencia no se aplica a materiales de terceros que puedan estar incluidos e
 Son dos las licencias que han sido aprobadas por el Consejo de Publicación Abierta de la URJC como licencias válidas para materiales en abierto:
 
 * Creative Commons BY (Atribución) 4.0
+
 * Creative Commons BY-SA (Atribución-CompartirIgual) 4.0.
 
 En la [Guía sobre la publicación de materiales docentes en acceso abierto](/guias/materiales-docentes-abierto/) se explican en más detalle ambas licencias.
