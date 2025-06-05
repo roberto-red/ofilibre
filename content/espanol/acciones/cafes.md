@@ -17,17 +17,26 @@ thumb: /images/logo-ofilibre-2025.jpg
 
 Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el Café con la OfiLibre, por videoconferencia. Un rato para charlar de forma relajada sobre los temas que nos preocupan. Cada día tratamos un tema: sólo tienes que conectarte y escuchar. Y participar, si te apetece. Al fin y al cabo, una forma de mantener contacto entre los que estamos interesados en la cultura libre, la publicación en acceso abierto, el software libre, los datos abiertos, y todos estos jaleos. Eso sí, el café (o el té, o el vaso de agua, o lo que te apetezca) lo tienes que traer tú.
 
-> [Café con la OfiLibre en directo](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9)
+Enlaces de interés:
+
+* [Café con la OfiLibre en directo](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9)
+
+* [iVoox: Café con OfiLibre](https://www.ivoox.com/escuchar-cafe-ofilibre_nq_8764906_1.html)
+
+* [Internet Archive: Café con OfiLibre 2024-2025](https://archive.org/search?query=series%3A%22Caf%C3%A9+con+con+OfiLibre+2024-2025%22)
+
+* [Internet Archive: Café con OfiLibre 2023-2024](https://archive.org/search?query=series%3A%22Caf%C3%A9+con+con+OfiLibre+2023-2024%22)
 
 Programa (tentativo) para los próximos cafés:
 
-* 28 de mayo: Software libre
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
 
-* 21 de mayo: Asignaturas en abierto con María del Carmen Gálvez, Coordinadora del Grado en Comunicación Digital
+* 28 de mayo: [Software Libre, por qué es importante en la universidad](https://tv.urjc.es/video/6837fb18b0e0d073580cced5)
 
-* 14 de mayo: [Ciencia Abierta](https://tv.urjc.es/video/682db380b0e0d060ad7d8532)
+* 21 de mayo: [Asignaturas en abierto: Publicidad Interactiva](https://tv.urjc.es/video/6835800fb0e0d0f6c42e8fa2), con María del Carmen Gálvez, Coordinadora del Grado en Comunicación Digital
+
+* 14 de mayo: [¿Qué es la Ciencia Abierta?](https://tv.urjc.es/video/682db380b0e0d060ad7d8532)
 
 * 7 de mayo: [OpenStreetMap](https://tv.urjc.es/video/6822d983b0e0d0386770e988) ([sitio oficial](https://www.openstreetmap.org/#map=6/40.01/-2.49)), con Miguel Sevilla-Callejo
   
