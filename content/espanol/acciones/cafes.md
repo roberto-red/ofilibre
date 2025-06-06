@@ -29,8 +29,15 @@ Enlaces de interés:
 
 Programa (tentativo) para los próximos cafés:
 
+* 11 de junio: Suspendido
+
+* 18 de junio: Suspendido
+
+* 25 de junio: Despedida del curso
 
 Cafés ya disfrutados ([videos de todos estos cafés](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)):
+
+* 4 de junio: [Cambio de vicerrectorado / Nueva etapa](https://tv.urjc.es/video/68419c06b0e0d0ff0f1ddc5a), con Mercedes del Hoyo Hurtado y Joaquín Rams Ramos
 
 * 28 de mayo: [Software Libre, por qué es importante en la universidad](https://tv.urjc.es/video/6837fb18b0e0d073580cced5)
 
