@@ -23,16 +23,15 @@ De esta manera, la Universidad cumple también con su misión social de transmit
 
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
-Este **martes 3 de junio** te invitamos a una sesión en la que responderemos a todas tus preguntas sobre la convocatoria actual. Será un espacio para aclarar cualquier duda, conocer mejor los requisitos y resolver inquietudes de forma directa con el equipo organizador. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, este videoencuentro es para ti.
+El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la convocatoria y responder a todas tus preguntas sobre la convocatoria. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, es muy posible que el video de esta sesión te interese.
 
-📍 **Dónde:** Sala de Microsoft Teams\
-🔗 **Accede directamente desde este enlace:** [](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)[https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm ](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)
-
-No hace falta inscripción previa, ¡simplemente conéctate el día y la hora indicados y participa!
+* [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+* [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
 
 Más información:
 
-* [Más información, material auxiliar y preguntas frecuentes](https://ofilibre.urjc.es/guias/convocatoria-asignaturas-abierto/) 
+* [Más información, material auxiliar y preguntas frecuentes](https://ofilibre.urjc.es/guias/convocatoria-asignaturas-abierto/)
+* [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026", de primer o segundo cuatrimestre, según sea la asignatura
 * [Convocatoria en el tablón de anuncios electrónico de la URJC](https://sede.urjc.es/en/tablon-oficial?path=anuncio/13752/) ([copia en este sitio web](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
 * [Información sobre las distintas ediciones de esta convocatoria](/acciones/asignaturas-en-abierto/)
 * [Asignaturas en abierto en el aula virtual de la URJC](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)

@@ -5,38 +5,42 @@ description: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 logo: logo-urjc-square.png
 type: guias
 ---
+
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
-Este **martes 3 de junio** te invitamos a una sesión en la que responderemos a todas tus preguntas sobre la convocatoria actual. Será un espacio para aclarar cualquier duda, conocer mejor los requisitos y resolver inquietudes de forma directa con el equipo organizador. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, este videoencuentro es para ti. No hace falta inscripción previa, ¡simplemente conéctate el día y la hora indicados y participa! 
+El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la convocatoria y responder a todas tus preguntas sobre la convocatoria. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, es muy posible que el video de esta sesión te interese.
 
-📍 **Dónde:** Sala de Microsoft Teams \
-🔗 **Directo:** Accede directamente desde [**este enlace**](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)                                                                                    
-🎥 **Grabación:** Accede a la grabación desde [**este enlace**](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+* [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+* [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
 
-### Solicitudes
+
+### Convocatoria
 
 Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias). (También puedes descargarlo directamente haciendo [clic aquí](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
+
+### Solicitudes
 
 * Asignaturas primer cuatrimestre: Hasta el 17 de noviembre de 2025 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de noviembre, incluido).
 
 * Asignaturas segundo cuatrimestre: Hasta el 16 de febrero de 2026 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 14 de febrero, incluido).
 
+* [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026", de primer o segundo cuatrimestre, según sea la asignatura
+
 ### Material auxiliar
 
+* Material de la sesión de presentaciòn del 3 de junio de 2025:
+  * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+  * [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+
 * Infografía-resumen de la convocatoria (Pendiente subida)
+
 * Guía-resumen para rellenar el formulario de solicitud  (Pendiente subida)
+
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
-* El martes 3 de junio se ofrecerá una sesión telemática pública sobre la convocatoria, aceso via teams de 12:00 a 13:00.
-
-  * [Enlace al directo](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm)
-
-  * Transparencias utilizadas durante la presentación (Pendiente subida)
-
-  * [Grabación en vídeo de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
 
 ### Características principales
 
-Esta tercera convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
+Esta cuarta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
 
 Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-2026](https://ofilibre.urjc.es/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
 
@@ -77,13 +81,7 @@ Las asignaturas que se impartan durante el primer cuatrimestre podrán presentar
 
 ### Resolución de dudas
 
-Para resolver dudas relacionadas con esta convocatoria, se ha planificado un videoencuentro que quedará grabado y colgado el enlace en esta misma web:
-
-* Martes 3 de junio, 12.00. Enlace al principio de este documento. (También puedes acceder desde [aquí](https://teams.microsoft.com/meet/3156178187270?p=9nhIDCT1GQqTaZXYAm))
-
-* [Enlace a la grabación](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
-
-También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
+Se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
 ### Lista de comprobaciones de material depositado en BURJC Digital
 
@@ -124,9 +122,9 @@ Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra
 
 #### Si ya me he presentado en convocatorias anteriores, ¿puedo participar en esta con la misma asignatura?
 
-Sí, pero solo se valorarán las categorías en donde no se haya obtenido el máximo de puntos, y los incentivos tendrán que ver con el incremento en puntuación de la asignatura.
+Solo pueden presentarse asignaturas que no han recibido la calificación de asignaturas en abierto en las convocatorias precedentes de los dos últimos cursos.
 
-#### ¿Hay algún formato específico para los documentos (presentaciones, documentos de texto…)?
+#### ¿Hay algún formato específico para los documentos (presentaciones, documentos de texto...)?
 
 Aunque no es obligatorio, en la OfiLibre se han elaborado unas [plantillas que pueden ser utilizadas para los materiales publicados en acceso abierto](/guias/plantillas-asignaturas-abierto/).
 
@@ -244,11 +242,11 @@ Sí, la convocatoria del segundo cuatrimestre queda abierta a la vez que la del 
 
 Es normal, porque los videos están subidos, pero no son aún públicos. Lo serán si tu asignatura es finalmente puesta en abierto. Mientras tanto, sólo los alumnos de tu asignatura podrán verlos, llegando a ellos por enlace del aula virtual.
 
-#### ¿Tengo Apuntes y Transparencias, ¿cómo las deposito?
+#### ¿Tengo apuntes y transparencias, ¿cómo las deposito?
 
 Como son dos documentos PDF (correspondientes cada uno a una categoría) tendrían que ser dos entradas en BURJC Digital, una para cada documento.
 
-#### Al subir mis apuntes a la BURJC… ¿los subo por tema o por tipo de material?
+#### Al subir mis apuntes a BURJC Digital ¿los subo por tema o por tipo de material?
 
 En esta convocatoria hay que subir los documentos en un único PDF por categoría. Eso no quita que en tus clases los utilices tema por tema, y tengas un PDF por tema (o por sesión de clase, o por lo que te parezca mejor). Pero en el momento de subirlo a BURJC Digital, ha de ser un solo documento (libro). Luego, en alguna parte visible de la asignatura enlazarás a ese documento (puede ser, por ejemplo, “colección completa de apuntes”), para que cuando la asignatura se ponga en abierto se pueda ver claramente dónde está el documento completo.
 
@@ -256,7 +254,7 @@ El documento completo (libro) puede ser simplemente una concatenación de los PD
 
 #### El máximo de incentivo económico personal ¿es para todo el curso?
 
-El máximo que especifica la convocatoria es para todo el curso académico. Esto supone, por ejemplo, que si ya se ha alcanzado el máximo personal con asignaturas del primer cuatrimestre no se va a poder recibir incentivo económico si se participa en asignaturas presentadas en el segundo cuatrimestre. En cualquier caso, si se llega a este máximo, los demás beneficios de la convocatoria se seguirán aplicando, por lo que se puede participar en la convocatoria con asignaturas del segundo cuatrimestre aunque ya se haya alcanzado el máximo personal durante el primer cuatrimestre.
+El máximo que especifica la convocatoria es para todo el curso académico.
 
 #### Una asignatura anual, ¿en qué cuatrimestre se puede presentar?
 
