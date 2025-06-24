@@ -5,14 +5,12 @@ description: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 logo: logo-urjc-square.png
 type: guias
 ---
-
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
 El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la convocatoria y responder a todas tus preguntas sobre la convocatoria. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, es muy posible que el video de esta sesión te interese.
 
 * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
 * [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
-
 
 ### Convocatoria
 
@@ -21,21 +19,17 @@ Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](
 ### Solicitudes
 
 * Asignaturas primer cuatrimestre: Hasta el 17 de noviembre de 2025 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de noviembre, incluido).
-
 * Asignaturas segundo cuatrimestre: Hasta el 16 de febrero de 2026 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 14 de febrero, incluido).
-
 * [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026", de primer o segundo cuatrimestre, según sea la asignatura
 
 ### Material auxiliar
 
 * Material de la sesión de presentaciòn del 3 de junio de 2025:
+
   * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
   * [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
-
-* Infografía-resumen de la convocatoria (Pendiente subida)
-
-* Guía-resumen para rellenar el formulario de solicitud  (Pendiente subida)
-
+* [Infografía-resumen de la convocatoria ](https://urjc-my.sharepoint.com/:b:/r/personal/ofilibre_urjc_es/Documents/con%20BECARIOS/Asignaturas%20en%20abierto/Infograf%C3%ADa.pdf?csf=1&web=1&e=y9okE6)
+* [Guía-resumen para rellenar el formulario de solicitud](https://urjc-my.sharepoint.com/:b:/r/personal/ofilibre_urjc_es/Documents/con%20BECARIOS/Asignaturas%20en%20abierto/Guia%2025%20-%2026.pdf?csf=1&web=1&e=pvBOYc)  
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
 
 ### Características principales
@@ -161,7 +155,6 @@ Esta licencia no se aplica a materiales de terceros que puedan estar incluidos e
 Son dos las licencias que han sido aprobadas por el Consejo de Publicación Abierta de la URJC como licencias válidas para materiales en abierto:
 
 * Creative Commons BY (Atribución) 4.0
-
 * Creative Commons BY-SA (Atribución-CompartirIgual) 4.0.
 
 En la [Guía sobre la publicación de materiales docentes en acceso abierto](/guias/materiales-docentes-abierto/) se explican en más detalle ambas licencias.
