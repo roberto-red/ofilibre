@@ -1,0 +1,51 @@
+{{ $data := .Site.Data }}
+{{ $team := cond (eq .Site.Language.Lang "es") $data.es.equipo $data.en.team }}
+{{ with $team }}
+    {{ if .enable }}
+    {{ "<!-- Team section start -->" | safeHTML }}
+    <section class="team section bg-gray" id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
+                        {{ with .title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with .subtitle }}<p>{{ . }}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                {{ range .member }}
+                {{ "<!-- team member -->" | safeHTML }}
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                    <div class="team-member text-center h-100">
+                        <div class="member-photo ratio ratio-1x1">
+                        <img class="img-fluid object-fit-cover" src="{{ .image | absURL }}" alt="{{ .name }}">
+                        </div>
+                        <div class="member-content">
+                        <h3>{{ .name }}</h3>
+                        <span>{{ .designation }}</span>
+                        <p>{{ .description }}</p>
+                        
+                        {{ with .URJCprofile }}
+                        {{ $linkText := cond (eq $.Site.Language.Lang "es") "Enlace al perfil URJC" "Link to URJC profile" }}
+                        <a href="{{ . }}" style="color: #cb0017; text-decoration: underline;" target="_blank" rel="noopener noreferrer">
+                            {{ $linkText }}
+                        </a>
+                        {{ end }}
+                        
+                        </div>
+                    </div>
+                    </div>
+
+                    {{ "<!-- end team member -->" | safeHTML }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ "<!-- Team section end -->" | safeHTML }}
+    {{ end }}
+{{ end }}

@@ -1,77 +1,58 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: static/images
-public_folder: /images
+media_folder: static
+public_folder: /
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/espanol/blog'
+    folder: 'content/spanish/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    media_folder: '/../../../static/images/blog/{{slug}}'
-    public_folder: '/images/blog/{{slug}}'
+    media_folder: '/../../../static/blog/{{slug}}'
+    public_folder: '/blog/{{slug}}'
     editor:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Tipo', name: 'type', widget: 'hidden', default: 'post'}
-      - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
+      - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["Universidad"]}
       - { label: 'Etiquetas', name: 'tags', widget: 'list'}
-      - { label: 'Fondo (alargado)', name: 'bg_image', widget: 'image', default: '/images/backgrounds/page-title.jpg'}
-      - { label: 'Logo (cuadrado)', name: 'thumb', widget: 'image', default: '/images/logo-ofilibre.png'}
+      - { label: 'Logo', name: 'image', widget: 'image', default: '/logos/logo-ofilibre-2025.jpg'}
       - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
-      - label: 'Archivos adjuntos'
-        name: 'files'
-        widget: 'list'
-        media_folder: '/../../../static/documentos/{{slug}}'
-        public_folder: '/documentos/{{slug}}'
-        fields:
-          - { label: 'Archivo', name: 'file', widget: 'file' }
 
   - name: 'guias'
     label: 'Guías'
-    folder: 'content/espanol/guias'
+    folder: 'content/spanish/recursos/guias'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/images/guias/{{slug}}'
-    public_folder: '../../images/guias/{{slug}}'
+    media_folder: '/../../../static/resources/guides/{{slug}}'
+    public_folder: '../../resources/guides/{{slug}}'
     editor:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Logo', name: 'logo', widget: 'image' }
-      - { label: 'Fondo', name: 'feature', widget: 'image', required: false }
+      - { label: 'Logo', name: 'image', widget: 'image' }
       - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
       - { label: 'Etiquetas', name: 'tags', widget: 'list'}
-      - { label: 'Tipo', name: 'type', widget: 'hidden', default: 'guias'}
       - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
-      - label: 'Archivos adjuntos'
-        name: 'files'
-        widget: 'list'
-        media_folder: '/../../../static/documentos/{{slug}}'
-        public_folder: '/documentos/{{slug}}'
-        fields:
-          - { label: 'Archivo', name: 'file', widget: 'file' }
 
   - name: 'fichas'
     label: 'Fichas'
-    folder: 'content/espanol/fichas'
+    folder: 'content/spanish/recursos/fichas'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/images/fichas/{{slug}}'
-    public_folder: ''
+    media_folder: '/../../../static/resources/sheets/{{slug}}'
+    public_folder: '../../resources/sheets/{{slug}}'
     editor:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
-      - { label: 'Logo', name: 'logo', widget: 'image' }
-      - { label: 'Fondo', name: 'feature', widget: 'image', required: false }
+      - { label: 'Logo', name: 'image', widget: 'image' }
       - { label: 'Página web', name: 'website', widget: 'string' }
       - { label: 'Página web (español)', name: 'website_es', widget: 'string', required: false }
       - label: 'Licencias'
@@ -110,31 +91,22 @@ collections:
           - { label: 'Nombre', name: 'name', widget: 'string' }
           - { label: 'Archivo', name: 'file', widget: 'image' }
           - { label: 'Atribución', name: 'attribution', widget: 'string', required: false }
-      - { label: 'Tipo', name: 'type', widget: 'hidden', default: 'fichas' }
       - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
-      - label: 'Archivos adjuntos'
-        name: 'files'
-        widget: 'list'
-        media_folder: '/../../../static/documentos/{{slug}}'
-        public_folder: '/documentos/{{slug}}'
-        fields:
-          - { label: 'Archivo', name: 'file', widget: 'file' }
 
-  - name: 'pres'
+  - name: 'presentaciones'
     label: 'Presentaciones'
-    folder: 'content/espanol/pres'
+    folder: 'content/spanish/recursos/pres'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/transpas/{{slug}}'
-    public_folder: ''
+    media_folder: '/../../../static/resources/presentations/{{slug}}'
+    public_folder: '../../resources/presentations/{{slug}}'
     editor:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
       - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Imagen destacada', name: 'feature', widget: 'image' }
-      - { label: 'Imagen teaser', name: 'teaser', widget: 'image' }
+      - { label: 'Logo', name: 'image', widget: 'image' }
       - label: 'Transparencias'
         name: 'transpas'
         widget: 'object'
@@ -148,35 +120,5 @@ collections:
         fields:
           - { label: 'Nombre', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string' }
-      - { label: 'Tipo', name: 'type', widget: 'hidden', default: 'pres' }
       - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
 
-  - name: 'cursos'
-    label: 'Cursos'
-    folder: 'content/espanol/cursos'
-    create: true
-    slug: '{{slug}}'
-    media_folder: '/../../../static/cursos/{{slug}}'
-    public_folder: '/cursos/{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Logo', name: 'logo', widget: 'image', required: false}
-      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
-      - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
-      - label: 'Materiales'
-        name: 'materiales'
-        required: true
-        widget: 'list'
-        fields:
-          - { label: 'Nombre', name: 'name', widget: 'string' }
-          - { label: 'Archivo', name: 'file', widget: 'file' }
-          - { label: 'Descripción', name: 'description', widget: 'string' }
-      - { label: 'Tipo', name: 'type', widget: 'hidden', default: 'cursos' }
-      - { label: 'Información adicional', name: 'adicional', widget: 'markdown' }
-      - label: 'Archivos adjuntos'
-        name: 'files'
-        widget: 'list'
-        fields:
-          - { label: 'Archivo', name: 'file', widget: 'file' }

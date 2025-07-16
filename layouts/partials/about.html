@@ -1,0 +1,43 @@
+{{ $data := .Site.Data }}
+{{ $about := cond (eq .Site.Language.Lang "es") $data.es.ofilibre $data.en.about }}
+{{ with $about }}
+    {{ if .enable }}
+    {{ "<!-- About section start -->" | safeHTML }}
+    <section class="about section-sm">
+        <div class="container">
+            {{ range .item }}
+                {{ if .positionRight }}
+                    <div class="row mt-50 justify-content-center">
+                        <div class="col-md-5 col-md-5 col-sm-12 offset-md-1">
+                            <div class="content">
+                                <h2>{{ .title }}</h2>
+                                <p>
+                                    {{ .description }}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-5 col-sm-12 text-center">
+                            <img src="{{ .image | absURL }}" class="img-fluid rounded shadow" alt="ofilibre-goals">
+                        </div>
+                    </div>
+                {{ else }}
+                    <div class="row mb-50 justify-content-center">
+                        <div class="col-md-5 col-sm-12 text-center offset-md-1">
+                            <img src="{{ .image | absURL }}" class="img-fluid rounded shadow" alt="ofilibre-origins">
+                        </div>
+                        <div class="col-md-5 col-sm-12">
+                            <div class="content">
+                                <h2>{{ .title }}</h2>
+                                <p>
+                                    {{ .description }}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+            {{ end }}
+        </div>
+    </section>
+    {{"<!-- About section end -->" | safeHTML}}
+    {{ end }}
+{{ end }}

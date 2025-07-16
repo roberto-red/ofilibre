@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ partial "page-title.html" . }}
+
+<section class="single-presentation section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+
+        <h1 class="mb-4">{{ .Title }}</h1>
+
+        {{ with .Params.categories }}
+            <div class="mb-1">
+            {{ range . }}
+            {{ $cat := . | lower | urlize }}
+            <a href="{{ printf "/categories/%s" $cat | relLangURL }}" class="badge badge-category mr-1">
+                {{ . | lower | title }}
+            </a>
+            {{ end }}
+            </div>
+        {{ end }}
+
+        <div class="post-thumb mb-3">
+          {{ with .Params.slides.pdf }}
+          <a href="{{ . | relURL }}" target="_blank" rel="noopener">
+            <img class="img-fluid" src="{{ $.Params.image | absURL }}" alt="{{ $.Title }}">
+          </a>
+          {{ else }}
+          <img class="img-fluid" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          {{ end }}
+        </div>
+
+        <h3 class="mt-5 mb-3">{{ i18n "description" }}</h3>
+        <div class="presentation-description mb-3 post-content">
+          {{ .Content }}
+        </div>
+
+        <h3 class="mt-4 mb-3">{{ i18n "download" }}</h3>
+        <ul class="list-unstyled mb-4">
+          {{ with .Params.slides.pdf }}
+          <li>
+            <a href="{{ . | relURL }}" target="_blank" rel="noopener">
+              📄 PDF
+            </a>
+          </li>
+          {{ end }}
+          {{ with .Params.slides.odp }}
+          <li>
+            <a href="{{ . | relURL }}" target="_blank" rel="noopener">
+              🧾 ODP
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+
+        {{ with .Params.extras }}
+        <h3 class="mt-4 mb-3">{{ i18n "moreInfo" }}</h3>
+        <ul class="pl-4" style="list-style-type: disc;">
+          {{ range . }}
+          <li>
+            <a href="{{ .url | relURL }}" target="_blank" rel="noopener">
+              {{ .name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+

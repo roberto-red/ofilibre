@@ -1,0 +1,61 @@
+{{ "<!-- Page title section start -->" | safeHTML }}
+<section class="single-page-header py-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <nav class="breadcrumb-nav" aria-label="breadcrumb" role="navigation">
+          <ol class="breadcrumb mb-0">
+
+            <li class="breadcrumb-item">
+              <a href="{{ "/" | relLangURL }}" class="text-decoration-underline">
+                {{ i18n "home" | default "Inicio" }}
+              </a>
+            </li>
+
+            {{ if eq .Kind "term" }}
+              {{ if eq .Type "categories" }}
+                <li class="breadcrumb-item">
+                  <a href="{{ "/categories/" | relLangURL }}" class="text-decoration-underline">
+                    {{ i18n "categories" | default "Categorías" }}
+                  </a>
+                </li>
+              {{ else if eq .Type "tags" }}
+                <li class="breadcrumb-item">
+                  <a href="{{ "/tags/" | relLangURL }}" class="text-decoration-underline">
+                    {{ i18n "tags" | default "Etiquetas" }}
+                  </a>
+                </li>
+              {{ end }}
+
+            {{ else if or .IsPage (eq .Kind "section") }}
+              {{ $ancestors := .CurrentSection.Ancestors }}
+              {{ if eq .Kind "section" }}
+                {{ $ancestors = .Ancestors }}
+              {{ end }}
+
+              {{ range $ancestors.Reverse }}
+                {{ if not .IsHome }}
+                  <li class="breadcrumb-item">
+                    <a href="{{ .RelPermalink }}" class="text-decoration-underline">
+                      {{ .Title }}
+                    </a>
+                  </li>
+                {{ end }}
+              {{ end }}
+
+              {{ if and .CurrentSection (ne .CurrentSection.Title .Title) }}
+                <li class="breadcrumb-item">
+                  <a href="{{ .CurrentSection.RelPermalink }}" class="text-decoration-underline">
+                    {{ .CurrentSection.Title }}
+                  </a>
+                </li>
+              {{ end }}
+            {{ end }}
+
+            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+</section>

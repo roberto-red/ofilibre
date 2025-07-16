@@ -1,0 +1,49 @@
+{{ $data := .Site.Data }}
+{{ $carrousel := cond (eq .Site.Language.Lang "es") $data.es.carrusel $data.en.carrousel }}
+{{ with $carrousel }}
+  {{ if .enable }}
+    <section class="feature-slider">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
+                    {{ with .title }}
+                        <h2>{{ . }}</h2>
+                        <span class="border"></span>
+                    {{ end }}
+                    {{ with .subtitle }}<p style="color:black;">{{ . }}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="row">
+        <div class="col-12">
+            <div id="featureSlider">
+              {{ range $element := .item }}
+              <div class="feature-slide">
+                  <div class="feature-card text-center" style="background: #f5f3f3;">
+                      <div class="feature-icon">
+                          <i class="{{ $element.icon }}"></i>
+                      </div>
+                      {{ with $element.title }}
+                          <h3 class="feature-title">
+                              {{ with $element.link }}
+                                  <a href="{{ . }}" style="color:black;">{{ $element.title }}</a>
+                              {{ else }}
+                                  {{ $element.title }}
+                              {{ end }}
+                          </h3>
+                      {{ end }}
+                      <p>{{ $element.description }}</p>
+                  </div>
+              </div>
+              {{ end }}
+
+            </div>
+        </div>
+        </div>
+    </div>
+    </section>
+    {{ end }}
+{{ end }}
+

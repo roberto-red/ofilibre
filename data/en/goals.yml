@@ -1,0 +1,52 @@
+enable    : true
+topTitle  : About what we do
+title     : Lines of action
+tabItem   :
+  - id        : publicacionAbierta
+    title     : Open Publishing
+    content   : >
+      We understand open publishing (open access) as defined by the Berlin Declaration, and this is how we present it to the university community — as a fundamental pillar of disseminating research results. We also believe this idea extends to many learning support materials and, in general, to documents, audio, video, multimedia, etc., produced as part of teaching, research, or administrative activities at the University. <br><br>
+      The main objectives of this line are: <br><br>
+      - Promote open publishing of materials produced institutionally by the University. <br>
+      - Support the open publishing process for those already practicing it, both in teaching and research. <br>
+      - Train university personnel interested in free knowledge in technical, legal, and economic aspects. <br>
+      - Create an interest group to promote free knowledge and open publishing at the University. <br>
+      - Promote awareness of open publishing and free knowledge options at the University and in broader society.
+    image     : /blog/revistas-academicas-urjc/revistas.png
+
+  - id        : culturaLibre
+    title     : Free Culture
+    content   : >
+      Free culture refers to works whose creators grant permission to copy, modify, and redistribute, according to the most widely accepted definition of free cultural works. <br><br>
+      We believe the university community can benefit in many cases from using free cultural works and from sharing their own creations under these principles. Following this idea, we aim to help individuals and University institutions better understand free culture and participate in it, to the extent it aligns with our values and goals. <br><br>
+      Our main objectives in this area are: <br>
+      - Promote awareness and engagement with free cultural works by the university community. <br>
+      - Encourage the production of free cultural works by university members. <br>
+      - Foster the creation of a group of creators interested in producing free cultural works. <br>
+    image     : /images/cc-licenses/cc_by-sa_3.0.png
+
+  - id        : datosAbiertos
+    title     : Open Data
+    content   : >
+      Open data refers to data published in ways that make reuse as easy and practical as possible. The Open Knowledge Foundation offers a more detailed definition in its Open Data Handbook. <br><br>
+      At OfiLibre, we believe open data helps improve reproducibility and verification of research results, enhances institutional transparency, and provides opportunities for others to use data in ways the original producers might not have imagined. We believe the university community can benefit from open data, both as producers and consumers. <br><br>
+      Our key objectives in this area include: <br>
+      - Promote knowledge and use of open data as a way to share knowledge, improve efficiency, support decision-making, ensure transparency, and enable accountability. <br>
+      - Encourage publishing open data where feasible and appropriate, especially research data. <br>
+      - Support existing initiatives and promote new ones related to open data publication. <br>
+      - Foster the creation of a university community group interested in open data. <br>
+    image     : /blog/charla-houda-elmimouni/wikipedia.png
+
+  - id        : softwareLibre
+    title     : Free Software
+    content   : >
+      Software is free when its authors grant us the freedom to copy, modify, and redistribute it. Two classic definitions — the Free Software Definition and the Open Source Definition — outline the requirements software must meet to be considered free. <br><br>
+      At OfiLibre, we believe free software is a valuable option in many cases, widely used in industry today, and can offer many benefits to the university community. We aim to show how anyone can use it advantageously and how distributing software we produce under free licenses can be a compelling choice. <br><br>
+      Main objectives in this area: <br>
+      - Promote the use of free software across all university domains and increase awareness of available options. <br>
+      - Encourage understanding of the implications of using free software (technical, legal, economic, and social). <br>
+      - Support the release of software developed through teaching and research activities at the University. <br>
+      - Stimulate the formation of a group interested in promoting free software. <br>
+      - Explain the social implications, options, and benefits of using and producing free software. <br>
+    image     : /blog/software-libre/logo.png
+

@@ -1,46 +1,85 @@
 <head>
-  <meta charset="utf-8">
-  <title>{{ .Title }}</title>
 
-  {{ "<!-- mobile responsive meta -->" | safeHTML }}
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description"
-    content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  {{ with site.Params.author }}
-  <meta name="author" content="{{ . }}">{{ end }}
-  {{ hugo.Generator }}
-  {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
-  {{ if .IsTranslated }}
-  {{ range .Page.AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-  {{ end }}
-  {{ end }}
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+{{ with .Site.Params.author }} <meta name="author" content="{{ . }}">{{ end }}
+{{ hugo.Generator }}
 
-  {{ "<!-- plugins -->" | safeHTML }}
-  {{ range site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}">
-  {{ end }}
+<title>{{ .Title }}</title>
 
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+{{ "<!-- Mobile Specific Meta -->" | safeHTML }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<meta name="theme-name" content="navigator-hugo" />
 
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+{{ "<!-- Favicon -->" | safeHTML }}
+<link rel="shortcut icon" type="image/x-icon" href="{{ `favicons/favicon-urjc.ico` | absURL }}" />
 
-  <script type="text/javascript">
-    (
-      function() {
-        var sbSiteSecret = '24d91532-5fe7-4f62-b2df-3a0f5f91f9ca';
-        window.sitebehaviourTrackingSecret = sbSiteSecret;
-        var scriptElement = document.createElement('script');
-        scriptElement.async = true;
-        scriptElement.id = 'site-behaviour-script-v2';
-        scriptElement.src = 'https://sitebehaviour-cdn.fra1.cdn.digitaloceanspaces.com/index.min.js?sitebehaviour-secret=' + sbSiteSecret;
-        document.head.appendChild(scriptElement); 
-      }
-    )()
+{{"<!-- Stylesheets -->" | safeHTML}}
+{{ "<!-- Themefisher Icon font -->" | safeHTML }}
+<link rel="stylesheet" href="{{ `plugins/themefisher-font/style.css` | absURL }}">
+{{ "<!-- bootstrap.min css -->" | safeHTML}}
+<link rel="stylesheet" href="{{ `plugins/bootstrap/dist/css/bootstrap.min.css` | absURL }}">
+{{ "<!-- Lightbox.min css -->" | safeHTML }}
+<link rel="stylesheet" href="{{ `plugins/lightbox2/dist/css/lightbox.min.css` | absURL }}">
+{{ "<!-- Slick Carousel -->" | safeHTML }}
+<link rel="stylesheet" href="{{ `plugins/slick-carousel/slick/slick.css` | absURL }}">
+<link rel="stylesheet" href="{{ `plugins/slick-carousel/slick/slick-theme.css` | absURL }}">
+{{ "<!-- Main Stylesheet -->" | safeHTML }}
+
+{{ $styles := resources.Get "css/style.css" | minify}}
+<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    $('#featureSlider').slick({
+      dots: true,
+      arrows: false,
+      infinite: true,
+      speed: 3000,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 3000,
+      responsive: [
+        {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            centerMode: true,
+            centerPadding: '20px'
+          }
+        }
+      ]
+    });
+  });
 </script>
+
+<!-- -->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 
 </head>

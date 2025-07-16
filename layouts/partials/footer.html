@@ -1,146 +1,85 @@
-<!-- footer -->
-<footer>
-  <!-- newsletter -->
-  {{ if site.Params.subscription.enable }}
-  {{ with site.Params.subscription }}
-  <div class="newsletter">
+{{ "<!-- Footer start -->" | safeHTML }}
+<footer id="footer" class="bg-one">
+  <div class="top-footer">
     <div class="container">
-      <div class="row">
-        <div class="col-md-7 ml-auto bg-primary py-5 newsletter-block">
-          <h3 class="text-white">Síguenos en nuestras redes sociales</h3>
-          <div class="col-sm-5 text-sm-right text-center">
-            <ul class="list-inline">
-              {{ range site.Params.social }}
-              <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-white"></i></a></li>
-              {{ end }}
-            </ul>
-          </div>
-          <!--
-          <form action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
-            <div class="input-wrapper">
-              <input type="email" class="form-control border-0" id="newsletter" name="newsletter" placeholder="{{ i18n "enter_email" }}">
-              <button type="submit" name="subscribe" class="btn btn-primary">{{ i18n "join" }}</button>
-              <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
-              </div>
-            </div>
-          </form>
-          -->
+      <div class="row align-items-center">
+
+        <div class="col-sm-3 col-md-3 col-lg-3">
+          <h3 class="mt-2 mb-2" >Blog</h3>
+          <ul>
+            {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
         </div>
+
+        {{ $lang := .Site.Language.Lang }}
+        {{ $activities := index .Site.Data $lang }}
+        {{ $activitiesData := cond (eq $lang "es") $activities.acciones $activities.activities }}
+        <div class="col-sm-3 col-md-3 col-lg-3">
+          <h3 class="mt-2 mb-2" >{{ $activitiesData.title }}</h3>
+          <ul>
+            {{ range $activitiesData.item }}
+              <li><a href="{{ .link | default "#" }}">{{ .title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+
+        {{ $resources := index .Site.Data $lang }}
+        {{ $resourcesData := cond (eq $lang "es") $resources.recursos $resources.resources }}
+        <div class="col-sm-3 col-md-3 col-lg-2 pr-0">
+          <h3 class="mt-2 mb-2" >{{ $resourcesData.title }}</h3>
+          <ul>
+            {{ range $resourcesData.item }}
+              <li><a href="{{ .link | absLangURL }}">{{ .title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+
+        <div class="col-sm-3 col-md-3 col-lg-3 text-right">
+          <img src="{{ "images/logos/banner-urjc.png" | absURL }}" alt="Logo Blanco" style="max-width: 300px; height: auto;">
+        </div>
+
       </div>
     </div>
   </div>
-  {{ end }}
-  {{ end }}
-  <!-- footer content -->
-  <div class="footer bg-footer section border-bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
-          <!-- logo -->
-          <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
-          <ul class="list-unstyled">
-            <li class="mb-4">{{ site.Params.address | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.email | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
-          </ul>
-        </div>
-        <!-- company -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "company" }}</h4>
-          <ul class="list-unstyled">
-            {{ range site.Menus.main }}
-            {{ if not .HasChildren }}
-            <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-            {{ end }}
-            {{ end }}
-          </ul>
-        </div>
-        <!-- links -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "resources" }}</h4>
-          <ul class="list-unstyled">
-            {{ range site.Menus.footer }}
-            <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-        <!-- support -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "fichas" }}</h4>
-          <ul class="list-unstyled">
-            {{ range first 5 (where site.RegularPages "Type" "fichas")}}
-            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-        <!-- support -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "guides" }}</h4>
-          <ul class="list-unstyled">
-            {{ range first 3 (where site.RegularPages "Type" "guias")}}
-            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div>
+
+  <div class="footer-bottom">
+    <h5>© 2021. {{ if eq .Site.Language.Lang "es" }}Todos los derechos reservados.{{ else }}All rights reserved.{{ end }}</h5>
+    <h6>
+      {{ if eq .Site.Language.Lang "es" }}
+        Diseño y desarrollo por Themefisher<br>Ver más en
+      {{ else }}
+        Design and developed by Themefisher<br>Get more at
+      {{ end }}
+      <a href="https://themefisher.com/hugo-themes/" target="_blank">Themefisher</a>
+    </h6>
   </div>
-  <!-- copyright -->
-  <div class="copyright py-4 bg-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-7 text-sm-left text-center">
-          <p class="mb-0 text-color">{{ site.Params.copyright | markdownify }}</p>
-        </div>
-        <div class="col-sm-5 text-sm-right text-center">
-          <ul class="list-inline">
-            {{ range site.Params.social }}
-            <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</footer>
-<!-- /footer -->
+{{ "<!-- end footer -->" | safeHTML }}
+{{ "<!-- Essential Scripts -->" | safeHTML }}
 
-{{ "<!-- Google Map API -->" | safeHTML }}
-{{ with site.Params.map.gmap_api }}
-<script src="{{ . | safeURL }}"></script>
-{{ end }}
-
-{{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
-{{ end }}
-
+{{ "<!-- jQuery -->" | safeHTML }}
+<script src="{{ `plugins/jquery/dist/jquery.min.js` | absURL }}"></script>
+{{ "<!-- Bootstrap -->" | safeHTML }}
+<script src="{{ `plugins/bootstrap/dist/js/popper.min.js` | absURL }}"></script>
+<script src="{{ `plugins/bootstrap/dist/js/bootstrap.min.js` | absURL }}"></script>
+{{ "<!-- Parallax -->" | safeHTML }}
+<script src="{{ `plugins/parallax/jquery.parallax-1.1.3.js` | absURL }}"></script>
+{{ "<!-- lightbox -->" | safeHTML }}
+<script src="{{ `plugins/lightbox2/dist/js/lightbox.min.js` | absURL }}"></script>
+{{ "<!-- Slick Carousel -->" | safeHTML }}
+<script src="{{ `plugins/slick-carousel/slick/slick.min.js` | absURL }}"></script>
+{{ "<!-- recursos Filtering -->" | safeHTML }}
+<script src="{{ `plugins/filterzr/jquery.filterizr.min.js` | absURL }}"></script>
+{{ "<!-- Smooth Scroll js -->" | safeHTML }}
+<script src="{{ `plugins/smooth-scroll/dist/js/smooth-scroll.min.js` | absURL }}"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
-{{ "<!-- google analitycs -->" | safeHTML }}
-{{ with site.Params.google_analitycs_id}}
-<script>
-  (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-  ga('create', '{{ . }}', 'auto');
-  ga('send', 'pageview');
-</script>
-{{ end }}
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
-
-<!-- cookie -->
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
@@ -162,23 +101,5 @@
 	})(jQuery);
 </script>
 
-<!-- cookie style -->
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
 
-.cookie-box-hide {
-  display: none;
-}
-</style>
 {{ end }}

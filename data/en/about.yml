@@ -1,0 +1,17 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : /images/backgrounds/open-access-square.jpg
+    title : Goals
+    description : >
+      The Office for Free Knowledge and Culture (OfiLibre) is responsible for informing, promoting, coordinating, and facilitating in its areas of action, in collaboration with all university stakeholders.
+
+      At OfiLibre, we aim to help the university community understand free culture, open publishing, open data, and free software. To do this, we explain what they are, how they work, what their characteristics are, and the benefits they can offer, so that everyone can decide how they want to engage with them.
+
+  - positionRight : true
+    image : /about/goals.png
+    title : Origins
+    description : >
+      OfiLibre is an initiative that seeks the participation of the entire university community so that together we can find our way in the world of free knowledge and culture.
+      
+      You might be interested in seeing a brief presentation of OfiLibre.

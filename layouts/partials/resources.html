@@ -1,0 +1,62 @@
+{{ $data := .Site.Data }}
+{{ $resources := cond (eq .Site.Language.Lang "es") $data.es.recursos $data.en.resources }}
+{{ with $resources }}
+    {{ if .enable }}
+    {{ "<!-- Resources section start -->" | safeHTML }}
+    <section class="resources section bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}
+                            <h4>{{ . }}</h4>
+                        {{ end }}
+                        {{ with .title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with .subtitle }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                {{ range $index, $element := .item }}
+                    <div class="col-md-4 col-sm-6 p-0">
+                        <div class="resources-item text-center d-flex flex-column justify-content-start h-100 w-100">
+                        {{ with $element.link }}
+                            <a href="{{ . | relLangURL }}" style="color:inherit; text-decoration:none;">
+                        {{ end }}
+                        <div class="feature-icon custom-icon">
+                            <i class="{{ $element.icon }}"></i>
+                        </div>
+                        {{ with $element.number }}
+                            <span class="count">{{ . }}.</span>
+                        {{ end }}
+                        <h4>
+                            {{ if $element.link }}
+                            {{ $element.title }}
+                            {{ else }}
+                            {{ $element.title }}
+                            {{ end }}
+                        </h4>
+                        {{ if $element.link }}
+                            </a>
+                        {{ end }}
+                        {{ with $element.description }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                        </div>
+                    </div>
+                    {{ if eq (mod $index 2) 1 }}
+                        <div class="w-100"></div>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ "<!-- Resources section end -->" | safeHTML }}
+    {{ end }}
+{{ end }}
+

@@ -1,0 +1,33 @@
+---
+title: Café con OfiLibre
+image: /activities/cafes/logo.png
+date: 2024-11-02
+description: "Café con OfiLibre. A few minutes each week on free culture, open access publishing, free software, open data, and all those topics you're into."
+---
+
+Every Wednesday during the academic year, at 10:00 AM, we meet for 15 minutes via videoconference at Café con OfiLibre. It’s a relaxed chat about the issues that concern us. Each day we cover a topic — just join in and listen. And participate, if you feel like it. After all, it’s a way to keep in touch for those of us interested in free culture, open access publishing, free software, open data, and all that jazz. Just bring your own coffee (or tea, or water, or whatever you like).
+
+## Useful links:
+
+* [TV URJC: Café con OfiLibre live](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9)
+
+* [TV URJC: Café con OfiLibre series](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)
+
+* [iVoox: Café con OfiLibre](https://www.ivoox.com/escuchar-cafe-ofilibre_nq_8764906_1.html)
+
+* [Internet Archive: Café con OfiLibre 2024–2025](https://archive.org/search?query=series%3A%22Caf%C3%A9+con+con+OfiLibre+2024-2025%22)
+
+* [Internet Archive: Café con OfiLibre 2023–2024](https://archive.org/search?query=series%3A%22Caf%C3%A9+con+con+OfiLibre+2023-2024%22)
+
+## Tentative schedule for upcoming coffees:
+
+* September 2025: Start of academic year 2025–2026
+
+## Coffees already enjoyed:
+
+Academic year 2024–2025
+
+* June 25: [End of academic year 2024–2025](https://tv.urjc.es/video/685e432db0e0d032851ef8c0)
+* June 4: [Change in Vice-Rectorate / New Stage](https://tv.urjc.es/video/68419c06b0e0d0ff0f1ddc5a), with Mercedes del Hoyo Hurtado and Joaquín Rams Ramos
+* May 28: [Free Software: Why It Matters in Universities](https://tv.urjc.es/video/6837fb18b0e0d073580cced5)
+* May 21: [Open Courses: Interactive Advertising](https://tv.urjc.es/video/6835800fb0e0d0f6c42e8fa2), with María del Carmen Gálvez, Coordinator of the Degree in Digital Communication

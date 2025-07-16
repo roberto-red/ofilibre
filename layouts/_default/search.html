@@ -1,0 +1,130 @@
+{{ define "main" }}
+{{ partial "page-title" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center mb-4">
+      <div class="col-lg-8 text-center">
+        <h1>{{ i18n "searchTitle" }}</h1>
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="{{ i18n "searchPlaceholder" }}"
+          class="form-control form-control-lg mt-3"
+          style="max-width: 100%; padding: 0.75em; font-size: 1.1em; border: 2px solid #cb0017; border-radius: 6px;"
+        />
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <h3 class="mb-3" id="internalTitle" style="display: none;">
+          {{ i18n "internalSearchTitle" }}
+        </h3>
+        <ul id="internalResults" class="list-unstyled"></ul>
+      </div>
+      <div class="col-lg-6">
+        <h3 class="mb-3" id="externalTitle" style="display: none;">
+          {{ i18n "externalSearchTitle" }}
+        </h3>
+        <ul id="externalResults" class="list-unstyled"></ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+<script>
+  const searchInput = document.getElementById('searchInput');
+  const internalResults = document.getElementById('internalResults');
+  const externalResults = document.getElementById('externalResults');
+  const internalTitle = document.getElementById('internalTitle');
+  const externalTitle = document.getElementById('externalTitle');
+
+  const lang = "{{ .Site.Language.Lang }}";
+  const noResultsMsg = lang === "" ? "No se encontraron resultados." : "No results found.";
+  const indexUrl = "{{ "index.json" | relLangURL }}";
+
+  let fuse;
+  let currentQuery = '';
+  fetch(indexUrl)
+    .then(res => res.json())
+    .then(data => {
+      fuse = new Fuse(data, {
+        keys: ['content', 'title'],
+        threshold: 0.3,
+        includeScore: true
+      });
+
+      searchInput.addEventListener('input', async () => {
+        currentQuery = searchInput.value.trim();
+        const query = currentQuery;
+
+        if (query.length === 0) {
+          internalResults.innerHTML = '';
+          externalResults.innerHTML = '';
+          internalTitle.style.display = 'none';
+          externalTitle.style.display = 'none';
+          return;
+        }
+
+        internalTitle.style.display = 'block';
+        externalTitle.style.display = 'block';
+
+        internalResults.innerHTML = '';
+        const results = fuse.search(query);
+
+        if (results.length === 0) {
+          internalResults.innerHTML = `<li><p style="color: #666;">${noResultsMsg}</p></li>`;
+        } else {
+          results.forEach(result => {
+            const item = result.item;
+            const li = document.createElement('li');
+            li.innerHTML = `
+              <a href="${item.permalink}" class="d-block mb-3 p-3 border rounded shadow-sm text-decoration-none text-dark" style="transition: 0.2s;">
+                <strong style="color: #cb0017;">${item.title}</strong><br>
+                <small>${item.content.substring(0, 120)}...</small>
+              </a>`;
+            internalResults.appendChild(li);
+          });
+        }
+
+        await searchInternetArchive(query);
+      });
+    });
+
+  async function searchInternetArchive(query) {
+    const encodedQuery = encodeURIComponent(`(title:${query} OR description:${query}) AND creator:"OfiLibre URJC"`);
+    const archiveUrl = `https://archive.org/advancedsearch.php?q=${encodedQuery}&output=json&fl[]=identifier&fl[]=title&fl[]=description&rows=5`;
+
+    try {
+      const res = await fetch(archiveUrl);
+      const data = await res.json();
+
+      if (searchInput.value.trim() !== query) return;
+
+      externalResults.innerHTML = '';
+
+      if (data.response && data.response.docs.length > 0) {
+        data.response.docs.forEach(doc => {
+          const link = `https://archive.org/details/${doc.identifier}`;
+          const li = document.createElement('li');
+          li.innerHTML = `
+            <a href="${link}" target="_blank" class="d-block mb-3 p-3 border rounded shadow-sm text-decoration-none text-dark" style="transition: 0.2s;">
+              <strong style="color: #cb0017;">${doc.title}</strong><br>
+              <small>${(doc.description || '').substring(0, 120)}...</small>
+            </a>`;
+          externalResults.appendChild(li);
+        });
+      } else {
+        externalResults.innerHTML = `<li><p style="color: #666;">${noResultsMsg}</p></li>`;
+      }
+    } catch (err) {
+      console.error("Error al buscar en Internet Archive:", err);
+      externalResults.innerHTML = `<li><p style="color: #666;">${noResultsMsg}</p></li>`;
+    }
+  }
+</script>
+
+{{ end }}

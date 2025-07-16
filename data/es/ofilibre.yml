@@ -1,0 +1,17 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : /images/backgrounds/open-access-square.jpg
+    title : Objetivos
+    description : >
+      La Oficina de Conocimiento y Cultura Libres (OfiLibre) tiene la función de informar, promocionar, coordinar y facilitar en sus ámbitos de actuación, y en colaboración con todos los agentes de la Universidad.
+
+      En la OfiLibre queremos ayudar a la comunidad universitaria a comprender la cultura libre, la publicación libre, los datos abiertos y el software libre. Para ello nos dedicamos a explicar qué son, cómo funcionan, qué características tienen, y qué beneficios pueden producir, de forma que cualquiera pueda decidir cómo le conviene relacionarse con ellos.
+  
+  - positionRight : true
+    image : /about/goals.png
+    title : Origen
+    description : >
+      La OfiLibre es una iniciativa que trata de contar con la participación de toda la comunidad universitaria para que, entre todos, podamos encontrar nuestro camino en el mundo del conocimiento y la cultura libres.
+      
+      Puede que te interese ver una breve Presentación de la OfiLibre.

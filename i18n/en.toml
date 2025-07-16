@@ -1,0 +1,105 @@
+[home]
+other = "Home"
+
+[about]
+other = "About"
+
+[activities]
+other = "Activities"
+
+[resources]
+other = "Resources"
+
+[contact]
+other = "Contact"
+
+[search]
+other = "Search"
+
+[blog]
+other = "Blog"
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[webdevelopment]
+other = "Web Development"
+
+[partners]
+other = "Partners"
+[faqs]
+other = "FAQ's"
+[badges]
+other = "Badges"
+
+[category_base]
+other = "categories"
+
+# Sheets
+
+[logoOf]
+other = "Logo of"
+
+[licenses]
+other = "Licenses"
+
+[website]
+other = "Website"
+
+[websiteEs]
+other = "Website (Spanish)"
+
+[installGuides]
+other = "Installation guides"
+
+[tutorials]
+other = "Tutorials"
+
+[sourceCode]
+other = "Source code"
+
+[additionalLinks]
+other = "Additional links"
+
+[myapps]
+other = "Available on MyApps URJC"
+
+[lastUpdated]
+other = "Last updated"
+
+# Presentations
+
+[description]
+other = "Description"
+
+[download]
+other = "Download"
+
+[moreInfo]
+other = "More information"
+
+# Search
+
+[searchTitle]
+other = "Search"
+
+[searchPlaceholder]
+other = "Type to search..."
+
+[internalSearchTitle]
+other = "OfiLibre web"
+
+[externalSearchTitle]
+other = "Internet Archive"
+
+# Contact
+
+[ubicacion]
+other = "Location"
+
+[correo]
+other = "Email"
+
+[redes]
+other = "Social networks"

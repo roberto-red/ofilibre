@@ -1,0 +1,28 @@
+enable    : true
+topTitle  : Novedades en la OfiLibre
+title     : Convocatorias abiertas y enlaces de interés
+item  :
+  - icon  : tf-ion-ios-calendar-outline
+    title : Jornadas de Cultura Libre
+    link  : /acciones/jornadas-cultura-libre
+    description : >
+      Consulta el contenido completo de las IV Jornadas de Cultura Libre, con enlaces a los vídeos de las presentaciones, así como a los materiales utilizados en las mismas. Ponencias, talleres y actividades sobre acceso abierto, educación, ciencia ciudadana e innovación, entre otras actividades. ¡No te pierdas ningún detalle!
+
+  - icon  : tf-ion-ios-paper
+    title : Convocatoria de asignaturas en abierto 2025-2026
+    link  : /recursos/guias/convocatoria-asignaturas-abierto/
+    description : >
+      Consulta los detalles sobre la Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026.
+
+  - icon  : tf-ion-coffee
+    title : Café con OfiLibre
+    link  : /acciones/cafe-con-ofilibre
+    description : >
+      Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el Café con la OfiLibre, por streaming. Un rato para charlar de forma relajada sobre los temas que nos preocupan. Cada día tratamos un tema: sólo tienes que conectarte y escuchar. Y participar, si te apetece. Puedes ver también las grabaciones de los cafés pasados.
+
+  - icon  : tf-ion-ios-book-outline
+    title : Revistas académicas en abierto de la URJC
+    link  : https://revistas.urjc.es/
+    description : >
+      Plataforma de revistas académicas publicadas en acceso abierto por la URJC. Todas estas revistas siguen la vía diamante.
+

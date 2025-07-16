@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10 col-lg-8">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+        <hr style="height: 1px; background-color: #939191; opacity: 1; margin: 1.5rem 0;">
+      </div>
+      {{ if .Params.documents }}
+      <div class="col-12 col-md-10 col-lg-8">
+        <h3>{{ if eq .Site.Language.Lang "es" }}Materiales{{ else }}Documents{{ end }}</h3>
+        <ul>
+          {{ range .Params.documents }}
+          <li>
+            <a href="{{ .file }}" download>{{ .name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

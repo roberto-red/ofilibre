@@ -1,0 +1,94 @@
+# Navbar Menus
+[[nav]]
+name = "ofilibre"
+url = "ofilibre/"
+weight = 2
+
+[[nav]]
+name = "acciones"
+url = "acciones/"
+weight = 3
+
+[[nav]]
+name = "recursos"
+url = "recursos/"
+weight = 4
+hasChildren = true
+
+  [[nav]]
+  parent = "recursos"
+  name = "Catálogo de materiales docentes libres"
+  url = "recursos/catalogo/"
+  weight = 1
+
+  [[nav]]
+  parent = "recursos"
+  name = "Guías"
+  url = "recursos/guias/"
+  weight = 2
+
+  [[nav]]
+  parent = "recursos"
+  name = "Fichas"
+  url = "recursos/fichas/"
+  weight = 3
+
+  [[nav]]
+  parent = "recursos"
+  name = "Presentaciones"
+  url = "recursos/presentaciones/"
+  weight = 4
+
+  [[nav]]
+  parent = "recursos"
+  name = "Código OfiLibre"
+  url = "https://gitlab.etsit.urjc.es/ofilibre/code"
+  weight = 5
+  target = "_blank"
+
+[[nav]]
+name = "blog"
+url = "blog/"
+weight = 5
+
+[[nav]]
+name = "contacto"
+url = "contacto/"
+weight = 6
+
+[[nav]]
+name = "buscar"
+url = "buscar/"
+weight = 7
+
+# Footer acciones Menu
+[[acciones]]
+name = "graphicdesign"
+url = "acciones/"
+weight = 1
+[[acciones]]
+name = "webdesign"
+url = "acciones/"
+weight = 2
+[[acciones]]
+name = "webdevelopment"
+url = "acciones/"
+weight = 3
+
+# Footer Quick links Menu
+[[quicklink]]
+name = "partners"
+url = "ofilibre/"
+weight = 1
+[[quicklink]]
+name = "ofilibre"
+url = "ofilibre/"
+weight = 2
+[[quicklink]]
+name = "faqs"
+url = "ofilibre/"
+weight = 3
+[[quicklink]]
+name = "badges"
+url = "ofilibre/"
+weight = 4

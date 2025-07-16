@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+{{ partial "page-title" . }}
+
+<section class="blog-single section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <h2>{{ .Title }}</h2>
+                <div class="post-content">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}

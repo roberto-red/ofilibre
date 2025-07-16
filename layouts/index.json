@@ -1,0 +1,11 @@
+{{- $pages := where .Site.RegularPages "Params.private" "!=" true -}}
+[
+  {{- range $i, $page := $pages }}
+    {{- if gt $i 0 }},{{ end }}
+    {
+      "title": {{ $page.Title | jsonify }},
+      "permalink": {{ $page.Permalink | jsonify }},
+      "content": {{ $page.Plain | jsonify }}
+    }
+  {{- end }}
+]

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <h1 class="mb-4 text-center">
+      {{ if eq .Site.Language.Lang "es" }}Categorías{{ else }}Categories{{ end }}
+    </h1>
+
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        {{ range .Data.Terms.Alphabetical }}
+          <a href="{{ .Page.RelPermalink }}" class="badge badge-category m-1 d-inline-block">
+            {{ .Page.Title | title }} ({{ .Count }})
+          </a>
+        {{ else }}
+          <p>{{ if eq .Site.Language.Lang "es" }}No se encontraron categorías.{{ else }}No categories found.{{ end }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+

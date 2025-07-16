@@ -1,0 +1,102 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section-sm">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+    </div>
+
+    {{ with .Params.categories }}
+      <div class="mb-1">
+      {{ range . }}
+      {{ $cat := . | lower | urlize }}
+      <a href="{{ printf "/categories/%s" $cat | relLangURL }}" class="badge badge-category mr-1">
+          {{ . | lower | title }}
+      </a>
+      {{ end }}
+      </div>
+    {{ end }}
+
+    {{ with .Params.image }}
+    <div class="row mb-4">
+      <div class="col-md-4 mx-auto">
+        <img src="{{ . | absURL }}" alt="{{ i18n "logoOf" }} {{ $.Title }}" class="img-fluid d-block mx-auto" style="max-height: 200px; object-fit: contain;">
+      </div>
+    </div>
+    {{ end }}
+
+    <div class="row">
+      <div class="col-12 mb-5 content">
+        {{ .Content }}
+        <ul class="sheet mt-4">
+          {{ with .Params.licenses }}
+          <li><strong>{{ i18n "licenses" }}:</strong>
+            <ul>
+              {{ range . }}
+              <li><a href="{{ .url }}">{{ .name }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ end }}
+
+          {{ with .Params.website }}
+          <li class="link"><a href="{{ . }}"><strong>{{ i18n "website" }}</strong></a></li>
+          {{ end }}
+
+          {{ with .Params.website_es }}
+          <li class="link"><a href="{{ . }}"><strong>{{ i18n "websiteEs" }}</strong></a></li>
+          {{ end }}
+
+          {{ with .Params.installs }}
+          <li><strong>{{ i18n "installGuides" }}:</strong>
+            <ul>
+              {{ range . }}
+              <li><a href="{{ .url }}">{{ .name }}</a>{{ with .kind }} ({{ . }}){{ end }}</li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ end }}
+
+          {{ with .Params.tutorials }}
+          <li><strong>{{ i18n "tutorials" }}:</strong>
+            <ul>
+              {{ range . }}
+              <li><a href="{{ .url }}">{{ .name }}</a>{{ with .kind }} ({{ . }}){{ end }}</li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ end }}
+
+          {{ with .Params.source }}
+          <li class="link"><a href="{{ . }}"><strong>{{ i18n "sourceCode" }}</strong></a></li>
+          {{ end }}
+
+          {{ with .Params.others }}
+          <li><strong>{{ i18n "additionalLinks" }}:</strong>
+            <ul>
+              {{ range . }}
+              <li><a href="{{ .url }}">{{ .name }}</a>{{ with .kind }} ({{ . }}){{ end }}</li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ end }}
+
+          {{ if .Params.myapps }}
+          <li class="link"><a href="https://myapps.urjc.es/"><strong>{{ i18n "myapps" }}</strong></a></li>
+          {{ end }}
+
+          {{ with .Params.date }}
+          <li><strong>{{ i18n "lastUpdated" }}:</strong> {{ . | time.Format "02/01/2006" }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

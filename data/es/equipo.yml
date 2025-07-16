@@ -1,0 +1,18 @@
+enable  : true
+topTitle: Miembros actuales de la oficina
+title   : Equipo de la OfiLibre
+
+member  :
+  - image         : /about/team/jgb.jpg
+    name          : Jesús González Barahona
+    designation   : Coordinador de la OfiLibre
+    URJCprofile   : https://servicios.urjc.es/pdi/ver/jesus.gonzalez.barahona
+  - image         : /about/team/fc.png
+    name          : Florencia Claes
+    designation   : Coordinadora de Conocimiento Abierto de la OfiLibre
+    URJCprofile   : https://servicios.urjc.es/pdi/ver/florencia.claes
+
+  - image         : /about/team/tz.jpeg
+    name          : Tomás Zarza
+    designation   : Coordinador de Publicación en Abierto de la OfiLibre
+    URJCprofile   : https://servicios.urjc.es/pdi/ver/tomas.zarza

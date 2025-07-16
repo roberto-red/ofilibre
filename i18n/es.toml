@@ -1,0 +1,105 @@
+[home]
+other = "Inicio"
+
+[ofilibre]
+other = "OfiLibre"
+
+[acciones]
+other = "acciones"
+
+[recursos]
+other = "recursos"
+
+[blog]
+other = "Blog"
+
+[contacto]
+other = "contacto"
+
+[buscar]
+other = "buscar"
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[webdevelopment]
+other = "Web Development"
+
+[partners]
+other = "Partners"
+[faqs]
+other = "FAQ's"
+[badges]
+other = "Badges"
+
+[category_base]
+other = "categorias"
+
+# Fichas
+
+[logoOf]
+other = "Logo de"
+
+[licenses]
+other = "Licencias"
+
+[website]
+other = "Sitio web"
+
+[websiteEs]
+other = "Sitio web (español)"
+
+[installGuides]
+other = "Guías de instalación"
+
+[tutorials]
+other = "Tutoriales"
+
+[sourceCode]
+other = "Código fuente"
+
+[additionalLinks]
+other = "Enlaces adicionales"
+
+[myapps]
+other = "Disponible en MyApps URJC"
+
+[lastUpdated]
+other = "Última actualización"
+
+# Presentaciones
+
+[description]
+other = "Descripción"
+
+[download]
+other = "Descarga"
+
+[moreInfo]
+other = "Más información"
+
+# Buscar
+
+[searchTitle]
+other = "Buscar"
+
+[searchPlaceholder]
+other = "Escribe para buscar..."
+
+[internalSearchTitle]
+other = "Web OfiLibre (contenido de la web)"
+
+[externalSearchTitle]
+other = "Internet Archive (podcasts publicados)"
+
+# Contacto
+
+[ubicacion]
+other = "Ubicación"
+
+[correo]
+other = "Correo electrónico"
+
+[redes]
+other = "Redes sociales"
