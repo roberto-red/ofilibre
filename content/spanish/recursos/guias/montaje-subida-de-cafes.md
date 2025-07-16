@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Proceso de montaje y subida de los Cafés con OfiLibre"
 image: 
 date: 2025-07-16
 type: guides

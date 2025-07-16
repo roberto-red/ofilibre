@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Generación automática de miniaturas usando PIL (Python)"
 image: 
 date: 2025-07-16
 type: guides

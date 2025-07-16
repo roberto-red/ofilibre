@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Herramientas informáticas utilizadas en la OfiLibre"
 date: 2025-07-16
 description: ""
 image: images/logos/logo-ofilibre-2025.jpg

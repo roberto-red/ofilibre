@@ -1,5 +1,5 @@
 ---
-title: "Envío de correos masivos con Evolution"
+title: "Traducción automática de un sitio web Hugo con IA"
 image: 
 date: 2025-07-16
 type: guides
