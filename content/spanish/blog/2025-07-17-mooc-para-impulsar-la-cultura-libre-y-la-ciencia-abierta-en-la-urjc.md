@@ -6,7 +6,7 @@ categories:
   - Universidad
 tags:
   - MOOC
-image: /logos/logo-ofilibre-2025.jpg
+image: /blog/mooc-para-impulsar-la-cultura-libre-y-la-ciencia-abierta-en-la-urjc/foto-blog-3.jpg
 ---
 <!--StartFragment-->
 
