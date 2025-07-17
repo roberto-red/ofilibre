@@ -7,12 +7,12 @@ categories:
     - Recursos
     - Publicación en abierto
 description: "Bien avanzado este nuevo curso, queremos que la campaña de recopilación de recursos educativos abiertos producidos por profesores de la URJC llegue a toda la Comunidad Universitaria, y así dar a todos los profesores la oportunidad de participar en ella."
-image: /blog/recopilacion-rea/logo-rea.png
+image: "images/blog/recopilacion-rea/logo-rea.png"
 ---
 
 La producción de materiales digitales de apoyo a la docencia (apuntes, transparencias, recursos gráficos, videos, audios, etc) es común en nuestra Universidad desde hace tiempo. Los últimos meses, con la intensificación de la docencia por medios digitales, ha potenciado aún más esta producción. Y muchos de estos materiales se están distribuyendo como [recursos educativos abiertos](https://es.unesco.org/themes/tic-educacion/rea) (recursos que se distribuyen de forma que se facilita su uso, adaptación y distribución gratuitos).
 
-Por este motivo, la [OfiLibre](https://ofilibre.urjc.es) inició una [campaña de recopilación de materiales educativos abiertos](/blog/catalogo-materiales-libres/) producidos por profesores de nuestra Universidad, y usados en nuestras asignaturas. Ahora, ya bien avanzado el nuevo curso, queremos que esta campaña llegue a toda la Comunidad Universitaria, para dar la oportunidad a todos los profesores de participar en ella.
+Por este motivo, la [OfiLibre](https://urjc.es/ofilibre) inició una [campaña de recopilación de materiales educativos abiertos](/blog/catalogo-materiales-libres/) producidos por profesores de nuestra Universidad, y usados en nuestras asignaturas. Ahora, ya bien avanzado el nuevo curso, queremos que esta campaña llegue a toda la Comunidad Universitaria, para dar la oportunidad a todos los profesores de participar en ella.
 
 ## ¿Qué son los recursos educativos abiertos?
 
@@ -46,4 +46,4 @@ Puede incluirse en el catálogo cualquier recurso educativo digital (apuntes, li
 
 ## ¿Necesitas ayuda?
 
-Si necesitas ayuda para etiquetar correctamente tus trabajos con la licencia adecuada, para elegir licencia, para entender si te interesa publicar tus recursos como REA, o qué tienes que hacer exactamente para publicarlos, envíanos un mensaje a ofilibre@urjc.es. Trataremos de ayudarte en lo que podamos.
+Si necesitas ayuda para etiquetar correctamente tus trabajos con la licencia adecuada, para elegir licencia, para entender si te interesa publicar tus recursos como REA, o qué tienes que hacer exactamente para publicarlos, envíanos un mensaje a ofilibre @ urjc.es. Trataremos de ayudarte en lo que podamos.

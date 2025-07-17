@@ -1,20 +1,20 @@
 ---
 title: "Materiales docentes en acceso abierto"
 date: 2022-05-19
-slug: 2022-05-19-materials-docentes-abierto
+slug: 2022-05-19-materiales-docentes-abierto
 tags:
 categories:
     - Recursos
     - Publicación en abierto
 description: "Ponemos a disposición de la comunidad docente una selección de información relacionada  con la publicación de materiales docentes en abierto."
-image: /images/logos/openaccess-square.png
+image: "images/guias/openaccess-square.png"
 ---
 
 Ponemos a disposición de la comunidad docente una selección de información para empezar a conocer sobre la publicación de materiales docentes en abierto.
 
 Como docentes solemos generar materiales para nuestro alumnado. Estos materiales pueden variar desde vídeos, presentaciones para proyectar en el aula, cuadernillos, exámenes, etc. Si esos materiales son de creación propia, podríamos trabajar sobre la apertura de nuestras asignaturas ofreciéndolas en abierto, a disposición de todo el mundo, con una licencia libre. Pero... ¿qué pasos hay que seguir? A continuación, os ofrecemos un compilado de materiales seleccionados a partir de las preguntas que suelen llegar a la OfiLibre, incluyendo una nueva guía sobre este tema:
 
-* [Guía: Publicación de materiales docentes en abierto](/recursos/guias/materiales-docentes-abierto/)
+* [Guía: Publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto/)
 
 * ¿Qué es la cultura libre? [Fundamentos y motivos de la cultura libre](https://tv.urjc.es/video/579f2c3bd68b1420378b5c09)
 

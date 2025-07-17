@@ -7,7 +7,7 @@ categories:
     - Cafés
     - Publicación en Abierto
 description: "Café y Creative Commons con OfiLibre en Biblioteca"
-image: /blog/cafe-creative-commons/cc20-square.png
+image: "images/blog/cafe-creative-commons/cc20-square.png"
 ---
 
 ¿Quieres pasar un rato distendido hablando sobre las licencias Creative Commons? ¿Quieres reflexionar con nosotros sobre sus efectos, cuáles son consideradas de acceso abierto y cuáles no, qué licencia te puede interesar más...? Si alguno de estos temas te interesa, o simplemente quieres enterarte un poco sobre ellos, ¡vente!
@@ -18,13 +18,12 @@ Vente el viernes 29 a la Biblioteca de Fuenlabrada, y celebra con nosotros la [S
 
 La entrada es libre hasta que se complete el aforo. Más [información en Eventos URJC](https://eventos.urjc.es/73151/detail/cafe-y-creative-commons.html).
 
-* ¿Dónde? Biblioteca del campus de Fuenlabrada de la URJC, sala de cristal.
+* ¿Dónde?: Biblioteca del campus de Fuenlabrada de la URJC, sala de cristal.
 
-* ¿Cuándo? Viernes 29 de octubre de 2021, 10:00 a 11:00.
+* ¿Cuándo?: Viernes 29 de octubre de 2021, 10:00 a 11:00.
 
 Materiales relacionados:
 
-* Transparencias ([PDF](/resources/presentations/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/resources/presentations/creative_commons/CAFE_2021_creative_commons.odp))
+* Transparencias ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
 
-* [Cartel](/blog/cafe-creative-commons/cartel_A3.pdf)
-
+* [Cartel](/images/blog/cafe-creative-commons/cartel_A3.pdf)

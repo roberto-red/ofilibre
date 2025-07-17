@@ -10,7 +10,7 @@ tags:
     - Wiley
     - Acuerdo transformativo
     - Publicación en abierto
-image: /blog/acuerdo-editorial-wiley/acuerdo-square.png
+image: "images/blog/acuerdo-editorial-wiley/acuerdo-square.png"
 ---
 
 Según ha informado el Vicerrectorado de Extensión Universitaria, la URJC ha firmado un nuevo acuerdo con la editorial Wiley, que permitirá leer y publicar en abierto los artículos de autores de la URJC.
@@ -43,7 +43,8 @@ La suscripción de la URJC para 2021 a la plataforma de revistas de la Editorial
     - Será autorizado un artículo por investigador (corresponding author) y por orden de solicitud.
     - Se autorizan APC’s de publicaciones en posiciones Q1 y Q2 en las diferentes bases de datos establecidas en los criterios CNEAI de evaluación de tramos de investigación
     - Se realizará el depósito en la BURJC DIGITAL, repositorio institucional de la URJC.
-______________________________________________________
+
+_______________________________________________________
 
 ### Más información
    
@@ -58,5 +59,7 @@ ______________________________________________________
 • [Wiley author services](https://authorservices.wiley.com/home.html) (página de servicios a los autores)
 
 • [Preguntas frecuentes](https://www.urjc.es/images/Biblioteca/Servicios/AccesoAbierto/CRUE-CSIC_ES_Preguntas_frecuentes_sobre_las_cuentas_Wiley_Open_Access.pdf)
-  
-• Para más información contactar con: [biblioteca.proyectoeciencia@urjc.es](mailto:biblioteca.proyectoeciencia@urjc.es)
+
+
+    
+Para más información contactar con: [biblioteca.proyectoeciencia@urjc.es](mailto:biblioteca.proyectoeciencia@urjc.es)

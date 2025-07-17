@@ -12,7 +12,7 @@ tabItem   :
       - Formar al personal de la Universidad interesado en el conocimiento libre, tanto en aspectos técnicos como legales y económicos. <br>
       - Crear un grupo de interés interesado en promover el conocimiento libre y la publicación abierta en la Universidad. <br>
       - Fomentar el conocimiento de las opciones de publicación abierta y conocimiento libre en la Universidad, y en la sociedad en que está inscrita.
-    image     : /blog/revistas-academicas-urjc/revistas.png
+    image     : /images/revistas.png
 
   - id        : culturaLibre
     title     : Cultura libre
@@ -23,7 +23,7 @@ tabItem   :
       - Promover el conocimiento y el acercamiento a las obras culturales libre por parte de la comunidad universitaria. <br>
       - Fomentar la producción de obras culturales libres por parte de la comunidad universitaria. <br>
       - Fomento de la creación de un grupo de creadores interesados en la producción de obras culturales libres. <br>
-    image     : /images/cc-licenses/cc_by-sa_3.0.png
+    image     : /images/cc_by-sa_3.0.png
 
   - id        : datosAbiertos
     title     : Datos abiertos
@@ -35,7 +35,7 @@ tabItem   :
       - Estimular la publicación de datos abiertos en los ámbitos de Universidad donde esto sea posible y conveniente,y especialmente en lo referente a los datos de investigación. <br>
       - Apoyar las iniciativas existentes y promover nuevas relacionadas con la publicación de datos abiertos. <br>
       - Fomentar de la creación de un grupo de personas de la comunidad universitaria interesadas en los datos abiertos. <br>
-    image     : /blog/charla-houda-elmimouni/wikipedia.png
+    image     : /images/openaccess-square.png
 
   - id        : softwareLibre
     title     : Software libre
@@ -48,5 +48,5 @@ tabItem   :
       - Propiciar la liberación de software producto de actividades docentes e investigadoras de la Universidad. <br>
       - Impulsar la creación de un grupo de personas interesadas en el fomento del software libre. <br>
       - Explicar las opciones, implicaciones sociales, etc.del uso y la producción de software libre. <br>
-    image     : /blog/software-libre/logo.png
+    image     : /images/blog/software-libre/logo.png
 

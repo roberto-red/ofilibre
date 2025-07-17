@@ -9,10 +9,10 @@ tags:
 categories:
     - Asignaturas en abierto
 description: "Listado de asignaturas que se ponen en acceso abierto como resultado de la convocatoria del primer cuatrimestre del curso 2022-2023, junto con enlaces a sus materiales."
-image: /images/logos/openaccess-square.png
+image: "images/guias/openaccess-square.png"
 ---
 
-Este es el listado de las asignaturas que han obtenido la baremación suficiente como para ser consideradas "Asignaturas en Acceso Abierto", entre las que se han presentado a la [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/recursos/guias/convocatoria-asignaturas-abierto/) (primer cuatrimestre). Junto a cada una, se incluyen sus materiales publicados en acceso abierto.
+Este es el listado de las asignaturas que han obtenido la baremación suficiente como para ser consideradas "Asignaturas en Acceso Abierto", entre las que se han presentado a la [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/guias/convocatoria-asignaturas-abierto/) (primer cuatrimestre). Junto a cada una, se incluyen sus materiales publicados en acceso abierto.
 
 Puedes consultarlas también en el [Portal de Asignaturas en Abierto](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto) de la URJC.
 
@@ -433,10 +433,3 @@ Asignatura destacada
 
 * **[Presentaciones](https://hdl.handle.net/10115/20635) (material destacado)**
 * **[Ejercicios](https://hdl.handle.net/10115/20636)**
-
-
-
-
-
-
-

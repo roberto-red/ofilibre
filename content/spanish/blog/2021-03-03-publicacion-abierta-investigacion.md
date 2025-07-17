@@ -7,10 +7,11 @@ categories:
     - Publicación en abierto
 tags:
     - Investigación
-image: /blog/publicacion-abierta-investigacion/portada-square.jpg
+image: "images/blog/publicacion-abierta-investigacion/portada-square.jpg"
 ---
+
 La publicación abierta es una opción cada vez más interesante para publicar los resultados de investigación, y otros materiales relacionados. En este seminario vamos a repasar los aspectos fundamentales de la publicación abierta, las opciones que tiene a su disposición cualquier persona dedicada a la investigación, y lso motivos por los que le puede interesar publicar en abierto. También expondremos la posición de la URJC con respecto a la publicación abierta, y las facilidades que pone a disposición de los investigadores en este campo.
 
 Materiales relacionados:
 
-* Transparencias utilizadas: [PDF](/resources/presentations/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.pdf), [ODP (para LibreOffice)](/resources/presentations/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.odp)
+* Transparencias utilizadas: [PDF](/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.pdf), [ODP (para LibreOffice)](/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.odp)

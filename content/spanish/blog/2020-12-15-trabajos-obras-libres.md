@@ -5,7 +5,7 @@ slug: trabajos-obras-libres
 description: "El que una obra esté disponible en Internet no significa necesariamente que su autor te haya dado permiso para usarla en tus trabajos. Afortunadamente, hay un tipo de obras para las que el autor sí me ha dado permiso, y puedo reutlizarlas sin problemas: son las obras libres."
 categories:
     - Cultura libre
-image: /blog/trabajos-obras-libres/cabecera-square.png
+image: "images/blog/trabajos-obras-libres/cabecera-square.png"
 ---
 
 <iframe src='https://tv.urjc.es/iframe/5fda6c44d68b140e468b4ce3' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
@@ -16,7 +16,7 @@ En este seminario vemos qué son estas obras libres, cómo reconocerlas, y cómo
 
 Entre otros temas, tratamos los siguientes:
 
-* Copiar, reutilizar, no es (necesariamente) malo
+* Copiar, reutilizar, no es (necesariaente) malo
 * ¿Qué son las obras libres?
 * ¿Puedo utilizar una obra libre en mis trabajos?
 * Las licencias libres principales
@@ -28,5 +28,5 @@ Entre otros temas, tratamos los siguientes:
 
 Materiales relacionados:
 
-* Transparencias utilizadas: [PDF](/resources/presentations/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](/resources/presentations/trabajos-obras-libres/Trabajos_Obras_libres.odp)
+* Transparencias utilizadas: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
 * [Video en URJC TV](https://tv.urjc.es/video/5fda6c44d68b140e468b4ce3)

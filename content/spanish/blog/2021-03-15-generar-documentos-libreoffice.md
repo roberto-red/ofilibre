@@ -7,7 +7,7 @@ categories:
     - Recursos
 tags:
     - LibreOffice
-image: /blog/generar-documentos-libreoffice/libreoffice-square.jpg
+image: "images/blog/generar-documentos-libreoffice/libreoffice-square.jpg"
 ---
 
 En ocasiones, podemos necesitar escribir un documento genérico para enviar a personas distintas, como una carta, mail o certificado. Tal vez queremos que el documento solo cambie en algunos puntos con datos personales, como puede ser el nombre o la dirección de cada persona. Por simplificar, a menudo se opta por hacer esto manualmente, rellenándolos uno a uno; pero esto supone invertir mucho tiempo si la lista de destinatarios es muy grande. Desde la OfiLibre os queremos mostrar cómo automatizar este proceso utilizando la herramienta [Mail Merge](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/WG4.2/PDF/WG4211-UsingMailMerge.pdf) de LibreOffice Writer. 
@@ -26,15 +26,15 @@ A continuación os mostramos cómo generamos una serie de certificados en la Ofi
 
 - En este tutorial, vamos a **crear manualmente la hoja de cálculo**. La primera línea debe contener el nombre genérico de los atributos, y cada línea siguiente los valores para cada individuo. En esta captura se puede ver cómo lo hemos hecho nosotros:
 
-![captura01](/blog/generar-documentos-libreoffice/captura01.png)
+![captura01](../../images/blog/generar-documentos-libreoffice/captura01.png)
 
 - A continuación, **guardamos esta información con formato .csv** (valores separados por comas). Para ello, seleccionamos el menú *Archivo > Guardar cómo* y en el desplegable elegimos el formato *Texto CSV*. La primera vez que guardamos como CSV, puede aparecernos el siguiente mensaje de aviso:
 
-![captura02](/blog/generar-documentos-libreoffice/captura02.png)
+![captura02](../../images/blog/generar-documentos-libreoffice/captura02.png)
 
 - Elegimos seguir guardando en CSV y podemos seleccionar que no vuelva a preguntarnos esto. Después se nos pedirá elegir la codificación del documento. Para que se conserven correctamente las letras españolas como la Ñ o las vocales con tilde, elegiremos "Europa occidental (ISO-8859-1)" y damos a 'Aceptar'.
 
-![captura03](/blog/generar-documentos-libreoffice/captura03.png)
+![captura03](../../images/blog/generar-documentos-libreoffice/captura03.png)
 
 - A continuación, vamos a **escribir el modelo del documento en Writer**. Escribimos el texto genérico de la carta o certificado, dejando un par de espacios donde vayamos a insertar los nombres personales y otros atributos. Podemos insertar imágenes y dar formato, como de costumbre en cualquier documento.
 
@@ -42,21 +42,21 @@ A continuación os mostramos cómo generamos una serie de certificados en la Ofi
 
 - Para **ver las tablas de origen** ya en Writer, vamos a **Ver > Orígenes de datos**. Aparecerá un recuadro debajo de la barra de herramientas, que permite buscar nuestra tabla.
 
-![captura04](/blog/generar-documentos-libreoffice/captura04.png)
+![captura04](../../images/blog/generar-documentos-libreoffice/captura04.png)
 
 - Para **insertar los campos automáticos al texto**, seleccionamos la primera celda de cada columna (que corresponde al nombre del atributo) y lo arrastramos hasta la posición deseada en el texto. Es posible modificar el formato de texto de los atributos. Por ejemplo, nosotros hemos puesto los datos en negrita y con un tamaño superior, y el texto quedaría así:
 
-![captura05](/blog/generar-documentos-libreoffice/captura05.png)
+![captura05](../../images/blog/generar-documentos-libreoffice/captura05.png)
 
 - Si también queremos **insertar un campo de fecha que se actualice con la fecha actual**, *Insertar > Campo > Más campos* y seleccionamos *Fecha* y el formato deseado para la fecha. (También podemos seleccionar *Fecha (fija)* si no queremos que se actualice).
 
 - Se puede **previsualizar los documentos autogenerados** usando: *Herramientas > Asistente para combinar correspondencia* y seleccionando *Siguiente > Siguiente > Siguiente > Finalizar*, sin cambiar nada más. Esta herramienta también tiene muchas otras opciones y nos permitiría importar datos, pero en esta ocasión solo la usaremos para ver una preview de los documentos. Arriba aparecerá otra barra de herramientas, que permite pasar página entre los documentos generados para cada persona, y guardar los certificados como un documento único, o documentos individuales. Se puede elegir guardar en el formato que queramos, por ejemplo como .pdf, o como .odf (el formato editable equivalente al .docx de Word).
 
-![captura06](/blog/generar-documentos-libreoffice/captura06.png)
+![captura06](../../images/blog/generar-documentos-libreoffice/captura06.png)
 
 - También podríamos **exportar los documentos finales** dando directamente a *Archivo > Imprimir* y pulsando '*Sí*' para abrir el cuadro de *Combinación de correspondencia*. Ahí se puede elegir qué filas se exportan, y el nombre, ruta y formato de los documentos exportados.
 
-![captura07](/blog/generar-documentos-libreoffice/captura07.png)
+![captura07](../../images/blog/generar-documentos-libreoffice/captura07.png)
 
 - Y con esto **ya tendríamos nuestras cartas o certificados personalizados, generados automáticamente** a partir de una tabla de datos.
 
@@ -69,7 +69,7 @@ A continuación os mostramos cómo generamos una serie de certificados en la Ofi
 
 A continuación os proporcionamos los ficheros de prueba que hemos usado para realizar este tutorial:
 
-- [Fichero .csv con los datos de prueba.](/resources/guides/generar-documentos-libreoffice/Materiales_ejemplo.csv) 
-- [Documento .odt con el modelo de certificado.](/resources/guides/generar-documentos-libreoffice/Modelo_certificado.odt)
-- [Ejemplos de certificados ya generados en PDF.](/resources/guides/generar-documentos-libreoffice/Certificados_ejemplo.pdf)
+- [Fichero .csv con los datos de prueba.](../../documentos/generar-documentos-libreoffice/Materiales_ejemplo.csv) 
+- [Documento .odt con el modelo de certificado.](../../documentos/generar-documentos-libreoffice/Modelo_certificado.odt)
+- [Ejemplos de certificados ya generados en PDF.](../../documentos/generar-documentos-libreoffice/Certificados_ejemplo.pdf)
 - [El script de Python para generar automáticamente el CSV a partir de ficheros Markdown.](https://gitlab.etsit.urjc.es/ofilibre/code/-/blob/master/parse_catalog/parse_catalog.py)

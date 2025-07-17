@@ -2,7 +2,7 @@
 title: "Convocatoria de asignaturas en abierto 2025-2026: encuentro explicativo y resolución de dudas"
 date: 2025-06-04
 description: Los detalles de la convocatoria pueden consultarse en el documento Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-2026 adjunto. En este encuentro se resumen y se explican algunos de sus aspectos más importantes.
-image: images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-urjc-square.png
 categories:
     - asignaturas en abierto
     - convocatorias
@@ -15,9 +15,9 @@ Los detalles de la convocatoria pueden consultarse en el documento Convocatoria 
 
 Más información:
 
-* [Más información, material auxiliar y preguntas frecuentes](/recursos/guias/convocatoria-asignaturas-abierto/) 
-* [Convocatoria en el tablón de anuncios electrónico de la URJC](https://sede.urjc.es/en/tablon-oficial?path=anuncio/13752/) ([copia en este sitio web](/resources/guides/convocatoria-asignaturas-abierto-2025-2026/convocatoria-asignaturas-abierto-2025-2026.pdf))
-* [Información sobre las distintas ediciones de esta convocatoria](/acciones/asignaturas-en-abierto/)
+* [Más información, material auxiliar y preguntas frecuentes](/guias//convocatoria-asignaturas-abierto/) 
+* [Convocatoria en el tablón de anuncios electrónico de la URJC](https://sede.urjc.es/en/tablon-oficial?path=anuncio/13752/) ([copia en este sitio web](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
+* [Información sobre las distintas ediciones de esta convocatoria](/acciones/asignaturas_abierto/)
 * [Asignaturas en abierto en el aula virtual de la URJC](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)
 * [Colección de materiales docentes en BURJC Digital](https://burjcdigital.urjc.es/collections/c54516e9-d910-4353-9971-b1e485078248), entre los que se encuentran los depositados para las distintas ediciones de esta convocatoria
 * [Serie de TV URJC sobre encuentros de resolución de dudas OfiLibre](https://tv.urjc.es/series/64af9c1af8ceb74e7348107a)

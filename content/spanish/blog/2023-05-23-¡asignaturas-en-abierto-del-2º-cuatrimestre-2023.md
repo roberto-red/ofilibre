@@ -11,7 +11,7 @@ tags:
   - asignaturas
   - acceso abierto
   - URJC
-image: /blog/resultados-convocatoria-asignaturas/convocatoria-aseignaturas-2.jpg
+image: /images/convocatoria-aseignaturas-2.jpg
 ---
 
 ¡Volvemos a contar con nuevas asignaturas en abierto! Hasta el pasado mes de enero estuvimos recibiendo las solicitudes relativas a asignaturas del segundo cuatrimestre. Y ¡nos alegramos mucho de haber recibido tantas y tan buenas! Desde la OfiLibre estamos muy agradecidos, ya que ahora contamos con ¡40 nuevas asignaturas en acceso abierto! El baremo es más o menos igual al del anterior, pero ha aumentado la extensión y las asignaturas con máxima puntuación
@@ -29,7 +29,7 @@ image: /blog/resultados-convocatoria-asignaturas/convocatoria-aseignaturas-2.jpg
 
 **La convocatoria en barras:**
 
-![](/blog/resultados-convocatoria-asignaturas/2-asignaturas.png)
+![](/images/2-asignaturas.png)
 
 Según la Rúbrica de evaluación de los materiales, cada categoría podía recibir entre 0 y 14 puntos. En este gráfico cada barra muestra una categoría de materiales (apuntes, diapositivas, ejercicios, etc.). Dentro de cada barra los colores indican la cantidad de materiales según puntuación recibida.
 

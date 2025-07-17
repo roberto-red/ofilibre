@@ -8,7 +8,7 @@ categories:
     - Recursos
     - Cultura libre
 description: "Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres."
-image: /blog/materiales-libres/materiales_libres.jpeg
+image: "images/materiales_libres.jpeg"
 ---
 
 Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres. ¿En qué condiciones puedes incluir materiales libres? ¿Dónde puedes encontrarlos? ¿Cómo se referencia el autor original? Responderemos estas y otras preguntas.
@@ -28,4 +28,4 @@ Seminario sobre reutilización de materiales libres, parte del ciclo de seminari
 
 ## Materiales
 
-* Transparencias utilizadas en la presentacion ([PDF](/resources/presentations/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](/resources/presentations/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), para LibreOffice)
+* Transparencias utilizadas en la presentacion ([PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), para LibreOffice)

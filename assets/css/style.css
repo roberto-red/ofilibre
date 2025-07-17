@@ -15,6 +15,17 @@ p {
   font-size: 15px;
 }
 
+.section-sm a {
+  color: #cb0017;
+  text-decoration: none;
+}
+
+.section-sm a:hover {
+  color: #cb0017;
+  text-decoration: underline;
+}
+
+
 p a {
   color: #cb0017;
 }

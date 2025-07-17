@@ -7,7 +7,7 @@ categories:
     - Convocatorias
 tags:
     - Ayudas
-image: /images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 **SERVICIO DE TRAMITACIÓN DE GASTOS DE TRADUCCIÓN / REVISIÓN LINGÜÍSTICA DE ARTÍCULOS CIENTÍFICOS DEL PDI URJC**
@@ -21,7 +21,7 @@ El 22 de octubre de 2003 la declaración de Berlín define  la **"Publicación a
 acceder al trabajo, y licencia para copiarlo, usarlo, distribuirlo, transmitirlo y exhibirlo
 públicamente, y para hacer y distribuir trabajos derivados […]'' (https://openaccess.mpg.de/Berlin-Declaration)
 
-Para acceder a más información sobre la publicación abierta os dejamos una presentación [aquí](/recursos/presentaciones/publicacion-abierta).
+Para acceder a más información sobre la publicación abierta os dejamos una presentación [aquí](/pres/publicacion-abierta).
 
 Para el cumplimiento de dicho propósito la Universidad ha previsto una partida presupuestaria específica dentro de su presupuesto de gasto para 2020, incorporando los créditos necesarios para sufragar los gastos derivados de la publicación de artículos y/o capítulos en revistas internacionales indexadas y/o editoriales de reconocido prestigio. 
 

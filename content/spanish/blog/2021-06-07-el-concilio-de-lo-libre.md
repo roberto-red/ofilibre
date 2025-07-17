@@ -8,7 +8,7 @@ categories:
 tags:
     - Charlas
 description: "Una iniciativa para compartir el conocimiento libre, en colaboración con las oficinas libres de la UGR y UCM."
-image: /blog/el-concilio-de-lo-libre/concilio-square.png
+image: "images/blog/el-concilio-de-lo-libre/concilio-square.png"
 ---
 
 "Compartir el conocimiento es la clave de una sociedad libre y justa."
@@ -21,7 +21,7 @@ El objetivo de esta iniciativa es exportar a otros entornos aquellas actividades
 
 Todas las actividades son completamente gratuitas y cualquier persona puede participar en ellas.
 
-![Logos Oficinas Software Libre](/blog/el-concilio-de-lo-libre/logos-3-oficinas.png)
+![Logos Oficinas Software Libre](../../images/blog/el-concilio-de-lo-libre/logos-3-oficinas.png)
 
 ## Calendario de actividades
 
@@ -44,7 +44,7 @@ Charla impartida por [David Pacios Izquierdo](https://twitter.com/Semi_ingeniero
 
 En este mini-taller se explicará qué son las obras libres y cómo podemos hacer uso de ellas en nuestros trabajos, dónde localizar imágenes, audio y vídeo libres, y qué ventajas tiene que nuestras obras sean libres.
 
-Actividad impartida por Jesús González Barahona, de la [OfiLibre](https://ofilibre.urjc.es/) [(Universidad Rey Juan Carlos)](https://urjc.es/).
+Actividad impartida por Jesús González Barahona, de la [OfiLibre](https://ofilibre.urjc.es/) de la [Universidad Rey Juan Carlos](https://urjc.es/).
 
 #### Charla: LaTeX con Overleaf
 - Fecha: 11 de junio 2021 a las 11:00h. 
@@ -60,11 +60,12 @@ Impartida por [David Pacios Izquierdo](https://twitter.com/Semi_ingenieros).
 - Fecha: 18 de junio 2021 a las 12:00h. 
 - [Enlace a la charla](https://jitsi.ugr.es/charla-carteles-con-libreoffice-2021-06-21).
 
-![Cartel Charla diseño con LibreOffice](/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
+![Cartel Charla diseño con LibreOffice](../../images/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
 
 En esta charla se explicará como crear carteles de manera muy simple usando LibreOffice. 
 
 Impartida por Juan Sánchez Rodríguez.
+
 _______________________
 
 Portada y carteles por: [Juan Sánchez](https://www.linkedin.com/in/juan-s%C3%A1nchez-rodr%C3%ADguez/)

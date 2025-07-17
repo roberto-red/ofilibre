@@ -1,4 +1,4 @@
 ---
 title   : "Presentación de la OfiLibre"
-layout: about-list
+layuot: "ofilibre"
 ---

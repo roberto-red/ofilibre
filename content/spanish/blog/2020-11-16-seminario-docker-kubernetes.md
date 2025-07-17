@@ -8,7 +8,7 @@ categories:
 tags:
     - Charlas
 description: "Seminario sobre Docker, Kubernetes y otras tecnologías libres relacionadas, muy usadas para montar las aplicaciones en nube modernas."
-image: /images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 <iframe src='https://tv.urjc.es/iframe/5fb81bcbd68b14ac6f8b4be2' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>

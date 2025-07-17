@@ -6,7 +6,7 @@ categories:
   - jornadas
   - convocatorias
 tags:
-image: images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 Abrimos la convocatoria para enviar propuestas para participar en las IV Jornadas de Cultura Libre de la URJC ¡Si, ya vamos por las cuartas! Este evento es una oportunidad para compartir tus ideas, conocimientos y proyectos relacionados con la cultura libre, el conocimiento libre, el software libre y la ciencia abierta. Las Jornadas tendrán lugar los días 26 y 27 de marzo, en el campus de Fuenlabrada, con algunas actividades relacionadas en otros campus durante esa misma semana.

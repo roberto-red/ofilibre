@@ -56,15 +56,13 @@
                                     {{ end }}
                                     {{ end }}
                                 {{ end }}
-                                {{ if site.Params.showLanguageSwitcher }}
-                                <li class="nav-item d-none d-lg-block">
-                                    <div class="select-language nav-link">
-                                    {{ range .Site.Params.listeLangues }}
-                                        {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
-                                    {{ end }}
-                                    </div>
-                                </li>
-                                {{ end }}
+{{ if .Site.Params.showLanguageSwitcher }}
+<li class="nav-item d-none d-lg-block">
+    <div class="select-language nav-link">
+        {{ partial "flags.html" . }}
+    </div>
+</li>
+{{ end }}
                         </ul>
                     </div>
                 </nav>

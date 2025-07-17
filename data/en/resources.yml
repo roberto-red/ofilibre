@@ -5,25 +5,25 @@ item    :
 
   - icon    : tf-ion-monitor
     title   : Presentations
-    link    : /resources/presentations/
+    link    : /pres/
     description : >
       Slides from talks and workshops previously held by OfiLibre.
 
   - icon    : tf-ion-ios-world-outline
     title   : Catalog of Open Teaching Materials
-    link    : /resources/catalogue/
+    link    : /catalogo/
     description : >
       This catalog includes open access teaching materials produced by URJC staff. You can also add your own published works.
 
   - icon    : tf-ion-clipboard
     title   : Sheets
-    link    : /resources/sheets/
+    link    : /fichas/
     description : >
       Sheets on free software and resources. Information about programs and tutorials to help you get started.
 
   - icon    : tf-ion-ios-paper-outline
     title   : Guides
-    link    : /resources/guides/
+    link    : /guias/
     description : >
       Guides and tutorials produced by OfiLibre.
 

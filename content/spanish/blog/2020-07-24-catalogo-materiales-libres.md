@@ -8,7 +8,7 @@ categories:
     - Datos Abiertos
 tags:
     - Docencia
-image: /images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 En este contexto, la OfiLibre ha decidido crear un **catálogo de materiales libres usados en asignaturas de la URJC**. De esta forma, tendremos recopilada de una manera ordenada todo este material docente tan valioso, publicado de forma abierta en la Universidad Rey Juan Carlos.
@@ -31,24 +31,24 @@ Con esta iniciativa, la Oficina de Conocimiento y Cultura Libres hace un llamami
     8. Breve resumen del material:
     9. Donde publicaste el material:
 
-- De forma opcional, nos gustaría también conocer cómo fue el proceso de generación de este material:
+De forma opcional, nos gustaría también conocer cómo fue el proceso de generación de este material:
 
-    1. Cuáles fueron las plataformas que utilizaste para generar el material libre (si no has utilizado alguno de los apartados escritos a continuación se pueden dejar en blanco. Por ejemplo, si no has utilizado música en tu material dejar el espacio en blanco)
-    Vídeos:
-    Imágenes:
-    Música:
-    Transparencias:
-    Información/Apuntes:
-    Otras plataformas que consideres de interés:
+1. Cuáles fueron las plataformas que utilizaste para generar el material libre (si no has utilizado alguno de los apartados escritos a continuación se pueden dejar en blanco. Por ejemplo, si no has utilizado música en tu material dejar el espacio en blanco)
+Vídeos:
+Imágenes:
+Música:
+Transparencias:
+Información/Apuntes:
+Otras plataformas que consideres de interés:
 
-    2. Cuál fue el proceso de generación del material libre y la dificultad que tuvo desarrollarlo en general.
+2. Cuál fue el proceso de generación del material libre y la dificultad que tuvo desarrollarlo en general.
 
-    3. Qué dudas surgieron al hacer el material libre o que tienes aún y te interesaría despejar
+3. Qué dudas surgieron al hacer el material libre o que tienes aún y te interesaría despejar
 
-    Muchas gracias por vuestro tiempo y participación. ¡Animaros a colaborar!
+Muchas gracias por vuestro tiempo y participación. ¡Animaros a colaborar!
 
 **Nota:** A los efectos de este catálogo, consideramos como "publicación abierta" la que se definió en la declaración de Berlín el 22 de octubre de 2003:
 
 > “El (los) autor(es) \[...\] deben garantizar el derecho gratuito, irrevocable y mundial de acceder al trabajo, y licencia para copiarlo, usarlo, distribuirlo, transmitirlo y exhibirlo públicamente, y para hacer y distribuir trabajos derivados \[…\]'' (https://openaccess.mpg.de/Berlin-Declaration)
 
-Hay más información sobre el tema en [nuestras presentaciones sobre la publicación abierta](/recursos/presentaciones/publicacion-abierta), que incluyen juegos de transparencias y videos de seminarios sobre el tema, incluyendo qué licencias se consdieran de publicación abierta, cómo hay que marcar un material para que sea libre, los tipos de publicación libre, etc.
+Hay más información sobre el tema en [nuestras presentaciones sobre la publicación abierta](/pres/publicacion-abierta), que incluyen juegos de transparencias y videos de seminarios sobre el tema, incluyendo qué licencias se consdieran de publicación abierta, cómo hay que marcar un material para que sea libre, los tipos de publicación libre, etc.

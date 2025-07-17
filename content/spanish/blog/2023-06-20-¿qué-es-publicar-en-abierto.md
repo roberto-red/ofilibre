@@ -7,7 +7,7 @@ categories:
   - Publicación en abierto
 tags:
   - guias-publicar
-image: /blog/que-es-publicar-abierto/búho-4.jpg
+image: /images/búho-4.jpg
 ---
 
 **¿EN QUÉ CONSISTE?**
@@ -22,7 +22,7 @@ Para publicar en abierto puedes utilizar las licencias Creative Commons (CC), qu
 
 **CC-BY-SA**: Reconocimiento- Compartir Igual o Share Alike (SA): quiere decir que además de mencionar autoría, hay que compartir la posible obra derivada con una licencia similar [](http://creativecommons.org/licenses/by-sa/4.0/deed.es)<http://creativecommons.org/licenses/by-sa/4.0/deed.es>
 
-![](/images/cc-licenses/creative-commons-1.jpg)
+![](/images/creative-commons-1.jpg)
 
 Estas licencias permiten que cualquier persona pueda utilizar, compartir, modificar, incluso con fines comerciales, el material que has liberado.
 
@@ -42,4 +42,4 @@ Por ejemplo:
 
 Con el solo hecho de escribir esto ¡tu material ya es libre! Pero para que realmente se comparta, es necesario subirlo a un repositorio como BURJC o TV-URJC.
 
-![Infofrafía publicación en abierto](/blog/que-es-publicar-abierto/2-cómo-publicar-en-abierto.jpg "Iinfofrafía publicación en abierto")
+![Infofrafía publicación en abierto](/images/2-cómo-publicar-en-abierto.jpg "Iinfofrafía publicación en abierto")

@@ -3,32 +3,32 @@ topTitle  : Iniciativas y actividades en el marco de la cultura libre
 title     : Acciones de la OfiLibre
 item      :
 
-  - image : /activities/op-council/logo.png
+  - image : /images/acciones/consejo-pa.png
     title : Consejo de Publicación Abierta
     link  : /acciones/consejo-publicacion-abierta/
     description : >
       Actas y documentos relativos a las reuniones del Consejo de Publicación Abierta.
 
-  - image : /activities/regulations/logo.png
+  - image : /images/acciones/normativa.png
     title : Normativa relacionada con OfiLibre
     link  : /acciones/normativa/
     description : >
       Normativa (reglamentos, desarrollos de reglamentos, etc.) relacionada con OfiLibre.
 
-  - image : /activities/cafes/logo.png
+  - image : /images/acciones/cafes.png
     title : Café con OfiLibre
-    link  : /acciones/cafe-con-ofilibre/
+    link  : /acciones/cafes/
     description : >
       Unos minutos de cada semana dedicados a charlar sobre la cultura libre, la publicación en acceso abierto, el software libre y los datos abiertos, entre otros temas que nos preocupan.
 
-  - image : /activities/jornadas/logo.png
+  - image : /images/acciones/jornadas.png
     title : Jornadas de Cultura Libre
-    link  : /acciones/jornadas-cultura-libre/
+    link  : /acciones/jornadas/
     description : >
      Jornadas de Cultura Libre: unos días para celebrar la cultura libre, la publicación en abierto, los datos abiertos y el software libre, entre otros temas que nos preocupan.
 
-  - image : /activities/open-subjects/logo.png
+  - image : /images/acciones/asignaturas-abierto.png
     title : Asignaturas en abierto
-    link  : /acciones/asignaturas-en-abierto/
+    link  : /acciones/asignaturas_abierto/
     description : >
       Materiales relacionados con Programa de Asignaturas en Abierto de la URJC

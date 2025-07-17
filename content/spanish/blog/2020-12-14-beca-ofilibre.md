@@ -5,7 +5,7 @@ slug: beca-ofilibre
 description: "Convocatoria de la URJC para Becas de Colaboración para estudiantes de la Universidad que incluye una beca para Software Libre en la OfiLibre"
 categories:
     - Universidad
-image: /blog/becas-2021/foss_logos.jpg
+image: "images/blog/becas-2021/foss_logos.jpg"
 ---
 
 A principio de Diciembre se publicó en el tablón electrónico de la universidad la convocatoria ordinaria para 2021 de 74 Becas de Colaboración cofinanciadas con el Banco Santander, para la formación en diferentes servicios de la Universidad Rey Juan Carlos, a favor de estudiantes matriculados en la URJC. 

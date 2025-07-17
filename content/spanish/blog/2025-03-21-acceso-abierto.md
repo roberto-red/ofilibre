@@ -7,7 +7,7 @@ categories:
   - Datos Abiertos
   - Cultura Libre
 tags:
-image: /images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 Quiere decir que su acceso a recursos es libre y gratuito, sin restricciones legales o técnicas.
@@ -24,6 +24,4 @@ Ejemplos:
 
 *    Artículos científicos: Publicaciones disponibles sin costo.  
 *    Software: Programas que se pueden descargar y usar libremente.  
-*    Datos: Conjuntos de datos accesibles para análisis y estudios.  
-  
-
+*    Datos: Conjuntos de datos accesibles para análisis y estudios.

@@ -1,7 +1,7 @@
 ---
 title: Consejo de Publicación Abierta
 date: 2025-06-01
-image: /activities/op-council/logo.png
+image: /images/acciones/consejo-pa.png
 description: Actas y documentos relativos a las reuniones del Consejo de Publicación Abierta.
 url: /acciones/consejo-publicacion-abierta/
 ---

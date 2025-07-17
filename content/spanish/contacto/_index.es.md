@@ -1,4 +1,4 @@
 ---
 title: "Contacto"
-layout: "contact"
+layout: "contacto"
 ---

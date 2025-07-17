@@ -10,8 +10,9 @@ tags:
   - "Jornadas"
   - "URJC"
   - "Cultura libre"
-image: /blog/jornadas-2024/RESUMEN-III-Jornadas-thumb.jpg
+image: /images/RESUMEN-III-Jornadas-thumb.jpg
 ---
+
 Nuestras III [*Jornadas de Cultura Libre*](/blog/programa-iii-jornadas/) han sido todo un éxito. 
 
 Este evento, que cada vez tiene más seguidores, tuvo lugar los días 20 y 21 de marzo de 2024 en el edificio de Gestión de Fuenlabrada de la URJC.

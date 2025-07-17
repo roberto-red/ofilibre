@@ -9,7 +9,7 @@ categories:
     - Cultura libre
     - Universidad
 description: "Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres."
-image: /blog/tfgs-abiertos/Cuadrado_TFG_en_abierto.jpeg
+image: "images/Cuadrado_TFG_en_abierto.jpeg"
 ---
 
 Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.¿Qué quiere decir esto? ¿Por qué te puede interesar? ¿Cómo hacerlo, si lo encuentras interesante?
@@ -29,5 +29,5 @@ Responderemos estas y otras preguntas.
 
 # Materiales
 
-* Transparencias utilizadas en la presentacion ([PDF](/resources/presentations/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/resources/presentations/tfgs-abiertos/TFGs_Abiertos.odp), para LibreOffice)
-* Guía: [Publicación del trabajo fin de grado en abierto](/recursos/guias/tfg-abierto/).
+* Transparencias utilizadas en la presentacion ([PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp), para LibreOffice)
+* Guía: [Publicación del trabajo fin de grado en abierto](/guias/tfg-abierto/).

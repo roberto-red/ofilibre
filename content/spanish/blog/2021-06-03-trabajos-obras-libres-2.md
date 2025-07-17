@@ -9,7 +9,7 @@ tags:
     - Obras libres
     - Taller
     - Concilio de lo libre
-image: /blog/trabajos-obras-libres/cabecera-square-2.png
+image: "images/blog/trabajos-obras-libres/cabecera-square-2.png"
 ---
 
 Hay muchos materiales libres disponibles en Internet, que puedes reutilizar para tus trabajos, o en general para tu propias obras. Pero no siempre es facil encontrarlos, ni siquiera reconocerlos. Bienvenidos al mundo de las obras libres: veamos qué son, cómo podemos reconocerlas y cómo podemos encontrarlas. También hablamos sobre cómo hacer que tus propias obras sean libres, y qué implicaciones (positivas y negativas) puede tener para ti.
@@ -30,8 +30,8 @@ Recursos:
 
 * La actividad tendrá lugar mediante [videoconferencia](https://bbb.educar.encanarias.info/b/jes-i3l-d6m-2rr). Para acceder basta un navegador web (Firefox, Chrome...).
 
-* Transparencias: [PDF](/resources/presentations/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.pdf), [formato ODP para LibreOffice](/resources/presentations/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.odp).
+* Transparencias: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.pdf), [formatio ODP para LibreOffice](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.odp).
 
-* Carteles: formato horizontal ([PDF](/resources/presentations/trabajos-obras-libres/cartel_obras_libres_horizontal.pdf), [documento fuente para LibreOffice](/resources/presentations/trabajos-obras-libres/cartel_obras_libres_horizontal.odg)), formato vertical ([PDF](/resources/presentations/trabajos-obras-libres/cartel_obras_libres_vertical.pdf), [documento fuente para LibreOffice](/resources/presentations/trabajos-obras-libres/cartel_obras_libres_vertical.odg))
+* Carteles: formato horizontal ([PDF](/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.pdf), [documento fuente para LibreOffice](/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.odg)), formato vertical ([PDF](/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.pdf), [documento fuente para LibreOffice](/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.odg))
 
 Este es un mini-taller, realizado en el contexto de El Concilio de lo Libre, en el que participan la [Oficina de Software Libre](https://osl.ugr.es/) de la [Universidad de Granada](https://ugr.es/), la [Oficina de Software Libre](https://www.ucm.es/oficina-de-software-libre/) de la [Universidad Complutense de Madrid](https://ucm.es), y la [OfiLibre](https://ofilibre.urjc.es/) de la [Universidad Rey Juan Carlos](https://urjc.es).

@@ -18,25 +18,25 @@ hasChildren = true
   [[nav]]
   parent = "recursos"
   name = "Catálogo de materiales docentes libres"
-  url = "recursos/catalogo/"
+  url = "catalogo/"
   weight = 1
 
   [[nav]]
   parent = "recursos"
   name = "Guías"
-  url = "recursos/guias/"
+  url = "guias/"
   weight = 2
 
   [[nav]]
   parent = "recursos"
   name = "Fichas"
-  url = "recursos/fichas/"
+  url = "fichas/"
   weight = 3
 
   [[nav]]
   parent = "recursos"
   name = "Presentaciones"
-  url = "recursos/presentaciones/"
+  url = "pres"
   weight = 4
 
   [[nav]]

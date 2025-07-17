@@ -1,42 +1,42 @@
 # Navbar Menus
 [[nav]]
 name = "about"
-url = "about/"
+url = "ofilibre/"
 weight = 2
 
 [[nav]]
-name = "activities"
-url = "activities/"
+name = "acciones"
+url = "acciones/"
 weight = 3
 
 [[nav]]
 name = "resources"
-url = "resources/"
+url = "recursos/"
 weight = 4
 hasChildren = true
 
   [[nav]]
   parent = "resources"
   name = "Teaching Materials Catalogue"
-  url = "resources/catalogue/"
+  url = "catalogo/"
   weight = 1
 
   [[nav]]
   parent = "resources"
   name = "Guides"
-  url = "resources/guides/"
+  url = "guias/"
   weight = 2
 
   [[nav]]
   parent = "resources"
   name = "Sheets"
-  url = "resources/sheets/"
+  url = "fichas/"
   weight = 3
 
   [[nav]]
   parent = "resources"
   name = "Presentations"
-  url = "resources/presentations/"
+  url = "pres/"
   weight = 4
 
   [[nav]]
@@ -53,47 +53,47 @@ weight = 5
 
 [[nav]]
 name = "contact"
-url = "contact/"
+url = "contacto/"
 weight = 6
 
 [[nav]]
 name = "search"
-url = "search/"
+url = "buscar/"
 weight = 7
 
 # Footer actions Menu
 [[actions]]
 name = "graphicdesign"
-url = "activities/"
+url = "acciones/"
 weight = 1
 
 [[actions]]
 name = "webdesign"
-url = "activities/"
+url = "acciones/"
 weight = 2
 
 [[actions]]
 name = "webdevelopment"
-url = "activities/"
+url = "acciones/"
 weight = 3
 
 # Footer Quick links Menu
 [[quicklink]]
 name = "partners"
-url = "about/"
+url = "ofilibre/"
 weight = 1
 
 [[quicklink]]
 name = "ofilibre"
-url = "about/"
+url = "ofilibre/"
 weight = 2
 
 [[quicklink]]
 name = "faqs"
-url = "about/"
+url = "ofilibre/"
 weight = 3
 
 [[quicklink]]
 name = "badges"
-url = "about/"
+url = "ofilibre/"
 weight = 4

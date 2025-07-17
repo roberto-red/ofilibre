@@ -12,7 +12,7 @@ tabItem   :
       - Train university personnel interested in free knowledge in technical, legal, and economic aspects. <br>
       - Create an interest group to promote free knowledge and open publishing at the University. <br>
       - Promote awareness of open publishing and free knowledge options at the University and in broader society.
-    image     : /blog/revistas-academicas-urjc/revistas.png
+    image     : /images/revistas.png
 
   - id        : culturaLibre
     title     : Free Culture
@@ -23,7 +23,7 @@ tabItem   :
       - Promote awareness and engagement with free cultural works by the university community. <br>
       - Encourage the production of free cultural works by university members. <br>
       - Foster the creation of a group of creators interested in producing free cultural works. <br>
-    image     : /images/cc-licenses/cc_by-sa_3.0.png
+    image     : /images/cc_by-sa_3.0.png
 
   - id        : datosAbiertos
     title     : Open Data
@@ -35,7 +35,7 @@ tabItem   :
       - Encourage publishing open data where feasible and appropriate, especially research data. <br>
       - Support existing initiatives and promote new ones related to open data publication. <br>
       - Foster the creation of a university community group interested in open data. <br>
-    image     : /blog/charla-houda-elmimouni/wikipedia.png
+    image     : /images/openaccess-square.png
 
   - id        : softwareLibre
     title     : Free Software
@@ -48,5 +48,5 @@ tabItem   :
       - Support the release of software developed through teaching and research activities at the University. <br>
       - Stimulate the formation of a group interested in promoting free software. <br>
       - Explain the social implications, options, and benefits of using and producing free software. <br>
-    image     : /blog/software-libre/logo.png
+    image     : /images/blog/software-libre/logo.png
 

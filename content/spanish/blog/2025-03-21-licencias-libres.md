@@ -3,12 +3,13 @@ title: "¿Qué es una Licencia?"
 date: "2025-03-21T08:00:00"
 slug: "licencias-libres"
 description: "Aprende qué es una licencia y cómo regula el uso, distribución y modificación de obras. Descubre las distintas licencias Creative Commons y de software que permiten compartir conocimiento de manera flexible y segura."
+type: post
 categories:
-  - Datos abiertos
-  - Software Libre
-  - Cultura libre
+  - OfiLibre
+  - Jornadas
 tags:
-image: /images/logos/logo-ofilibre-2025.jpg
+  - "OfiLibre"
+image: /images/logo-ofilibre-2025.jpg
 --- 
 
 Es un permiso legal que define cómo se puede usar, modificar y distribuir una obra creativa, científica o técnica. Las licencias especifican los derechos y restricciones que los autores otorgan a los usuarios de sus obras.  
@@ -17,43 +18,43 @@ Licencias Creative Commons (CC): conjunto de licencias que permiten a los autore
 
 - **CC 0: Dominio público** - Permite el uso sin restricciones, sin necesidad de atribución.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/cc-zero.png" alt="Logo licencia CC-0 (dominio público)" width="300">
+    <img src="/images/blog/licencias-cc/cc-zero.png" alt="Logo licencia CC-0 (dominio público)" width="300">
   </div>
   <br>
 
 - **CC BY: Atribución** - Se puede usar y modificar libremente, siempre que se otorgue crédito al autor.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/by.png" alt="Logo licencia CC-BY" width="300">
+    <img src="/images/blog/licencias-cc/by.png" alt="Logo licencia CC-BY" width="300">
   </div>
   <br>
 
 - **CC BY-SA: Atribución-Compartir Igual** - Permite modificaciones, pero las obras derivadas deben compartir la misma licencia.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/by-sa.png" alt="Logo licencia CC-BY-SA" width="300">
+    <img src="/images/blog/licencias-cc/by-sa.png" alt="Logo licencia CC-BY-SA" width="300">
   </div>
   <br>
 
 - **CC BY-NC: Atribución-No Comercial** - Uso y modificación permitidos, pero sin fines comerciales.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/by-nc.png" alt="Logo licencia CC-BY-NC" width="300">
+    <img src="/images/blog/licencias-cc/by-nc.png" alt="Logo licencia CC-BY-NC" width="300">
   </div>
   <br>
 
 - **CC BY-ND: Atribución-Sin Derivadas** - Se puede compartir, pero sin modificar ni crear obras derivadas.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/by-nd.png" alt="Logo licencia CC-BY-ND" width="300">
+    <img src="/images/blog/licencias-cc/by-nd.png" alt="Logo licencia CC-BY-ND" width="300">
   </div>
   <br>
 
 - **CC BY-NC-SA: Atribución-No Comercial-Compartir Igual** - Se permite el uso no comercial y la modificación, pero las obras derivadas deben mantener la misma licencia.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/by-nc-sa.png" alt="Logo licencia CC-BY-NC-SA" width="300">
+    <img src="/images/blog/licencias-cc/by-nc-sa.png" alt="Logo licencia CC-BY-NC-SA" width="300">
   </div>
   <br>
 
 - **CC BY-NC-ND: Atribución-No Comercial-Sin Derivadas** - Se puede compartir solo en su forma original y sin fines comerciales.  
   <div style="text-align: center;">
-    <img src="/images/cc-licenses/by-nc-nd.png" alt="Logo licencia CC-BY-NC-ND" width="300">
+    <img src="/images/blog/licencias-cc/by-nc-nd.png" alt="Logo licencia CC-BY-NC-ND" width="300">
   </div>
   <br>
 
@@ -67,4 +68,4 @@ Beneficios de las Licencias:
 
 *   Definen claramente los derechos y restricciones, evitando malentendidos.    
 *   Facilitan el acceso y la difusión de obras creativas y científicas.  
-*   Permiten la reutilización y modificación de obras, promoviendo la creatividad y el desarrollo.  
+*   Permiten la reutilización y modificación de obras, promoviendo la creatividad y el desarrollo.

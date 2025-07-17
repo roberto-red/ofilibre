@@ -6,7 +6,7 @@ categories:
   - cultura libre
   - datos abiertos
 tags:
-image: images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 ¡Hola, comunidad URJC! Arrancamos el curso con emocionantes novedades en OfiLibre.  
@@ -24,7 +24,7 @@ Accede a todas las revistas científicas y divulgativas de la universidad en un 
 💡 **<u>Convocatoria de asignaturas en abierto 2024-2025</u>**  
 ¿Eres docente? Comparte tu asignatura en abierto y fomenta el acceso libre al conocimiento.  Tienes hasta el 21 de febrero de 2025 
 
-👉 [Consulta las bases y cómo participar](/recursos/guias/convocatoria-asignaturas-abierto/).
+👉 [Consulta las bases y cómo participar](/guias//convocatoria-asignaturas-abierto/).
 
 🗓️ <u>**Próximas jornadas OfiLibre**</u>  
 Se acercan las IV Jornadas de Cultura Libre el 26 y 27 de marzo de 2025. _**¡SAVE THE DATE!**_  
@@ -35,7 +35,7 @@ Próximamente compartiremos más detalles sobre estas actividades en nuestras re
 ☕ <u>**Cafés con OfiLibre**</u>  
 No te pierdas nuestros Cafés con OfiLibre, tomate una pausa de 15 minutos y aprende sobre temas clave sobre cultura libre.  
 
-👉 [Consulta los temas e invitados aquí](/acciones/cafe-con-ofilibre).
+👉 [Consulta los temas e invitados aquí](/acciones/cafes/).
 
 ¡Nos vemos en OfiLibre!    
 El equipo de OfiLibre URJC.

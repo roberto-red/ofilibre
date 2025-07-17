@@ -5,7 +5,7 @@ description: "Durante este curso contamos con un nuevo y excepcionalmente amplio
 categories:
   - Universidad
 tags:
-image: images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 Desde sus orígenes, la Oficina de Conocimiento y Cultura Libres (OfiLibre) ha apostado por desempeñar una labor formativa significativa, ofreciendo Becas de Formación para abrir sus puertas al estudiantado interesado en la cultura libre. Este programa no solo refuerza nuestro compromiso con el acceso universal al conocimiento, sino que también reconoce el papel clave de las nuevas generaciones en la transformación del panorama académico y social.  
@@ -19,12 +19,11 @@ Durante este curso, contamos con una nueva y excepcionalmente amplia remesa de B
 
 Tenemos la seguridad de que su dedicación y creatividad nos permitirán seguir avanzando con energía renovada, consolidando la misión de OfiLibre como un espacio de formación y crecimiento en el ámbito de la cultura libre.
 
-![Becarios del curso 2024-2025](/blog/becarios-2024/becarios-2024.jpg)
+![Becarios del curso 2024-2025](/images/blog/becarios-2024.jpg)
 
 ¡Os damos la bienvenida al equipo! Estamos deseando ver todas las ideas y proyectos que desarrollaremos en conjunto en los próximos meses.  
 
-
-### Pero… ¿y dónde está la OfiLibre? 
+### Pero… ¿y dónde está la OfiLibre?**  
 
 Si quieres saber más sobre nuestro trabajo o visitarnos:  
 

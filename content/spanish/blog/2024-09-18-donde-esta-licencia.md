@@ -11,7 +11,7 @@ tags:
   - "Formación"
   - "Cultura libre"
   - "Acceso abierto"
-image: /images/logos/openaccess-square.png
+image: /images/openaccess-square.png
 ---
 
 <iframe src='https://tv.urjc.es/iframe/66ab576943c84969a63ad8b6' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
@@ -23,6 +23,3 @@ En la OfiLibre, nos encontramos a menudo con la siguiente pregunta: "¿Cómo sé
 Al publicar un artículo, un libro, o incluso un texto en un blog, probablemente estamos cediendo ciertos derechos, mientras que nos reservamos otros. Si la revista o institución con la que tratamos utiliza licencias Creative Commons, todo se simplifica, ya que son estándares bien conocidos y fáciles de entender. Sin embargo, esto no siempre es evidente, y a menudo necesitamos investigar las condiciones de uso.
 
 Para facilitar esta tarea, desde la OfiLibre y con la colaboración de Oscar Cabrera, que ha trabajado con nosotros con una beca de formación, hemos creado este vídeo inspirado en el clásico "Dónde está Wally" de Martin Handford. Esperamos que sea de ayuda para identificar qué se puede o no se puede hacer con un artículo ya publicado.
-
-
-

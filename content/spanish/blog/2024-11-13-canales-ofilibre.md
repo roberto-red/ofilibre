@@ -6,7 +6,7 @@ categories:
   - Recursos
 tags:
   - "Redes sociales"
-image: images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 Si quieres seguir la información que difundimos desde la OfiLibre, estos son los canales que usamos:
@@ -19,4 +19,3 @@ Si quieres seguir la información que difundimos desde la OfiLibre, estos son lo
   * Instagram: [@OfiLibreURJC](https://www.instagram.com/OfiLibreURJC) 
   * Mastodon: [@ofilibreurjc@floss.social](https://floss.social/@OfiLibreURJC) 
   * Telegram: [Canal ofilibreurjc](https://t.me/ofilibreurjc)
-  

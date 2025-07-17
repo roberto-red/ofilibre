@@ -7,7 +7,7 @@ slug: jesus-jornada-REA
 categories:
   - Recursos
   - Publicación en abierto
-image: /blog/jesus-jornada-recursos-educativos-abiertos/1200px-logo_consorcio_madroño.jpg
+image: /images/1200px-logo_consorcio_madroño.jpg
 ---
 
 <!--\[if gte mso 9]><xml>
@@ -347,6 +347,6 @@ image: /blog/jesus-jornada-recursos-educativos-abiertos/1200px-logo_consorcio_ma
 
 <!--StartFragment-->
 
-En la Jornada de Recursos Educativos Abiertos del Consorcio Madroño, Jesús M. González Barahona, nuestro coordinador, habló de lo que hacemos en la OfiLibre, centrándose en la publicación docente en abierto. ¡Aquí podéis ver el [vídeo](https://www.youtube.com/watch?v=4BZgpor_rw4)! 
+En la Jornada de Recursos Educativos Abiertos del Consorcio Madroño, Jesús M. González Barahona, nuestro coordinador, habló de lo que hacemos en la Ofi Libre, centrándose en la publicación docente en abierto. ¡Aquí podéis ver el [vídeo](https://www.youtube.com/watch?v=4BZgpor_rw4)! 
 
 <!--EndFragment-->

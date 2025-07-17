@@ -42,11 +42,13 @@
             <article class="col-12 col-md-4">
               <div class="post-item h-100">
                 <a href="{{ .Permalink }}">
-                  <div class="post-thumb mb-2" style="aspect-ratio: 3 / 2; background: #f8f9fa;" >
-                    <img class="img-fluid shadow rounded w-100 h-100"
-                        src="{{ .Params.image | absURL }}"
+                  <div class="post-thumb mb-2 shadow rounded"
+                      style="width: 100%; height: 0; padding-bottom: 66.666%;
+                              background-color: #ffffff; position: relative; overflow: hidden;">
+                    <img src="{{ .Params.image | absURL }}"
                         alt="{{ .Title }}"
-                        style="object-fit: contain; object-position: center;">
+                        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                                max-width: 100%; max-height: 100%; object-fit: contain;">
                   </div>
                 </a>
 

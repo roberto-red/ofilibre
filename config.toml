@@ -21,10 +21,14 @@ description = "This is meta description"
   home = ["HTML", "JSON"]
 
 [params]
-showLanguageSwitcher = false
+showLanguageSwitcher = true
 logo = "images/logos/banner-urjc.png"
 menufixed = true
 contacto_form_action = "sendmail.php"
+listeLangues = [
+  { code = "es" },
+  { code = "en" }
+]
 
 footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
 footeraccionesTitle = "acciones"
@@ -92,7 +96,7 @@ mapMarker = "/contact/marker.png"
 
 [languages.es.params.cta]
 enable = true
-bg = "/about/call-to-action/call-to-action-bg-2.jpg"
+bg = "/images/about/call-to-action/call-to-action-bg-2.jpg"
 title = "Canales de información"
 subtitle = "La OfiLibre mantiene varios canales de información."
 btnText = "Contacto"
@@ -115,7 +119,7 @@ heading = "OfiLibre in Two Minutes"
 description = "At OfiLibre, we aim to help the university community understand free culture, open publishing, open data, and free software. We explain what they are, how they work, what their characteristics are, and what benefits they can bring, so that everyone can decide how they want to engage with them."
 button = true
 btnText = "Learn more"
-btnURL = "about/"
+btnURL = "ofilibre/"
 videoURL = "https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5"
 
 [languages.en.params.blog]
@@ -141,8 +145,8 @@ mapMarker = "/contact/marker.png"
 
 [languages.en.params.cta]
 enable = true
-bg = "/about/call-to-action/call-to-action-bg-2.jpg"
+bg = "/images/about/call-to-action/call-to-action-bg-2.jpg"
 title = "Information Channels"
 subtitle = "OfiLibre maintains several information channels."
 btnText = "Contact"
-btnURL = "contact"
+btnURL = "contacto"

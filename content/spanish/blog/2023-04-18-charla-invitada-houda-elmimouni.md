@@ -8,17 +8,17 @@ categories:
 tags:
   - wikipedia
   - talk
-image: /blog/charla-houda-elmimouni/wikipedia.png
+image: /images/captura-de-pantalla-2023-04-17-a-las-13.13.49.png
 ---
 
-El lunes 24 de abril a las 13:00 en el Campus de Fuenlabrada tendremos la oportunidad de conocer en persona a la [Dra. Houda Elmimouni](https://www.houdaelmimouni.com/), que ha investigado sobre cómo los lectores asignan confianza a los artículos de Wikipedia en inglés y las estrategias que utilizan para evaluar la credibilidad de la información presentada.
+El lunes 24 de abril a las 13:00 en el Campus de Fuenlabrada tendremos la oportunidad de conocer en persona a la [Dra. Houda Elmimouni](https://www.houdaelmimouni.com/),  que ha investigado sobre cómo los lectores asignan confianza a los artículos de Wikipedia en inglés y las estrategias que utilizan para evaluar la credibilidad de la información presentada.
 Consideramos que este encuentro es de interés para cualquier persona que investigue o que le atraiga comprender cómo evaluar la información en línea y generar confianza en los sistemas de colaboración abiertos.
 
 La Dra. Houda Elmimouni es CI Fellow and Postdoc en Luddy SICE, Indiana University Bloomington. USA, y en su charla presentará los resultados de su investigación:
 
 Houda Elmimouni, Andrea Forte, and Jonathan Morgan. 2022. [Why People Trust Wikipedia Articles: Credibility Assessment Strategies Used by Readers](https://dl.acm.org/doi/pdf/10.1145/3555051.3555052). In Proceedings of the 18th International Symposium on Open Collaboration (OpenSym ’22). Association for Computing Machinery, New York, NY, USA, Article 9, 1–10. Best Paper Award (Top 1%)
 
-Desde la OfiLibre y el [Grupo de investigación de alto rendimiento SoftDev](https://gestion2.urjc.es/pdi/grupos-investigacion/softdev) os invitamos a participar de esta charla que consideramos ¡¡muy interesante!!!
+Desde la [OfiLibre](https://ofilibre.urjc.es/) y el [Grupo de investigación de alto rendimiento SoftDev](https://gestion2.urjc.es/pdi/grupos-investigacion/softdev) os invitamos a participar de esta charla que consideramos ¡¡muy interesante!!!
 
 * Día: Lunes 24 de abril de 2023
 * Hora: 13:00 a 14:00 

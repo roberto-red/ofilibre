@@ -7,7 +7,7 @@ categories:
   - Cafés
   - Jornadas
 tags:
-image: /blog/jornadas-2025/poster.png
+image: /images/blog/jornadas-2025/poster.png
 ---
 
 El miércoles 26 de marzo comenzaremos las **IV Jornadas de Cultura Libre** con un café con los dos candidatos a rector, **Abraham Duarte Muñoz** y **Fernando García Muiña**. Hablaremos con ellos sobre el conocimiento libre, publicación en acceso abierto, ciencia abierta, software libre, datos abiertos, etc.  
@@ -24,4 +24,4 @@ La sesión podrá seguirse en directo en el Salón de Grados del Edificio de Ges
 
 📺 **Cafés con OfiLibre en TV URJC**:  [Ver la colección completa](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)  
 
-Las **IV Jornadas de Cultura Libre de la URJC** se celebrarán los días **26 y 27 de marzo**. ¡Todavía estás a tiempo de inscribirte! 🚀  
+Las **IV Jornadas de Cultura Libre de la URJC** se celebrarán los días **26 y 27 de marzo**. ¡Todavía estás a tiempo de inscribirte! 🚀

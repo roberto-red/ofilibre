@@ -11,7 +11,7 @@ categories:
 tags:
   - publicación_en_abierto
   - revistas
-image: /blog/revistas-academicas-urjc/mini-revistas.png
+image: /images/mini-tevistas.png
 ---
 
 El Vicerrectorado de Comunidad Campus, Cultura y Deporte promueve la creación de una plataforma de la URJC para la publicación de revistas académicas. En esta plataforma se publicarán revistas promovidas por personal de la Universidad, en formato digital y en acceso abierto. Para promover la creación y el mantenimiento de estas revistas, también publica una convocatoria regular, la que pueden presentarse tanto revistas ya en marcha como proyectos que pretendan editar nuevas revistas. La plataforma y el programa se gestionan por el [Servicio de Publicaciones del Área de Biblioteca Universitaria](https://www.urjc.es/burjc/investiga/publicar), con el apoyo de la OfiLibre.
@@ -23,4 +23,4 @@ Si tienes preguntas o sugerencias, no dudes en escribirnos ofilibre@urjc.es
 Más información:
 
 * [Portal de revistas de la URJC](https://www.urjc.es/images/Biblioteca/portal_revistas/index.html)
-* Convocartoria de apoyo a la publicación de revistas: [en el tablón de aununcios](https://sede.urjc.es/tablon-oficial/anuncio/9739/), [documento con el texto completo de la convocatoria](/blog/revistas-academicas-urjc/convocatoria-revistas-2023.pdf).
+* Convocartoria de apoyo a la publicación de revistas: [en el tablón de aununcios](https://sede.urjc.es/tablon-oficial/anuncio/9739/), [documento con el texto completo de la convocatoria](/documentos/convocatoria-revistas-2023.pdf).

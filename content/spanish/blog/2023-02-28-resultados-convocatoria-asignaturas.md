@@ -10,8 +10,9 @@ tags:
   - asignaturas
   - acceso abierto
   - URJC
-image: /blog/resultados-convocatoria-asignaturas/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
+image: images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
 ---
+
 El pasado mes de junio se publicó la [Convocatoria para el Reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/blog/2022-09-14-estado-convocatoria-asignaturas/). Hasta el 30 de septiembre de 2022 se recibieron las solicitudes relativas a asignaturas impartidas en el primer cuatrimestre de 2022-2023. ¡Y qué alegría al recibir tantas y tan buenas! Desde la OfiLibre estamos muy contentos con los [resultados obtenidos recién publicados](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto), puesto que desde ahora contamos con **¡38 asignaturas en acceso abierto!**
 
 ### La convocatoria en números:
@@ -30,7 +31,7 @@ El pasado mes de junio se publicó la [Convocatoria para el Reconocimiento de pu
 
 ### La convocatoria en barras:
 
-![Captura_Materiales_Baremo_2](/blog/resultados-convocatoria-asignaturas/Captura_Materiales_Baremo_2.PNG)
+![Captura_Materiales_Baremo_2](/images/1-asignaturas.png)
 
 Según la Rúbrica de evaluación de los materiales, cada categoría podía recibir entre 0 y 14 puntos. En este gráfico cada barra muestra una categoría de materiales (apuntes, diapositivas, ejercicios, etc.). Dentro de cada barra los colores indican la cantidad de materiales según puntuación recibida.
 

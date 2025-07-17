@@ -7,7 +7,7 @@ tags:
 categories:
     - Software libre
 description: "Micael Gallego y Sergio Murillo te enseñan algunas soluciones de código abierto para videoconferencia"
-image: /blog/charla-webrtc/logo-webrtc.png
+image: "images/blog/charla-webrtc/logo-webrtc.png"
 ---
 
 En un mundo donde nos hemos habituado a usar soluciones de videoconferencia, es necesario conocer las soluciones de código abierto que existen y tenemos a nuestra disposición. Si además dichas soluciones siguen un mismo estándar, mucho mejor. 
@@ -22,7 +22,7 @@ En la charla contaremos con dos ponentes que conocen en detalle los retos de est
 
 Si quieres conocer algunas soluciones de código abierto que puedes utilizar para tus videoconferencias, y algunos detalles más sobre cómo funcionan y cuál es el futuro, vente a la charla. Tienes más información en la [página del evento](https://eventos.urjc.es/74373/detail/software-libre-para-videoconferencias.-seminarios-ofilibre.html).
 
-Esta es una actividad realizada por la [OfiLibre](https://ofilibre.urjc.es) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
+Esta es una actividad realizada por la [OfiLibre](https://ofilibre.urjc.es/) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
 
 La presentacion se hará mediante videoconferencia, en la [sala Concilio del BigBlueButton de la Universidad de Zaragoza](https://videoconferencia.unizar.es/b/jes-urr-v2p). Todo lo que necesitas para unirte es un navegador.
 [BigBlueButton](https://bigbluebutton.org) es otra solución de videoconferencia que también se distribuye como software libre.

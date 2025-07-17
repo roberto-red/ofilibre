@@ -5,25 +5,25 @@ item    :
 
   - icon    : tf-ion-monitor
     title   : Presentaciones
-    link    : /recursos/presentaciones/
+    link    : /pres/
     description : >
       Diapositivas de las charlas y talleres que hemos realizado anteriormente en la OfiLibre.
 
   - icon    : tf-ion-ios-world-outline
     title   : Catálogo de materiales docentes libres
-    link    : /recursos/catalogo/
+    link    : /catalogo/
     description : >
       Este catálogo incluye materiales docentes de acceso abierto producidos por personal de la URJC. Puedes incluir tus propios trabajos publicados en abierto.
 
   - icon    : tf-ion-clipboard
     title   : Fichas
-    link    : /recursos/fichas/
+    link    : /fichas/
     description : >
       Fichas de software y recursos libres. Información sobre los programas y tutoriales para empezar a usarlos.
 
   - icon    : tf-ion-ios-paper-outline
     title   : Guías
-    link    : /recursos/guias/
+    link    : /guias/
     description : >
       Guías y tutoriales realizados en la OfiLibre.
 

@@ -8,12 +8,14 @@ categories:
 tags:
     - Charlas
 description: "Seminario sobre FPGAs, placas hardware libres programables. El seminario incluye una demo y una presentación sobre la tecnología."
-image: /blog/seminario-fpgas-obijuan/fpga-square.png
+image: "images/blog/seminario-fpgas-obijuan/fpga-square.png"
 ---
 
-[Demo FPGAs](https://tv.urjc.es/iframe/5fd88bfed68b148f7f8b4571)
+Demo FPGAs: 
+<iframe src='https://tv.urjc.es/iframe/5fd88bfed68b148f7f8b4571' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
 
-[Presentación sobre FPGAs](https://tv.urjc.es/iframe/5fd88d94d68b14d7018b45dc)
+Presentación sobre FPGAs:
+<iframe src='https://tv.urjc.es/iframe/5fd88d94d68b14d7018b45dc' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
 
 Juan González, el popular [Obijuan](https://en.wikipedia.org/wiki/Juan_Gonz%C3%A1lez_G%C3%B3mez), nos va a mostrar algunos principios básicos de electrónica digital, de forma práctica, con una de las plataformas más avanzadas: las FPGAs libres, que están cambiando completamente el mundo de la computación (tanto hardware como software), dado que permiten "sintetizar" circuitos digitales a partir de su descripción. De esta manera, facilitan la combinación de los mundos hardware y software, a la vez que simplifican mucho la compartición de los diseños de electrónica digital, en formatos que pueden ser directamente plasmados en hardware real. Juan hará dos presentaciones:
 

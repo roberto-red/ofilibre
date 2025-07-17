@@ -1,3 +1,0 @@
----
-title   : "Presentation of OfiLibre"
----

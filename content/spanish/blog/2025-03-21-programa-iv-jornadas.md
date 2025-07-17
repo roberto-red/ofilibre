@@ -6,7 +6,7 @@ description: "Consulta el programa completo de las IV Jornadas de Cultura Libre,
 categories:
   - Jornadas
 tags:
-image: /blog/jornadas-2025/poster.png
+image: /images/blog/jornadas-2025/poster.png
 ---
 
 El próximo 26 y 27 de marzo de 2025 tendrán lugar las **Cuartas Jornadas de Cultura Libre de la URJC**. Están concebidas como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc.

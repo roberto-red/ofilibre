@@ -7,12 +7,18 @@ categories:
     - Recursos
 tags:
     - Apoyo
-image: /images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
-Desde la OfiLibre queremos promover el conocimiento sobre la cultura libre, la publicación abierta, el software libre y los datos abiertos. Por ello, desde que comenzamos a trabajar, hemos organizado una serie de sesiones informativas sobre estos temas. Pero también queremos acercarnos a esas personas de nuestra comunidad universitaria que ya estáis tratando estos temas y compartiendo vuestro conocimiento sobre ellos.
-
-Si tienes interés en organizar una actividad relacionada con nuestras áreas de actuación (una presentación, un taller, una sesión de debate, una mesa redonda, una sesión de formación, etc.) vamos a tratar de ayudarte.
+Desde la OfiLibre queremos promover el conocimiento sobre la cultura libre,
+la publicación abierta, el software libre y los datos abiertos.
+Por ello, desde que comenzamos a trabajar, hemos organizado una serie de sesiones
+informativas sobre estos temas.
+Pero también queremos acercarnos a esas personas de nuestra comunidad universitaria
+que ya estáis tratando estos temas y compartiendo vuestro conocimiento sobre ellos.
+Si tienes interés en organizar una actividad relacionada con nuestras áreas de actuación
+(una presentación, un taller, una sesión de debate, una mesa redonda, una sesión de formación, etc.)
+vamos a tratar de ayudarte.
 
 Nuestro apoyo puede manifestarse de distintas formas (que habrá que considerar caso por caso):
 

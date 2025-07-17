@@ -3,32 +3,32 @@ topTitle  : Initiatives and activities in the field of free culture
 title     : OfiLibre Activities
 item      :
 
-  - image : /activities/op-council/logo.png
+  - image : /images/acciones/consejo-pa.png
     title : Open Publishing Council
-    link  : /activities/open-publishing-council/
+    link  : /acciones/consejo-publicacion-abierta/
     description : >
       Minutes and documents related to the meetings of the Open Publishing Council.
 
-  - image : /activities/regulations/logo.png
+  - image : /images/acciones/normativa.png
     title : Regulations related to OfiLibre
-    link  : /activities/regulations/
+    link  : /acciones/normativa/
     description : >
       Regulations (bylaws, regulatory developments, etc.) related to OfiLibre.
 
-  - image : /activities/cafes/logo.png
+  - image : /images/acciones/cafes.png
     title : Cafe con OfiLibre
-    link  : /activities/cafe-con-ofilibre/
+    link  : /acciones/cafes/
     description : >
       A few minutes each week to chat about free culture, open access publishing, free software, and open data, among other topics that matter to us.
 
-  - image : /activities/jornadas/logo.png
+  - image : /images/acciones/jornadas.png
     title : Free Culture Days
-    link  : /activities/free-culture-days/
+    link  : /acciones/jornadas
     description : >
       Free Culture Days: a few days to celebrate free culture, open publishing, open data, and free software, among other relevant topics.
 
-  - image : /activities/open-subjects/logo.png
+  - image : /images/acciones/asignaturas-abierto.png
     title : Open Subjects
-    link  : /activities/open-subjects/
+    link  : /acciones/asignaturas_abierto
     description : >
       Materials related to URJC’s Open Subjects Program.

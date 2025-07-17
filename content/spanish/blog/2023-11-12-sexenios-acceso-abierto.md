@@ -9,7 +9,7 @@ tags:
   - Acceso abierto
   - URJC
   - Sexenios
-image: /images/logos/openaccess-square.png
+image: /images/openaccess-square.png
 ---
 
 ANECA ha publicado un [Borrador de criterios de evaluación de la Convocatoria 2023 de Sexenios de investigación](https://www.aneca.es/documents/20123/49576/Borrador+Resolucion+Criterios+CNEAI+2023_061123.pdf), abriendo un [proceso de consultas al respecto](https://www.aneca.es/-/consulta-p%C3%BAblica-sobre-el-borrador-de-criterios-de-evaluaci%C3%B3n-de-la-pr%C3%B3xima-convocatoria-2023-del-sexenio-de-investigaci%C3%B3n).
@@ -20,4 +20,3 @@ Datos de la sesión:
 
 * Cuándo: Viernes 17 a las 13:00 
 * Dónde: [Sala en Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA1YzYwZDgtYTQ2Yi00ZDNhLWJmYjAtMTA5YjVjNmRhOWFi%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
-

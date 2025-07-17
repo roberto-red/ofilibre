@@ -6,7 +6,7 @@ tags:
 categories:
     - Software libre
 description: "¿Qué tiene que cumplir un programa para ser software libre? ¿Cómo puedo publicar mis programas como software libre? ¿Por qué me puede importar todo esto?"
-image: /blog/software-libre/logo.png
+image: "images/blog/software-libre/logo.png"
 ---
 
 El software libre está hoy por todas partes. El software libre compone la mayor parte de la infraestructura de la sociedad de la información, permite que Internet funcione, es utilizado en grandes cantidades por multitud de empresas, permite ciclos de innovación más cortos y más eficientes, es central en el concepto de ciencia abierta...
@@ -26,8 +26,8 @@ Así que si te interesa saber qué es el software libre, si quieres saber qué v
 
 ## Materiales
 
-* Transparencias: [formato PDF](/resources/presentations/software-libre/transpas.pdf)
-* [Guía: Publicación de software libre](/recursos/guias/publicar-software-libre)
+* Transparencias: [formato PDF](/transpas/software-libre/transpas.pdf)
+* [Guía: Publicación de software libre](/guias/publicar-software-libre)
 
 ## Resumen de datos
 

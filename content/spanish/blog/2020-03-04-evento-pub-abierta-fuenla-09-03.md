@@ -7,7 +7,7 @@ categories:
 tags:
     - Charlas
 description: "La OfiLibre organiza junto a la Facultad de Ciencias de la Comunicación la presentación 'Introducción a la Publicación Abierta', orientada a PDIs."
-image: /blog/evento-pub-abierta-fuenla-09-03/fccom.png
+image: "images/blog/evento-pub-abierta-fuenla-09-03/fccom.png"
 ---
 
 La publicación abierta es algo que nos concierne a todos. Por eso, tener un conocimiento básico como docentes e investigadores es fundamental. En esta charla vamos a tratar de ampliar los conocimientos generales sobre algo que para muchos es desconocido. Pero, ¿qué es exactamente la publicación abierta?
@@ -24,4 +24,4 @@ Más información e inscripciones en la **[página oficial del evento](https://e
 
 También podéis encontrar más info en la web de la **[Facultad de Ciencias de la Comunicación](https://www.urjc.es/actualidad-fccom/noticias-fccom/5046-introducete-en-el-mundo-de-la-publicacion-abierta-con-la-ofilibre-de-la-urjc)**.
 
-Puedes consultar los [materiales utilizados en la presentación](/recursos/presentaciones/intro-publicacion-abierta).
+Puedes consultar los [materiales utilizados en la presentación](/pres/intro-publicacion-abierta).

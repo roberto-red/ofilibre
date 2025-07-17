@@ -24,11 +24,11 @@ collections:
 
   - name: 'guias'
     label: 'Guías'
-    folder: 'content/spanish/recursos/guias'
+    folder: 'content/spanish/guias'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/resources/guides/{{slug}}'
-    public_folder: '../../resources/guides/{{slug}}'
+    media_folder: '/../../../static/guias/{{slug}}'
+    public_folder: '../../guias/{{slug}}'
     editor:
       preview: true
     fields:
@@ -42,11 +42,11 @@ collections:
 
   - name: 'fichas'
     label: 'Fichas'
-    folder: 'content/spanish/recursos/fichas'
+    folder: 'content/spanish/fichas'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/resources/sheets/{{slug}}'
-    public_folder: '../../resources/sheets/{{slug}}'
+    media_folder: '/../../../static/fichas/{{slug}}'
+    public_folder: '../../fichas/{{slug}}'
     editor:
       preview: true
     fields:
@@ -95,11 +95,11 @@ collections:
 
   - name: 'presentaciones'
     label: 'Presentaciones'
-    folder: 'content/spanish/recursos/pres'
+    folder: 'content/spanish/pres'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/resources/presentations/{{slug}}'
-    public_folder: '../../resources/presentations/{{slug}}'
+    media_folder: '/../../../static/pres/{{slug}}'
+    public_folder: '../../pres/{{slug}}'
     editor:
       preview: true
     fields:

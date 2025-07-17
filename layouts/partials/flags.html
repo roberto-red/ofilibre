@@ -1,9 +1,22 @@
-{{ $icone_base_url := "images/logos/lang-" }}
-{{ $icone_end_url := ".gif" }}
-{{ $icone_url := delimit (slice $icone_base_url .liste.code $icone_end_url) "" }}
-{{ if eq (string .liste.code) (string .site.Language) }}
-    <a href="{{ .liste.code | absURL }}" class="selected"><img src= {{ $icone_url | absURL }} alt="IMAGE" />{{ .liste.code }}
-    {{ else }}
-    <a href="{{ .liste.code | absURL }}"><img src= {{ $icone_url | absURL }} alt="IMAGE" />{{ .liste.code }}
+{{ $es_lang_code := "es" }}
+{{ $en_lang_code := "en" }}
+{{ $current_lang := .Site.Language.Lang }}
+{{ $current_path := .RelPermalink }}
+
+{{ $target_lang := "" }}
+{{ $target_path := "" }}
+
+{{ if eq $current_lang $es_lang_code }}
+    {{ $target_lang = $en_lang_code }}
+    {{ $target_path = path.Join "/" $en_lang_code $current_path }}
+{{ else }}
+    {{ $target_lang = $es_lang_code }}
+    {{ $target_path = replaceRE (printf "^/%s/" $en_lang_code) "/" $current_path }}
 {{ end }}
+
+<a href="{{ $target_path }}">
+    {{ $iconebaseurl := "/images/logos/lang-" }}
+    {{ $iconeendurl := ".gif" }}
+    <img src="{{ delimit (slice $iconebaseurl $target_lang $iconeendurl) "" }}" alt="Cambiar a {{ $target_lang }}" />
+    <span>{{ upper $target_lang }}</span>
 </a>

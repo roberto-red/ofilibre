@@ -6,7 +6,7 @@ tags:
 categories:
     - Publicación en abierto
 description: "Jesús González Barahona, Coordinador de la OfiLibre, te enseña cómo publicar tus materiales docentes en acceso abierto"
-image: /images/logos/logo-ofilibre-2025.jpg
+image: /images/logo-ofilibre-2025.jpg
 ---
 
 Muchos de los materiales docentes que producimos en la Universidad podrían publicarse en acceso abierto (open access). La publicación en abierto de materiales docentes puede tener muchas ventajas para tanto para profesores como alumnos. Los materiales se pueden compartir sin problemas, se pueden actualizar o reelaborar, y el trabajo colaborativo se hace mucho más fácil. La visibilidad de estos materiales, y por tanto de sus autores, también es mayor. Pero no todo son ventajas: también pueden aparecer algunos problemas. Por ello, es conveniente conocer con cierto detalle las implicaciones de esta forma de distribuir nuestros materiales, de forma que podamos maximizar sus ventajas, y reducir al mínimo los problemas que nos pueda causar.
@@ -21,10 +21,10 @@ Por eso, desde la OfiLibre, el martes 16 de noviembre, de 13 a 14, exploraremos 
 
 Así que si quieres saber un poco más sobre publicación en abierto, sobre licencias libres, sobre Creative Commons, sobre localización de recursos reutilizables, sobre archivos abiertos... ¡vente!
 
-Esta es una actividad realizada por la [OfiLibre](https://ofilibre.urjc.es) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
+Esta es una actividad realizada por la [OfiLibre](https://ofilibre.urjc.es/) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
 
 La presentacion se hará mediante videoconferencia, en la [sala Concilio del BigblueButton de la Universidad de Zaragoza](https://videoconferencia.unizar.es/b/jes-urr-v2p). Todo lo que necesitas para unirte es un navegador.
 
 Materiales de esta presentación:
 
-* Transparencias: [PDF](/resources/presentations/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (por ejemplo para LibreOffice)](/resources/presentations/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)
+* Transparencias: [PDF](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (por ejemplo para LibreOffice)](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)
