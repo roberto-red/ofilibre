@@ -11,7 +11,7 @@ image: "images/guias/impresoras/impresora.png"
 ---
 
 Recientemente se han instalado nuevas impresoras para su uso por el personal de la Universidad.
-La OfiLibre ha coordinado la preparación de una [guía sobre cómo imprimir en ellas desde sistemas basados en Linux](../../guias/impresoras).
+La OfiLibre ha coordinado la preparación de una [guía sobre cómo imprimir en ellas desde sistemas basados en Linux](/guias/impresoras).
 Esperamos que esta guía ayude a todos los que tenemos un sistama basado en Linux
 y queremos imprimir en este nuevo servicio de impresión.
 Si tienes cualquier comentario, ideas sobre cómo mejorarla, o simplemente

@@ -9,4 +9,4 @@ tags:
 image: /images/logo-ofilibre-2025.jpg
 ---
 
-Nuestra web ya se encuentra alojada en Netlify. Si quieres saber cómo lo hemos hecho, en nuestra [última guía](../../guias/migracion-gitlab-a-netlify) lo hemos explicado detalladamente.
+Nuestra web ya se encuentra alojada en Netlify. Si quieres saber cómo lo hemos hecho, en nuestra [última guía](/guias/migracion-gitlab-a-netlify) lo hemos explicado detalladamente.
