@@ -5,11 +5,24 @@ description: ""
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
-    - 
+    - recursos
 tags:
-draft: true
 ---
 
-comentar que ya está la web en inglés y cómo acceder a ella
+¡OfiLibre ya está disponible en inglés!
 
-Enlazar a una guía en la que expliquemos con detalle como lo hemos hecho
+Nos alegra anunciar que la página web de **OfiLibre** ya se puede consultar también en **inglés**.
+
+A partir de ahora, cualquier persona puede acceder a toda la información sobre nuestras iniciativas, acciones, recursos y materiales en ambos idiomas.
+
+¿Cómo cambiar de idioma?
+
+Muy fácil: solo tienes que hacer **click en el selector de idioma** situado en la parte superior derecha de la página (🇪🇸/🇬🇧). El sitio se adaptará automáticamente al idioma que elijas.
+
+¿Cómo lo hemos hecho?
+
+Hemos preparado una **guía paso a paso** donde explicamos el proceso técnico que hemos seguido para internacionalizar el sitio usando la plantilla de Hugo `navigator-hugo`. Puedes consultarla aquí:
+
+[Guía técnica: cómo añadimos soporte multilenguaje a OfiLibre](guias/traduccion-automatica-web-hugo)
+
+Seguimos trabajando para hacer de OfiLibre un espacio más accesible, útil y abierto para toda la comunidad universitaria… ¡en todos los idiomas posibles!

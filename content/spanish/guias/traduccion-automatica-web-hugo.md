@@ -1,6 +1,6 @@
 ---
 title: "Traducción automática de un sitio web Hugo con IA"
-image: 
+image: images/logos/logo-ofilibre-2025.jpg
 date: 2025-07-16
 type: guias
 description: ""
@@ -8,5 +8,285 @@ categories:
   - Recursos
   - software libre
 tags:
-draft: true
 ---
+
+# Guía técnica: cómo añadimos soporte multilenguaje (inglés) a la web de OfiLibre
+
+En esta guía te explicamos, paso a paso, cómo hemos implementado el soporte en inglés en la página web de **OfiLibre**, basada en la plantilla [`navigator-hugo`](https://github.com/gethugothemes/navigator-hugo).
+
+---
+
+## 1. Configuración multilenguaje en `config.toml`
+
+El primer paso ha sido declarar los idiomas soportados en el archivo `config.toml`. Hemos añadido una nueva sección `[languages]` con la configuración para `es` (español) e `en` (inglés). Aquí un ejemplo simplificado:
+
+```toml
+# Idiomas
+[languages]
+
+# ---------- Español ----------
+[languages.es]
+weight = 1
+languageCode = "es-es"
+title = "OfiLibre URJC"
+contentDir = "content/spanish"
+
+[languages.es.params]
+home = "Inicio"
+dateFormat = "2 January 2006"
+
+[languages.es.params.hero]
+enable = true
+heading = "La OfiLibre en dos minutos"
+description = "En la OfiLibre queremos ayudar a la comunidad universitaria a comprender la cultura libre, la publicación libre, los datos abiertos y el software libre. Para ello nos dedicamos a explicar qué son, cómo funcionan, qué características tienen, y qué beneficios pueden producir, de forma que cualquiera pueda decidir cómo le conviene relacionarse con ellos."
+button = true
+btnText = "Saber más"
+btnURL = "ofilibre"
+videoURL = "https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5"
+
+[languages.es.params.blog]
+enable = true
+topTitle = "Últimos artículos publicados"
+title = "Blog"
+
+[languages.es.params.contacto]
+enable = true
+topTitle = "Déjanos un mensaje"
+title = "Contacto"
+subtitle = "La OfiLibre es una iniciativa que trata de contar con la participación de toda la comunidad universitaria para que, entre todos, podamos encontrar nuestro camino en el mundo del conocimiento y la cultura libres."
+address = "Despacho 011, planta baja edificio Rectorado. C/ Tulipán s/n, 28933 Móstoles (Madrid)"
+email = "ofilibre@urjc.es"
+x = "https://x.com/OfiLibreURJC"
+mastodon = "https://floss.social/@OfiLibreURJC"
+telegram = "https://t.me/ofilibreurjc"
+instagram = "https://www.instagram.com/ofilibreurjc/"
+gitlab = "https://gitlab.etsit.urjc.es/ofilibre"
+mapLatitude = "40.337887"
+mapLongitude = "-3.874810"
+mapMarker = "/contact/marker.png"
+
+[languages.es.params.cta]
+enable = true
+bg = "/images/about/call-to-action/call-to-action-bg-2.jpg"
+title = "Canales de información"
+subtitle = "La OfiLibre mantiene varios canales de información."
+btnText = "Contacto"
+btnURL = "contacto"
+
+# ---------- Inglés ----------
+[languages.en]
+weight = 2
+languageCode = "en-us"
+title = "OfiLibre URJC english"
+contentDir = "content/english"
+
+[languages.en.params]
+home = "Home"
+dateFormat = "January 2, 2006"
+
+[languages.en.params.hero]
+enable = true
+heading = "OfiLibre in Two Minutes"
+description = "At OfiLibre, we aim to help the university community understand free culture, open publishing, open data, and free software. We explain what they are, how they work, what their characteristics are, and what benefits they can bring, so that everyone can decide how they want to engage with them."
+button = true
+btnText = "Learn more"
+btnURL = "ofilibre/"
+videoURL = "https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5"
+
+[languages.en.params.blog]
+enable = true
+topTitle = "Latest Published Articles"
+title = "Blog"
+
+[languages.en.params.contact]
+enable = true
+topTitle = "Leave Us a Message"
+title = "Contact"
+subtitle = "OfiLibre is an initiative that seeks the participation of the entire university community so that, together, we can find our path in the world of free knowledge and culture."
+address = "Office 011, ground floor, Rectorate Building. Tulipán Street, 28933 Móstoles (Madrid), Spain"
+email = "ofilibre@urjc.es"
+x = "https://x.com/OfiLibreURJC"
+mastodon = "https://floss.social/@OfiLibreURJC"
+telegram = "https://t.me/ofilibreurjc"
+instagram = "https://www.instagram.com/ofilibreurjc/"
+gitlab = "https://gitlab.etsit.urjc.es/ofilibre"
+mapLatitude = "40.337887"
+mapLongitude = "-3.874810"
+mapMarker = "/contact/marker.png"
+
+[languages.en.params.cta]
+enable = true
+bg = "/images/about/call-to-action/call-to-action-bg-2.jpg"
+title = "Information Channels"
+subtitle = "OfiLibre maintains several information channels."
+btnText = "Contact"
+btnURL = "contacto"
+```
+Esto indica a Hugo que genere dos versiones del sitio, una en español, por defecto y otra en inglés.
+
+## 2.  Archivos de datos traducidos
+
+Dentro del directorio data/ se ha creado una carpeta data/en/ con los archivos .yml duplicados pero modificados para el nuevo idioma. Estos arhivos contienen exactamente la misma estructura que la original, pero con el texto traducido.
+
+Por ejemplo, el archivo resources.yml, que genera la misma página, dónde se muestran los recursos que contiene la web, pero en inglés.
+
+```yml
+enable  : true
+topTitle: Material produced by OfiLibre and URJC staff
+title   : OfiLibre Resources
+item    :
+
+  - icon    : tf-ion-monitor
+    title   : Presentations
+    link    : /pres/
+    description : >
+      Slides from talks and workshops previously held by OfiLibre.
+
+  - icon    : tf-ion-ios-world-outline
+    title   : Catalog of Open Teaching Materials
+    link    : /catalogo/
+    description : >
+      This catalog includes open access teaching materials produced by URJC staff. You can also add your own published works.
+
+  - icon    : tf-ion-clipboard
+    title   : Sheets
+    link    : /fichas/
+    description : >
+      Sheets on free software and resources. Information about programs and tutorials to help you get started.
+
+  - icon    : tf-ion-ios-paper-outline
+    title   : Guides
+    link    : /guias/
+    description : >
+      Guides and tutorials produced by OfiLibre.
+
+  - icon    : tf-ion-code
+    title   : OfiLibre Code
+    link    : https://gitlab.etsit.urjc.es/ofilibre/code
+    description : >
+      Public code repository related to OfiLibre’s work.
+```
+
+## 3. Traducción de etiquetas y cadenas
+
+Hugo permite definir traducciones para textos estáticos (botones, menús, títulos, etc.) mediante archivos .toml en la carpeta /i18n.
+Hemos creado un archivo llamado en.toml con las equivalencias para todos los textos definidos en es.toml.
+```toml
+[home]
+other = "Home"
+
+[about]
+other = "About"
+
+[activities]
+other = "Activities"
+
+[resources]
+other = "Resources"
+
+[contact]
+other = "Contact"
+
+[search]
+other = "Search"
+
+[blog]
+other = "Blog"
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[webdevelopment]
+other = "Web Development"
+
+[partners]
+other = "Partners"
+[faqs]
+other = "FAQ's"
+[badges]
+other = "Badges"
+
+[category_base]
+other = "categories"
+
+# Sheets
+
+[logoOf]
+other = "Logo of"
+
+[licenses]
+other = "Licenses"
+
+[website]
+other = "Website"
+
+[websiteEs]
+other = "Website (Spanish)"
+
+[installGuides]
+other = "Installation guides"
+
+[tutorials]
+other = "Tutorials"
+
+[sourceCode]
+other = "Source code"
+
+[additionalLinks]
+other = "Additional links"
+
+[myapps]
+other = "Available on MyApps URJC"
+
+[lastUpdated]
+other = "Last updated"
+
+# Presentations
+
+[description]
+other = "Description"
+
+[download]
+other = "Download"
+
+[moreInfo]
+other = "More information"
+
+# Search
+
+[searchTitle]
+other = "Search"
+
+[searchPlaceholder]
+other = "Type to search..."
+
+[internalSearchTitle]
+other = "OfiLibre web"
+
+[externalSearchTitle]
+other = "Internet Archive"
+
+# Contact
+
+[ubicacion]
+other = "Location"
+
+[correo]
+other = "Email"
+
+[redes]
+other = "Social networks"
+
+# Buttons
+
+[learnMore]
+other = "Learn more"
+```
+Así, Hugo sabrá qué mostrar cuando renderice la versión en inglés del sitio.
+
+## 4. Traducción automatizada con un LLM
+Para facilitar la tarea de traducción, usamos un script con un modelo de lenguaje (LLM) que se encargó de traducir automáticamente todos los textos del español al inglés. 
+El script fue ejecutado sobre todos los .yml y .toml relevantes, y posteriormente revisamos los textos manualmente para garantizar la coherencia y calidad.
+
+Este script lo puedes obtener en el [código de la ofilibre.](https://gitlab.etsit.urjc.es/ofilibre/code)
