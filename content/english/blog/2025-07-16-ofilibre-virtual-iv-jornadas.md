@@ -1,18 +1,19 @@
 ---
-categories:
-- free software
-- None
+title: "Visit OfiLibre Virtually!"
 date: 2025-07-16
-description: Por favor, proporciona el texto que deseas traducir. Estoy listo para
-  ayudarte.
-draft: true
+description: "Discover the virtual space we’ve created using A-Frame"
 image: images/logos/logo-ofilibre-2025.jpg
+categories:
+    - free software
+    - resources
 tags:
-title: ¡Visit OfiLibre virtually!
+draft: true
 ---
 
-Comment on general aspects of what we did with aframe
+Explore our free virtual space
 
-Link to the repo with the aframe code
+What if you could visit OfiLibre… without leaving your chair? We created a virtual space with [A-Frame](https://aframe.io/) to showcase what we do: our *Cafes con OfiLibre*, the promotion of free software, and how we work every day for a more open university.
 
-Link to a guide where we explain in detail how we did it
+You can view the code in our [repository](https://gitlab.com/ofilibre/museo) and, if you’re up for it, follow step by step with [this guide on A-Frame](/en/guias/aframe-iv-jornadas).
+
+Explore, learn… and build your own free world!
