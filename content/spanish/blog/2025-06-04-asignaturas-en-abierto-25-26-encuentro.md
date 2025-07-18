@@ -15,7 +15,7 @@ Los detalles de la convocatoria pueden consultarse en el documento Convocatoria 
 
 Más información:
 
-* [Más información, material auxiliar y preguntas frecuentes](/guias//convocatoria-asignaturas-abierto/) 
+* [Más información, material auxiliar y preguntas frecuentes](/guias/convocatoria-asignaturas-abierto/) 
 * [Convocatoria en el tablón de anuncios electrónico de la URJC](https://sede.urjc.es/en/tablon-oficial?path=anuncio/13752/) ([copia en este sitio web](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
 * [Información sobre las distintas ediciones de esta convocatoria](/acciones/asignaturas_abierto/)
 * [Asignaturas en abierto en el aula virtual de la URJC](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)

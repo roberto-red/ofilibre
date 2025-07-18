@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/</link>
+    <description>Recent content in Categories on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Subjects</title>
+      <link>http://localhost:1313/en/categories/open-subjects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/open-subjects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/en/categories/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/resources/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calls</title>
+      <link>http://localhost:1313/en/categories/calls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/calls/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>University</title>
+      <link>http://localhost:1313/en/categories/university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/university/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free Culture</title>
+      <link>http://localhost:1313/en/categories/free-culture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/free-culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free Culture Days</title>
+      <link>http://localhost:1313/en/categories/free-culture-days/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/free-culture-days/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free Software</title>
+      <link>http://localhost:1313/en/categories/free-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/free-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cafes</title>
+      <link>http://localhost:1313/en/categories/cafes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/cafes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Data</title>
+      <link>http://localhost:1313/en/categories/open-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/open-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Publishing</title>
+      <link>http://localhost:1313/en/categories/open-publishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/open-publishing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Access Publication</title>
+      <link>http://localhost:1313/en/categories/open-access-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/open-access-publication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Call for Entries</title>
+      <link>http://localhost:1313/en/categories/call-for-entries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/call-for-entries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Courses</title>
+      <link>http://localhost:1313/en/categories/open-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/open-courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calls for Proposals</title>
+      <link>http://localhost:1313/en/categories/calls-for-proposals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/calls-for-proposals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Days</title>
+      <link>http://localhost:1313/en/categories/days/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/categories/days/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

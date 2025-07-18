@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BURJC Digital on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/burjc-digital/</link>
+    <description>Recent content in BURJC Digital on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/burjc-digital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conoce el archivo abierto de la URJC</title>
+      <link>http://localhost:1313/blog/archivo-abierto/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/archivo-abierto/</guid>
+      <description>La OfiLibre quiere dar a conocer eciencia, el archivo abierto dentro de la BURJC-Digital que funciona como un repositorio institucional de la Universidad Rey Juan Carlos.</description>
+    </item>
+  </channel>
+</rss>

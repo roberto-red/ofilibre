@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calls for Proposals on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/calls-for-proposals/</link>
+    <description>Recent content in Calls for Proposals on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/calls-for-proposals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation of Open Call for Subjects</title>
+      <link>http://localhost:1313/en/blog/2024-09-02-presentacion-asignaturas-abierto/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2024-09-02-presentacion-asignaturas-abierto/</guid>
+      <description>The next Wednesday, September 4, we will have a video conference to present the 2024-2025 call for recognition of open access course publication.</description>
+    </item>
+  </channel>
+</rss>

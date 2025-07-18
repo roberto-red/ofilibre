@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Software on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/free-software/</link>
+    <description>Recent content in Free Software on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2025 09:29:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/free-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infographics of Culture and Free Software</title>
+      <link>http://localhost:1313/en/blog/2025-04-28-infograf%C3%ADas-de-cultura-y-software-libre/</link>
+      <pubDate>Mon, 28 Apr 2025 09:29:58 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-04-28-infograf%C3%ADas-de-cultura-y-software-libre/</guid>
+      <description>Infographics created for the booth and the IV Free Culture Days</description>
+    </item>
+    <item>
+      <title>What is Free Culture?</title>
+      <link>http://localhost:1313/en/blog/cultura-libre/</link>
+      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/cultura-libre/</guid>
+      <description>It is a movement that promotes freedom to distribute and modify creative, scientific, and technical works.</description>
+    </item>
+    <item>
+      <title>Migration from Windows to Linux</title>
+      <link>http://localhost:1313/en/guias/migracion-windows-a-linux/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/migracion-windows-a-linux/</guid>
+      <description>In this guide, we will describe the process we followed to install Linux (as the only operating system) on the office computer.</description>
+    </item>
+    <item>
+      <title>Take the leap to Linux!</title>
+      <link>http://localhost:1313/en/blog/2025-03-11-migracion-windows-a-linux/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-03-11-migracion-windows-a-linux/</guid>
+      <description>At OfiLibre, as advocates of open source, we use a computer running a GNU/Linux distribution.</description>
+    </item>
+    <item>
+      <title>¡OfiLibre is on Netlify!</title>
+      <link>http://localhost:1313/en/blog/2025-02-27-migracion-gitlab-a-netlify/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-02-27-migracion-gitlab-a-netlify/</guid>
+      <description>Our website is now hosted on Netlify. If you want to know how we did it, we&amp;rsquo;ve explained it in detail in our latest guide.</description>
+    </item>
+    <item>
+      <title>Migration of a Hugo project from GitLab Pages to Netlify</title>
+      <link>http://localhost:1313/en/guias/migracion-gitlab-a-netlify/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/migracion-gitlab-a-netlify/</guid>
+      <description>Guide: Deploying a Static Site Built with Hugo on Netlify</description>
+    </item>
+    <item>
+      <title>Configuración de VDO.ninja con OBS</title>
+      <link>http://localhost:1313/en/blog/2025-01-30-vdo-ninja/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-01-30-vdo-ninja/</guid>
+      <description>Take a look at the new guide on VDO.ninja!&#xA;Recently, OfiLibre has coordinated the preparation of a guide on how to set up telematic meeting broadcasting using the VDO.</description>
+    </item>
+    <item>
+      <title>VDO.ninja for broadcasting virtual meetings</title>
+      <link>http://localhost:1313/en/guias/vdo-ninja/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/vdo-ninja/</guid>
+      <description>For video call cafes, we will use the OBS resource called vdo.</description>
+    </item>
+    <item>
+      <title>OfiLibre of the URJC: a model to promote free culture in the University</title>
+      <link>http://localhost:1313/en/blog/2022-06-25-presentacion-eslibre/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2022-06-25-presentacion-eslibre/</guid>
+      <description>Presentation about the OfiLibre model of the URJC, made in esLibre 2022.</description>
+    </item>
+    <item>
+      <title>Free software publication</title>
+      <link>http://localhost:1313/en/guias/publicar-software-libre/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/publicar-software-libre/</guid>
+      <description>Any member of the university community can want to publish a program they have developed as free software.</description>
+    </item>
+    <item>
+      <title>Seminarios: What is free software?</title>
+      <link>http://localhost:1313/en/blog/2022-04-20-software-libre/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2022-04-20-software-libre/</guid>
+      <description>The free software is everywhere today. Free software makes up the majority of the infrastructure of the information society, enables the Internet to function, is used in large quantities by many companies, allows for shorter and more efficient innovation cycles, and is central to the concept of open science&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Two-Factor Authentication with FreeOTP</title>
+      <link>http://localhost:1313/en/blog/freeotp-2factores/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/freeotp-2factores/</guid>
+      <description>At URJC, we are transitioning to using multiple factors of authentication (password and another) to use many services.</description>
+    </item>
+    <item>
+      <title>Introduction to A-Frame: Virtual Reality in the Browser</title>
+      <link>http://localhost:1313/en/blog/taller-aframe/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/taller-aframe/</guid>
+      <description>A-Frame is a technology designed to facilitate the use of WebVR (virtual reality in the browser).</description>
+    </item>
+    <item>
+      <title>Videoconferencia on the web</title>
+      <link>http://localhost:1313/en/blog/videoconferencia-web/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/videoconferencia-web/</guid>
+      <description>En un mundo donde nos hemos habituado a usar soluciones de videoconferencia, es necesario conocer las soluciones de código abierto que existen y tenemos a nuestra disposición.</description>
+    </item>
+    <item>
+      <title>Happy Free Software Day!</title>
+      <link>http://localhost:1313/en/blog/dia-software-libre-2021/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/dia-software-libre-2021/</guid>
+      <description>As every third Saturday of September, from OfiLibre we commemorate the Free Software Day.</description>
+    </item>
+    <item>
+      <title>Importance of Free Software for Open Science</title>
+      <link>http://localhost:1313/en/pres/ciencia-abierta-swlibre/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/ciencia-abierta-swlibre/</guid>
+      <description>Presentation about the relationship between open science and free software.</description>
+    </item>
+    <item>
+      <title>Maximum</title>
+      <link>http://localhost:1313/en/fichas/maxima/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/maxima/</guid>
+      <description>Maxima is an open-source computer algebra system. It consists of a powerful symbolic calculation engine, programmed in Lisp language.</description>
+    </item>
+    <item>
+      <title>OBS</title>
+      <link>http://localhost:1313/en/fichas/obs/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/obs/</guid>
+      <description>Open Broadcaster Software (OBS) is a free and open-source application for video recording and live internet broadcasting.</description>
+    </item>
+    <item>
+      <title>Free Music Archive</title>
+      <link>http://localhost:1313/en/blog/free-music-archive/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/free-music-archive/</guid>
+      <description>Do you know the Free Music Archive project?&#xA;It&amp;rsquo;s an online repository dedicated to hosting free music.</description>
+    </item>
+    <item>
+      <title>Open-source web pages for 3D printing</title>
+      <link>http://localhost:1313/en/blog/webs-impresi%C3%B3n-3d/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/webs-impresi%C3%B3n-3d/</guid>
+      <description>Do you have an interest in 3D printing? Do you design your own objects or download 3D models from the internet?</description>
+    </item>
+    <item>
+      <title>How to generate documents using a template with LibreOffice</title>
+      <link>http://localhost:1313/en/guias/generar-documentos-libreoffice/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/generar-documentos-libreoffice/</guid>
+      <description>Sometimes, we may need to write a generic document to send to different people, such as a letter, email, or certificate.</description>
+    </item>
+    <item>
+      <title>Seminarios OfiLibre. Free FPGAs with Obijuan</title>
+      <link>http://localhost:1313/en/blog/seminario-fpgas-obijuan/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/seminario-fpgas-obijuan/</guid>
+      <description>Demo FPGAs:&#xA;Presentation on FPGAs:&#xA;Juan González, the popular Obijuan, will show us some basic principles of digital electronics, in a practical way, using one of the most advanced platforms: free FPGAs, which are completely changing the world of computing (both hardware and software), as they allow &amp;ldquo;synthesizing&amp;rdquo; digital circuits from their description.</description>
+    </item>
+    <item>
+      <title>Seminarios OfiLibre. Docker and Kubernetes</title>
+      <link>http://localhost:1313/en/blog/seminario-docker-kubernetes/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/seminario-docker-kubernetes/</guid>
+      <description>The technologies Docker and Kubernetes have changed the way we package, distribute, and deploy web applications and other Internet services.</description>
+    </item>
+    <item>
+      <title>Horton</title>
+      <link>http://localhost:1313/en/fichas/horton/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/horton/</guid>
+      <description>Horton is basically a Python library that can be used to calculate structures and to interpret these calculations.</description>
+    </item>
+    <item>
+      <title>Easy68k</title>
+      <link>http://localhost:1313/en/fichas/easy68k/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/easy68k/</guid>
+      <description>Easy68k is an IDE for creating, editing, and executing programs written in assembly code for Motorola 68000 on a Windows PC or in Wine without the need for any additional hardware.</description>
+    </item>
+    <item>
+      <title>Lazarus</title>
+      <link>http://localhost:1313/en/fichas/lazarus/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/lazarus/</guid>
+      <description>Lazarus is a multi-platform IDE compatible with Delphi for Free Pascal.</description>
+    </item>
+    <item>
+      <title>Bestia</title>
+      <link>http://localhost:1313/en/fichas/beast/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/beast/</guid>
+      <description>BEAST is a multi-platform program for Bayesian analysis of molecular sequences using MCMC.</description>
+    </item>
+    <item>
+      <title>Presentations of the Free Software Day</title>
+      <link>http://localhost:1313/en/blog/dia-software-libre-pres/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/dia-software-libre-pres/</guid>
+      <description>We celebrated the Day of Free Software with the University Community on September 23rd.</description>
+    </item>
+    <item>
+      <title>Free Software Day</title>
+      <link>http://localhost:1313/en/blog/dia-software-libre/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/dia-software-libre/</guid>
+      <description>The Free Software Day is an annual international celebration of Free Software.</description>
+    </item>
+    <item>
+      <title>Tickets in GitLab</title>
+      <link>http://localhost:1313/en/guias/tickets-gitlab/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/tickets-gitlab/</guid>
+      <description>How to Create and Follow a Ticket in GitLab Step 1.</description>
+    </item>
+    <item>
+      <title>Definition of open work (mini-presentation)</title>
+      <link>http://localhost:1313/en/pres/mini-obra-abierta/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/mini-obra-abierta/</guid>
+      <description>Definitions of open knowledge, free cultural work, and free software (mini-presentation, only includes links to the most commonly accepted definitions).</description>
+    </item>
+    <item>
+      <title>OpenOffice</title>
+      <link>http://localhost:1313/en/fichas/openoffice/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/openoffice/</guid>
+      <description>Apache OpenOffice is a free, open-source office suite that includes a word processor, spreadsheet, presentations, vector drawing tools, and a database.</description>
+    </item>
+    <item>
+      <title>Processing</title>
+      <link>http://localhost:1313/en/fichas/processing/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/processing/</guid>
+      <description>Processing is an open-source programming language and integrated development environment based on Java, easy to use, and serving as a means for teaching and producing multimedia and interactive digital design projects.</description>
+    </item>
+    <item>
+      <title>SWIProlog</title>
+      <link>http://localhost:1313/en/fichas/swiprolog/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/swiprolog/</guid>
+      <description>SWI-Prolog is an open-source implementation of the Prolog programming language. SWI-Prolog features a rich set of characteristics, libraries (including its own GUI library, XPCE), tools (including an IDE) and extensive documentation.</description>
+    </item>
+    <item>
+      <title>Anaconda</title>
+      <link>http://localhost:1313/en/fichas/anaconda/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/anaconda/</guid>
+      <description>Anaconda is a free and open distribution of the Python and R languages, used in data science and machine learning.</description>
+    </item>
+    <item>
+      <title>Autopsy</title>
+      <link>http://localhost:1313/en/fichas/autopsy/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/autopsy/</guid>
+      <description>Autopsy is a forensic analysis tool that allows for the identification and discovery of relevant information in data sources such as hard drive images, USB memories, network traffic captures, or computer memory dumps.</description>
+    </item>
+    <item>
+      <title>Cryptool</title>
+      <link>http://localhost:1313/en/fichas/cryptool/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/cryptool/</guid>
+      <description>CrypTool is a free software that illustrates cryptographic concepts. It is the most widely used electronic learning program in the world in the field of cryptography.</description>
+    </item>
+    <item>
+      <title>Notepad&#43;&#43;</title>
+      <link>http://localhost:1313/en/fichas/notepad/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/notepad/</guid>
+      <description>Notepad++ is a free text and source code editor with support for several programming languages.</description>
+    </item>
+    <item>
+      <title>BlueJ</title>
+      <link>http://localhost:1313/en/fichas/bluej/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/bluej/</guid>
+      <description>BlueJ was developed to support the teaching and learning of object-oriented programming, and as a result, its design differs from other development environments.</description>
+    </item>
+    <item>
+      <title>Netbeans</title>
+      <link>http://localhost:1313/en/fichas/netbeans/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/netbeans/</guid>
+      <description>NetBeans is a free integrated development environment, mainly designed for the Java programming language.</description>
+    </item>
+    <item>
+      <title>Arduino</title>
+      <link>http://localhost:1313/en/fichas/arduino/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/arduino/</guid>
+      <description>Arduino is an easy and affordable way for beginners and professionals to create devices that can interact with their environment through sensors and actuators.</description>
+    </item>
+    <item>
+      <title>Inkscape</title>
+      <link>http://localhost:1313/en/fichas/inkscape/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/inkscape/</guid>
+      <description>Inkscape is an open-source vector graphics editor, with capabilities similar to Illustrator, Freehand, CorelDraw or Xara X, which uses the W3C standard: the Scalable Vector Graphics (SVG) file format.</description>
+    </item>
+    <item>
+      <title>KeePass</title>
+      <link>http://localhost:1313/en/fichas/keepass/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/keepass/</guid>
+      <description>A password manager or administrator is a computer program used to store a large number of username/password pairs.</description>
+    </item>
+    <item>
+      <title>ArgoUML</title>
+      <link>http://localhost:1313/en/fichas/argouml/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/argouml/</guid>
+      <description>It is a tool for program modeling through diagrams, fundamentally UML.</description>
+    </item>
+    <item>
+      <title>Audacity</title>
+      <link>http://localhost:1313/en/fichas/audacity/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/audacity/</guid>
+      <description>Application for recording, converting, and editing audio. It works with formats such as Ogg Vorbis, MP3, WAV, AIFF, AU, LOF, and WMP.</description>
+    </item>
+    <item>
+      <title>Mars</title>
+      <link>http://localhost:1313/en/fichas/mars/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/mars/</guid>
+      <description>Interactive development environment for programming in assembly language for MIPS. It was created with didactic purposes by the University of Missouri.</description>
+    </item>
+    <item>
+      <title>Ultimaker Cura</title>
+      <link>http://localhost:1313/en/fichas/ultimakercura/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/ultimakercura/</guid>
+      <description>Software fundamentally used in the transformation of 3D models (obj, stl, x3d&amp;hellip;) into a valid format for 3D printing (gcode).</description>
+    </item>
+    <item>
+      <title>Wireshark</title>
+      <link>http://localhost:1313/en/fichas/wireshark/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/wireshark/</guid>
+      <description>It is a protocol analyzer used to perform analysis and troubleshoot problems in communication networks, for software and protocol development, and as a didactic tool.</description>
+    </item>
+    <item>
+      <title>7zip</title>
+      <link>http://localhost:1313/en/fichas/7zip/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/7zip/</guid>
+      <description>7-Zip is a free file archiver developed by Igor Pavlov. By default, it uses the 7z file format, also free, (with a .</description>
+    </item>
+    <item>
+      <title>GIMP</title>
+      <link>http://localhost:1313/en/fichas/gimp/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/gimp/</guid>
+      <description>Gimp is a program for editing digital images in bitmap format.</description>
+    </item>
+    <item>
+      <title>Greenfoot</title>
+      <link>http://localhost:1313/en/fichas/greenfoot/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/greenfoot/</guid>
+      <description>Greenfoot is an interactive Java development environment for educational purposes. It allows the creation of two-dimensional graphical applications, such as simulations and games.</description>
+    </item>
+    <item>
+      <title>Protect</title>
+      <link>http://localhost:1313/en/fichas/prot%C3%A9g%C3%A9/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/prot%C3%A9g%C3%A9/</guid>
+      <description>Protégé is a free open-source editor and a knowledge acquisition system.</description>
+    </item>
+    <item>
+      <title>Octave</title>
+      <link>http://localhost:1313/en/fichas/octave/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/fichas/octave/</guid>
+      <description>Octave or GNU Octave is a program and programming language for performing numerical calculations.</description>
+    </item>
+  </channel>
+</rss>

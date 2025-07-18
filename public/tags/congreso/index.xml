@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congreso on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/congreso/</link>
+    <description>Recent content in Congreso on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/congreso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Congreso virtual esLibre 2020</title>
+      <link>http://localhost:1313/blog/evento-eslibre/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/evento-eslibre/</guid>
+      <description>Los pasados días 18 y 19 de septiembre se celebró la edición 2020 del congreso esLibre, siendo de manera totalmente remota debido a la crisis sanitaria del COVID-19.</description>
+    </item>
+  </channel>
+</rss>

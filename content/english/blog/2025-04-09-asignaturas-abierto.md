@@ -1,0 +1,33 @@
+---
+categories:
+- Open Subjects
+- Calls
+date: 2025-04-09
+description: The Call for the recognition of open access publication of teaching materials
+  for the 2025-2026 academic year has been published.
+image: /images/logo-urjc-square.png
+tags:
+title: Call for Open Subjects 2025-2026
+---
+
+The Call for the recognition of open access publication of teaching materials for the 2025-2026 academic year has been published. This is the fourth edition of this call, which consolidates OfiLibre's support for the publication of open access materials that support learning for anyone. The open subjects of the URJC provide open access materials (notes, exercises, videos, audios, computer programs, and other materials) that are used in regular degree and master's degree subjects. These materials are publicly available, deposited in the university's open archive (BURJC Digital), and organized in the Open Subjects section of our virtual campus.
+
+The call provides various incentives to teachers who publish their materials in open access, recognizing the extra work involved. To apply, subject coordinators must fill out a request, including links to the materials of those subjects as deposited in BURJC Digital.
+
+In this way, the University also fulfills its social mission of transmitting knowledge to society and collaborating in the training of anyone who wants to use the published materials.
+
+### We answer your questions about the call!
+
+On Tuesday, June 3, a session was held to present the call and answer all your questions about the call. Whether you're just starting to inform yourself or already have a proposal in progress, the video of this session may interest you.
+
+* [Video of the session](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+* [Slides used during the session](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+
+More information:
+
+* [More information, auxiliary material, and FAQs](/en/guias/convocatoria-asignaturas-abierto/)
+* [Application forms](https://sede.urjc.es/en/convocatorias): in the calls section, search for "Call for the recognition of open access publication of teaching materials for the 2025-2026 academic year", for the first or second semester, depending on the subject
+* [Call on the URJC's electronic bulletin board](https://sede.urjc.es/en/tablon-oficial?path=anuncio/13752/) ([copy on this website](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
+* [Information about the different editions of this call](/acciones/asignaturas_abierto/)
+* [Open subjects in the URJC's virtual classroom](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)
+* [Collection of teaching materials in BURJC Digital](https://burjcdigital.urjc.es/collections/c54516e9-d910-4353-9971-b1e485078248), including those deposited for the different editions of this call

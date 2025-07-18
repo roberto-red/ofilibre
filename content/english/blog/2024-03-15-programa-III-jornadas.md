@@ -1,0 +1,148 @@
+---
+categories:
+- Free culture days
+- Free Culture
+date: 2024-03-14
+description: Summary of the program and speakers participating in the III Conference
+image: /images/Contenido_III_Jornadas_thumb.png
+slug: programa-III-jornadas
+tags:
+title: Contents of the III Free Culture Days
+---
+
+Program of the Conference, including links to the materials used in the presentations and workshops. You can find the posters in [this blog post.](/en/blog/posters-iii-jornadas)
+
+## Wednesday, March 20
+
+##### OPENING ACT - CAFE CON OFILIBRE
+
+As an opening act, we have one of our [coffee sessions with OfiLibre](/acciones/cafes/) live, in collaboration with Mercedes del Hoyo (Vice-Rector of Community, Campus, Culture, and Sports)
+
+##### PRESENTATIONS
+
+* Virtual Museum of URJC in the Metaverse. Presenter and author: Agustín Martín Peláez. ([slides](/transpas/jornada-cultura-libre/2024/01-02-01-Museo_Virtual.pdf))
+
+* URJC Legal Clinic. Presenter and author: David Belaguer Medrano. ([slides](/transpas/jornada-cultura-libre/2024/01-02-02-Clinica_Juridica.pdf))
+
+##### INVITED PRESENTATION
+
+* *From Open Access to Open Science: Challenges of Technical Editing.* Author and presenter: Remedios Pérez García, Head of the Publication Service at the Polytechnic University of Valencia ([slides](/transpas/jornada-cultura-libre/2024/01-08-invitada-Reme_P_URJ.pdf))
+
+##### SHORT PRESENTATIONS
+
+###### Wikimedia as a paradigm of free culture
+* *Scientific research and innovative teaching through free culture: The case of the edit-a-thon #GastrónomasBNE.* Yanet Acosta. ([slides](/transpas/jornada-cultura-libre/2024/01-03-wiki-01-editatona_GastrónomasBNE.pdf))
+
+* *URJC Wikipedia Club: Open knowledge to improve scientific dissemination and learning.* José María García de Madariaga. ([slides](/transpas/jornada-cultura-libre/2024/01-03-wiki-02_Club_wikipedia.pdf))
+
+* *Wikitodology: Wikipedia as a resource for innovative teaching in the Degree in Journalism.* Rebeca Suárez. ([slides](/transpas/jornada-cultura-libre/2024/01-03-wiki-03WIKIPEDIA_03_SUÁREZ_ÁLVAREZ.pdf))
+
+* *Wikipedia as a tool for the use and dissemination of scientific production.* Pilar de la Prieta (Wikimedia España). ([slides](/transpas/jornada-cultura-libre/2024/01-03-wiki-04_Wikimedia.pdf))
+###### Open educational resources and free culture in the classroom
+
+* *ECO2. Creating an ecosystem of open knowledge environments from educational innovation.* María del Carmen Gálvez. ([slides](/transpas/jornada-cultura-libre/2024/01-05-rea-01-ECO2-Galvez.pdf))
+
+* *We've created the content, now what: the case of the CINTER Group materials.* Félix Labrador. ([slides](/transpas/jornada-cultura-libre/2024/01-05-rea-02REA_02_LABRADOR_ARROYO.pdf))
+
+* *VIRION Project: Open Educational Resources in virtual reality for promoting STEM vocations.* David García Marín. ([slides](/transpas/jornada-cultura-libre/2024/01-05-rea-03-Virion-david_martin.pdf))
+
+* *DOMINOES Project: Digital resilience against misinformation through open education.* Cristina Arribas. ([slides](/transpas/jornada-cultura-libre/2024/01-05-rea-04-Dominoes.pdf))
+
+* *Sustainability, Open Resources, and Free Software.* Iria Paz. ([slides](/transpas/jornada-cultura-libre/2024/01-05-rea-05_REA_05_PAZ_GIL.pdf))
+
+##### TALKS
+
+* Educational Innovation - CIED
+
+* Sexenios. How was the process of deposit and open publication in BURJC Digital?. Presenter: Fernando Silva de Biblioteca. ([slides](/transpas/jornada-cultura-libre/2024/01-07-sex-BURJC_SEXENIOS.pdf))
+
+* Publication Service of URJC. Presentation of the Open Access Journal and Monograph Service. Presenter: Laura de la Cruz Parra
+
+##### ROUND TABLE
+###### Achievements and challenges of URJC open access journals: A shared dialogue with the scientific community. Moderated by Tomás Zarza (ASRI).
+
+Collaborators:
+* GUERRA COLONIAL (Miguel Madueño)
+
+* NEOMEDIEVAL (Antonio Huertas)
+
+* STUDIA HUMANITATIS JOURNAL (Roberto Barbeito and Sara Núñez de Prado)
+
+* ORDEN INTERNACIONAL (José Manuel Azcona)
+
+* LOAR (Begoña García)
+
+* ICONO 14 (Manuel Gertrudix)
+
+* FORUM DOCENTIS
+
+##### FREE THEATER READ: ANA NO LONGER PLAYS THE CLARINET, BY ARROJO ESCÉNICO URJC
+
+##### WORKSHOPS
+
+* *OBS. REMOTE REALIZATION LIVE*. Juan José Domínguez (URJC). 
+
+* *COPYRIGHT IN TEACHING AND RESEARCH: Practical cases of open publication*. Emilio Alvarado (URJC Library). 
+
+* *FREE ARTIFICIAL INTELLIGENCE: Introduction and practice.* Artificial Intelligence Association (URJC).
+
+* *FREE SOFTWARE WORKSHOP.* Jesús M. González Barahona (URJC)
+
+## Thursday, March 21
+
+##### INVITED PRESENTATION
+
+* **Open Data: Expansion Movement**. Author and presenter: Sonia Castro García-Muñoz, Coordinator of the Aporta/datos.gob.es Initiative at Red.es. ([slides](/transpas/jornada-cultura-libre/2024/02-04-invitada-DatosAbiertos_Castro_García-Muñoz.pdf))
+
+##### SHORT PRESENTATIONS
+###### Open Data
+
+* *A public access database to analyze the representation of childhood in Spanish advertising.* Juan Manuel Vara Mesa. ([slides](/transpas/jornada-cultura-libre/2024/))
+
+* *Emancipatory knowledge management model applied to conflict prevention in organizations.* Helena Nadal Sánchez and Cristina Del Prado Higuera. ([slides](/transpas/jornada-cultura-libre/2024/02-06-CA-01-Modelo_emancipatorio.pdf))
+
+###### Open Science
+
+* *PODCAST AND OPEN KNOWLEDGE: AN EXPERIENCE.*  Pablo Acosta Gallo. ([slides](/transpas/jornada-cultura-libre/2024/02-06-CA-02_Pablo_Acosta_podcast_libre.pdf))
+
+* *MOVEDUCA: An open podcast about movement and health.* Francisco Molina Rueda ([slides](/transpas/jornada-cultura-libre/2024/02-06-CA-03-Moveduca_Francisco_Molina_Rueda.pdf))
+
+* *HR Strategy for researchers: Open tools to benefit from.* Rosa Mesa Vélez. ([slides](/transpas/jornada-cultura-libre/2024/02-06-CA-04-CIENCIA_ABIERTA_03_MESA_VÉLEZ.pdf))
+
+* *Reducing errors during the unification of rubrics from different professors of the same subject in Health Sciences using free software R.* José Luis Arias Buría. ([slides](/transpas/jornada-cultura-libre/2024/02-06-CA-05-Reduccion_de_errores.pdf))
+
+###### Free Software and Hardware
+
+* *Past, present, and future of EducaMadrid.* Adolfo Sanz de Diego.([slides](/transpas/jornada-cultura-libre/2024/02-01-soft-01-Educamadrid.pdf))
+
+* *JULIA, or when a free program is better than a paid one.* Ana Isabel Muñoz Montalvo.([slides](/transpas/jornada-cultura-libre/2024/02-01-soft-02-SHLIBRE_03_MUÑOZ_MONTALVO.pdf))
+
+* *Accelerating Hardware Design with Free Hardware.* Rubén Nieto Capuchino. ([slides](/transpas/jornada-cultura-libre/2024/02-01-soft-03_Acelerando_el_diseño_hardware.pdf))
+
+* *Managing 600 laboratory equipment with free software.* Antonio Gutiérrez. ([slides](/transpas/jornada-cultura-libre/2024/02-01-soft-04_Laboratorio_linux_Jornadas_cultura_libre.pdf))
+
+##### TALKS
+
+* *Digitalization: Modernizing our applications: OpenShift Commercial vs Free Software Kubernetes.* Imparts: Ana María García Márquez Del Prado.
+How the Vicerrectorado de Transformación y educación digital e Inteligencia Artificial chose a system to deploy applications, comparing different solutions, both commercial and free software, evaluating their advantages and disadvantages. ([slides](/transpas/jornada-cultura-libre/2024/02-02-digi-digitalizacion_modernizando_aplicaciones.pdf))
+
+* *Doctoral School.* Unlocking knowledge: Open Access Doctoral Theses. ([slides](/transpas/jornada-cultura-libre/2024/02-09-EID-_Escuela_int_de_doctorado.pdf))
+
+* *Digital Gardens, a proposal to free scientific research NODO COMÚN.* Daniel Cotillas, social communicator, and Pedro Fernández de Castro, predoctoral researcher. ([slides](https://nodocomun.org/expo-jardines-digitales/?transition=zoom))
+
+* *Narrative Bibliometrics: The boost of open publication.* Roberto Negral de Biblioteca. ([slides](/transpas/jornada-cultura-libre/2024/02-08-Bibliometria_Narrativa.pdf))
+
+#### OfiLibre. Don't you know what we do yet?
+
+##### AFTERNOON OF ARTIFICIAL INTELLIGENCE
+
+* **Free Podcast. Podcast and Artificial Intelligence.** José Antonio Gelado. 
+The generative AI is causing a new Industrial Revolution in podcast production, distribution, and consumption. A journey through the origins of podcasting and its evolution to the incorporation of Artificial Intelligence in different phases of ideation, recording, editing, and promotion. To finish with a look at the future with five trends that will experience its use in podcasting.
+
+* **Wikimedia research in the era of Artificial Intelligence.** Pablo Aragón. 
+Wikipedia and the rest of Wikimedia projects are a fundamental piece in the ecosystem of free knowledge. Recent advances in Artificial Intelligence offer new challenges and opportunities for the Wikimedia movement. This talk will address the current use of Artificial Intelligence by the Wikimedia research team to contribute to knowledge equity strategies and knowledge as a service.
+
+* **Open Artificial Intelligence Generation.** Hugging Face. 
+Artificial Intelligence generation has had a spectacular development in recent months. Besides private models like ChatGPT, confined in large companies' data centers, there are also open models like Llama or Stable Diffusion. These models have facilitated the growth of an open and collaborative ecosystem, where the global community experiments at a frantic pace, creating new methods, techniques, and applications. We will talk about the benefits of Open Source ML, the challenges it presents, and possible trends in this vertiginous world.
+
+* **DEBATE TABLE: OPEN ARTIFICIAL INTELLIGENCE**

@@ -1,0 +1,27 @@
+---
+categories:
+- Free Culture
+- Open publishing
+date: 2024-09-18
+description: How do I know what license the article I published in such and such a
+  magazine has? How can I know under what conditions a material has been published?
+  Find the answer to these and other questions in the video Where is the license?
+image: /images/openaccess-square.png
+tags:
+- Licenses
+- Videos
+- Training
+- Free Culture
+- Open Access
+title: Where is the license?
+---
+
+<iframe src='https://tv.urjc.es/iframe/66ab576943c84969a63ad8b6' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+
+We offer you the video [Where is the license?](https://tv.urjc.es/video/66ab576943c84969a63ad8b6), to help identify open access licenses in research journals.
+
+At OfiLibre, we often come across the following question: "How do I know what license my article published in such and such journal has?" or "How can I know under what conditions a material was published?". Knowing the usage license of a journal or article is fundamental, but we don't always remember what we signed when publishing an article. Often, in our eagerness to publish, we simply click "accept" without being clear about what implications it has or what usage conditions will apply to our material once it becomes part of the journal.
+
+When publishing an article, a book, or even a text on a blog, we are probably ceding certain rights while reserving others. If the journal or institution we are dealing with uses Creative Commons licenses, everything becomes simpler, as they are well-known and easy-to-understand standards. However, this is not always evident, and we often need to investigate the usage conditions.
+
+To facilitate this task, at OfiLibre and with the collaboration of Oscar Cabrera, who has worked with us on a training grant, we have created this video inspired by the classic "Where's Wally" by Martin Handford. We hope it will be helpful in identifying what can or cannot be done with a published article.

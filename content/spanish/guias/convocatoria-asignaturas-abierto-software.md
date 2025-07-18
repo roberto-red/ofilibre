@@ -119,4 +119,4 @@ Puede instalarse tanto en Firefox como en Chrome la [extensión de Software Hert
 
 ## Referencias
 
-Puede ser útil, antes de componer el repositiro, consultar la guía [Publicación de software libre](/images/guias/publicar-software-libre).
+Puede ser útil, antes de componer el repositiro, consultar la guía [Publicación de software libre](/guias/publicar-software-libre).

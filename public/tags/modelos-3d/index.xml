@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelos 3D on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/modelos-3d/</link>
+    <description>Recent content in Modelos 3D on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/modelos-3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Páginas web open-source para impresión 3D</title>
+      <link>http://localhost:1313/blog/webs-impresi%C3%B3n-3d/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/webs-impresi%C3%B3n-3d/</guid>
+      <description>¿Te interesa la impresión 3D? ¿Diseñas tus propios objetos o descargas modelos 3D de internet?</description>
+    </item>
+  </channel>
+</rss>

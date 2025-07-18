@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call for Entries on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/call-for-entries/</link>
+    <description>Recent content in Call for Entries on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/call-for-entries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Six-year Terms and Open Science</title>
+      <link>http://localhost:1313/en/guias/sexenios-ciencia-abierta/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/sexenios-ciencia-abierta/</guid>
+      <description>Information related to open science aspects of the 2023 Sexenios Call.</description>
+    </item>
+  </channel>
+</rss>

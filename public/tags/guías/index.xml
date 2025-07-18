@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guías on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/gu%C3%ADas/</link>
+    <description>Recent content in Guías on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gu%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía sobre cómo imprimir desde Linux en las nuevas impresoras</title>
+      <link>http://localhost:1313/blog/impresoras-linux/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/impresoras-linux/</guid>
+      <description>Recientemente se han instalado nuevas impresoras para su uso por el personal de la Universidad.</description>
+    </item>
+  </channel>
+</rss>

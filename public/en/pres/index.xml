@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/pres/</link>
+    <description>Recent content in Presentations on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/pres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publication of Open Educational Materials at URJC</title>
+      <link>http://localhost:1313/en/pres/recursos-docentes-abiertos-urjc/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/recursos-docentes-abiertos-urjc/</guid>
+      <description>Presentation used to explain the actions of the URJC to promote the open publication of teaching resources during the Madroño Consortium Day &amp;ldquo;Open educational resources: challenges and projects in Madroño Universities&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Open Publication in Research</title>
+      <link>http://localhost:1313/en/pres/publicacion-abierta-investigacion/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/publicacion-abierta-investigacion/</guid>
+      <description>Presentation on Open Publishing in Research.&#xA;Other versions of this presentation:</description>
+    </item>
+    <item>
+      <title>The world of free knowledge and culture</title>
+      <link>http://localhost:1313/en/pres/curso-cultura-libre/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/curso-cultura-libre/</guid>
+      <description>Materials for the course on free knowledge and culture, part of the Training Plan for PDI of the URJC.</description>
+    </item>
+    <item>
+      <title>Open Science</title>
+      <link>http://localhost:1313/en/pres/ciencia-abierta/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/ciencia-abierta/</guid>
+      <description>Presentation about open science.&#xA;Previous presentations on the same topic:</description>
+    </item>
+    <item>
+      <title>Importance of Free Software for Open Science</title>
+      <link>http://localhost:1313/en/pres/ciencia-abierta-swlibre/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/ciencia-abierta-swlibre/</guid>
+      <description>Presentation about the relationship between open science and free software.</description>
+    </item>
+    <item>
+      <title>Introduction to Open Publishing</title>
+      <link>http://localhost:1313/en/pres/intro-publicacion-abierta/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/intro-publicacion-abierta/</guid>
+      <description>Introduction to open publishing, focused on both publishing research results and teaching materials.</description>
+    </item>
+    <item>
+      <title>Call for Open Subjects</title>
+      <link>http://localhost:1313/en/pres/convocatoria-asignaturas-abierto/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/convocatoria-asignaturas-abierto/</guid>
+      <description>Presentation used to explain the Open Subjects Call (2022-2023). You can consult more details in the Guide on the Open Subjects Call.</description>
+    </item>
+    <item>
+      <title>Open Publication</title>
+      <link>http://localhost:1313/en/pres/publicacion-abierta/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/publicacion-abierta/</guid>
+      <description>Presentation on open publishing, from a practical point of view.</description>
+    </item>
+    <item>
+      <title>Definition of open work (mini-presentation)</title>
+      <link>http://localhost:1313/en/pres/mini-obra-abierta/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/mini-obra-abierta/</guid>
+      <description>Definitions of open knowledge, free cultural work, and free software (mini-presentation, only includes links to the most commonly accepted definitions).</description>
+    </item>
+    <item>
+      <title>Open data</title>
+      <link>http://localhost:1313/en/pres/datos-abiertos/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/datos-abiertos/</guid>
+      <description>More and more, open data is becoming a requirement in many research fields, a symptom of transparency, and a very useful resource in teaching and research.</description>
+    </item>
+    <item>
+      <title>Presentation of OfiLibre</title>
+      <link>http://localhost:1313/en/pres/ofilibre/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pres/ofilibre/</guid>
+      <description>Presentation of OfiLibre, made in several campus.</description>
+    </item>
+  </channel>
+</rss>

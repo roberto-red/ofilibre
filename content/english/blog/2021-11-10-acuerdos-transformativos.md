@@ -1,0 +1,21 @@
+---
+categories:
+- Open publishing
+date: 2021-11-10
+description: Information about the transformative agreements signed by the URJC with
+  different scientific journals for the open publication of scientific articles
+image: /images/logo-ofilibre-2025.jpg
+slug: acuerdos-transformativos
+tags:
+title: Transformative agreements for open access publication
+---
+
+The Transformatory Agreements are a series of agreements reached by Spanish universities with certain scientific journal publishers with the aim of aligning ourselves with other European Union countries and fulfilling the Open Access mandates of various Spanish and European institutions.
+
+The idea behind these agreements is that institutions can directly fund the open publication costs (Article Processing Charges, APC) of scientific articles in these publishers, up to each university's budget.
+
+Any author belonging to one of the universities and institutions that have signed these agreements can request that their institution fund these costs, but must meet certain requirements indicated in [this web](https://urjc.libguides.com/publicarabierto/AT) (specifically for the URJC case).
+
+The list of publishers that have signed agreements with the URJC can be consulted in the top menu under the "Transformatory Agreements" dropdown, as indicated in the image. It is necessary to verify the requirements of each publisher. The Library website indicates in each case the workflow that authors must follow to publish with said publisher under the corresponding transformatory agreement with it.
+
+![Transformatory Agreements menu](/images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.png)

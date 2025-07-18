@@ -33,20 +33,20 @@
                     </ul>
 
                     {{ with .Params.categories }}
-                        <div class="mb-2">
-                            {{ range . }}
-                            {{ $cat := . | lower | urlize }}
-                            <a href="{{ printf "/categories/%s" $cat | relLangURL }}" class="badge badge-category mr-1">
-                            {{ . | lower | title }}
-                            </a>
-                            {{ end }}
-                        </div>
+                    <div class="mb-0 mt-1">
+                    {{ range . }}
+                    {{ $cat := . | lower | urlize }}
+                    <a href="{{ printf "/categories/%s" $cat | relLangURL }}" class="badge badge-category mr-1 mb-1 d-inline-block">
+                        {{ . | lower | title }}
+                    </a>
                     {{ end }}
-                    
-                    <div class="post-title mb-1">
-                        <h3 class="mt-0">
-                            <a style="color:#cb0017;" href="{{ .Permalink }}">{{ .Title }}</a>
-                        </h3>
+                    </div>
+                    {{ end }}
+
+                    <div class="post-title mt-2" style="margin-bottom: 0.5rem;">
+                    <h3 class="mt-0 mb-1" style="color:#cb0017;">
+                        <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
+                    </h3>
                     </div>
                     
                     <div class="post-content mb-1">
@@ -59,7 +59,7 @@
                     </div>
                     {{ end }}
                     
-                    <a class="btn btn-main mt-2" style="margin: 0 0;"href="{{ .Permalink }}">Saber más</a>
+                    <a href="{{ .Permalink }}" class="btn btn-main mt-2">{{ i18n "learnMore" }}</a>
                 </div>
             </article>
             {{ "<!-- /single blog post -->" | safeHTML }}

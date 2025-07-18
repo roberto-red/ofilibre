@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Publication on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/open-publication/</link>
+    <description>Recent content in Open Publication on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/open-publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultas a experts</title>
+      <link>http://localhost:1313/en/blog/consulta-expertos-octubre/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/consulta-expertos-octubre/</guid>
+      <description>In OfiLibre, we often receive many inquiries about the use of free materials, licenses, free software, etc.</description>
+    </item>
+    <item>
+      <title>Status of the Open Call for Subjects</title>
+      <link>http://localhost:1313/en/blog/2022-09-14-estado-convocatoria-asignaturas/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2022-09-14-estado-convocatoria-asignaturas/</guid>
+      <description>We&amp;rsquo;re starting the course with many things, but with a focus on the Call for recognition of open-access publication of subjects 2022-2023.</description>
+    </item>
+    <item>
+      <title>Transformative agreement with publisher Wiley for open access publishing</title>
+      <link>http://localhost:1313/en/blog/acuerdo-editorial-wiley/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/acuerdo-editorial-wiley/</guid>
+      <description>According to the Vicerrectorado de Extensión Universitaria, the URJC has signed a new agreement with the publisher Wiley, which will allow authors from the URJC to read and publish open access articles.</description>
+    </item>
+  </channel>
+</rss>

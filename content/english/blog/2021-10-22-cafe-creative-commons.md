@@ -1,0 +1,29 @@
+---
+categories:
+- Cafes
+- Open publishing
+date: 2021-10-22
+description: Coffee and Creative Commons with OfiLibre at Library
+image: images/blog/cafe-creative-commons/cc20-square.png
+slug: cafe-creative-commons-2021
+tags:
+title: Coffee and Creative Commons
+---
+
+Do you want to spend a relaxed time talking about Creative Commons licenses? Do you want to reflect with us on their effects, which ones are considered open access and which ones are not, which license might interest you the most...? If any of these topics interest you, or you simply want to learn a bit about them, come along!
+
+Creative Commons [licenses](https://creativecommons.org/) are today the most commonly used licenses when you want to retain certain rights over your work, but cede others to the general public. They are also the most used for open access publishing, and in general for publishing free works. Although when the project started, 20 years ago, it brought a huge clarification and simplification for authors who want to publish in open access, or who simply want to allow certain freedoms with their works, over the years there has also been some confusion about them, and many different ways of using them.
+
+Come on Friday 29 to the Fuenlabrada Library, and celebrate with us the [Open Access Week](http://www.openaccessweek.org/). This activity opens the series "Cafés with OfiLibre in the Library", organized jointly by the [Library](https://www.urjc.es/estudiar-en-la-urjc/biblioteca) and [OfiLibre](https://ofilibre.urjc.es/), which will be visiting the URJC campuses over the next few months.
+
+Admission is free until the venue is full. More [information on URJC Events](https://eventos.urjc.es/73151/detail/cafe-y-creative-commons.html).
+
+* Where?: Fuenlabrada campus library of the URJC, glass room.
+
+* When?: Friday 29 October 2021, 10:00 to 11:00.
+
+Related materials:
+
+* Slides ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
+
+* [Poster](/images/blog/cafe-creative-commons/cartel_A3.pdf)

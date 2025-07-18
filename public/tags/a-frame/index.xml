@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A-Frame on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/a-frame/</link>
+    <description>Recent content in A-Frame on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/a-frame/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción a A-Frame: Realidad virtual en el navegador</title>
+      <link>http://localhost:1313/blog/taller-aframe/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/taller-aframe/</guid>
+      <description>A-Frame es una tecnología diseñada para facilitar el uso de WebVR (realidad virtual en el navegador).</description>
+    </item>
+  </channel>
+</rss>

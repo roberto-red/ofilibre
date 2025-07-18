@@ -7,10 +7,10 @@ description: "Free Culture Days: a few days to celebrate free culture, open acce
 
 Since 2022, the URJC has held the annual Free Culture Days:
 
-* 4th Free Culture Days (March 26–27, 2025): [first announcement](/blog/free-culture-days-iv/), [call for contributions](/blog/free-culture-days-iv-call/), [session with rectoral candidates](/blog/free-culture-days-iv-rector-candidates-session/), [full programme](/blog/free-culture-days-iv-schedule/)
+* 4th Free Culture Days (March 26–27, 2025): [first announcement](/en/blog/free-culture-days-iv/), [call for contributions](/en/blog/free-culture-days-iv-call/), [session with rectoral candidates](/en/blog/free-culture-days-iv-rector-candidates-session/), [full programme](/en/blog/free-culture-days-iv-schedule/)
 
-* 3rd Free Culture Days (March 20–21, 2024): [final programme, including materials](/blog/free-culture-days-iii-schedule/), [posters](/blog/free-culture-days-iii-posters/), [announcement](/blog/free-culture-days-iii/)
+* 3rd Free Culture Days (March 20–21, 2024): [final programme, including materials](/en/blog/free-culture-days-iii-schedule/), [posters](/en/blog/free-culture-days-iii-posters/), [announcement](/en/blog/free-culture-days-iii/)
 
-* 2nd Free Culture Days (March 29–30, 2023): [final programme, including materials and videos](/blog/free-culture-days-ii-summary/), [posters](/blog/free-culture-days-ii-posters/), [announcement](/blog/free-culture-days-ii/)
+* 2nd Free Culture Days (March 29–30, 2023): [final programme, including materials and videos](/en/blog/free-culture-days-ii-summary/), [posters](/en/blog/free-culture-days-ii-posters/), [announcement](/en/blog/free-culture-days-ii/)
 
-* 1st Free Culture Days (March 30, 2022): [final programme, including materials and videos](/blog/2022-05-19-free-culture-days-results/), [announcement](/blog/free-culture-days/)
+* 1st Free Culture Days (March 30, 2022): [final programme, including materials and videos](/en/blog/2022-05-19-free-culture-days-results/), [announcement](/en/blog/free-culture-days/)

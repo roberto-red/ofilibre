@@ -51,7 +51,7 @@ Recuerda que para asistir a las jornadas, debes inscribirte en [**este enlace**]
 
 *   **Cristina Rincón Moreno**  
 
-### **11:00 - 11:30 Ponencias cortas: CIENCIA CIUDADANA, WIKIPEDIA**
+### 11:00 - 11:30 Ponencias cortas: CIENCIA CIUDADANA, WIKIPEDIA
 
 *   **Piedad Tolmos Rodríguez-Piñero**: *Conexiones con el entorno: laboratorios ciudadanos.*
 

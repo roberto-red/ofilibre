@@ -1,0 +1,29 @@
+---
+categories:
+- Free Software
+date: 2022-02-26
+description: FreeOTP is a free program that can function as a second authentication
+  factor
+image: images/blog/freeotp-2factores/square.png
+slug: freeotp-2factores
+tags:
+title: Two-Factor Authentication with FreeOTP
+---
+
+At URJC, we are transitioning to [using multiple factors of authentication](https://infotic.urjc.es/pages/viewpage.action?pageId=135299113) (password and another) to use many services. The second factor can be, for example, a mobile phone, where we will receive a code that we will have to enter to authenticate. But it can also be an application, normally for mobile phones, that will give us the code to authenticate.
+
+There are several free applications that provide this functionality. Among them, [FreeOTP](https://freeotp.github.io/) stands out, which you can download for Android or iOS. This application, in addition to authenticating us in the Office365 services contracted by the University (email, Teams, OneDrive, etc.), also serves for many other services that use the [TOTP](http://www.ietf.org/rfc/rfc6238.txt) standard for a second factor of authentication, such as GitHub, GitLab, Google, Amazon, or Facebook.
+
+Configuring FreeOTP for Office365 is very simple. Follow the recommendations of the [infographic provided by CIED](https://online.urjc.es/contenidos/urjconline/mailing/doble-factor-de-autenticacion-en-office365.pdf), in the part that explains how to configure Microsoft Authenticator, but using FreeOTP as the application. In summary:
+
+* Download FreeOTP on your mobile phone ([Android version on F-Droid](https://f-droid.org/packages/org.fedorahosted.freeotp/), [Android version on Google Play](https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp), [iOS version](https://apps.apple.com/us/app/freeotp-authenticator/id872559395)).
+
+* On your computer, access the [security options of your Office365 account](https://mysignins.microsoft.com/security-info). In the "Security Information" panel, click on the "Add a method" option. When it indicates that you should obtain "Microsoft Authenticator", choose "I want to use a different authentication app". When the panel indicating "Configure your app" appears, click on "Next" to see a QR code.
+
+* On your mobile phone, launch FreeOTP and click on the camera icon (bottom right corner). You will now be able to scan the QR code on your computer screen with your mobile phone's camera. This will configure FreeOTP to authenticate, and you will receive a message on your mobile phone indicating that you are adding a new service. On the main FreeOTP screen, you will now see an icon with the Microsoft logo.
+
+Now, when you authenticate in the University's Office365 services, when you are asked for a code in addition to your password, launch FreeOTP on your mobile phone, click on the Microsoft logo, and enter the code given by the application.
+
+You can take advantage of configuring a second factor of authentication using FreeOTP with other services, since we are...
+
+FreeOTP is free software, so if you want, you can view its [source code](https://github.com/freeotp), and adapt it to your needs if you know how to program.

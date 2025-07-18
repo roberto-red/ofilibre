@@ -8,7 +8,7 @@ slides:
   odp: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.odp
 extras:
   - name: Presentación en el campus de Fuenlabrada
-    url: /blog/evento-pub-abierta-fuenla-09-03/cambiar
+    url: /blog/evento-pub-abierta-fuenla-09-03
 
 type: pres
 categories:

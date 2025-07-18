@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovación on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/innovaci%C3%B3n/</link>
+    <description>Recent content in Innovación on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/innovaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panel sobre conocimiento y cultura libre para la innovación docente</title>
+      <link>http://localhost:1313/blog/mesa-docencia-libre/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mesa-docencia-libre/</guid>
+      <description>En el contexto de las Jornadas sobre Innovación Docente 2019, organizadas por la URJC, tendrá lugar la mesa redonda &amp;ldquo;Conocimiento y Cultura Libre para la Innovación Docente&amp;rdquo;, el jueves 28 de noviembre a las 15:30, en el Aula Magna 203, Aulario III, Campus de Móstoles, con la participación de:</description>
+    </item>
+  </channel>
+</rss>

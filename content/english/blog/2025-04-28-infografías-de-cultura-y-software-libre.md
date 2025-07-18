@@ -1,0 +1,43 @@
+---
+categories:
+- Free Culture
+- Free culture days
+- Free Software
+date: 2025-04-28 09:29:58.293000+00:00
+description: Infographics and materials created for the booth and the 4th Culture
+  Libre Days
+image: /images/blog/infografías-de-cultura-y-software-libre/diseño-sin-título-2.png
+tags:
+title: Infographics of Culture and Free Software
+---
+
+Infographics created for the booth and the IV Free Culture Days\
+\
+These infographics were used both in the booth set up the week prior to the IV Free Culture Days and during the days themselves in the poster area.
+
+![](/images/blog/infografías-de-cultura-y-software-libre/licencia-libre.png)
+
+![](/images/blog/infografías-de-cultura-y-software-libre/qué-es-la-cultura-libre.png)
+
+![](/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto-1.png)
+
+![](/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto.png)
+
+
+
+
+
+
+
+
+
+
+This is the rest of the materials created for both the booth and the Days.
+
+![](/images/blog/infographics-of-free-culture-and-software/info-ofilibre.png)
+
+![](/images/blog/infographics-of-free-culture-and-software/how-to-publish-a-tfg-in-open.png)
+
+![](/images/blog/infographics-of-free-culture-and-software/frontal-superior-.png)
+
+![](/images/blog/infographics-of-free-culture-and-software/wtf.png)

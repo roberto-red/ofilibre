@@ -5,7 +5,6 @@ slug: "licencias-libres"
 description: "Aprende qué es una licencia y cómo regula el uso, distribución y modificación de obras. Descubre las distintas licencias Creative Commons y de software que permiten compartir conocimiento de manera flexible y segura."
 type: post
 categories:
-  - OfiLibre
   - Jornadas
 tags:
   - "OfiLibre"

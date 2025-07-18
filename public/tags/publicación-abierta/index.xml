@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicación Abierta on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/publicaci%C3%B3n-abierta/</link>
+    <description>Recent content in Publicación Abierta on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/publicaci%C3%B3n-abierta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultas a expertos</title>
+      <link>http://localhost:1313/blog/consulta-expertos-octubre/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/consulta-expertos-octubre/</guid>
+      <description>En la OfliLibre solemos recibir muchas consultas sobre uso de materiales libres, licencias, software libre, etc.</description>
+    </item>
+    <item>
+      <title>Estado de la convocatoria de Asignaturas en abierto</title>
+      <link>http://localhost:1313/blog/2022-09-14-estado-convocatoria-asignaturas/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-09-14-estado-convocatoria-asignaturas/</guid>
+      <description>Empezamos el curso con muchas cosas, pero con el foco puesto en la Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023.</description>
+    </item>
+  </channel>
+</rss>

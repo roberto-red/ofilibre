@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicación_en_abierto on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/publicaci%C3%B3n_en_abierto/</link>
+    <description>Recent content in Publicación_en_abierto on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 14 Apr 2023 11:02:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/publicaci%C3%B3n_en_abierto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revistas académicas de la URJC ¡Bienvenidas!</title>
+      <link>http://localhost:1313/blog/convocatoria-revistas/</link>
+      <pubDate>Fri, 14 Apr 2023 11:02:06 +0000</pubDate>
+      <guid>http://localhost:1313/blog/convocatoria-revistas/</guid>
+      <description>El Vicerrectorado de Comunidad Campus, Cultura y Deporte promueve la creación de una plataforma de la URJC para la publicación de revistas académicas.</description>
+    </item>
+  </channel>
+</rss>

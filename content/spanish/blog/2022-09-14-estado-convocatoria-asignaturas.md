@@ -35,11 +35,11 @@ Para seguir dando respuesta a posibles dudas hemos organizado una serie de sesio
 
 ### Guía de la convocatoria:
 
-En esta guía encontrarás toda la [información necesaria sobre la convocatoria](/guias//convocatoria-asignaturas-abierto/) y los enlaces más útiles. 
+En esta guía encontrarás toda la [información necesaria sobre la convocatoria](/guias/convocatoria-asignaturas-abierto/) y los enlaces más útiles. 
 
 ### Preguntas frecuentes: 
 
-Con las dudas que recibimos en nuestro correo de ofilibre ofilibre@urjc.es conformamos un [espacio de Preguntas Frecuentes](/guias//convocatoria-asignaturas-abierto/#faq) que creemos puede ser de mucha ayuda a quienes se estén planteando participar de la convocatoria.   
+Con las dudas que recibimos en nuestro correo de ofilibre ofilibre@urjc.es conformamos un [espacio de Preguntas Frecuentes](/guias/convocatoria-asignaturas-abierto/#faq) que creemos puede ser de mucha ayuda a quienes se estén planteando participar de la convocatoria.   
 
  
 ### Subida de vídeos 
@@ -49,11 +49,11 @@ Para facilitar la incorporación de una serie de vídeos, desde el CIED han real
  
 ### Subida de Software 
 
-Hemos preparado un [procedimiento para subir software](/guias//convocatoria-asignaturas-abierto-software/) en la categoría de "Otros" de la convocatoria.  
+Hemos preparado un [procedimiento para subir software](/guias/convocatoria-asignaturas-abierto-software/) en la categoría de "Otros" de la convocatoria.  
  
 ### Plantillas para subir documentos 
 
-Hemos diseñado una [serie de plantillas en formato libre](/guias//plantillas-asignaturas-abierto/), por si os parece interesante utilizarlas para vuestros materiales.
+Hemos diseñado una [serie de plantillas en formato libre](/guias/plantillas-asignaturas-abierto/), por si os parece interesante utilizarlas para vuestros materiales.
  
  
  ### Archivo Abierto

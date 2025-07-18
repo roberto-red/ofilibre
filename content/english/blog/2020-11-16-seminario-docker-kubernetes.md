@@ -1,0 +1,34 @@
+---
+categories:
+- University
+- Free Software
+date: 2020-11-16
+description: Seminar on Docker, Kubernetes and other free related technologies, widely
+  used to deploy modern cloud applications.
+image: /images/logo-ofilibre-2025.jpg
+slug: seminario-docker-kubernetes
+tags:
+- Talks
+title: "OfiLibre seminars: Docker and Kubernetes"
+---
+
+<iframe src='https://tv.urjc.es/iframe/5fb81bcbd68b14ac6f8b4be2' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+
+The technologies [Docker](https://en.wikipedia.org/wiki/Docker_(software)) and [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) have changed the way we package, distribute, and deploy web applications and other Internet services. Discover why the entire industry is betting on these technologies to manage their cloud applications and how you can learn to use them yourself. After a brief introduction, we will see how Kubernetes is used in the industry to modernize applications and make them more scalable and fault-tolerant.
+
+We will have two presentations:
+
+* Micael Gallego: What are Docker and Kubernetes?
+* Pablo Chico de Guzmán: How Docker and Kubernetes are used in the industry
+
+Details:
+
+* Where: The seminar will take place in a Microsoft Teams room, which will be published shortly to registered attendees.
+* When: Friday, November 20, from 13:00 to 14:00.
+* Registration: [Event announcement at Eventos URJC](https://eventos.urjc.es/58216/detail/seminarios-ofilibre_-docker-y-kubernetes..html).
+
+Brief bio of the speakers:
+
+* Micael Gallego (URJC): Micael is a professor at ETSII URJC. Director of the Master's in Cloud Apps and co-director of the software laboratory CodeURJC, where research and collaboration with companies are conducted in areas such as testing and cloud computing. He is also the leader of the OpenVidu video conferencing platform.
+
+* Pablo Chico de Guzmán (Okteto): Pablo is one of the creators of Okteto, a development platform for Kubernetes. Previously, he was Tech Lead of Docker Hub, the most widely used Docker registry in the world. He also organizes the Docker Meetup and the Cloud-Native Meetup, one of the best ways to learn about these incredible technologies.

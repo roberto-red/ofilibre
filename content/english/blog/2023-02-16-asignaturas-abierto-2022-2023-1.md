@@ -1,0 +1,436 @@
+---
+categories:
+- Open Subjects
+date: 2023-02-16
+description: List of subjects that are made open access as a result of the call for
+  the first quarter of the 2022-2023 course, along with links to their materials.
+image: images/guias/openaccess-square.png
+slug: asignaturas-abierto-2022-2023-1
+tags:
+- open access
+- teaching materials
+- URJC
+title: Open Access Subjects (first quarter 2022-23)
+---
+
+This is the list of courses that have met the required criteria to be considered "Open Access Courses" among those submitted to the [Call for Recognition of Open Access Course Publication 2022-2023](/en/guias/convocatoria-asignaturas-abierto/) (first semester). Each course listing includes its published open access materials.
+
+You can also find them on URJC's [Open Courses Portal](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
+
+### [2039 - SISTEMAS TELEMATICOS PARA MEDIOS AUDIOVISUALES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187487#section-10) {#id37}
+
+
+
+**Authors who are teachers in the subject:** [eva.castro](https://gestion2.urjc.es/pdi/ver/eva.castro), [jose.centeno](https://gestion2.urjc.es/pdi/ver/jose.centeno)
+
+* **[Study guide](http://hdl.handle.net/10115/20340)**
+* **[Lecture notes](http://hdl.handle.net/10115/20297) (featured material)**
+* **[Slides](http://hdl.handle.net/10115/20290) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20298) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/20299) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/6333330cb63abd60720b51d2) (featured material)**
+
+### [2033 - PROGRAMACION DECLARATIVA - MAÑANA A – 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188525) {#id6}
+
+
+
+**Authors who are teachers in the subject:** [juanmanuel.serrano](https://gestion2.urjc.es/pdi/ver/juanmanuel.serrano), [ana.pradera](https://gestion2.urjc.es/pdi/ver/ana.pradera)
+
+* **[Study guide](https://hdl.handle.net/10115/20608)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20609) (featured material)**
+* **[Exercises](https://hdl.handle.net/10115/20610) (featured material)**
+* **[Assessment tests](https://hdl.handle.net/10115/20611) (featured material)**
+* **[Others](http://hdl.handle.net/10115/19908) (featured material)**
+
+### [2059 - PROGRAMACION DECLARATIVA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187824) {#id50}
+
+
+
+**Authors who are teachers in the subject:** [juanmanuel.serrano](https://gestion2.urjc.es/pdi/ver/juanmanuel.serrano), [ana.pradera](https://gestion2.urjc.es/pdi/ver/ana.pradera)
+
+* **[Study guide](https://hdl.handle.net/10115/20608)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20609) (featured material)**
+* **[Exercises](https://hdl.handle.net/10115/20610) (featured material)**
+* **[Assessment tests](https://hdl.handle.net/10115/20611) (featured material)**
+* **[Others](http://hdl.handle.net/10115/19908) (featured material)**
+
+### [2229 - REDES DE ORDENADORES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=197197#section-10) {#id31}
+
+
+
+**Authors who are teachers in the subject:** [eva.castro](https://gestion2.urjc.es/pdi/ver/eva.castro), [pedro.delasheras](https://gestion2.urjc.es/pdi/ver/pedro.delasheras)
+
+* **[Study guide](http://hdl.handle.net/10115/20211)**
+* **[Lecture notes](http://hdl.handle.net/10115/20230)**
+* **[Slides](http://hdl.handle.net/10115/20218) (featured material)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20231) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/20219) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/632df9157e2c7e15a841d164) (featured material)**
+
+### [2327 - FUNDAMENTOS DE REDES DE ORDENADORES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=200159) {#id32}
+
+
+
+**Authors who are teachers in the subject:** [jose.centeno](https://gestion2.urjc.es/pdi/ver/jose.centeno), [eva.castro](https://gestion2.urjc.es/pdi/ver/eva.castro)
+
+* **[Study guide](http://hdl.handle.net/10115/20238)**
+* **[Lecture notes](http://hdl.handle.net/10115/20237)**
+* **[Slides](http://hdl.handle.net/10115/20235) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20236) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/20239) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/632df9157e2c7e15a841d164) (featured material)**
+
+### [2042 - SISTEMAS OPERATIVOS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190393) {#id12}
+
+
+
+**Authors who are teachers in the subject:** [enrique.soriano](https://gestion2.urjc.es/pdi/ver/enrique.soriano), [gorka.guardiola](https://gestion2.urjc.es/pdi/ver/gorka.guardiola)
+
+* **[Lecture notes](http://hdl.handle.net/10115/20175) (featured material)**
+* **[Slides]( http://hdl.handle.net/10115/20176) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20177)**
+* **[Video and audio](https://tv.urjc.es/series/632af965eafd514bc808c743)**
+* **[Others]( http://hdl.handle.net/10115/20208)**
+
+### [2040 - SOFTWARE DE SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190215) {#id14}
+
+
+
+**Authors who are teachers in the subject:** [gorka.guardiola](https://gestion2.urjc.es/pdi/ver/gorka.guardiola), [enrique.soriano](https://gestion2.urjc.es/pdi/ver/enrique.soriano)
+
+* **[Lecture notes](http://hdl.handle.net/10115/20175) (featured material)**
+* **[Slides](http://hdl.handle.net/10115/20176) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20177)**
+* **[Video and audio](https://tv.urjc.es/series/632af965eafd514bc808c743)**
+* **[Others](http://hdl.handle.net/10115/20208)**
+
+### [2173 - INTRODUCCION A LA EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192718) {#id38}
+
+
+
+**Authors who are teachers in the subject:** [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [juanjose.mijarra](https://gestion2.urjc.es/pdi/ver/juanjose.mijarra), [nuria.romero](https://gestion2.urjc.es/pdi/ver/nuria.romero)
+
+* **[Study guide](http://hdl.handle.net/10115/20294)**
+* **[Lecture notes](http://hdl.handle.net/10115/20292)**
+* **[Slides](http://hdl.handle.net/10115/20291) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20295)**
+* **[Assessment tests](http://hdl.handle.net/10115/20293)**
+* **[Video and audio](https://tv.urjc.es/series/6334c1e57ed0391c5c33937c)**
+
+### [2172 - INTRODUCCION A LA EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194655) {#id39}
+
+
+
+**Authors who are teachers in the subject:** [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [juanjose.mijarra](https://gestion2.urjc.es/pdi/ver/juanjose.mijarra), [nuria.romero](https://gestion2.urjc.es/pdi/ver/nuria.romero)
+
+* **[Study guide](http://hdl.handle.net/10115/20294)**
+* **[Lecture notes](http://hdl.handle.net/10115/20292)**
+* **[Slides](http://hdl.handle.net/10115/20291) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20295)**
+* **[Assessment tests](http://hdl.handle.net/10115/20293)**
+* **[Video and audio](https://tv.urjc.es/series/6334c1e57ed0391c5c33937c)**
+
+### [2017 - MICROECONOMIA I - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188853) {#id10}
+
+
+
+**Authors who are teachers in the subject:** [juancarlos.aguado](https://gestion2.urjc.es/pdi/ver/juancarlos.aguado)
+
+* **[Study guide](http://hdl.handle.net/10115/20190)**
+* **[Lecture notes](http://hdl.handle.net/10115/20154) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20178) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/62cee121d3b33442f82c67c3) (featured material)**
+
+### [2143 - INGENIERIA ELECTRICA Y ELECTRONICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194599) {#id28}
+
+
+
+**Authors who are teachers in the subject:** [alexander.cuadrado](https://gestion2.urjc.es/pdi/ver/alexander.cuadrado)
+
+* **[Slides](http://hdl.handle.net/10115/20194) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20195) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/20210)**
+* **[Video and audio](https://tv.urjc.es/series/63284db646ce65436a3b0bb6) (featured material)**
+
+### [2285 - INTRODUCCION A LA CIBERSEGURIDAD - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196834) {#id5}
+
+
+
+**Authors who are teachers in the subject:** [marta.beltran](https://gestion2.urjc.es/pdi/ver/marta.beltran), [miguel.calvo](https://gestion2.urjc.es/pdi/ver/miguel.calvo)
+
+* **[Study guide](http://hdl.handle.net/10115/20030)**
+* **[Slides](http://hdl.handle.net/10115/20030) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20030) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/20030)**
+* **[Video and audio](https://tv.urjc.es/series/631b0e4b7e595f7c1b3f79d5)**
+
+### [2339 - FUNDAMENTOS DE LA PROGRAMACION Y DE LA INFORMATICA - TARDE B - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=199605) {#id45}
+
+
+
+**Authors who are teachers in the subject:** [miguel.ortuno](https://gestion2.urjc.es/pdi/ver/miguel.ortuno)
+
+* **[Lecture notes](http://hdl.handle.net/10115/20128) (featured material)**
+* **[Slides](http://hdl.handle.net/10115/20275) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20130)**
+* **[Assessment tests](http://hdl.handle.net/10115/20129)**
+* **[Video and audio](https://tv.urjc.es/series/6314fbf81ca93a1e4d00bb23)**
+
+### [2173 - INTRODUCCIÓN A LA EDUCACIÓN FÍSICA - TARDE B - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192719) {#id48}
+
+
+
+**Authors who are teachers in the subject:** [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [elena.caceres](https://gestion2.urjc.es/pdi/ver/elena.caceres)
+
+* **[Study guide](http://hdl.handle.net/10115/20339)**
+* **[Lecture notes](http://hdl.handle.net/10115/20336)**
+* **[Slides](http://hdl.handle.net/10115/20335) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20337)**
+* **[Assessment tests](http://hdl.handle.net/10115/20338)**
+
+### [2029 - INGENIERIA ELECTRICA Y ELECTRONICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188458) {#id26}
+
+
+
+**Authors who are teachers in the subject:** [gonzalo.delpozo](https://gestion2.urjc.es/pdi/ver/gonzalo.delpozo)
+
+* **[Study guide](http://hdl.handle.net/10115/20281)**
+* **[Lecture notes](http://hdl.handle.net/10115/19990) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/19988) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/19989)**
+* **[Video and audio](https://tv.urjc.es/series/6319b751054d914c930d036a)**
+
+### [2052 - PUBLICIDAD INTERACTIVA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188983) {#id43}
+
+
+
+**Authors who are teachers in the subject:** [carmen.galvez](https://gestion2.urjc.es/pdi/ver/carmen.galvez)
+
+* **[Study guide](https://burjcdigital.urjc.es/handle/10115/20249)**
+* **[Lecture notes](https://hdl.handle.net/10115/20548) (featured material)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20550)**
+* **[Assessment tests]()**
+* **[Video and audio](https://tv.urjc.es/series/6336fb8634a4ca7f64144a52)**
+
+### [2041 - LABORATORIO DE ADMINISTRACION Y GESTION DE REDES Y SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187589) {#id44}
+
+
+
+**Authors who are teachers in the subject:** [miguel.ortuno](https://gestion2.urjc.es/pdi/ver/miguel.ortuno)
+
+* **[Lecture notes](http://hdl.handle.net/10115/20118) (featured material)**
+* **[Slides](http://hdl.handle.net/10115/20277) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20117)**
+* **[Assessment tests](http://hdl.handle.net/10115/20116)**
+* **[Video and audio](https://tv.urjc.es/series/6318dbc8f551371e60724900)**
+
+### [2342 - FISICA APLICADA A LA INGENIERIA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=199653) {#id20}
+
+
+
+**Authors who are teachers in the subject:** [alexandre.wagemakers](https://gestion2.urjc.es/pdi/ver/alexandre.wagemakers)
+
+* **[Study guide](http://hdl.handle.net/10115/20233)**
+* **[Slides](http://hdl.handle.net/10115/20228)**
+* **[Exercises](http://hdl.handle.net/10115/20229)**
+* **[Assessment tests](http://hdl.handle.net/10115/20232) (featured material)**
+* **[Others](http://hdl.handle.net/10115/20234)**
+
+### [2101 - EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192127) {#id33}
+
+
+
+**Authors who are teachers in the subject:** [romain.marconnot](https://gestion2.urjc.es/pdi/ver/romain.marconnot)
+
+* **[Study guide](http://hdl.handle.net/10115/20288)**
+* **[Lecture notes](http://hdl.handle.net/10115/20287) (featured material)**
+* **[Slides](http://hdl.handle.net/10115/20289) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/580f3ac3d68b14fc368b456d)**
+
+### [2011 - FOTOPERIODISMO - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187672) {#id40}
+
+
+
+**Authors who are teachers in the subject:** [myanet.acosta](https://gestion2.urjc.es/pdi/ver/myanet.acosta)
+
+* **[Study guide](https://burjcdigital.urjc.es/handle/10115/20342)**
+* **[Lecture notes](https://burjcdigital.urjc.es/handle/10115/20031) (featured material)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20029) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/6336d1f9bb39f9214c6e3cc3)**
+
+### [2004 - FOTOPERIODISMO (SEMIPRESENCIAL) - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187280) {#id41}
+
+
+
+**Authors who are teachers in the subject:** [myanet.acosta](https://gestion2.urjc.es/pdi/ver/myanet.acosta)
+
+* **[Study guide]( https://burjcdigital.urjc.es/handle/10115/20342)**
+* **[Lecture notes](https://burjcdigital.urjc.es/handle/10115/20031) (featured material)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20029) (featured material)**
+* **[Video and audio](https://tv.urjc.es/series/6336d1f9bb39f9214c6e3cc3)**
+
+### [2228 - NORMA Y USO DEL ESPAÑOL - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=195173) {#id11}
+
+
+
+**Authors who are teachers in the subject:** [macarena.gil](https://gestion2.urjc.es/pdi/ver/macarena.gil)
+
+* **[Study guide](http://hdl.handle.net/10115/20174)**
+* **[Slides](http://hdl.handle.net/10115/20155) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20173)**
+* **[Video and audio](https://tv.urjc.es/series/632abcae6b87cb7b2e4205a4)**
+
+### [2011 - PLANIFICACION Y DESARROLLO DE PROYECTOS EN LA RED - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=189743) {#id24}
+
+
+
+**Authors who are teachers in the subject:** [manuel.gertrudix](https://gestion2.urjc.es/pdi/ver/manuel.gertrudix), [alejandro.carbonell](https://gestion2.urjc.es/pdi/ver/alejandro.carbonell)
+
+* **[Study guide](https://burjcdigital.urjc.es/handle/10115/19869)**
+* **[Lecture notes](https://burjcdigital.urjc.es/handle/10115/20530) (featured material)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20251)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20240)**
+* **[Assessment tests](https://burjcdigital.urjc.es/handle/10115/20008)**
+* **[Video and audio](https://tv.urjc.es/series/62ea8c688c9816724446b28d)**
+
+### [2170 - INTRODUCTION TO PHYSICAL EDUCATION - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194168) {#id46}
+
+
+
+**Authors who are teachers in the subject:** [adrian.solera](https://gestion2.urjc.es/pdi/ver/adrian.solera), [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [daniel.bores](https://gestion2.urjc.es/pdi/ver/daniel.bores)
+
+* **[Lecture notes](https://burjcdigital.urjc.es/handle/10115/20303)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20307) (featured material)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20304)**
+* **[Assessment tests](https://burjcdigital.urjc.es/handle/10115/20305)**
+
+### [2240 - FISICA APLICADA A ESTRUCTURAS E INSTALACIONES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=197579) {#id7}
+
+
+
+**Authors who are teachers in the subject:** [pablo.ropez](https://gestion2.urjc.es/pdi/ver/pablo.ropez)
+
+* **[Study guide](http://hdl.handle.net/10115/20170)**
+* **[Slides](http://hdl.handle.net/10115/20169) (featured material)**
+* **[Assessment tests](http://hdl.handle.net/10115/20171) (featured material)**
+
+### [2054 - DERECHO INTERNACIONAL PRIVADO - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190140) {#id19}
+
+
+
+**Authors who are teachers in the subject:** [ana.crespo](https://gestion2.urjc.es/pdi/ver/ana.crespo)
+
+* **[Study guide](http://hdl.handle.net/10115/19928)**
+* **[Lecture notes](http://hdl.handle.net/10115/19929)**
+* **[Slides](http://hdl.handle.net/10115/20213 )**
+* **[Exercises](http://hdl.handle.net/10115/19930) (featured material)**
+
+### [2029 - METODOS MATEMATICOS APLICADOS A LA INGENIERIA DE LA ENERGIA - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=189911) {#id25}
+
+
+
+**Authors who are teachers in the subject:** [anaisabel.munoz](https://gestion2.urjc.es/pdi/ver/anaisabel.munoz)
+
+* **[Lecture notes](https://burjcdigital.urjc.es/handle/10115/20131) (featured material)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20135)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20134)**
+* **[Assessment tests](https://burjcdigital.urjc.es/handle/10115/20133)**
+
+### [2239 - INTRODUCCION A LA PROGRAMACION - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196510) {#id42}
+
+
+
+**Authors who are teachers in the subject:** [juanmanuel.vara](https://gestion2.urjc.es/pdi/ver/juanmanuel.vara), [francisco.perez](https://gestion2.urjc.es/pdi/ver/francisco.perez)
+
+* **[Study guide](http://hdl.handle.net/10115/20283)**
+* **[Slides](http://hdl.handle.net/10115/20284) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20285)**
+* **[Video and audio](https://tv.urjc.es/series/6324b20be39058198c26b603)**
+* **[Others](http://hdl.handle.net/10115/20286)**
+
+### [2285 - LOGICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196836) {#id8}
+
+
+
+**Authors who are teachers in the subject:** [joaquin.arias](https://gestion2.urjc.es/pdi/ver/joaquin.arias), [ivan.ramirez](https://gestion2.urjc.es/pdi/ver/ivan.ramirez)
+
+* **[Slides](http://hdl.handle.net/10115/20014) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20119)**
+* **[Video and audio](https://tv.urjc.es/series/63225436749db0424d5eca57)**
+* **[Others](http://hdl.handle.net/10115/20168)**
+
+### [2361 - LOGICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=198881) {#id9}
+
+
+
+**Authors who are teachers in the subject:** [joaquin.arias](https://gestion2.urjc.es/pdi/ver/joaquin.arias), [ivan.ramirez](https://gestion2.urjc.es/pdi/ver/ivan.ramirez)
+
+* **[Slides]( http://hdl.handle.net/10115/20014) (featured material)**
+* **[Exercises]( http://hdl.handle.net/10115/20119)**
+* **[Video and audio](https://tv.urjc.es/series/63225436749db0424d5eca57)**
+* **[Others](http://hdl.handle.net/10115/20168)**
+
+### [2008 - TECNOLOGIAS AUDIOVISUALES: CAMARA Y SONIDO - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187527) {#id36}
+
+**Authors who are teachers in the subject:** [ernesto.taborda](https://gestion2.urjc.es/pdi/ver/ernesto.taborda)
+
+* **[Study guide](http://hdl.handle.net/10115/20341)**
+* **[Lecture notes](http://hdl.handle.net/10115/20334) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20341)**
+* **[Video and audio](https://tv.urjc.es/series/631f3b019916f127970f971b)**
+
+### [2128 - PHYSICAL EDUCATION - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=193257) {#id47}
+
+**Authors who are teachers in the subject:** [adrian.solera](https://gestion2.urjc.es/pdi/ver/adrian.solera), [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [daniel.bores](https://gestion2.urjc.es/pdi/ver/daniel.bores)
+
+* **[Lecture notes](https://burjcdigital.urjc.es/handle/10115/20309)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20310) (featured material)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20312)**
+
+### [6177 - INNOVACIÓN EDUCATIVA Y TICs APLICADAS A LA ENSEÑANZA DE LA EDUCACIÓN FÍSICA - GRUPO UNICO - 1S](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=186523) {#id13}
+
+**Authors who are teachers in the subject:** [oriol.borras](https://gestion2.urjc.es/pdi/ver/oriol.borras)
+
+* **[Study guide](http://hdl.handle.net/10115/20148)**
+* **[Slides](https://burjcdigital.urjc.es/handle/10115/20148) (featured material)**
+* **[Exercises](https://burjcdigital.urjc.es/handle/10115/20528)**
+* **[Video and audio](https://tv.urjc.es/series/6327f80eea9143448b3370ee)**
+
+### [2239 - DIRECCION DE OPERACIONES EN SERVICIOS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=197620) {#id15}
+
+**Authors who are teachers in the subject:** [eloisa.diaz](https://gestion2.urjc.es/pdi/ver/eloisa.diaz)
+
+* **[Study guide](http://hdl.handle.net/10115/20149)**
+* **[Slides](http://hdl.handle.net/10115/20172)**
+* **[Exercises](http://hdl.handle.net/10115/20150)**
+* **[Assessment tests](http://hdl.handle.net/10115/20151)**
+* **[Video and audio](https://tv.urjc.es/series/632b49733feb4e24e86c0061)**
+
+### [2147 - DERECHO PENITENCIARIO - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194183#section-4) {#id4}
+
+**Authors who are teachers in the subject:** [victoria.garcia](https://gestion2.urjc.es/pdi/ver/victoria.garcia)
+
+* **[Lecture notes]( http://hdl.handle.net/10115/19968) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20068)**
+
+### [2176 - INTRODUCCION A LA PROGRAMACION - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192305) {#id30}
+
+**Authors who are teachers in the subject:** [francisco.perez](https://gestion2.urjc.es/pdi/ver/francisco.perez)
+
+* **[Study guide](http://hdl.handle.net/10115/20282)**
+* **[Slides](http://hdl.handle.net/10115/20284) (featured material)**
+
+### [2034 - DISEÑO Y ARQUITECTURA DEL SOFTWARE - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188687) {#id27}
+
+**Authors who are teachers in the subject:** [rafael.capilla](https://gestion2.urjc.es/pdi/ver/rafael.capilla)
+
+* **[Slides](http://hdl.handle.net/10115/20301) (featured material)**
+* **[Exercises](http://hdl.handle.net/10115/20302)**
+* **[Assessment tests](http://hdl.handle.net/10115/20306)**
+
+### [2195 - MARKETING GLOBAL E INTERNACIONAL Y COMERCIO EXTERIOR (SEMIPRESENCIAL) - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=191638) {#id49}
+
+**Authors who are teachers in the subject:** [paloma.bernal](https://gestion2.urjc.es/pdi/ver/paloma.bernal)
+
+* **[Slides](https://hdl.handle.net/10115/20635) (featured material)**
+* **[Exercises](https://hdl.handle.net/10115/20636)**

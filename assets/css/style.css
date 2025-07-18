@@ -25,6 +25,15 @@ p {
   text-decoration: underline;
 }
 
+.single-presentation a {
+  color: #cb0017;
+  text-decoration: none;
+}
+
+.single-presentation a:hover {
+  color: #cb0017;
+  text-decoration: underline;
+}
 
 p a {
   color: #cb0017;

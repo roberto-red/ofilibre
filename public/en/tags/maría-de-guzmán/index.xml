@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>María De Guzmán on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/mar%C3%ADa-de-guzm%C3%A1n/</link>
+    <description>Recent content in María De Guzmán on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/mar%C3%ADa-de-guzm%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>URJC obtains aid for improvement of its infrastructure for open science</title>
+      <link>http://localhost:1313/en/blog/2024-06-10-maria-de-guzman/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2024-06-10-maria-de-guzman/</guid>
+      <description>A few months ago, we applied for the María de Guzmán Grants for the promotion of excellent scientific research.</description>
+    </item>
+  </channel>
+</rss>

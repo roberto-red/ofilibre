@@ -1,0 +1,29 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-04-04
+image: /images/fichas/autopsy/logo.png
+installs:
+- name: Autopsy Installation
+  url: https://sleuthkit.org/autopsy/docs/user-docs/4.5.0/installation_page.html
+licenses:
+- name: Apache 2 License
+  url: https://www.apache.org/licenses/
+myapps: true
+others:
+screenshots:
+- file: captura.png
+  name: Gimp in operation (screenshot)
+source: https://www.sleuthkit.org/autopsy/download.php
+title: Autopsy
+tutorials:
+- kind: video
+  name: Autopsy Tutorial
+  url: https://www.youtube.com/playlist?list=PL0On0b10JahmZvOuQw-OU6Q14OKHSAFrK
+type: fichas
+website: https://www.sleuthkit.org/
+website_es:
+---
+
+Autopsy is a forensic analysis tool that allows for the identification and discovery of relevant information in data sources such as hard drive images, USB memories, network traffic captures, or computer memory dumps.

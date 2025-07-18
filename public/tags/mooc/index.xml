@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOOC on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/mooc/</link>
+    <description>Recent content in MOOC on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 17 Jul 2025 16:04:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mooc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MOOC para impulsar la cultura libre y la ciencia abierta en la URJC</title>
+      <link>http://localhost:1313/blog/2025-07-17-mooc-para-impulsar-la-cultura-libre-y-la-ciencia-abierta-en-la-urjc/</link>
+      <pubDate>Thu, 17 Jul 2025 16:04:08 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-07-17-mooc-para-impulsar-la-cultura-libre-y-la-ciencia-abierta-en-la-urjc/</guid>
+      <description>Desde la Oficina de Conocimiento y Cultura Libres (OfiLibre) queremos contarles que estamos trabajando en un nuevo MOOC gratuito pensado para toda la comunidad universitaria.</description>
+    </item>
+  </channel>
+</rss>

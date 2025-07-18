@@ -1,0 +1,33 @@
+---
+author: Oriol Borrás Gené
+categories:
+- Resources
+- Open Data
+date: 2020-11-21
+degrees: Degree in Video Game Design and Development
+department: ETSII
+description: Notes based on PMBOK, waterfall/predictive methodology for project management
+  and direction.
+image: /images/catalogo/borras-gene.png
+license: Creative Commons Attribution-NonCommercial-ShareAlike
+link: https://www.slideshare.net/orioltic/tema-1-fundamentos-de-la-gestin-de-proyectos-202021-238867690
+title: Notes for the Project Management and Direction course
+type: catalogo
+---
+
+## Links to all materials
+
+* [Topic 1 (2020-21)](https://www.slideshare.net/orioltic/tema-1-fundamentos-de-la-gestin-de-proyectos-202021-238867690)
+* [Topic 2 (2019-20)](https://www.slideshare.net/orioltic/tema-2-diagrama-de-actividades-176248944)
+* [Topic 3 (2019-20)](https://www.slideshare.net/orioltic/tema-2-pert-de-costes)
+* [Topic 4 (2019-20)](https://www.slideshare.net/orioltic/tema-4-planificacin-y-diagramas-de-gantt)
+* [Topic 1 (2019-20)](https://www.slideshare.net/orioltic/tema-1-fundamentos-de-la-gestin-de-proyectos-201920-170907689)
+
+## Process
+
+* I use PowerPoint and in some cases Google Drive Slides.
+* The "decorative" images are free of copyright, they come from Pixabay and Unsplash.
+* The supporting images that serve to explain concepts do come from other websites, most of them are from OCW courses, so there is no problem, we follow their CC license.
+* Many images and graphics are replicated by me and I am their author to avoid problems.
+* The rest of the images are referenced and always support what is explained.
+* The greatest effort was gathering prior information to generate the content.

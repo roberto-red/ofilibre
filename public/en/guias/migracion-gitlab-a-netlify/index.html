@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="">
+
+<meta name="generator" content="Hugo 0.127.0">
+
+<title>Migration of a Hugo project from GitLab Pages to Netlify</title>
+
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<meta name="theme-name" content="navigator-hugo" />
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="http://localhost:1313/favicons/favicon-urjc.ico" />
+
+<!-- Stylesheets -->
+<!-- Themefisher Icon font -->
+<link rel="stylesheet" href="http://localhost:1313/plugins/themefisher-font/style.css">
+<!-- bootstrap.min css -->
+<link rel="stylesheet" href="http://localhost:1313/plugins/bootstrap/dist/css/bootstrap.min.css">
+<!-- Lightbox.min css -->
+<link rel="stylesheet" href="http://localhost:1313/plugins/lightbox2/dist/css/lightbox.min.css">
+<!-- Slick Carousel -->
+<link rel="stylesheet" href="http://localhost:1313/plugins/slick-carousel/slick/slick.css">
+<link rel="stylesheet" href="http://localhost:1313/plugins/slick-carousel/slick/slick-theme.css">
+<!-- Main Stylesheet -->
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/style.min.css" media="screen">
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    $('#featureSlider').slick({
+      dots: true,
+      arrows: false,
+      infinite: true,
+      speed: 3000,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 3000,
+      responsive: [
+        {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            centerMode: true,
+            centerPadding: '20px'
+          }
+        }
+      ]
+    });
+  });
+</script>
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+
+</head>
+<body id="body">
+        <!-- Start Preloader -->
+<div id="preloader">
+    <div class="preloader">
+        <div class="sk-circle1 sk-child"></div>
+        <div class="sk-circle2 sk-child"></div>
+        <div class="sk-circle3 sk-child"></div>
+        <div class="sk-circle4 sk-child"></div>
+        <div class="sk-circle5 sk-child"></div>
+        <div class="sk-circle6 sk-child"></div>
+        <div class="sk-circle7 sk-child"></div>
+        <div class="sk-circle8 sk-child"></div>
+        <div class="sk-circle9 sk-child"></div>
+        <div class="sk-circle10 sk-child"></div>
+        <div class="sk-circle11 sk-child"></div>
+        <div class="sk-circle12 sk-child"></div>
+    </div>
+</div>
+<!-- End Preloader --><!-- Fixed Navigation -->
+
+<section class="header navigation top-bar">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-expand-lg">
+                    <a class="navbar-brand" href="/en">
+                        <img src="http://localhost:1313/images/logos/banner-urjc.png" alt="OfiLibre URJC english" style="height: 60px; width: 240px;">
+                    </a>
+                    <div class="d-flex align-items-center">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+                            aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="tf-ion-android-menu"></span>
+                        </button>
+                        <div id="drapeaux" class="select-language d-block d-lg-none">
+                            
+                                
+
+
+
+
+
+
+
+
+    
+    
+
+
+<a href="">
+    
+    
+    <img src="/images/logos/lang-es.gif" alt="Cambiar a es" />
+    <span>ES</span>
+</a>
+                            
+                                
+
+
+
+
+
+
+
+
+    
+    
+
+
+<a href="">
+    
+    
+    <img src="/images/logos/lang-es.gif" alt="Cambiar a es" />
+    <span>ES</span>
+</a>
+                            
+                        </div>
+                    </div>
+                    <div class="collapse navbar-collapse" id="navigation">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/en/">
+                                    Home
+                                </a>
+                            </li>
+                                
+                                
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="http://localhost:1313/en/ofilibre/">About</a>
+                                    </li>
+                                    
+                                    
+                                
+                                
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="http://localhost:1313/en/acciones/">acciones</a>
+                                    </li>
+                                    
+                                    
+                                
+                                
+                                    <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="/en/recursos/" role="button" data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false" onclick="window.location.href=this.href">
+                                        resources
+                                    </a>
+                                    <div class="dropdown-menu">
+                                        
+                                        <a class="dropdown-item" href="/en/catalogo/">Teaching Materials Catalogue</a>
+                                        
+                                        <a class="dropdown-item" href="/en/guias/">Guides</a>
+                                        
+                                        <a class="dropdown-item" href="/en/fichas/">Sheets</a>
+                                        
+                                        <a class="dropdown-item" href="/en/pres/">Presentations</a>
+                                        
+                                        <a class="dropdown-item" href="https://gitlab.etsit.urjc.es/ofilibre/code">OfiLibre Code</a>
+                                        
+                                    </div>
+                                    </li>
+                                    
+                                
+                                
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="http://localhost:1313/en/blog/">Blog</a>
+                                    </li>
+                                    
+                                    
+                                
+                                
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="http://localhost:1313/en/contacto/">Contact</a>
+                                    </li>
+                                    
+                                    
+                                
+                                
+                                    
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="http://localhost:1313/en/buscar/" title="Search">
+                                        <i class="fas fa-search"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section><div id="content">
+
+<!-- Page title section start -->
+<section class="single-page-header py-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <nav class="breadcrumb-nav" aria-label="breadcrumb" role="navigation">
+          <ol class="breadcrumb mb-0">
+
+            <li class="breadcrumb-item">
+              <a href="/en/" class="text-decoration-underline">
+                Home
+              </a>
+            </li>
+
+            
+              
+              
+
+              
+                
+              
+
+              
+                <li class="breadcrumb-item">
+                  <a href="/en/guias/" class="text-decoration-underline">
+                    Guides
+                  </a>
+                </li>
+              
+            
+
+            <li class="breadcrumb-item active" aria-current="page">Migration of a Hugo project from GitLab Pages to Netlify</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="single-post section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <h1>Migration of a Hugo project from GitLab Pages to Netlify</h1>
+                
+                    <div class="mb-1">
+                    
+                    
+                    <a href="/en/categories/resources" class="badge badge-category mr-1">
+                        Resources
+                    </a>
+                    
+                    
+                    <a href="/en/categories/free-software" class="badge badge-category mr-1">
+                        Free Software
+                    </a>
+                    
+                    </div>
+                
+                <div class="post-meta mb-4">
+                    <ul class="list-inline">
+                        <li class="list-inline-item mr-3 ml-0">
+                            <i class="fas fa-calendar-alt mr-1"></i>
+                            27 Feb, 2025
+                        </li>
+                    </ul>
+                </div>
+                <div class="post-content">
+                    <p>Guide: Deploying a Static Site Built with Hugo on Netlify</p>
+<p>In this guide, we will explain how to deploy a static site developed with Hugo, whose code is hosted in a GitLab repository and is currently deployed on GitLab Pages.</p>
+<ol start="0">
+<li>
+<p>We install the <strong>preliminary material</strong>. In our case, we need the Visual Studio Code (VS Code) code editor, the Git version control software, and Hugo.</p>
+</li>
+<li>
+<p>We make a <strong>copy</strong> (fork) of the current repository and clone it to our <strong>local machine</strong>. Then, we open the root directory in VS Code to make all the changes described in the following steps.</p>
+</li>
+<li>
+<p>We <strong>create the netlify.toml file</strong> in the project root, taking into account our Hugo version, the name of the folder where Hugo will save the generated files (<em>publish</em>), and the command that Netlify will use to deploy the site (<em>command</em>). Our file would be:</p>
+</li>
+</ol>
+<pre tabindex="0"><code>[build.environment]
+HUGO_VERSION = &#34;0.123.7&#34;
+[build]
+publish = &#34;public&#34;
+command = &#34;hugo&#34;
+</code></pre><ol start="3">
+<li>We <strong>modify the static/admin/index.html file</strong>, deleting its content and copying the following:</li>
+</ol>
+<pre tabindex="0"><code>
+&lt;!DOCTYPE html&gt;
+
+&lt;html lang=&#34;en&#34;&gt;  
+
+  &lt;head&gt;
+
+    &lt;meta charset=&#34;UTF-8&#34; /&gt;
+
+    &lt;title&gt;Content Manager&lt;/title&gt;
+
+    &lt;!-- the script for authentication using Netlify Identity --&gt;
+
+    &lt;script src=&#34;https://identity.netlify.com/v1/netlify-identity-widget.js&#34;&gt;&lt;/script&gt;
+
+  &lt;/head&gt;
+
+  &lt;body&gt;
+
+    &lt;!-- the script that builds the page and powers Netlify CMS --&gt;
+
+    &lt;script src=&#34;https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js&#34;&gt;&lt;/script&gt;
+
+  &lt;/body&gt;
+
+&lt;/html&gt;
+</code></pre><p>This code is the entry point for Netlify CMS (an open-source content management system for editing static sites, offering a user-friendly interface and Git workflows) on our site. Specifically, this file enables Netlify Identity, the authentication system that will be used to access Netlify CMS, and then loads Netlify CMS from the unpkg CDN.</p>
+<ol start="4">
+<li>We <strong>modify the backend section of the static/admin/config.yml file</strong>, changing</li>
+</ol>
+<pre tabindex="0"><code>backend:  
+  name: gitlab  
+  repo: ofilibre/ofilibre.gitlab.io  
+  branch: master # Branch to update (optional; defaults to master)  
+  api\_root: https://gitlab.com/api/v4   
+  base\_url: https://gitlab.com  
+  auth\_type: pkce  
+  app\_id: ba44978a94e18763a29c4f3f365d09e9d6e5b4fdbbb02c271ba13d0cbf0694d5  
+  auth\_endpoint: oauth/authorize    
+</code></pre><p>to</p>
+<pre tabindex="0"><code>backend:  
+  name: git-gateway  
+  branch: master
+</code></pre><p>This section defines the backend configuration, i.e., how and where changes are stored when users edit content in Netlify CMS. The roles of the <em>name</em> and <em>branch</em> fields will be explained in step 8.</p>
+<ol start="5">
+<li><strong>Deploy the Project to Netlify</strong>. Once logged into Netlify, follow these steps:</li>
+</ol>
+<ul>
+<li>Select &ldquo;Add New Site&rdquo; then &ldquo;Import an existing project&rdquo;</li>
+<li>In the Git provider selector, choose GitLab</li>
+<li>Select the appropriate repository and Team</li>
+<li>Configure the sitename as <code>OfiLibre</code></li>
+<li>Select the correct branch (in our case, master)</li>
+</ul>
+<ol start="6">
+<li><strong>Modify the config.toml file</strong>. Back in the project, access the config.toml file (located in the root) and change the baseURL value to the URL provided by Netlify (based on the <em>sitename</em>). In our case:</li>
+</ol>
+<p>baseURL = &ldquo;<a href="https://ofilibre.netlify.app">https://ofilibre.netlify.app</a>&rdquo;</p>
+<p>Save changes and update the repository (push). Once changes are reflected (approximately two minutes), you should be able to access your website using the URL <a href="https://ofilibre.netlify.app">https://ofilibre.netlify.app</a>.</p>
+<ol start="7">
+<li><strong>Configure Netlify Identity</strong>. Once you&rsquo;ve accessed the site admin panel in Netlify, go to the Identity section and select &ldquo;Enable Identity&rdquo; to activate Netlify Identity. Once enabled, configure these options as needed:</li>
+</ol>
+<ul>
+<li>Invite Users: If you need to invite users to the site</li>
+<li>External Providers: If you want to authenticate through an external provider (like Google or GitLab). In our case, we needed to use an external provider because we encountered errors creating the Netlify Identity account (the default authentication method)</li>
+<li>Enable Git Gateway: Enable this option to allow integration with GitLab</li>
+</ul>
+<ol start="8">
+<li><strong>Configure an Access Token</strong>. GitLab Personal Access Tokens are authentication keys used to interact with the GitLab API or perform Git operations without using your username and password.</li>
+</ol>
+<p>Git-Gateway tokens in Netlify are generated keys that allow a user (typically through an interface like Netlify CMS) to interact with a Git repository without directly accessing the Git provider&rsquo;s API - Git-Gateway acts as an intermediary between Netlify CMS and the Git provider. When you log in to Netlify CMS, Git-Gateway authenticates the user and manages repository requests on your behalf in the specified branch (see <em>backend</em> section in step 4).</p>
+<p>GitLab version 15.0 removed support for OAuth tokens without expiration dates, meaning any previous tokens (without expiration) became invalid, and OAuth tokens now have a two-hour expiration period.</p>
+<p>When enabling Netlify Identity, you&rsquo;re provided with an OAuth token, so after two hours you won&rsquo;t be able to access Netlify CMS. The solution is to create a GitLab personal access token:</p>
+<ul>
+<li>Access your GitLab profile, specifically the Edit profile section</li>
+<li>Select Access tokens then Add new token</li>
+<li>Configure the token name, description and expiration date</li>
+<li>Configure token permissions, ensuring the api, read_api, read_repository and write_repository options are enabled</li>
+<li>Copy the token and go to Netlify settings</li>
+<li>Paste the GitLab Personal Access Token in the Netlify Identity settings to allow authentication between Netlify and GitLab</li>
+</ul>
+<ol start="9">
+<li>
+<p><strong>Test Netlify CMS</strong>. The current configuration allows publishing and editing blogs and guides.</p>
+</li>
+<li>
+<p><strong>Modify the static/admin/config.yml file</strong> to allow editing and publishing of records and presentations, adding the corresponding fields to each collection. Also modify attachment management through the media_folder and public_folder attributes. The resulting <em>collections</em> section would be:</p>
+</li>
+</ol>
+<pre tabindex="0"><code>collections:
+  - name: &#39;blog&#39;
+    label: &#39;Blog&#39;
+    folder: &#39;content/espanol/blog&#39;
+    create: true
+    slug: &#39;{{year}}-{{month}}-{{day}}-{{slug}}&#39;
+    media_folder: &#39;/../../../static/blog/{{slug}}&#39;
+    public_folder: &#39;/blog/{{slug}}&#39;
+    editor:
+      preview: true
+    fields:
+      - { label: &#39;Título&#39;, name: &#39;title&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Fecha de publicación&#39;, name: &#39;date&#39;, widget: &#39;date&#39; }
+      - { label: &#39;Descripción&#39;, name: &#39;description&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Tipo&#39;, name: &#39;type&#39;, widget: &#39;hidden&#39;, default: &#39;post&#39;}
+      - { label: &#39;Categorías&#39;, name: &#39;categories&#39;, widget: &#39;hidden&#39;, default: [&#34;OfiLibre&#34;]}
+      - { label: &#39;Etiquetas&#39;, name: &#39;tags&#39;, widget: &#39;list&#39;}
+      - { label: &#39;Fondo (alargado)&#39;, name: &#39;bg_image&#39;, widget: &#39;image&#39;, default: &#39;/images/backgrounds/page-title.jpg&#39;}
+      - { label: &#39;Logo (cuadrado)&#39;, name: &#39;thumb&#39;, widget: &#39;image&#39;, default: &#39;/images/logo-ofilibre-2025.jpg&#39;}
+      - { label: &#39;Cuerpo&#39;, name: &#39;body&#39;, widget: &#39;markdown&#39; }
+      - label: &#39;Archivos adjuntos&#39;
+        name: &#39;files&#39;
+        widget: &#39;list&#39;
+        media_folder: &#39;/../../../static/documentos/{{slug}}&#39;
+        public_folder: &#39;/documentos/{{slug}}&#39;
+        fields:
+          - { label: &#39;Archivo&#39;, name: &#39;file&#39;, widget: &#39;file&#39; }
+
+  - name: &#39;guias&#39;
+    label: &#39;Guías&#39;
+    folder: &#39;content/espanol/guias&#39;
+    create: true
+    slug: &#39;{{slug}}&#39;
+    media_folder: &#39;/../../../static/images/guias/{{slug}}&#39;
+    public_folder: &#39;../../images/guias/{{slug}}&#39;
+    editor:
+      preview: true
+    fields:
+      - { label: &#39;Título&#39;, name: &#39;title&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Fecha de publicación&#39;, name: &#39;date&#39;, widget: &#39;date&#39; }
+      - { label: &#39;Descripción&#39;, name: &#39;description&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Logo&#39;, name: &#39;logo&#39;, widget: &#39;image&#39; }
+      - { label: &#39;Fondo&#39;, name: &#39;feature&#39;, widget: &#39;image&#39;, required: false }
+      - { label: &#39;Categorías&#39;, name: &#39;categories&#39;, widget: &#39;hidden&#39;, default: [&#34;OfiLibre&#34;]}
+      - { label: &#39;Etiquetas&#39;, name: &#39;tags&#39;, widget: &#39;list&#39;}
+      - { label: &#39;Tipo&#39;, name: &#39;type&#39;, widget: &#39;hidden&#39;, default: &#39;guias&#39;}
+      - { label: &#39;Cuerpo&#39;, name: &#39;body&#39;, widget: &#39;markdown&#39; }
+      - label: &#39;Archivos adjuntos&#39;
+        name: &#39;files&#39;
+        widget: &#39;list&#39;
+        media_folder: &#39;/../../../static/documentos/{{slug}}&#39;
+        public_folder: &#39;/documentos/{{slug}}&#39;
+        fields:
+          - { label: &#39;Archivo&#39;, name: &#39;file&#39;, widget: &#39;file&#39; }
+
+  - name: &#39;fichas&#39;
+    label: &#39;Fichas&#39;
+    folder: &#39;content/espanol/fichas&#39;
+    create: true
+    slug: &#39;{{slug}}&#39;
+    media_folder: &#39;/../../../static/images/fichas/{{slug}}&#39;
+    public_folder: &#39;&#39;
+    editor:
+      preview: true
+    fields:
+      - { label: &#39;Título&#39;, name: &#39;title&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Fecha de publicación&#39;, name: &#39;date&#39;, widget: &#39;date&#39; }
+      - { label: &#39;Logo&#39;, name: &#39;logo&#39;, widget: &#39;image&#39; }
+      - { label: &#39;Fondo&#39;, name: &#39;feature&#39;, widget: &#39;image&#39;, required: false }
+      - { label: &#39;Página web&#39;, name: &#39;website&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Página web (español)&#39;, name: &#39;website_es&#39;, widget: &#39;string&#39;, required: false }
+      - label: &#39;Licencias&#39;
+        name: &#39;licenses&#39;
+        widget: &#39;list&#39;
+        fields:
+          - { label: &#39;Nombre&#39;, name: &#39;name&#39;, widget: &#39;string&#39; }
+          - { label: &#39;URL&#39;, name: &#39;url&#39;, widget: &#39;string&#39; }
+      - { label: &#39;MyApps&#39;, name: &#39;myapps&#39;, widget: &#39;boolean&#39;, default: false }
+      - { label: &#39;Código fuente (URL)&#39;, name: &#39;source&#39;, widget: &#39;string&#39; }
+      - label: &#39;Guías de instalación&#39;
+        name: &#39;installs&#39;
+        widget: &#39;list&#39;
+        fields:
+          - { label: &#39;Nombre&#39;, name: &#39;name&#39;, widget: &#39;string&#39; }
+          - { label: &#39;URL&#39;, name: &#39;url&#39;, widget: &#39;string&#39; }
+          - { label: &#39;Formato&#39;, name: &#39;kind&#39;, widget: &#39;string&#39;, required: false }
+      - label: &#39;Tutoriales&#39;
+        name: &#39;tutorials&#39;
+        widget: &#39;list&#39;
+        fields:
+          - { label: &#39;Nombre&#39;, name: &#39;name&#39;, widget: &#39;string&#39; }
+          - { label: &#39;URL&#39;, name: &#39;url&#39;, widget: &#39;string&#39; }
+          - { label: &#39;Formato&#39;, name: &#39;kind&#39;, widget: &#39;string&#39;, required: false }
+      - label: &#39;Extras&#39;
+        name: &#39;others&#39;
+        widget: &#39;list&#39;
+        required: false
+        fields:
+          - { label: &#39;Nombre&#39;, name: &#39;name&#39;, widget: &#39;string&#39; }
+          - { label: &#39;URL&#39;, name: &#39;url&#39;, widget: &#39;string&#39; }
+      - label: &#39;Capturas de pantalla&#39;
+        name: &#39;screenshots&#39;
+        widget: &#39;list&#39;
+        fields:
+          - { label: &#39;Nombre&#39;, name: &#39;name&#39;, widget: &#39;string&#39; }
+          - { label: &#39;Archivo&#39;, name: &#39;file&#39;, widget: &#39;image&#39; }
+          - { label: &#39;Atribución&#39;, name: &#39;attribution&#39;, widget: &#39;string&#39;, required: false }
+      - { label: &#39;Tipo&#39;, name: &#39;type&#39;, widget: &#39;hidden&#39;, default: &#39;fichas&#39; }
+      - { label: &#39;Cuerpo&#39;, name: &#39;body&#39;, widget: &#39;markdown&#39; }
+      - label: &#39;Archivos adjuntos&#39;
+        name: &#39;files&#39;
+        widget: &#39;list&#39;
+        media_folder: &#39;/../../../static/documentos/{{slug}}&#39;
+        public_folder: &#39;/documentos/{{slug}}&#39;
+        fields:
+          - { label: &#39;Archivo&#39;, name: &#39;file&#39;, widget: &#39;file&#39; }
+
+  - name: &#39;pres&#39;
+    label: &#39;Presentaciones&#39;
+    folder: &#39;content/espanol/pres&#39;
+    create: true
+    slug: &#39;{{slug}}&#39;
+    media_folder: &#39;/../../../static/pres/{{slug}}&#39;
+    public_folder: &#39;&#39;
+    editor:
+      preview: true
+    fields:
+      - { label: &#39;Título&#39;, name: &#39;title&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Fecha de publicación&#39;, name: &#39;date&#39;, widget: &#39;date&#39; }
+      - { label: &#39;Descripción&#39;, name: &#39;description&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Imagen destacada&#39;, name: &#39;feature&#39;, widget: &#39;image&#39; }
+      - { label: &#39;Imagen teaser&#39;, name: &#39;teaser&#39;, widget: &#39;image&#39; }
+      - label: &#39;Transparencias&#39;
+        name: &#39;transpas&#39;
+        widget: &#39;object&#39;
+        fields:
+          - { label: &#39;Archivo PDF&#39;, name: &#39;pdf&#39;, widget: &#39;file&#39; }
+          - { label: &#39;Archivo ODP&#39;, name: &#39;odp&#39;, widget: &#39;file&#39; }
+      - label: &#39;Extras&#39;
+        name: &#39;extras&#39;
+        required: false
+        widget: &#39;list&#39;
+        fields:
+          - { label: &#39;Nombre&#39;, name: &#39;name&#39;, widget: &#39;string&#39; }
+          - { label: &#39;URL&#39;, name: &#39;url&#39;, widget: &#39;string&#39; }
+      - { label: &#39;Tipo&#39;, name: &#39;type&#39;, widget: &#39;hidden&#39;, default: &#39;pres&#39; }
+      - { label: &#39;Cuerpo&#39;, name: &#39;body&#39;, widget: &#39;markdown&#39; }
+</code></pre><ol start="11">
+<li><strong>DNS and Domain Configuration</strong></li>
+</ol>
+<ul>
+<li>Add the custom domain in Netlify (Domain management -&gt; Add a domain -&gt; ofilibre.urjc.es), which is owned by the university</li>
+<li>At this step choose whether to use Netlify DNS as DNS provider or continue with your current provider. We chose the second option, so we&rsquo;ll need to inform the provider about the DNS record changes needed to point our domain to the site deployed on Netlify</li>
+<li>Following Netlify documentation, since we want to register an apex domain, we ask our DNS provider to look up the DNS records for ofilibre.urjc.es and add an ALIAS record with the host field equal to &lsquo;@&rsquo; pointing to <code>apex-loadbalancer.netlify.com</code>. Changes may take up to 48 hours to propagate</li>
+<li>Request an SSL certificate through the Harica certificate management interface by going to the &lsquo;Server&rsquo; section and filling in fields like FQDN (ofilibre.urjc.es in our case), certificate type (SSL DV) and algorithm (RSA 2048). Also select the option to generate a private key</li>
+<li>When the certificate is approved, you&rsquo;ll receive several files including the certificate itself and intermediate certificate chain. Using these two files plus the private key from the previous step, add the certificate to Netlify (Domain management -&gt; HTTPS -&gt; Set custom certificate) to enable https</li>
+</ul>
+<ol start="12">
+<li><strong>Modify the config.toml file and verify DNS changes</strong>. Back in the project, access the config.toml file and change the baseURL value to the final URL:</li>
+</ol>
+<p>baseURL = &ldquo;<a href="https://ofilibre.urjc.es">https://ofilibre.urjc.es</a>&rdquo;</p>
+<p>Finally, verify the DNS change has registered correctly by clearing the cache (<code>sudo resolvectl flush-caches</code> on Linux) and using the dig command (<code>dig ofilibre.urjc.es</code>) to confirm the domain points to <code>apex-loadbalancer.netlify.com</code>.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+        </div><!-- Footer start -->
+<footer id="footer" class="bg-one">
+  <div class="top-footer">
+    <div class="container">
+      <div class="row align-items-center">
+
+        <div class="col-sm-3 col-md-3 col-lg-3">
+          <h3 class="mt-2 mb-2" >Blog</h3>
+          <ul>
+            
+              <li><a href="/en/blog/2025-06-04-asignaturas-en-abierto-25-26-encuentro/">Call for Open Subjects 2025-2026: Explanatory Meeting and Q&amp;A Session</a></li>
+            
+              <li><a href="/en/blog/2025-05-07-visita-de-victoria-kompanets/">OfiLibre receives LUT University</a></li>
+            
+              <li><a href="/en/blog/2025-04-28-infograf%C3%ADas-de-cultura-y-software-libre/">Infographics of Culture and Free Software</a></li>
+            
+              <li><a href="/en/blog/2025-04-09-asignaturas-abierto/">Call for Open Subjects 2025-2026</a></li>
+            
+          </ul>
+        </div>
+
+        
+        
+        
+        <div class="col-sm-3 col-md-3 col-lg-3">
+          <h3 class="mt-2 mb-2" >OfiLibre Activities</h3>
+          <ul>
+            
+              <li><a href="/acciones/consejo-publicacion-abierta/">Open Publishing Council</a></li>
+            
+              <li><a href="/acciones/normativa/">Regulations related to OfiLibre</a></li>
+            
+              <li><a href="/acciones/cafes/">Cafe con OfiLibre</a></li>
+            
+              <li><a href="/acciones/jornadas">Free Culture Days</a></li>
+            
+              <li><a href="/acciones/asignaturas_abierto">Open Subjects</a></li>
+            
+          </ul>
+        </div>
+
+        
+        
+        <div class="col-sm-3 col-md-3 col-lg-2 pr-0">
+          <h3 class="mt-2 mb-2" >OfiLibre Resources</h3>
+          <ul>
+            
+              <li><a href="http://localhost:1313/en/pres/">Presentations</a></li>
+            
+              <li><a href="http://localhost:1313/en/catalogo/">Catalog of Open Teaching Materials</a></li>
+            
+              <li><a href="http://localhost:1313/en/fichas/">Sheets</a></li>
+            
+              <li><a href="http://localhost:1313/en/guias/">Guides</a></li>
+            
+              <li><a href="https://gitlab.etsit.urjc.es/ofilibre/code">OfiLibre Code</a></li>
+            
+          </ul>
+        </div>
+
+        <div class="col-sm-3 col-md-3 col-lg-3 text-right">
+          <img src="http://localhost:1313/images/logos/banner-urjc.png" alt="Logo Blanco" style="max-width: 300px; height: auto;">
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <h5>© 2021. All rights reserved.</h5>
+    <h6>
+      
+        Design and developed by Themefisher<br>Get more at
+      
+      <a href="https://themefisher.com/hugo-themes/" target="_blank">Themefisher</a>
+    </h6>
+  </div>
+<!-- end footer -->
+<!-- Essential Scripts -->
+
+<!-- jQuery -->
+<script src="http://localhost:1313/plugins/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="http://localhost:1313/plugins/bootstrap/dist/js/popper.min.js"></script>
+<script src="http://localhost:1313/plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- Parallax -->
+<script src="http://localhost:1313/plugins/parallax/jquery.parallax-1.1.3.js"></script>
+<!-- lightbox -->
+<script src="http://localhost:1313/plugins/lightbox2/dist/js/lightbox.min.js"></script>
+<!-- Slick Carousel -->
+<script src="http://localhost:1313/plugins/slick-carousel/slick/slick.min.js"></script>
+<!-- recursos Filtering -->
+<script src="http://localhost:1313/plugins/filterzr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll js -->
+<script src="http://localhost:1313/plugins/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
+<!-- Main Script -->
+
+<script src="http://localhost:1313/js/script.min.js"></script>
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+
+</body>
+</html>

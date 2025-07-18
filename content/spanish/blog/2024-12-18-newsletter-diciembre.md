@@ -24,7 +24,7 @@ Accede a todas las revistas científicas y divulgativas de la universidad en un 
 💡 **<u>Convocatoria de asignaturas en abierto 2024-2025</u>**  
 ¿Eres docente? Comparte tu asignatura en abierto y fomenta el acceso libre al conocimiento.  Tienes hasta el 21 de febrero de 2025 
 
-👉 [Consulta las bases y cómo participar](/guias//convocatoria-asignaturas-abierto/).
+👉 [Consulta las bases y cómo participar](/guias/convocatoria-asignaturas-abierto/).
 
 🗓️ <u>**Próximas jornadas OfiLibre**</u>  
 Se acercan las IV Jornadas de Cultura Libre el 26 y 27 de marzo de 2025. _**¡SAVE THE DATE!**_  

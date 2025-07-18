@@ -1,0 +1,29 @@
+---
+categories:
+- Cafes
+- Free culture days
+date: '2025-03-21T10:00:00'
+description: Check the details about the next coffee, which will kick off the IV Free
+  Culture Days, with the two candidates for rector, Abraham Duarte Muñoz and Fernando
+  García Muiña.
+image: /images/blog/jornadas-2025/poster.png
+slug: sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre
+tags:
+title: Session with the candidates for Rector at the IV Free Culture Days
+---
+
+Wednesday 26th of March we will begin the **IV Free Culture Days** with a coffee with the two rector candidates, **Abraham Duarte Muñoz** and **Fernando García Muiña**. We will talk to them about free knowledge, open access publishing, open science, free software, open data, etc.
+
+The session can be followed live in the Salón de Grados of the Edificio de Gestión, Fuenlabrada campus, or via streaming, and will be available later on TV URJC, in the _Coffee with OfiLibre_ collection.
+
+📅 **When**: Wednesday 26th of March, 8:40-9:15
+
+📍 **Where**: Salón de Grados of the Edificio de Gestión, Fuenlabrada campus
+
+🎥 **Streaming**: [Watch live](https://tv.urjc.es/live/event/67c850009978f33b527be5b5)
+
+ℹ️ **More information and registration**: [IV Free Culture Days of the URJC](https://eventos.urjc.es/126904/detail/iv-jornadas-de-cultura-libre-de-la-urjc.html)
+
+📺 **Coffees with OfiLibre on TV URJC**: [View the complete collection](https://tv.urjc.es/series/655f2053f8ceb778a509d85f)
+
+The **IV Free Culture Days of the URJC** will take place on **26 and 27 March**. You still have time to register! 🚀

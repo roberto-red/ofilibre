@@ -1,0 +1,20 @@
+---
+categories:
+- Cafes
+date: 2024-09-04
+description: This new course we're back to having coffee on Wednesdays at 10:00, live
+  through TV-URJC.
+image: /images/logo-ofilibre-2025.jpg
+tags:
+- URJC
+title: OfiLibre coffee shops are back!
+---
+
+Next Wednesday, September 11th Cafes con OfiLibre are back! We'll start the academic year talking about our upcoming plans, how you can stay informed about what we’re doing, and which initiatives the University is preparing regarding open access, free culture, and all the topics we care about at OfiLibre.
+
+
+* [Cafes con OfiLibre (live via TV URJC)](https://tv.urjc.es/live/event/661cfe7b43c849c8e7614ed9), every Wednesday at 10:00.
+
+* [Information about Cafes con OfiLibre](/en/acciones/cafes/), including the plan of topics for the next coffee breaks, and links to the recordings of those that already took place.
+
+* [Recordings of past Cafes con OfiLibre](https://tv.urjc.es/series/655f2053f8ceb778a509d85f).

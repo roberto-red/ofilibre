@@ -1,0 +1,32 @@
+---
+categories:
+- Resources
+- Free Culture
+date: 2022-03-02
+description: Seminar on reusing free materials, part of the seminar cycle on open
+  publishing of the Final Degree Project and the use of free materials in it.
+image: images/materiales_libres.jpeg
+slug: 2022-03-09-materiales-libres
+tags:
+- TFG
+title: 'Open TFG: Reuse of materials'
+---
+
+Seminar on reusing free materials, part of the seminar cycle on open publication of the Final Degree Project and the use of free materials in it. What conditions can you include free materials under? Where can you find them? How do you reference the original author? We will answer these and other questions.
+
+## Registration
+
+* [Event page](https://eventos.urjc.es/79125/detail/tfgs-en-abierto_-reutilizacion-de-materiales-libres.html)
+
+## Summary of data
+
+* When: March 9, 2022, 13:00-14:30
+* Where: Móstoles Campus, Aulario II, Room 101
+* Who is it aimed at: all students
+* Format: hybrid (in-person at the indicated campuses, and via videoconference for remote attendance)
+* [Teams room for remote attendance](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjkwOGZmYjUtZjc0My00MTkzLTkwMGQtZDY2MDkxMWIxYWZl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
+* Attendees will receive a certificate of Academic Recognition Credits (RAC)
+
+## Materials
+
+* Slides used in the presentation ([PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), for OfiLibre)

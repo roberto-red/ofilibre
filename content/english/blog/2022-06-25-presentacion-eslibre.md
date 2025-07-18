@@ -1,0 +1,15 @@
+---
+categories:
+- Free Culture
+- Free Software
+date: 2022-06-25
+description: Presentation at esLibre 2022.
+image: transpas/ofilibre/Modelo-OfiLibre-square.png
+slug: 2022-06-25-presentacion-eslibre
+tags:
+title: 'OfiLibre of the URJC: a model to promote free culture in the University'
+---
+
+Presentation about the OfiLibre model of the URJC, made in [esLibre](https://eslib.re) 2022.
+
+* Presentation: [PDF](/transpas/ofilibre/Modelo-OfiLibre.pdf), [ODP (for LibreOffice)](/transpas/ofilibre/Modelo-OfiLibre.odp)

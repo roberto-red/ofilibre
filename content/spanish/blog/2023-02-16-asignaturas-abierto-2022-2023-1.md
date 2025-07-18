@@ -18,7 +18,7 @@ Puedes consultarlas también en el [Portal de Asignaturas en Abierto](https://on
 
 ### [2039 - SISTEMAS TELEMATICOS PARA MEDIOS AUDIOVISUALES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187487#section-10) {#id37}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [eva.castro](https://gestion2.urjc.es/pdi/ver/eva.castro), [jose.centeno](https://gestion2.urjc.es/pdi/ver/jose.centeno)
 
@@ -31,7 +31,7 @@ Asignatura destacada
 
 ### [2033 - PROGRAMACION DECLARATIVA - MAÑANA A – 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188525) {#id6}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [juanmanuel.serrano](https://gestion2.urjc.es/pdi/ver/juanmanuel.serrano), [ana.pradera](https://gestion2.urjc.es/pdi/ver/ana.pradera)
 
@@ -43,7 +43,7 @@ Asignatura destacada
 
 ### [2059 - PROGRAMACION DECLARATIVA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187824) {#id50}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [juanmanuel.serrano](https://gestion2.urjc.es/pdi/ver/juanmanuel.serrano), [ana.pradera](https://gestion2.urjc.es/pdi/ver/ana.pradera)
 
@@ -55,7 +55,7 @@ Asignatura destacada
 
 ### [2229 - REDES DE ORDENADORES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=197197#section-10) {#id31}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [eva.castro](https://gestion2.urjc.es/pdi/ver/eva.castro), [pedro.delasheras](https://gestion2.urjc.es/pdi/ver/pedro.delasheras)
 
@@ -68,7 +68,7 @@ Asignatura destacada
 
 ### [2327 - FUNDAMENTOS DE REDES DE ORDENADORES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=200159) {#id32}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [jose.centeno](https://gestion2.urjc.es/pdi/ver/jose.centeno), [eva.castro](https://gestion2.urjc.es/pdi/ver/eva.castro)
 
@@ -81,7 +81,7 @@ Asignatura destacada
 
 ### [2042 - SISTEMAS OPERATIVOS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190393) {#id12}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [enrique.soriano](https://gestion2.urjc.es/pdi/ver/enrique.soriano), [gorka.guardiola](https://gestion2.urjc.es/pdi/ver/gorka.guardiola)
 
@@ -93,7 +93,7 @@ Asignatura destacada
 
 ### [2040 - SOFTWARE DE SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190215) {#id14}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [gorka.guardiola](https://gestion2.urjc.es/pdi/ver/gorka.guardiola), [enrique.soriano](https://gestion2.urjc.es/pdi/ver/enrique.soriano)
 
@@ -105,7 +105,7 @@ Asignatura destacada
 
 ### [2173 - INTRODUCCION A LA EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192718) {#id38}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [juanjose.mijarra](https://gestion2.urjc.es/pdi/ver/juanjose.mijarra), [nuria.romero](https://gestion2.urjc.es/pdi/ver/nuria.romero)
 
@@ -118,7 +118,7 @@ Asignatura destacada
 
 ### [2172 - INTRODUCCION A LA EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194655) {#id39}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [juanjose.mijarra](https://gestion2.urjc.es/pdi/ver/juanjose.mijarra), [nuria.romero](https://gestion2.urjc.es/pdi/ver/nuria.romero)
 
@@ -131,7 +131,7 @@ Asignatura destacada
 
 ### [2017 - MICROECONOMIA I - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188853) {#id10}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [juancarlos.aguado](https://gestion2.urjc.es/pdi/ver/juancarlos.aguado)
 
@@ -142,7 +142,7 @@ Asignatura destacada
 
 ### [2143 - INGENIERIA ELECTRICA Y ELECTRONICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194599) {#id28}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [alexander.cuadrado](https://gestion2.urjc.es/pdi/ver/alexander.cuadrado)
 
@@ -153,7 +153,7 @@ Asignatura destacada
 
 ### [2285 - INTRODUCCION A LA CIBERSEGURIDAD - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196834) {#id5}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [marta.beltran](https://gestion2.urjc.es/pdi/ver/marta.beltran), [miguel.calvo](https://gestion2.urjc.es/pdi/ver/miguel.calvo)
 
@@ -165,7 +165,7 @@ Asignatura destacada
 
 ### [2339 - FUNDAMENTOS DE LA PROGRAMACION Y DE LA INFORMATICA - TARDE B - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=199605) {#id45}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [miguel.ortuno](https://gestion2.urjc.es/pdi/ver/miguel.ortuno)
 
@@ -177,7 +177,7 @@ Asignatura destacada
 
 ### [2173 - INTRODUCCIÓN A LA EDUCACIÓN FÍSICA - TARDE B - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192719) {#id48}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [elena.caceres](https://gestion2.urjc.es/pdi/ver/elena.caceres)
 
@@ -189,7 +189,7 @@ Asignatura destacada
 
 ### [2029 - INGENIERIA ELECTRICA Y ELECTRONICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188458) {#id26}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [gonzalo.delpozo](https://gestion2.urjc.es/pdi/ver/gonzalo.delpozo)
 
@@ -201,7 +201,7 @@ Asignatura destacada
 
 ### [2052 - PUBLICIDAD INTERACTIVA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188983) {#id43}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [carmen.galvez](https://gestion2.urjc.es/pdi/ver/carmen.galvez)
 
@@ -213,7 +213,7 @@ Asignatura destacada
 
 ### [2041 - LABORATORIO DE ADMINISTRACION Y GESTION DE REDES Y SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187589) {#id44}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [miguel.ortuno](https://gestion2.urjc.es/pdi/ver/miguel.ortuno)
 
@@ -225,7 +225,7 @@ Asignatura destacada
 
 ### [2342 - FISICA APLICADA A LA INGENIERIA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=199653) {#id20}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [alexandre.wagemakers](https://gestion2.urjc.es/pdi/ver/alexandre.wagemakers)
 
@@ -237,7 +237,7 @@ Asignatura destacada
 
 ### [2101 - EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192127) {#id33}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [romain.marconnot](https://gestion2.urjc.es/pdi/ver/romain.marconnot)
 
@@ -248,7 +248,7 @@ Asignatura destacada
 
 ### [2011 - FOTOPERIODISMO - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187672) {#id40}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [myanet.acosta](https://gestion2.urjc.es/pdi/ver/myanet.acosta)
 
@@ -259,7 +259,7 @@ Asignatura destacada
 
 ### [2004 - FOTOPERIODISMO (SEMIPRESENCIAL) - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187280) {#id41}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [myanet.acosta](https://gestion2.urjc.es/pdi/ver/myanet.acosta)
 
@@ -270,7 +270,7 @@ Asignatura destacada
 
 ### [2228 - NORMA Y USO DEL ESPAÑOL - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=195173) {#id11}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [macarena.gil](https://gestion2.urjc.es/pdi/ver/macarena.gil)
 
@@ -281,7 +281,7 @@ Asignatura destacada
 
 ### [2011 - PLANIFICACION Y DESARROLLO DE PROYECTOS EN LA RED - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=189743) {#id24}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [manuel.gertrudix](https://gestion2.urjc.es/pdi/ver/manuel.gertrudix), [alejandro.carbonell](https://gestion2.urjc.es/pdi/ver/alejandro.carbonell)
 
@@ -294,7 +294,7 @@ Asignatura destacada
 
 ### [2170 - INTRODUCTION TO PHYSICAL EDUCATION - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194168) {#id46}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [adrian.solera](https://gestion2.urjc.es/pdi/ver/adrian.solera), [jose.delfa](https://gestion2.urjc.es/pdi/ver/jose.delfa), [daniel.bores](https://gestion2.urjc.es/pdi/ver/daniel.bores)
 
@@ -305,7 +305,7 @@ Asignatura destacada
 
 ### [2240 - FISICA APLICADA A ESTRUCTURAS E INSTALACIONES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=197579) {#id7}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [pablo.ropez](https://gestion2.urjc.es/pdi/ver/pablo.ropez)
 
@@ -315,7 +315,7 @@ Asignatura destacada
 
 ### [2054 - DERECHO INTERNACIONAL PRIVADO - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190140) {#id19}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [ana.crespo](https://gestion2.urjc.es/pdi/ver/ana.crespo)
 
@@ -326,7 +326,7 @@ Asignatura destacada
 
 ### [2029 - METODOS MATEMATICOS APLICADOS A LA INGENIERIA DE LA ENERGIA - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=189911) {#id25}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [anaisabel.munoz](https://gestion2.urjc.es/pdi/ver/anaisabel.munoz)
 
@@ -337,7 +337,7 @@ Asignatura destacada
 
 ### [2239 - INTRODUCCION A LA PROGRAMACION - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196510) {#id42}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [juanmanuel.vara](https://gestion2.urjc.es/pdi/ver/juanmanuel.vara), [francisco.perez](https://gestion2.urjc.es/pdi/ver/francisco.perez)
 
@@ -349,7 +349,7 @@ Asignatura destacada
 
 ### [2285 - LOGICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196836) {#id8}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [joaquin.arias](https://gestion2.urjc.es/pdi/ver/joaquin.arias), [ivan.ramirez](https://gestion2.urjc.es/pdi/ver/ivan.ramirez)
 
@@ -360,7 +360,7 @@ Asignatura destacada
 
 ### [2361 - LOGICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=198881) {#id9}
 
-Asignatura destacada
+
 
 **Autores que son docentes en la asignatura:** [joaquin.arias](https://gestion2.urjc.es/pdi/ver/joaquin.arias), [ivan.ramirez](https://gestion2.urjc.es/pdi/ver/ivan.ramirez)
 

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/university/</link>
+    <description>Recent content in University on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/university/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OfiLibre receives LUT University</title>
+      <link>http://localhost:1313/en/blog/2025-05-07-visita-de-victoria-kompanets/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-05-07-visita-de-victoria-kompanets/</guid>
+      <description>This Tuesday, May 6, 2025, we had the pleasure of receiving Victoria Kompanets, Funding Advisor, Research Services at LUT University (Finland), member of EULiST, at our office.</description>
+    </item>
+    <item>
+      <title>We&#39;re starting the course with scholarship holders!</title>
+      <link>http://localhost:1313/en/blog/2024-11-27-presentacion-becarios/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2024-11-27-presentacion-becarios/</guid>
+      <description>From its origins, OfiLibre has committed to playing a significant formative role, offering Training Scholarships to open its doors to students interested in free culture.</description>
+    </item>
+    <item>
+      <title>Happy 2024</title>
+      <link>http://localhost:1313/en/blog/2023-12-21-feliz-2024/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2023-12-21-feliz-2024/</guid>
+      <description>Dear university community:&#xA;From OfiLibre, part of the Vice-Rectorate for Community, Campus, Culture and Sports, we want to wish you a 2024 full of open materials, many open publications, using free software and reusing open data.</description>
+    </item>
+    <item>
+      <title>TFGs in open: Publication</title>
+      <link>http://localhost:1313/en/blog/2022-03-23-tfg-abierto/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2022-03-23-tfg-abierto/</guid>
+      <description>Seminar on open publication of the Bachelor&amp;rsquo;s Thesis, part of the seminar series on open publication of final degree projects and the use of free materials within them.</description>
+    </item>
+    <item>
+      <title>Transformative agreement with publisher Wiley for open access publishing</title>
+      <link>http://localhost:1313/en/blog/acuerdo-editorial-wiley/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/acuerdo-editorial-wiley/</guid>
+      <description>According to the Vicerrectorado de Extensión Universitaria, the URJC has signed a new agreement with the publisher Wiley, which will allow authors from the URJC to read and publish open access articles.</description>
+    </item>
+    <item>
+      <title>The Council of the Free</title>
+      <link>http://localhost:1313/en/blog/el-concilio-de-lo-libre/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/el-concilio-de-lo-libre/</guid>
+      <description>&amp;ldquo;Sharing knowledge is the key to a free and just society.</description>
+    </item>
+    <item>
+      <title>Access and Open Culture Regulations</title>
+      <link>http://localhost:1313/en/blog/reglamento-acceso-abierto/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/reglamento-acceso-abierto/</guid>
+      <description>The Council of Government of the Rey Juan Carlos University approved, in its meeting on December 18, the new Open Access and Culture Regulation.</description>
+    </item>
+    <item>
+      <title>Beca de Software Libre de OfiLibre</title>
+      <link>http://localhost:1313/en/blog/beca-ofilibre/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/beca-ofilibre/</guid>
+      <description>At the beginning of December, the ordinary call for 2021 was published on the university&amp;rsquo;s electronic bulletin board, offering 74 Collaboration Grants cofinanced with Banco Santander, for training in different services of the Rey Juan Carlos University, in favor of students enrolled at the URJC.</description>
+    </item>
+    <item>
+      <title>Seminarios OfiLibre. Docker and Kubernetes</title>
+      <link>http://localhost:1313/en/blog/seminario-docker-kubernetes/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/seminario-docker-kubernetes/</guid>
+      <description>The technologies Docker and Kubernetes have changed the way we package, distribute, and deploy web applications and other Internet services.</description>
+    </item>
+    <item>
+      <title>Virtual esLibre 2020 Congress</title>
+      <link>http://localhost:1313/en/blog/evento-eslibre/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/evento-eslibre/</guid>
+      <description>The past days 18 and 19 of September saw the 2020 edition of the esLibre congress, held entirely remotely due to the COVID-19 health crisis.</description>
+    </item>
+    <item>
+      <title>Printing from Linux on URJC printers</title>
+      <link>http://localhost:1313/en/guias/impresoras/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/impresoras/</guid>
+      <description>This guide refers to the printers accessible through the URJC printing portal.</description>
+    </item>
+  </channel>
+</rss>

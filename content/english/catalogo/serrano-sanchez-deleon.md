@@ -1,0 +1,26 @@
+---
+author: Ángel Serrano Sánchez de León
+categories:
+- Resources
+- Open Data
+date: 2020-11-21
+degrees: Degree in Computer Engineering, Computer Fundamentals, science dissemination
+  activities during Science Week.
+department: ETSII
+description: Simplest Possible Computer Simulator (SAP-1, Simple-As-Possible Computer),
+  proposed by Albert Paul Malvino and Jerald A. Brown in the book "Digital Computer
+  Electronics" (McGraw-Hill Education Publisher). It is an 8-bit programmable computer
+  through a simple (and limited) assembly language. The simulator shows the data path
+  and the execution process of instructions cycle by cycle. This resource can be used
+  as an introduction to computer architecture.
+image: /images/catalogo/serrano-sanchez-deleon.png
+license: Creative Commons Attribution-NonCommercial-ShareAlike
+link: http://aserrano.es/portafolio/informatica-con-processing/sap1/
+title: Simple-As-Possible Computer Simulator (SAP-1)
+type: catalogo
+---
+
+## Process
+
+* It is programmed in Processing and published on the web using the Processing.js library.
+* To handle the simulator, you just need to visit the web, meaning you don't need to install any software.

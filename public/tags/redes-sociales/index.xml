@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redes Sociales on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/redes-sociales/</link>
+    <description>Recent content in Redes Sociales on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/redes-sociales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canales de comunicación de OfiLibre</title>
+      <link>http://localhost:1313/blog/2024-11-13-canales-ofilibre/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-11-13-canales-ofilibre/</guid>
+      <description>Si quieres seguir la información que difundimos desde la OfiLibre, estos son los canales que usamos:</description>
+    </item>
+  </channel>
+</rss>

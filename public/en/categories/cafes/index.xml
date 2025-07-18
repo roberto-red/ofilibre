@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cafes on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/cafes/</link>
+    <description>Recent content in Cafes on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/cafes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recording of the session with the candidates for Rector</title>
+      <link>http://localhost:1313/en/blog/grabacion-sesion-con-los-candidatos-a-rector-iv-jornadas-de-cultura-libre/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/grabacion-sesion-con-los-candidatos-a-rector-iv-jornadas-de-cultura-libre/</guid>
+      <description>Did you miss the talk with the candidates for rector of the URJC that we had this morning at the IV Free Culture Days?</description>
+    </item>
+    <item>
+      <title>Session with the candidates for Rector at the IV Free Culture Days</title>
+      <link>http://localhost:1313/en/blog/sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre/</link>
+      <pubDate>Fri, 21 Mar 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre/</guid>
+      <description>Wednesday 26th of March we will begin the IV Free Culture Days with a coffee with the two rector candidates, Abraham Duarte Muñoz and Fernando García Muiña.</description>
+    </item>
+    <item>
+      <title>OfiLibre coffee shops are back!</title>
+      <link>http://localhost:1313/en/blog/2024-09-04-vuelven-cafes-ofilibre/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2024-09-04-vuelven-cafes-ofilibre/</guid>
+      <description>Next Wednesday, September 11th Cafes con OfiLibre are back! We&amp;rsquo;ll start the academic year talking about our upcoming plans, how you can stay informed about what we’re doing, and which initiatives the University is preparing regarding open access, free culture, and all the topics we care about at OfiLibre.</description>
+    </item>
+    <item>
+      <title>Cafe con OfiLibre</title>
+      <link>http://localhost:1313/en/blog/2023-10-11-cafe-ofilibre/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2023-10-11-cafe-ofilibre/</guid>
+      <description>Attention: time changed as of November 6, 2023 (inclusive): sessions will be at 10:00</description>
+    </item>
+    <item>
+      <title>Coffee and Creative Commons</title>
+      <link>http://localhost:1313/en/blog/cafe-creative-commons-2022/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/cafe-creative-commons-2022/</guid>
+      <description>Do you want to spend a relaxed time talking about Creative Commons licenses?</description>
+    </item>
+    <item>
+      <title>Coffee and Creative Commons</title>
+      <link>http://localhost:1313/en/blog/cafe-creative-commons-2021/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/cafe-creative-commons-2021/</guid>
+      <description>Do you want to spend a relaxed time talking about Creative Commons licenses?</description>
+    </item>
+  </channel>
+</rss>

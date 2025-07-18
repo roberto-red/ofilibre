@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Licencias on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/licencias/</link>
+    <description>Recent content in Licencias on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/licencias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Dónde está la licencia?</title>
+      <link>http://localhost:1313/blog/2024-09-18-donde-esta-licencia/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-09-18-donde-esta-licencia/</guid>
+      <description>Te ofrecemos el vídeo ¿Dónde está la licencia?, para ayudar a identificar licencias de acceso abierto en revistas de investigación.</description>
+    </item>
+  </channel>
+</rss>

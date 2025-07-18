@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching Innovation on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/teaching-innovation/</link>
+    <description>Recent content in Teaching Innovation on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/teaching-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OfiLibre participated in the Teaching Innovation Days of the URJC</title>
+      <link>http://localhost:1313/en/blog/jornadas-innovacion-docente/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/jornadas-innovacion-docente/</guid>
+      <description>The VI Online Teaching Innovation Days at URJC are a space for analysis, reflection, and exchange on teaching practices and didactic methodologies applied to education supported by digital systems, services, and tools.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-03-13
+image: /images/fichas/gimp/logo.png
+installs:
+- kind: video
+  name: How to install Gimp 2.10.2
+  url: https://www.youtube.com/watch?v=2SkWmqRCKRo
+licenses:
+- name: GPL
+  url: https://es.wikipedia.org/wiki/GNU_General_Public_License
+- name: LGPL
+  url: https://es.wikipedia.org/wiki/GNU_Lesser_General_Public_License
+myapps: true
+others:
+- name: All Gimp
+  url: http://todogimp.com
+- kind: PDF
+  name: Gimp Manual at tecnologiaedu.uma.es
+  url: http://tecnologiaedu.uma.es/materiales/gimp/archivos/ManualGIMP_Cap1.pdf
+screenshots:
+- attribution: '[Captura tomada de Wikipedia](https://es.wikipedia.org/wiki/GIMP#/media/File:GIMP_2.8.png),
+    por C. Nilsson, licencia GFDL'
+  file: captura.png
+  name: Gimp in operation (screenshot)
+- file: captura-herramientas.png
+  name: Toolbar (screenshot)
+- file: captura-filtros.png
+  name: Filter Panel (Capture)
+source: https://gitlab.gnome.org/GNOME/gimp
+title: GIMP
+tutorials:
+- name: Gimp tutorials in Spanish
+  url: http://www.gimp.org.es/modules/downloadse/viewcat.php?cid=11
+- kind: video
+  name: Complete tutorial on Gimp
+  url: https://www.youtube.com/watch?v=uX3QieANqxc
+type: fichas
+website: https://gimp.org
+website_es: https://gimp.org.es
+---
+
+Gimp is a program for editing digital images in bitmap format.
+It includes tools for retouching and editing images,
+changing image characteristics, creating photomontages,
+converting to different image formats, etc.

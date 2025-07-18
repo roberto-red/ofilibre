@@ -103,3 +103,9 @@ other = "Email"
 
 [redes]
 other = "Social networks"
+
+# Buttons
+
+[learnMore]
+other = "Learn more"
+

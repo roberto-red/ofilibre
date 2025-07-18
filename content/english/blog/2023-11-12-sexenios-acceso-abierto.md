@@ -1,0 +1,22 @@
+---
+categories:
+- Open publishing
+date: 2023-11-12
+description: Information about open access publishing possibilities for URJC PDI
+image: /images/openaccess-square.png
+slug: 2023-11-12-acceso-abierto
+tags:
+- Open Access
+- URJC
+- Six-year terms
+title: Open Access Publishing Opportunities for URJC PDI
+---
+
+ANECA has published a [Draft of evaluation criteria for the 2023 Call for Research Sexenios](https://www.aneca.es/documents/20123/49576/Borrador+Resolucion+Criterios+CNEAI+2023_061123.pdf), opening a [public consultation process](https://www.aneca.es/-/consulta-p%C3%BAblica-sobre-el-borrador-de-criterios-de-evaluaci%C3%B3n-de-la-pr%C3%B3xima-convocatoria-2023-del-sexenio-de-investigaci%C3%B3n).
+
+One of the innovative aspects proposed by this draft is the publication in Open Access Archives of the research results presented for evaluation, fundamentally in its article 5, as we [commented a few days ago](/en/blog/borrador-de-sexenios-y-acceso-abierto/). Although it is expected that the draft will undergo changes before its final promulgation, we have scheduled, in conjunction with the Vicerrectorado de Investigación, a session on the role of open access in the ANECA draft, and the possibilities of publishing in Open Access Archives, for the PDI of our University, of results evaluable in sexenios.
+
+Session details:
+
+* When: Friday 17 at 13:00 
+* Where: [Room in Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA1YzYwZDgtYTQ2Yi00ZDNhLWJmYjAtMTA5YjVjNmRhOWFi%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)

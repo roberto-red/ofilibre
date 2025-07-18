@@ -1,0 +1,37 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-04-01
+image: /images/fichas/netbeans/logo.png
+installs:
+- name: How to Install Netbeans
+  url: https://netbeans.org/community/releases/68/install_es.html
+licenses:
+- name: GPLv2
+  url: https://es.wikipedia.org/wiki/GNU_General_Public_License
+- name: CDDL
+  url: https://es.wikipedia.org/wiki/Common_Development_and_Distribution_License
+myapps: true
+others:
+- kind: video
+  name: Shortcuts in NetBeans
+  url: https://www.youtube.com/watch?v=8miIJwXkBTw
+- name: Official documentation
+  url: https://netbeans.org/kb/index.html
+screenshots:
+- file: captura.png
+  name: Netbeans in operation (screenshot)
+source: https://netbeans.org/projects/ide/sources
+title: Netbeans
+tutorials:
+- kind: video
+  name: Tutorial on Netbeans
+  url: https://www.youtube.com/watch?v=jJd6Pl4xTuQ&list=PLMTiAh6qhda3emws2jBAiFl-luqFeSDvX
+type: fichas
+website: https://netbeans.org/
+website_es:
+---
+
+NetBeans is a free integrated development environment, mainly designed for the Java programming language. There is also an important number of modules to extend it.
+NetBeans allows applications to be developed from a set of software components called modules. A module is a Java file that contains Java classes written to interact with NetBeans' APIs and a special file (manifest file) that identifies it as a module. Applications built from modules can be extended by adding new modules.

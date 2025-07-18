@@ -25,7 +25,7 @@ El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la c
 
 Más información:
 
-* [Más información, material auxiliar y preguntas frecuentes](/guias//convocatoria-asignaturas-abierto/)
+* [Más información, material auxiliar y preguntas frecuentes](/guias/convocatoria-asignaturas-abierto/)
 * [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026", de primer o segundo cuatrimestre, según sea la asignatura
 * [Convocatoria en el tablón de anuncios electrónico de la URJC](https://sede.urjc.es/en/tablon-oficial?path=anuncio/13752/) ([copia en este sitio web](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
 * [Información sobre las distintas ediciones de esta convocatoria](/acciones/asignaturas_abierto/)

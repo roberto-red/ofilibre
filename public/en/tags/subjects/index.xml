@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subjects on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/subjects/</link>
+    <description>Recent content in Subjects on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2023 10:44:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/subjects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Subjects of the 2nd Quarter! (2023)</title>
+      <link>http://localhost:1313/en/blog/2023-resultados-convocatoria-asignaturas/</link>
+      <pubDate>Tue, 23 May 2023 10:44:34 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2023-resultados-convocatoria-asignaturas/</guid>
+      <description>We&amp;rsquo;re back with new open subjects! Until last January, we were receiving requests for second-semester subjects.</description>
+    </item>
+    <item>
+      <title>Open subjects: a happy reality</title>
+      <link>http://localhost:1313/en/blog/2023-02-28-resultados-convocatoria-asignaturas/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2023-02-28-resultados-convocatoria-asignaturas/</guid>
+      <description>The past June, the Call for Recognition of Open Access Course Materials 2022-2023 was published.</description>
+    </item>
+  </channel>
+</rss>

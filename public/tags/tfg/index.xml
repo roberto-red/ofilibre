@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TFG on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/tfg/</link>
+    <description>Recent content in TFG on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tfg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publicación del trabajo fin de grado en abierto</title>
+      <link>http://localhost:1313/guias/tfg-abierto/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guias/tfg-abierto/</guid>
+      <description>[ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023!</description>
+    </item>
+    <item>
+      <title>TFGs en abierto: Publicación</title>
+      <link>http://localhost:1313/blog/2022-03-23-tfg-abierto/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-03-23-tfg-abierto/</guid>
+      <description>Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.</description>
+    </item>
+    <item>
+      <title>Seminarios: TFGs en abierto</title>
+      <link>http://localhost:1313/blog/2022-02-tfg-abierto/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-02-tfg-abierto/</guid>
+      <description>La OfiLibre va a realizar un pequeño ciclo de seminarios sobre la publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.</description>
+    </item>
+    <item>
+      <title>TFGs en abierto: Reutilización de materiales</title>
+      <link>http://localhost:1313/blog/2022-03-09-materiales-libres/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-03-09-materiales-libres/</guid>
+      <description>Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.</description>
+    </item>
+    <item>
+      <title>Publicación en abierto de TFGs</title>
+      <link>http://localhost:1313/blog/tfgs-abiertos/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tfgs-abiertos/</guid>
+      <description>En la Universidad Rey Juan Carlos puedes publicar tu Trabajo Fin de Grado (la memoria y otros resultados que hayas obtenido) en acceso abierto.</description>
+    </item>
+  </channel>
+</rss>

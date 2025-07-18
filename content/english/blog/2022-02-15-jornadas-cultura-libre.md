@@ -1,0 +1,177 @@
+---
+categories:
+- Free culture days
+- Free Culture
+date: 2022-03-21
+description: First Free Culture Days of URJC
+image: images/blog/jornada-cultura-libre/square.png
+slug: jornadas-cultura-libre
+tags:
+title: First Free Culture Days
+---
+
+[After the event, we have edited this news incorporating the materials generated during it, so it serves as an archive.]
+
+The past 30th of March 2022, the First Free Culture Day of the URJC took place at the Fuenlabrada Campus. The Day is conceived as a meeting point, training, and exchange of experiences on topics related to free culture at the University: open publication (of teaching materials, research, etc.), open science, open data, free software, etc. It featured presentations by experts on some of these topics, meetings on specific topics, and presentations of papers by members of the university community.
+
+The Day is aimed at the entire university community of the URJC and anyone interested in free culture, open access publishing, open data, free software, and other related manifestations.
+
+The video with all the presentations of the Day is available, as well as a [summary of its development](/en/blog/2022-05-19-jornadas-resultado/).
+
+<iframe src='https://tv.urjc.es/iframe/626bfdadd3b334bb231e753c' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+
+## Program summary
+
+* 8:30 - Registration
+* 9:00 - Institutional opening
+* 9:15 - "Everything you wanted to know about open science and never dared to ask", Pilar Rico (Head of the Open Access Unit, FECYT).
+* 10:00 - Papers (Open data and free hardware)
+* 10:50 - Break
+* 11:10 - "Not only free software lives free culture". Jesús Tramullas (Professor of Documentation, University of Zaragoza)
+* 11:55 - Papers (Teaching with free resources)
+* 12:45 - Library and open science (invited papers). Fernando Silva Sánchez, María Dolores López García, and Cristina Rincón Moreno
+* 13:00 - Break
+* 13:20 - Papers (Free software)
+* 14:05 - The role of OfiLibre (Office of Knowledge and Free Culture), Jesús M. González Barahona
+* 14:10 - Manifesto and closing
+
+[Program in PDF](https://gitlab.etsit.urjc.es/ofilibre/plan/-/raw/master/Jornadas%202022/programa_Jornadas_Cultura_libre.pdf)
+
+[Detail of papers and speakers' materials](#detalle-y-materiales-de-ponencias)
+
+## Summary of data
+
+* Who is it aimed at: the entire university community
+* When: 30th of March 2022
+* Where: Auditorium, Management Building, Fuenlabrada Campus, URJC
+* Proposal submission: [proposal submission form](https://eventos.urjc.es/78452/section/35438/primeras-jornadas-de-cultura-libre-en-la-urjc.html)
+* Registration as an attendee: [registration page](https://eventos.urjc.es/78452/detail/primeras-jornadas-de-cultura-libre-en-la-urjc.html)
+
+
+## Detail of papers and speakers' materials
+
+### Invited papers
+
+* *"Everything you always wanted to know about open science and never dared to ask"* ([slides](/transpas/jornada-cultura-libre/invitadas/01_Rico.pdf))  
+  Speaker: Pilar Rico, Spanish Foundation for Science and Technology (FECyT)
+
+* *"Not only free software lives free culture"* ([slides](/transpas/jornada-cultura-libre/invitadas/02_Tramullas.pdf))  
+  Speaker: Jesús Tramullas, University of Zaragoza
+
+* *"Citizen Laboratories: experience of the project developed at the Madrid campus library"* ([slides](/transpas/jornada-cultura-libre/invitadas/03_Biblioteca.pdf))  
+  Speakers: María Dolores López García and Cristina Rincón Moreno, Library
+
+* *"Support for Open Science at BURJC"* ([slides](/transpas/jornada-cultura-libre/invitadas/04_Biblioteca.pdf))  
+  Speaker: Fernando Silva Sánchez, Library
+
+* *"OfiLibre URJC: Office of Knowledge and Free Culture"* ([slides](/transpas/jornada-cultura-libre/invitadas/05_OfiLibre.pdf))  
+  Speaker: Jesús M. González Barahona
+  
+### Open data and free hardware
+
+* *"Use of LIDAR and open geographic data in Archaeology"* ([slides](/transpas/jornada-cultura-libre/datos-hw/01_Morales.pdf))  
+  Speaker: Diana Morales Manzanares  
+  Authorship: Luis Alberto Polo Romero; Diana Morales Manzanares; Francisco Reyes Téllez
+
+* *"Creating open digital content: the case of the Royal Sites Heritage portal"* ([slides](/transpas/jornada-cultura-libre/datos-hw/02_Labrador.pdf))  
+  Speaker: Félix Labrador Arroyo  
+  Authorship: Félix Labrador Arroyo and Manuel Álvaro Mora  
+
+* *"MapCom Project. Research on Communication in Spanish Universities between 2007 and 2018"* ([slides](/transpas/jornada-cultura-libre/datos-hw/03_Lozano.pdf))  
+  Speaker: Carlos Horacio Lozano Ascencio  
+  Authorship: Carlos Horacio Lozano Ascencio
+
+* *"Managing research data in Arts and Humanities: problems, challenges, and some solutions"* ([slides](/transpas/jornada-cultura-libre/datos-hw/04_Battaner.pdf))  
+  Speaker: Elena Battaner  
+  Authorship: Elena Battaner Moro and Juan Alonso López Iniesta
+
+* *"Research with participatory action for international protection seekers through digital media"* ([slides](/transpas/jornada-cultura-libre/datos-hw/05_delPrado.pdf))  
+  Speaker: Cristina del Prado and Guillermo Andrés Duque Silva  
+  Authorship: Cristina del Prado and Guillermo Andrés Duque Silva
+
+* *"Low-cost analog geological modeling table based on free hardware"* ([slides](/transpas/jornada-cultura-libre/datos-hw/06_Nieto.pdf))  
+  Speaker:  Rubén Nieto  
+  Authorship: Felipe Machado, Susana Borromeo, Cristina Fernández, Javier Letón, Alicia Merchán, Zeus Román, Rubén Nieto
+
+* *"Free hardware and open science: parametric piece library for FreeCAD for scientific equipment development"* ([slides](/transpas/jornada-cultura-libre/datos-hw/07_Machado.pdf))  
+  Speaker:  Felipe Machado Sánchez  
+  Authorship: David Muñoz Bernal, Felipe Machado Sánchez, Rubén Nieto Capuchino, Susana Borromeo López
+
+### Teaching with free resources
+
+* *"Taking advantage of free resources and software with undergraduate students for video game production projects"* ([slides](/transpas/jornada-cultura-libre/docencia/01_Gertrudis.pdf))  
+  Speaker: Mª del Carmen Gertrudis Casado  
+  Authorship: Mª del Carmen Gertrudis Casado and Juan Romero-Luis
+
+* *"Investigafisio: research, teaching, and clinic at everyone's reach"* ([slides](/transpas/jornada-cultura-libre/docencia/02_Molina.pdf))  
+  Speaker: Francisco Molina Rueda  
+  Authorship: Francisco Molina Rueda
+
+* *"Circular teaching"* ([slides](/transpas/jornada-cultura-libre/docencia/03_Jimenez.pdf))  
+  Speaker: Jorge Jiménez Leube  
+  Authorship: Jorge Jiménez Leube
+
+* *"Reflections on the 'Non-commercial' clause in Creative Commons licenses"* ([slides](/transpas/jornada-cultura-libre/docencia/04_Robles.pdf))  
+  Speaker: Gregorio Robles  
+  Authorship: Gregorio Robles
+
+* *"Open knowledge to combat disinformation. The CRESCEnt project"* ([slides](/transpas/jornada-cultura-libre/docencia/05_Carbonell.pdf))  
+  Speaker: Alejandro Carbonell-Alcocer and Begoña Rivas Rebaque  
+  Authorship: Manuel Gertrudix, Rubén Arcos, Juan Romero-Luis, Alejandro Carbonell-Alcocer, Mario Rajas, Cristina Arribas, Mª Carmen Gertrudis, Mª Carmen Gálvez, José Luis Rubio y Begoña Rivas Rebaque  
+
+* *"Wikipedia for teaching documentary sources: a case of failure?"* ([slides](/transpas/jornada-cultura-libre/docencia/06_Martinez.pdf))  
+  Speaker: Lizette Martínez Valerio  
+  Authorship: Lizette Martínez Valerio
+
+* *"Classroom Ciberimaginario' Open Knowledge Platform"* ([slides](/transpas/jornada-cultura-libre/docencia/07_Galvez.pdf))  
+  Speaker: Mª del Carmen Gálvez de la Cuesta  
+  Authorship: Manuel Gértrudix Barrio, Mª del Carmen Gálvez de la Cuesta, Mª del Carmen Gertrudis Casado, Mario Rajas Fernández, Juan Romero Luis, Alejandro Carbonell Alcocer, Miguel Baños González, José Luis Rubio Tamayo, Rubén Arcos Martín y Ernesto Taborda Hernández
+
+* *"Innovawiki: open repository with resources for proper Wikipedia use"* [Poster](/transpas/jornada-cultura-libre/posters/innova-wiki.pdf)
+  Speaker: Marta García Sahagún  
+  Authorship: Marta García Sahagún, Florencia Claes, Lizette Martínez Valerio, Antonio García Jiménez, Luis Deltell, María Sefidari Huici, Bárbara Caffarel Rodríguez, Patricia Izquierdo Iranzo, Francisco Javier Pérez Blanco.
+  
+### Free software
+
+* *"Experiences and results of using free software ImageJ for evaluating echographic images for teaching and research purposes in Health Sciences"* ([slides](/transpas/jornada-cultura-libre/sw/01_Arias.pdf))  
+  Speaker: José Luis Arias Buría  
+  Authorship: José Luis Arias Buría
+
+* *"KDE Activities: the intelligent desktop"* ([slides](/transpas/jornada-cultura-libre/sw/02_Iglesias.pdf))  
+  Speaker: Héctor Rodrigo Iglesias Goldaracena  
+  Authorship: Héctor Rodrigo Iglesias Goldaracena
+
+* *"Interactive simulations: application to engineering degree teaching"* ([slides](/transpas/jornada-cultura-libre/sw/03_Garrido.pdf))  
+  Speaker: Miguel Ángel Garrido Maneiro  
+  Authorship: Miguel Ángel Garrido Maneiro
+
+* *"Free software and reproducibility in science"* ([slides](/transpas/jornada-cultura-libre/sw/04_Wagemakers.pdf))  
+  Speaker: Alexandre Wagemakers  
+  Authorship: Alexandre Wagemakers
+
+* *"Photogrammetry, open data, and augmented reality for teaching in Archaeology, History, and Fine Arts"* ([slides](/transpas/jornada-cultura-libre/sw/05_Polo.pdf))  
+  Speaker: L. Alberto Polo Romero  
+  Authorship: Luis Alberto Polo Romero; Raquel Sardá Sánchez; Francisco Reyes Téllez; Diana Morales Manzanares
+
+* *"Creating project memories with R Markdown and LaTeX"* ([slides](/transpas/jornada-cultura-libre/sw/06_Ortega.pdf))  
+  Speaker: Felipe Ortega  
+  Authorship: Felipe Ortega
+
+* *"The Monty Hall contest: an interactive application with R to explain probability"* ([slides](/transpas/jornada-cultura-libre/sw/07_Cano.pdf))  
+  Speaker: Emilio L. Cano  
+  Authorship: Emilio L. Cano
+
+
+## Materials for speakers
+
+* Slides template: [ODF format, for LibreOffice](/transpas/jornada-cultura-libre/presentacion_jornadas.odp), [PPTX format, for PowerPoint](/transpas/jornada-cultura-libre/presentacion_jornadas.pptx), [PDF format](/transpas/jornada-cultura-libre/presentacion_jornadas.pdf).
+
+* "Open lightbulb": [PDF format](/images/blog/jornada-cultura-libre/bombilla.pdf), [PNG format](/images/blog/jornada-cultura-libre/bombilla.png). Author: José Luis Rubio Tamayo. License: Creative Commons Attribution 4.0 International.
+
+* [Day poster](/images/blog/jornada-cultura-libre/square.png)
+
+## Proposal submission and registration
+
+If you want to participate with a short paper, sharing your experience of working with free materials, publishing openly, or releasing data, submit your abstract before February 28th through the [proposal submission form](https://eventos.urjc.es/78452/section/35438/primeras-jornadas-de-cultura-libre-en-la-urjc.html). **Note:** Proposal submission is now closed
+
+If you want to participate as an attendee, registration is already open until March 29th. Please register on the [registration page](https://eventos.urjc.es/78452/detail/primeras-jornadas-de-cultura-libre-en-la-urjc.html). **Note:** In-person registration is now closed

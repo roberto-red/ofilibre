@@ -1,0 +1,29 @@
+---
+categories:
+- Open publishing
+date: 2023-11-08
+description: Aspects related to the open publication of the draft published by ANECA
+  on the 2023 Call for Research Six-Year Terms
+image: /images/openaccess-square.png
+slug: borrador-de-sexenios-y-acceso-abierto
+tags:
+- open access
+title: Draft of Six-Year Terms and Open Access
+---
+
+ANECA has published the [Draft of evaluation criteria for the 2023 Call for Research Sexenios](https://www.aneca.es/documents/20123/49576/Borrador+Resolucion+Criterios+CNEAI+2023_061123.pdf/c5a3af88-bb33-c50a-b5da-82fed2198c05?t=1699282634260), which is subject to a [public consultation process](https://www.aneca.es/-/consulta-p%C3%BAblica-sobre-el-borrador-de-criterios-de-evaluaci%C3%B3n-de-la-pr%C3%B3xima-convocatoria-2023-del-sexenio-de-investigaci%C3%B3n) until November 19, 2023.
+
+One of its most notable aspects is the importance it gives to the open access publication of research results submitted for evaluation to obtain a Sexenio. Thus, in its Article 5, it states:
+
+> "In accordance with Article 12 of the LOSU, in all Fields, the deposit in institutional or thematic open access repositories of scientific publications, data sets, codes, and methodologies submitted for evaluation, including a persistent identifier (DOI, Handle, or similar), will be required to achieve the objectives of responsible research and innovation and the free circulation of scientific knowledge and technologies promoted by European open science policies.
+> Thus, in the case of serial or periodic publications, applicants are reminded that, since the entry into force of the LCTI on December 2, 2011, research personnel whose research activity is mainly funded with public funds will make the final accepted version for publication available in institutional or thematic open access repositories
+(Article 37 of the LCTI, in its version prior to Law 17/2022).
+> This provision, now reinforced in Articles 12.2 and 12.3 of the LOSU, will therefore apply to publications submitted with a date of 2011 or later, except in the case of other publication formats such as monographs.
+> Additionally, the current Article 37 of the LCTI, as amended by Law 17/2022, adds that a copy of the final accepted version for publication and the associated data must be deposited in institutional or thematic open access repositories, simultaneously with the publication date, and this provision will apply to publications submitted with a date of 2022 or later.
+> Furthermore, in accordance with Article 37 of the LCTI and Article 12.5 of the LOSU, data sets submitted for evaluation, with a date of 2022 or later, must comply with the FAIR principles (findable, accessible, interoperable, and reusable) and, whenever possible, will be disseminated in open access in trusted data repositories or infrastructures.
+> Finally, in the case of software applications, it will be valued that they are developed according to the principles of open collaboration of free software and published under the European Union Public Licence (https://joinup.ec.europa.eu/collection/eupl) or compatible licenses."
+
+Therefore, in its current wording, this text indicates that both articles and data sets must be published in open access to be considered for Sexenio evaluation, and that software must be published as free software.
+
+Throughout the proposed text, there are some more references to open access publication, but this Article 5 clearly shows the importance of publishing in this way to opt for positive Sexenio research evaluations.
+OfiLibre has been promoting open access publication for years, and this new development is a significant step forward in this direction.

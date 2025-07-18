@@ -1,0 +1,30 @@
+---
+categories:
+- Open publishing
+- Free Culture
+date: 2022-03-02
+description: Cycle of seminars on open publication of the Final Degree Project and
+  the use of free materials in it.
+image: /images/logo-ofilibre-2025.jpg
+slug: 2022-02-tfg-abierto
+tags:
+- TFG
+title: 'Seminars: Open TFG'
+---
+
+OfiLibre is going to hold a small cycle of seminars on open publication of the Final Degree Project and the use of free materials in it. At the Rey Juan Carlos University, you can publish your Final Degree Project (the thesis and other results you have obtained) in open access. What does this mean? Why might you be interested? How to do it, if you find it interesting? Additionally, you can also use free materials (photos, graphics, or even videos or programs) for your FDP, and perhaps include them in its thesis. Under what conditions can you include free materials? Where can you find them? How do you reference the original author?
+
+## Seminars
+
+To answer these and other questions related to the open publication of FDPs and the reuse of free materials in your works (including the FDP), OfiLibre offers the following seminars:
+
+* [Reusing free materials](/en/blog/2022-03-09-materiales-libres/): March 9, 2022, 13:00 - 14:30, at the Móstoles Campus
+* [Open publication](/en/blog/2022-03-23-tfg-abierto/): March 23, 2022, 13:00 - 14:30, at the Vicalvaro Campus
+
+Both events will be offered in a hybrid format (in person at the indicated campuses, and remotely through a mechanism that will be announced in due course). Check the announcement of each seminar for more details.
+
+## Summary of data
+
+* Who is it aimed at: all students
+* Format: hybrid (in person at the indicated campuses, and via video conference for remote attendance)
+* Attendees will receive a certificate of Academic Recognition Credits (RAC)

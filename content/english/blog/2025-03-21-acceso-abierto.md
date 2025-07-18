@@ -1,0 +1,29 @@
+---
+categories:
+- Open Data
+- Free Culture
+date: '2025-03-21T08:00:00'
+description: Discover what it means for a resource to be open and how its free and
+  unrestricted access drives the dissemination of knowledge, cooperation, and reuse
+  of information in different areas such as science, software, and data.
+image: /images/logo-ofilibre-2025.jpg
+slug: acceso-abierto
+tags:
+title: What does it mean for something to be open?
+---
+
+It means that access to resources is free and unrestricted, without legal or technical restrictions.
+
+Benefits of open publishing:
+
+*    Greater dissemination and global reach of projects and resources
+*    Generates greater accessibility to resources  
+*    Facilitates cooperation and the free sharing of knowledge  
+*    Allows for the adaptation, reuse, and improvement of resources.    
+
+
+Examples:
+
+*    Scientific articles: Publications available at no cost.
+*    Software: Programs that can be downloaded and used freely.
+*    Data: Datasets accessible for analysis and studies.

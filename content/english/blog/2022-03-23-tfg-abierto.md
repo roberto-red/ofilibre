@@ -1,0 +1,35 @@
+---
+categories:
+- Open publishing
+- Free Culture
+- University
+date: 2022-03-21
+description: Seminar on open publishing of the TFG, part of the seminar cycle on open
+  publishing of the Final Degree Project and the use of free materials in it.
+image: images/Cuadrado_TFG_en_abierto.jpeg
+slug: 2022-03-23-tfg-abierto
+tags:
+- TFG
+title: 'Open TFG: Publication'
+---
+
+Seminar on open publication of the Bachelor's Thesis, part of the seminar series on open publication of final degree projects and the use of free materials within them.  
+What does this mean? Why might you be interested? How to do it, if you find it interesting?  
+We will answer these and other questions.
+
+# Registration
+
+* [Event page](https://eventos.urjc.es/79128/detail/tfgs-en-abierto_-publicacion.html?private=416e1f340a642335cb5a)
+
+## Summary of data
+
+* When: March 23, 2022, 13:00-14:30
+* Where: Vicálvaro Campus, Management Building, room G112 (in-person) and [Teams channel](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTc5NDFjMDgtZDAyMy00N2RlLWE1NjEtMDVjMzJlNDgxYzE5%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
+* Who is it for: all students
+* Format: hybrid (in-person at the indicated campuses, and videoconference for remote attendance)
+* Attendees will receive a certificate of Academic Recognition Credits (RAC)
+
+# Materials
+
+* Slides used in the presentation ([PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp))
+* Guide: [Open publication of the final degree project](/en/guias/tfg-abierto/).

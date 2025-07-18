@@ -9,9 +9,9 @@ slides:
 
 extras:
   - name: Presentación utilizada en el taller sobre publicación abierta que tuvo lugar en los Talleres de Innovación Educativa y Cultura Abierta, URJC campus de Alcorcón, 25 de noviembre de 2019.
-    url: /pres/publicacion-abierta/Publicacion_Abierta-jjii-2019.pdf
+    url: /transpas/publicacion-abierta/Publicacion_Abierta-jjii-2019.pdf
   - name: Ficha del taller sobre publicación abierta que tuvo lugar en los Talleres de Innovación Educativa y Cultura Abierta, URJC campus de Alcorcón, 25 de noviembre de 2019.
-    url: /pres/publicacion-abierta/publicacion-abierta-jornadas-innovacion-2019.pdf
+    url: /transpas/publicacion-abierta/publicacion-abierta-jornadas-innovacion-2019.pdf
 
 type: pres
 categories:

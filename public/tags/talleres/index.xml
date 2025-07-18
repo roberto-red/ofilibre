@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talleres on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/talleres/</link>
+    <description>Recent content in Talleres on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/talleres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción a A-Frame: Realidad virtual en el navegador</title>
+      <link>http://localhost:1313/blog/taller-aframe/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/taller-aframe/</guid>
+      <description>A-Frame es una tecnología diseñada para facilitar el uso de WebVR (realidad virtual en el navegador).</description>
+    </item>
+    <item>
+      <title>esLibre 2020 se celebrará en la URJC</title>
+      <link>http://localhost:1313/blog/eslibre-2020/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/eslibre-2020/</guid>
+      <description>La edición de 2020 del congreso esLibre, sobre tecnologías libres, se celebrará en la URJC, los días 5 y 6 de junio.</description>
+    </item>
+  </channel>
+</rss>

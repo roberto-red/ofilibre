@@ -1,0 +1,25 @@
+---
+categories:
+- Open publishing
+- Calls
+date: 2023-04-14 11:02:06.752000+00:00
+description: The call for support for the creation and maintenance of academic journals
+  at URJC is launched. Applications can be submitted throughout the year.
+image: /images/mini-tevistas.png
+slug: convocatoria-revistas
+tags:
+- open_access_publication
+- magazines
+title: Academic Journals of the URJC ¡Welcome!
+---
+
+The Vicerrectorado of Community Campus, Culture and Sports promotes the creation of a platform for the URJC to publish academic journals. On this platform, journals promoted by university staff will be published in digital format and open access. To promote the creation and maintenance of these journals, a regular call is also published, which can be submitted by both existing journals and projects aiming to edit new journals. The platform and program are managed by the [Publication Service of the University Library Area](https://www.urjc.es/burjc/investiga/publicar), with the support of OfiLibre.
+
+The call for 2023 is available on the [University's electronic bulletin board](https://sede.urjc.es/tablon-oficial).
+
+If you have questions or suggestions, do not hesitate to write to us at ofilibre@urjc.es
+
+More information:
+
+* [URJC Journal Portal](https://www.urjc.es/images/Biblioteca/portal_revistas/index.html)
+* Call for support for journal publication: [on the notice board](https://sede.urjc.es/tablon-oficial/anuncio/9739/), [document with the full text of the call](/documentos/convocatoria-revistas-2023.pdf).

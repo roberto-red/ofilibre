@@ -1,0 +1,31 @@
+---
+categories:
+- Free Software
+date: 2021-11-11
+description: Micael Gallego and Sergio Murillo teach you some open-source solutions
+  for video conferencing
+image: images/blog/charla-webrtc/logo-webrtc.png
+slug: videoconferencia-web
+tags:
+- Talks
+title: Web videconference
+---
+
+In a world where we've become accustomed to using video conferencing solutions, it's important to know about the open source alternatives available to us. Even better when these solutions follow the same standard.
+
+To introduce some of these solutions and standards, OfiLibre and the [Free Knowledge Council](https://conciliodelolibre.gitlab.io/) are pleased to announce a talk about the open WebRTC standard and open source solutions that implement it for video conferencing, on Friday November 26th from 1pm to 2pm.
+
+The talk will feature two speakers with deep knowledge of the challenges in this type of applications:
+
+* Micael Gallego, professor at URJC and lead of the [OpenVidu](https://openvidu.io/) project, an open source solution based on [WebRTC](https://webrtc.org/) that's specially designed to easily embed video conferencing into any modern web application through libraries for the most popular web development frameworks.
+
+* Sergio Murillo, CTO of Millicast, Media Server Lead at CoSMo Software and founder of [Medooze](https://github.com/medooze), an open source media server implementing the WebRTC standard. Sergio is a WebRTC expert with detailed knowledge of the standard's intricacies. He also participates in developing the new WHIP standard at IETF.
+
+If you want to learn about open source solutions you can use for your video conferences, along with details about how they work and future developments, join us for this talk. More information is available on the [event page](https://eventos.urjc.es/74373/detail/software-libre-para-videoconferencias.-seminarios-ofilibre.html).
+
+This is an activity organized by URJC's OfiLibre in collaboration with other university offices related to free knowledge, as part of the activities of the [Free Knowledge Council](http://conciliodelolibre.gitlab.io/).
+
+The presentation will be held via video conference in the [Council Room of the University of Zaragoza's BigBlueButton](https://videoconferencia.unizar.es/b/jes-urr-v2p). All you need to join is a web browser. 
+[BigBlueButton](https://bigbluebutton.org) is another video conferencing solution that's also distributed as free software.
+
+[^1]: The WebRTC logo was obtained from [here](https://es.m.wikipedia.org/wiki/Archivo:WebRTC_Logo.svg) and is distributed under a BSD license.

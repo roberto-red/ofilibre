@@ -1,0 +1,65 @@
+---
+categories:
+- Open publishing
+- University
+date: 2021-06-22
+description: Rey Juan Carlos University signs with Wiley publisher the license for
+  access to its articles and open publication in its journals.
+image: images/blog/acuerdo-editorial-wiley/acuerdo-square.png
+slug: acuerdo-editorial-wiley
+tags:
+- Wiley
+- Transformative Agreement
+- Open publishing
+title: Transformative agreement with publisher Wiley for open access publishing
+---
+
+According to the Vicerrectorado de Extensión Universitaria, the URJC has signed a new agreement with the publisher Wiley, which will allow authors from the URJC to read and publish open access articles.
+
+This agreement is part of a series of "transformative agreements" reached by the [CRUE](https://www.crue.org/) and the [CSIC](https://www.csic.es/) with four major scientific publishers ([ACS](https://pubs.acs.org/page/4authors/editorial-offices.html), [Elsevier](https://www.elsevier.com/es-es), [Springer](https://www.springer.com/gp), [Wiley](https://www.wiley.com/en-es)) with the goal of promoting a new Open Science environment in Spain. It aims to replace the current "pay to read" model with a "pay to read and publish open access" model.
+
+The previous license expired on December 31, 2020. The new license with Wiley was signed by the URJC on April 28, 2021, and agreements with Elsevier, Springer, and ACS will soon be closed.
+
+### Characteristics of the new license
+
+The URJC's subscription to the Wiley journal platform for 2021 has the following characteristics:
+
+   • 30% of the license fee covers access to consulting, reading, and downloading articles from Wiley's journals subscribed to by the Library, under the same conditions as in previous years.
+    
+   • The remaining 70% of the license fee is allocated to financing open access publication in Wiley's hybrid journals ([list of hybrid journal titles](https://www.urjc.es/images/Biblioteca/Servicios/AccesoAbierto/LIST_only_hybrid_titles_2021.xlsx)) of articles by URJC authors, subject to the following criteria:
+    
+   1. By Wiley:
+       
+       - Articles approved for publication between January 1 and December 31, 2021, will be funded.
+       - The author's affiliation must correspond to the Universidad Rey Juan Carlos. The author must select the corresponding institution from the standardized list on Wiley's [Author Services](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/crue-csic-agreement.html) platform when submitting the article for publication.
+       - Articles must be published under a [Creative Commons license](https://creativecommons.org/licenses/?lang=es_ES). The procedure can be seen in more detail on Wiley's Author Services platform in the [Open access agreement for Spanish authors](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/crue-csic-agreement.html) section.
+       - Once the article is approved for publication, the library staff responsible for managing the transformative agreements with publishers must approve or reject the funding of the article, verifying that the author's affiliation corresponds to the Universidad Rey Juan Carlos.
+       - The approval or rejection will be automatically notified to the author.
+    
+2. By the URJC:
+
+    The approval of open access publication funding will be carried out according to criteria established by the University's Management Council:
+    - The affiliation to the URJC must be explicitly stated, and the correspondence email must be the corporate account.
+    - The author must have a full-time contractual relationship with the Universidad Rey Juan Carlos.
+    - One article per researcher (corresponding author) will be authorized, and the order of request will be respected.
+    - APCs for publications in Q1 and Q2 positions in the different databases established in the CNEAI research evaluation criteria will be authorized.
+    - The deposit will be made in the BURJC DIGITAL, the URJC's institutional repository.
+
+_______________________________________________________
+
+### More information
+
+• Guide "[How to publish open access. Transformative Agreements](https://urjc.libguides.com/publicarabierto/wiley)"
+
+• [CRUE-CSIC press release](https://www.crue.org/2021/04/crue-csic-wiley-acuerdo-acceso-abierto-en-espana/)
+
+• [Wiley: promotional video of the CRUE-CSIC OA agreement](https://watch.wibbitz.com/?id=b114753f773894645983f93db622cd3a1&cl=#000000&cl4=)  
+                2021 CRUE-CSIC OA Guide for Spanish Researchers
+
+• [Wiley's Transitional Agreements](https://www.wiley.com/network/archive/wiley-s-transitional-agreements-a-summary)
+• [Wiley author services](https://authorservices.wiley.com/home.html) (author services page)
+
+• [Frequently Asked Questions](https://www.urjc.es/images/Biblioteca/Servicios/AccesoAbierto/CRUE-CSIC_ES_Preguntas_frecuentes_sobre_las_cuentas_Wiley_Open_Access.pdf)
+
+
+For more information, contact: [biblioteca.proyectoeciencia@urjc.es](mailto:biblioteca.proyectoeciencia@urjc.es)

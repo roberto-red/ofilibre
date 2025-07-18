@@ -1,0 +1,24 @@
+---
+categories:
+- Open Subjects
+- Calls
+date: 2024-09-02
+description: Rey Juan Carlos University has once again published its call for recognition
+  of the effort to publish open educational materials. This presentation will explain
+  the main characteristics of the call.
+image: /images/logo-urjc-square.png
+tags:
+- URJC
+- Open Subjects
+- Open Access
+- Calls for Proposals
+title: Presentation of Open Subjects
+---
+
+The next Wednesday, September 4, we will have a video conference to present the 2024-2025 call for recognition of open access course publication. As in previous courses, this call aims to promote the publication of open access teaching materials, through certain incentives and recognition to teaching staff who have produced and use them in their classes.
+
+* Video conference presentation: Wednesday, September 4, 11:00, [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYxYjliNDUtZTZhNS00YmIyLWI5NTgtNmRhZDdlOWQ5ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
+
+* [Call details](/en/guias/convocatoria-asignaturas-abierto/), including link to the official text, and information about the video conference presentation.
+
+* Examples of open access courses recognized in previous calls: [open access course area of the University's virtual classroom](https://online.urjc.es/en/future-students/open-access-courses).

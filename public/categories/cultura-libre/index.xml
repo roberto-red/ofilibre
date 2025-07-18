@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultura Libre on OfiLibre URJC</title>
+    <link>http://localhost:1313/categories/cultura-libre/</link>
+    <description>Recent content in Cultura Libre on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 28 Apr 2025 09:29:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cultura-libre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infografías de Cultura y Software Libre</title>
+      <link>http://localhost:1313/blog/2025-04-28-infograf%C3%ADas-de-cultura-y-software-libre/</link>
+      <pubDate>Mon, 28 Apr 2025 09:29:58 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025-04-28-infograf%C3%ADas-de-cultura-y-software-libre/</guid>
+      <description>Infografías creadas para la caseta y las IV Jornadas de Cultura Libre</description>
+    </item>
+    <item>
+      <title>Contenido de las IV Jornadas de Cultura Libre</title>
+      <link>http://localhost:1313/blog/contenidos-iv-jornadas/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/contenidos-iv-jornadas/</guid>
+      <description>Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos de las presentaciones, así como a los materiales utilizados en las mismas.</description>
+    </item>
+    <item>
+      <title>Pósters de las IV Jornadas de Cultura Libre</title>
+      <link>http://localhost:1313/blog/posters-iv-jornadas/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posters-iv-jornadas/</guid>
+      <description>Aquí se encuentran todos los pósters que se presentaron en las IV Jornadas de Cultura Libre.</description>
+    </item>
+    <item>
+      <title>Grabación de la sesión con los candidatos a Rector</title>
+      <link>http://localhost:1313/blog/grabacion-sesion-con-los-candidatos-a-rector-iv-jornadas-de-cultura-libre/</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/grabacion-sesion-con-los-candidatos-a-rector-iv-jornadas-de-cultura-libre/</guid>
+      <description>¿Te has perdido la charla con los candidatos a rector de la URJC que tuvimos esta mañana en las IV jornadas de Cultura libre?</description>
+    </item>
+    <item>
+      <title>¿Qué es la Cultura Libre?</title>
+      <link>http://localhost:1313/blog/cultura-libre/</link>
+      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cultura-libre/</guid>
+      <description>Es un movimiento que promueve la libertad para distribuir y modificar obras creativas, científicas y técnicas.</description>
+    </item>
+    <item>
+      <title>¿Qué significa que algo esté en abierto?</title>
+      <link>http://localhost:1313/blog/acceso-abierto/</link>
+      <pubDate>Fri, 21 Mar 2025 08:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/acceso-abierto/</guid>
+      <description>Quiere decir que su acceso a recursos es libre y gratuito, sin restricciones legales o técnicas.</description>
+    </item>
+    <item>
+      <title>Pósters de las III Jornadas de Cultura Libre</title>
+      <link>http://localhost:1313/blog/posters-iii-jornadas/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posters-iii-jornadas/</guid>
+      <description>Aquí se encuentran todos los pósters que se presentaron en las III Jornadas de Cultura Libre.</description>
+    </item>
+    <item>
+      <title>¡Novedades de diciembre!</title>
+      <link>http://localhost:1313/blog/2024-12-18-newsletter-diciembre/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-12-18-newsletter-diciembre/</guid>
+      <description>¡Hola, comunidad URJC! Arrancamos el curso con emocionantes novedades en OfiLibre.</description>
+    </item>
+    <item>
+      <title>Premios de promoción cultural</title>
+      <link>http://localhost:1313/blog/2024-12-18-premios-promocion-cultural-2024/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-12-18-premios-promocion-cultural-2024/</guid>
+      <description>La URJC fomenta la cultura abierta con concursos culturales bajo licencias libres</description>
+    </item>
+    <item>
+      <title>Jornadas de Cultura Libre 2025</title>
+      <link>http://localhost:1313/blog/jornadas-de-cultura-libre-2025/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/jornadas-de-cultura-libre-2025/</guid>
+      <description>¡La cultura libre regresa con fuerza a la Universidad Rey Juan Carlos!</description>
+    </item>
+    <item>
+      <title>¿Dónde está la licencia?</title>
+      <link>http://localhost:1313/blog/2024-09-18-donde-esta-licencia/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-09-18-donde-esta-licencia/</guid>
+      <description>Te ofrecemos el vídeo ¿Dónde está la licencia?, para ayudar a identificar licencias de acceso abierto en revistas de investigación.</description>
+    </item>
+    <item>
+      <title>Resumen de las III Jornadas de Cultura Libre 2024</title>
+      <link>http://localhost:1313/blog/resumen-iii-jornadas/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/resumen-iii-jornadas/</guid>
+      <description>Nuestras III Jornadas de Cultura Libre han sido todo un éxito.</description>
+    </item>
+    <item>
+      <title>Contenidos de las III Jornadas de Cultura Libre</title>
+      <link>http://localhost:1313/blog/programa-iii-jornadas/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/programa-iii-jornadas/</guid>
+      <description>Programa de las Jornadas, incluyendo enlaces a los materiales utilizados en las presentaciones y talleres.</description>
+    </item>
+    <item>
+      <title>Pósters de las II Jornadas de Cultura Libre</title>
+      <link>http://localhost:1313/blog/posters-ii-jornadas/</link>
+      <pubDate>Wed, 05 Jul 2023 12:18:07 +0000</pubDate>
+      <guid>http://localhost:1313/blog/posters-ii-jornadas/</guid>
+      <description>Aquí se encuentran todos los posters que se presentaron en las II Jornadas de Cultura Libre.</description>
+    </item>
+    <item>
+      <title>Contenidos de las II Jornadas</title>
+      <link>http://localhost:1313/blog/jornadas-programa/</link>
+      <pubDate>Thu, 04 May 2023 15:46:57 +0000</pubDate>
+      <guid>http://localhost:1313/blog/jornadas-programa/</guid>
+      <description>A continucación encontraréis el programa con los contenidos de cada ponente y su correspondiente enlace.</description>
+    </item>
+    <item>
+      <title>Resumen de las II Jornadas de Cultura Libre 2023</title>
+      <link>http://localhost:1313/blog/resumen-segundas-jornadas-2023/</link>
+      <pubDate>Thu, 04 May 2023 13:49:52 +0000</pubDate>
+      <guid>http://localhost:1313/blog/resumen-segundas-jornadas-2023/</guid>
+      <description>.Los pasados 29 y 30 de Marzo de 2023 celebramos en el Edificio de Gestión de la URJC, las II Jornadas de Cultura Libre: un evento muy especial para nuestra OfiLibre, donde profesionales, estudiantes, y personas dedicadas a la investigación y creación nos unimos en pos de un objetivo común: fomentar la Cultura Libre.</description>
+    </item>
+    <item>
+      <title>Charla invitada: Houda Elmimouni</title>
+      <link>http://localhost:1313/blog/charla-invitada-houda-elmimouni/</link>
+      <pubDate>Tue, 18 Apr 2023 10:11:29 +0000</pubDate>
+      <guid>http://localhost:1313/blog/charla-invitada-houda-elmimouni/</guid>
+      <description>El lunes 24 de abril a las 13:00 en el Campus de Fuenlabrada tendremos la oportunidad de conocer en persona a la Dra.</description>
+    </item>
+    <item>
+      <title>Jornadas de Cultura Libre 2023</title>
+      <link>http://localhost:1313/blog/jornadas-cultura-libre-2/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/jornadas-cultura-libre-2/</guid>
+      <description>La cultura libre está más cerca de lo que creemos. Está tan cerca que en marzo de 2023 volveremos a tener en la URJC las Jornadas de Cultura libre.</description>
+    </item>
+    <item>
+      <title>La OfiLibre de la URJC: un modelo para fomentar la cultura libre en la Universidad</title>
+      <link>http://localhost:1313/blog/2022-06-25-presentacion-eslibre/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-06-25-presentacion-eslibre/</guid>
+      <description>Presentación sobre el modelo de la OfiLibre de la URJC, realizado en esLibre 2022.</description>
+    </item>
+    <item>
+      <title>El mundo del conocimiento y la cultura libres</title>
+      <link>http://localhost:1313/pres/curso-cultura-libre/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pres/curso-cultura-libre/</guid>
+      <description>Materiales del curso sobre conocimiento y cultura libres, parte del Plan de Formación del PDI de la URJC.</description>
+    </item>
+    <item>
+      <title>Ciencia Abierta</title>
+      <link>http://localhost:1313/pres/ciencia-abierta/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pres/ciencia-abierta/</guid>
+      <description>Presentación sobre ciencia abierta.&#xA;Presentaciones anteriores sobre este mismo tema:</description>
+    </item>
+    <item>
+      <title>Resultados Jornadas Cultura Libre</title>
+      <link>http://localhost:1313/blog/2022-05-19-jornadas-resultado/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-05-19-jornadas-resultado/</guid>
+      <description>El pasado 30 de marzo tuvieron lugar las Primeras Jornadas de Cultura Libre de la URJC.</description>
+    </item>
+    <item>
+      <title>Primeras Jornadas de Cultura Libre</title>
+      <link>http://localhost:1313/blog/jornadas-cultura-libre/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/jornadas-cultura-libre/</guid>
+      <description>[ Después de la jornada hemos editado esta noticia incorporando los materiales que se generaron en ella, para que sirva como archivo ]</description>
+    </item>
+    <item>
+      <title>TFGs en abierto: Publicación</title>
+      <link>http://localhost:1313/blog/2022-03-23-tfg-abierto/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-03-23-tfg-abierto/</guid>
+      <description>Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.</description>
+    </item>
+    <item>
+      <title>Seminarios: TFGs en abierto</title>
+      <link>http://localhost:1313/blog/2022-02-tfg-abierto/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-02-tfg-abierto/</guid>
+      <description>La OfiLibre va a realizar un pequeño ciclo de seminarios sobre la publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.</description>
+    </item>
+    <item>
+      <title>TFGs en abierto: Reutilización de materiales</title>
+      <link>http://localhost:1313/blog/2022-03-09-materiales-libres/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-03-09-materiales-libres/</guid>
+      <description>Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.</description>
+    </item>
+    <item>
+      <title>Nueva incorporación a la OfiLibre</title>
+      <link>http://localhost:1313/blog/ofilibre-nueva-integrante/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/ofilibre-nueva-integrante/</guid>
+      <description>Florencia Claes, profesora de Comunicación Multimedia de la URJC y Presidenta de Wikimedia España se suma al equipo de OfiLibre.</description>
+    </item>
+    <item>
+      <title>Congreso esLibre 2021</title>
+      <link>http://localhost:1313/blog/eslibre-2021/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/eslibre-2021/</guid>
+      <description>Los días 25 y 26 de junio ha tenido lugar el Congreso esLibre 2021, un encuentro de personas interesadas en las tecnologías y cultura libres, enfocado a compartir conocimiento y experiencia alrededor de las mismas.</description>
+    </item>
+    <item>
+      <title>El Concilio de lo Libre</title>
+      <link>http://localhost:1313/blog/el-concilio-de-lo-libre/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/el-concilio-de-lo-libre/</guid>
+      <description>&amp;ldquo;Compartir el conocimiento es la clave de una sociedad libre y justa.</description>
+    </item>
+    <item>
+      <title>Obras libres: uso y disfrute</title>
+      <link>http://localhost:1313/blog/trabajos-obras-libres-2/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/trabajos-obras-libres-2/</guid>
+      <description>Hay muchos materiales libres disponibles en Internet, que puedes reutilizar para tus trabajos, o en general para tu propias obras.</description>
+    </item>
+    <item>
+      <title>Free Music Archive</title>
+      <link>http://localhost:1313/blog/free-music-archive/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/free-music-archive/</guid>
+      <description>¿Conoces el proyecto Free Music Archive?&#xA;Se trata de un repositorio online dedicado a alojar música libre.</description>
+    </item>
+    <item>
+      <title>Reglamento de Acceso y Cultura Abierta</title>
+      <link>http://localhost:1313/blog/reglamento-acceso-abierto/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/reglamento-acceso-abierto/</guid>
+      <description>El Consejo de Gobierno de la Universidad Rey Juan Carlos aprobó, en su reunión del pasado 18 de diciembre, el nuevo Reglamento de Acceso y Cultura Abierta.</description>
+    </item>
+    <item>
+      <title>Seminarios OfiLibre. FPGAs libres con Obijuan</title>
+      <link>http://localhost:1313/blog/seminario-fpgas-obijuan/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/seminario-fpgas-obijuan/</guid>
+      <description>Demo FPGAs:&#xA;Presentación sobre FPGAs:&#xA;Juan González, el popular Obijuan, nos va a mostrar algunos principios básicos de electrónica digital, de forma práctica, con una de las plataformas más avanzadas: las FPGAs libres, que están cambiando completamente el mundo de la computación (tanto hardware como software), dado que permiten &amp;ldquo;sintetizar&amp;rdquo; circuitos digitales a partir de su descripción.</description>
+    </item>
+    <item>
+      <title>Seminarios OfiLibre. Mis trabajos y las obras libres: una buena pareja</title>
+      <link>http://localhost:1313/blog/trabajos-obras-libres/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/trabajos-obras-libres/</guid>
+      <description>Cuando haces un trabajo para tus estudios (un ensayo en el que quieres incluir unas fotos, un video en el que te iría bien algún material gráfico, o una música de fondo, una presentación en la que quieres incluir algún gráfico), ahorras mucho tiempo si reutlizas materiales que encuentras en Internet.</description>
+    </item>
+    <item>
+      <title>Definición de obra abierta (mini-presentación)</title>
+      <link>http://localhost:1313/pres/mini-obra-abierta/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pres/mini-obra-abierta/</guid>
+      <description>Definiciones de conocimiento abierto, obra cultural libre y software libre (mini-presentación, sólo incluye enlaces a las definiciones más comúnmente aceptadas).</description>
+    </item>
+    <item>
+      <title>Presentación de la OfiLibre</title>
+      <link>http://localhost:1313/pres/ofilibre/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pres/ofilibre/</guid>
+      <description>Presentación de la OfiLibre, realizada en varios campus.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+---
+categories:
+- free culture
+date: 2024-12-18
+description: The URJC promotes open culture with cultural contests under free licenses.
+image: /images/logo-ofilibre-2025.jpg
+tags:
+title: Cultural Promotion Awards
+---
+
+**The URJC promotes open culture with cultural contests under free licenses**
+
+Móstoles, December 3, 2024 – The Rey Juan Carlos University (URJC) held the award ceremony for cultural promotion, an event that values the creativity and talent of its university community. This year, for the first time, all awarded works will be published under **free licenses (Creative Commons BY-SA)**, allowing their open dissemination and reuse, in line with the objectives of the **OfiLibre**.
+
+<div align="center">
+<img src="/images/by-sa.png">
+</div>
+<br></br>
+
+The event, presided over by Mercedes del Hoyo Hurtado, Vice-Rector of Community, Campus, Culture, and Sports, took place in the Degree Hall of the Departmental I, Móstoles Campus. In her words, she highlighted the university's commitment to promoting culture beyond the classrooms: _“Creating and contributing outside the classrooms \[...\] and giving value to creative capacity”_.
+
+This year, two new categories were added, with participants in:
+
+*   **Photography**.
+*   **Short stories**, referencing impactful news.
+*   **Visual arts**, with tributes to Dalí's year.
+*   **Essays** on how to address AI from a humanistic approach.
+*   **Audiovisual pieces**, inspired by last year's winning stories.
+
+The jury, represented by Professor Pablo Prieto, emphasized the importance of the contest's bases, which involved the entire university community, from students to administrative and teaching staff. _“It's the first time a university organizes a contest with these characteristics, and it's a pride that the URJC leads this path towards open culture”_, he stated. Moreover, from OfiLibre, we highlight the open publication of these projects, which use free licenses as established by the bases, allowing the awarded works to be shared openly and serve as inspiration for future initiatives.
+
+From OfiLibre, we applaud this initiative as a key step towards raising awareness about free culture in the university. This approach not only boosts creativity but also reflects the URJC's commitment to making knowledge more accessible and promoting open collaboration, setting a precedent among Spanish educational institutions.
+
+With this edition, the URJC once again demonstrates its leadership in promoting culture and knowledge, encouraging more members of its university community to participate in future editions and join the movement for an open and accessible culture for all.
+
+**OfiLibre**
+Office 011, ground floor, Rectorate building. C/ Tulipán s/n, 28933 Móstoles (Madrid)
+**Email:** [ofilibre@urjc.es](mailto:ofilibre@urjc.es)
+**Web:** [https://ofilibre.urjc.es](https://ofilibre.urjc.es)

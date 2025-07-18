@@ -1,0 +1,27 @@
+---
+categories:
+- Free Culture
+date: 2023-04-18 10:11:29.515000+00:00
+description: People who share knowledge. Guest talk Houda Elmimouni
+image: /images/captura-de-pantalla-2023-04-17-a-las-13.13.49.png
+slug: Charla invitada Houda Elmimouni
+tags:
+- wikipedia
+- talk
+title: 'Guest talk: Houda Elmimouni'
+---
+
+On Monday, April 24 at 13:00 at the Fuenlabrada Campus, we will have the opportunity to meet in person [Dr. Houda Elmimouni](https://www.houdaelmimouni.com/), who has researched how readers assign trust to English Wikipedia articles and the strategies they use to evaluate the credibility of the presented information.
+We consider this meeting to be of interest to anyone who researches or is attracted to understanding how to evaluate online information and generate trust in open collaboration systems.
+
+Dr. Houda Elmimouni is CI Fellow and Postdoc at Luddy SICE, Indiana University Bloomington, USA, and in her talk, she will present the results of her research:
+
+Houda Elmimouni, Andrea Forte, and Jonathan Morgan. 2022. [Why People Trust Wikipedia Articles: Credibility Assessment Strategies Used by Readers](https://dl.acm.org/doi/pdf/10.1145/3555051.3555052). In Proceedings of the 18th International Symposium on Open Collaboration (OpenSym ’22). Association for Computing Machinery, New York, NY, USA, Article 9, 1–10. Best Paper Award (Top 1%)
+
+From [OfiLibre](https://ofilibre.urjc.es/) and the [SoftDev High-Performance Research Group](https://gestion2.urjc.es/pdi/grupos-investigacion/softdev) we invite you to participate in this talk that we consider very interesting!!!
+
+* Day: Monday, April 24, 2023
+* Time: 13:00 to 14:00
+* Place: Seminar 008, Departmental 1, Fuenlabrada Campus
+* Talk in ENGLISH
+* No registration required. We will have a live broadcast on [TEAMS at this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjdmZDkxMTItMzc0My00MTBiLWEwMDUtYzQ5MWE3MDM0NDAx%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%224b95d670-09cc-412f-8199-23774cac862f%22%7d)

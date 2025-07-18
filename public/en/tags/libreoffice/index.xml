@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LibreOffice on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/libreoffice/</link>
+    <description>Recent content in LibreOffice on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to generate documents using templates with OfiLibre</title>
+      <link>http://localhost:1313/en/blog/generar-documentos-libreoffice/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/generar-documentos-libreoffice/</guid>
+      <description>Sometimes, we may need to write a generic document to send to different people, such as a letter, email, or certificate.</description>
+    </item>
+  </channel>
+</rss>

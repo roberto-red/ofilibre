@@ -1,0 +1,45 @@
+---
+categories:
+- University
+date: 2024-11-27
+description: During this course, we have a new and exceptionally large group of Scholars
+image: /images/logo-ofilibre-2025.jpg
+tags:
+title: We're starting the course with scholarship holders!
+---
+
+From its origins, OfiLibre has committed to playing a significant formative role, offering Training Scholarships to open its doors to students interested in free culture. This program not only reinforces our commitment to universal access to knowledge but also recognizes the key role of new generations in transforming the academic and social landscape.
+
+During this course, we have a new and exceptionally large group of Scholars, who, in the coming months, will contribute their grain of sand and new perspectives to make free culture reach every corner of the Rey Juan Carlos University. This year, they will join the team:
+
+*   Helena Rodríguez Castellanos and Mariam Ben-Taieb Ibn-Taieb in Communication.
+*   Pablo Rubio Ramos, beneficiary of the Editorial Training Scholarship.
+*   David Huertas Salas and José Jesús Durán Quintana in IT Support.
+*   Neiser Aguayo Linares as a Design and Audiovisual Creation Scholar.
+
+We are confident that their dedication and creativity will allow us to continue advancing with renewed energy, consolidating OfiLibre's mission as a space for training and growth in the field of free culture.
+
+![Scholars of the 2024-2025 course](/images/blog/becarios-2024.jpg)
+
+We welcome you to the team! We are eager to see all the ideas and projects we will develop together in the coming months.
+
+### But... where is OfiLibre?
+
+If you want to know more about our work or visit us:
+
+*   **Office:** Room 011, Rectorate Building, Móstoles Campus.
+    
+*   **Web:** [https://ofilibre.urjc.es/](https://ofilibre.urjc.es/)  
+    
+*   **Twitter:** [@OfiLibreURJC](https://x.com/OfiLibreURJC)  
+    
+*   **Mastodon:** [@OfiLibreURJC@floss.social](https://floss.social/@ofilibreurjc)
+    
+*   **Bluesky:** [@ofilibre.bsky.social](https://bsky.app/profile/ofilibre.bsky.social)  
+    
+*   **Telegram Channel:** [https://t.me/ofilibreurjc](https://t.me/ofilibreurjc)  
+    
+*   **Instagram:** [@ofilibreurjc](https://www.instagram.com/ofilibreurjc/)  
+    
+
+We invite you to follow us on our social media and join the conversation about free culture and knowledge!

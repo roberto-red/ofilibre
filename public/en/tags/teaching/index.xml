@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/tags/teaching/</link>
+    <description>Recent content in Teaching on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iniciativa de OfiLibre para la recopilación de materiales libres de la URJC</title>
+      <link>http://localhost:1313/en/blog/catalogo-materiales-libres/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/catalogo-materiales-libres/</guid>
+      <description>In this context, OfiLibre has decided to create a catalog of free materials used in URJC courses.</description>
+    </item>
+  </channel>
+</rss>

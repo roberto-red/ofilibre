@@ -1,0 +1,35 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-04-08
+image: /images/fichas/swiprolog/logo.png
+installs:
+- kind: video
+  name: How to install Gimp 2.10.2
+  url: https://www.youtube.com/watch?v=OuBXSFSE2Ig
+licenses:
+- name: Simplified BSD license
+  url: https://es.wikipedia.org/wiki/Licencia_BSD
+myapps: true
+others:
+- kind: PDF
+  name: Prolog Tutorial from the University of Málaga
+  url: http://www.lcc.uma.es/~pacog/apuntes/pd/guia.pdf
+screenshots:
+- file: captura.png
+  name: SWI Prolog
+source: http://www.swi-prolog.org/build/
+title: SWIProlog
+tutorials:
+- name: Official Documentation
+  url: http://www.swi-prolog.org/pldoc/doc_for?object=root
+- kind: video
+  name: Prolog Tutorial
+  url: https://www.youtube.com/playlist?list=PLEJXowNB4kPy3_qhGksOO8ch_Di7T8_9E
+type: fichas
+website: http://www.swi-prolog.org/
+website_es:
+---
+
+SWI-Prolog is an open-source implementation of the Prolog programming language. SWI-Prolog features a rich set of characteristics, libraries (including its own GUI library, XPCE), tools (including an IDE) and extensive documentation. SWI-Prolog runs on Unix, Windows, and Mac platforms.

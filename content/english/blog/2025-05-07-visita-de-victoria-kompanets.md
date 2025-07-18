@@ -1,17 +1,17 @@
 ---
-title: "OfiLibre receives LUT University"
-date: 2025-05-06
-description: "LUT University (Finland) visits OfiLibre"
-image: /images/blog/visita-de-victoria-kompanets/diseño-sin-título-3.png
 categories:
-    - Universidad
+- University
+date: 2025-05-06
+description: LUT University (Finland) visits OfiLibre
+image: /images/blog/visita-de-victoria-kompanets/diseño-sin-título-3.png
 tags:
+title: OfiLibre receives LUT University
 ---
 
-Este martes 6 de mayo de 2025 hemos tenido el placer de recibir en nuestra oficina a Victoria Kompanets, Funding Advisor, Research Services de LUT University (Finlandia), integrante de EULiST.
+This Tuesday, May 6, 2025, we had the pleasure of receiving Victoria Kompanets, Funding Advisor, Research Services at LUT University (Finland), member of EULiST, at our office.
 
-Durante su visita, en la que estuvieron presentes Jesús María González-Barahona y Florencia Claes, dialogamos sobre las diversas iniciativas impulsadas por la Oficina de Conocimiento y Cultura Libres (OfiLibre) de la Universidad Rey Juan Carlos. Entre los temas tratados, destacaron las jornadas y otras actividades orientadas a promover el acceso abierto, el software libre y la cultura libre. Estas iniciativas son fundamentales para fomentar un entorno académico y profesional más inclusivo y colaborativo, donde el conocimiento y los recursos estén disponibles para todos.
+During her visit, attended by Jesús María González-Barahona and Florencia Claes, we discussed the various initiatives driven by the OfiLibre Office of Knowledge and Free Culture of the Rey Juan Carlos University. Among the topics addressed, the open access, free software, and free culture promoting events and activities stood out. These initiatives are fundamental to fostering a more inclusive and collaborative academic and professional environment, where knowledge and resources are available to everyone.
 
-La visita de Victoria fue una excelente oportunidad para fortalecer los lazos entre nuestras instituciones y para aprender de su experiencia en el campo. Agradecemos profundamente a Victoria por su tiempo y por compartir sus valiosos conocimientos con nosotros. Nos entusiasman las posibilidades de cooperación que surgieron de esta reunión y esperamos continuar este valioso intercambio en el futuro próximo.
+Victoria's visit was an excellent opportunity to strengthen the bonds between our institutions and to learn from her experience in the field. We deeply thank Victoria for her time and for sharing her valuable knowledge with us. We are thrilled about the cooperation possibilities that emerged from this meeting and look forward to continuing this valuable exchange in the near future.
 
-![Imagen de tres personas sentadas alrededor de una mesa en una oficina. La persona a la izquierda lleva una chaqueta blanca y está escribiendo en un cuaderno. La persona en el centro sostiene una taza y tiene un termo sobre la mesa. La persona a la derecha está gesticulando con una mano mientras habla. Sobre la mesa hay varios objetos, incluyendo una caja de bombones, un par de gafas y algunos dispositivos electrónicos. En el fondo, hay pósteres, gráficos y estanterías con varios objetos.](/images/blog/visita-de-victoria-kompanets/diseño-sin-título-4.jpg "De izquierda a derecha, Victoria Kompanets, Florencia Claes y Jesús Mª González Barahona")
+![Image of three people sitting around a table in an office. The person on the left is wearing a white jacket and writing in a notebook. The person in the center is holding a cup and has a thermos on the table. The person on the right is gesticulating with one hand while speaking. On the table, there are several objects, including a box of chocolates, a pair of glasses, and some electronic devices. In the background, there are posters, graphs, and shelves with various objects.](/images/blog/visita-de-victoria-kompanets/diseño-sin-título-4.jpg "From left to right, Victoria Kompanets, Florencia Claes, and Jesús Mª González Barahona")

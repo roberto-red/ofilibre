@@ -1,0 +1,56 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-04-19
+image: /images/fichas/openoffice/logo.png
+installs:
+- name: How to Install OpenOffice
+  url: https://www.openoffice.org/download/common/instructions.html
+licenses:
+- name: LGPLv3
+  url: https://es.wikipedia.org/wiki/GNU_Lesser_General_Public_License
+myapps: true
+others:
+screenshots:
+- file: captura1.png
+  name: Gimp in operation (screenshot)
+- file: captura2.png
+  name: Gimp in operation (screenshot)
+- file: captura3.png
+  name: Gimp in operation (screenshot)
+- file: captura4.png
+  name: Gimp in operation (screenshot)
+- file: captura5.png
+  name: Gimp in operation (screenshot)
+- file: captura6.png
+  name: Gimp in operation (screenshot)
+source: http://www.openoffice.org/download/source/
+title: OpenOffice
+tutorials:
+- kind: video
+  name: Writer Tutorial
+  url: https://www.youtube.com/playlist?list=PLLLaU95AMQPqAgeXCjQgXawAPABR19U2k
+- kind: video
+  name: Calc Tutorial
+  url: https://www.youtube.com/playlist?list=PLGJdoR23n7rzhcAwusxmmL1tpaD-wy36t
+- kind: video
+  name: Impress Tutorial
+  url: https://www.youtube.com/playlist?list=PLULVVpt1gZKzr-BIhRLXTpb03YOFjdj-b
+- kind: video
+  name: Basic Tutorial
+  url: https://www.youtube.com/playlist?list=PLLLaU95AMQPrMifyMRgiwhqKA64g7Kiea
+- kind: video
+  name: Draw Tutorial
+  url: https://www.youtube.com/playlist?list=PLLFD3chPm6dk9qSpQKfagKnUOSfugSv10
+- kind: video
+  name: Math Tutorial
+  url: https://www.youtube.com/watch?v=Lq3_XVxc6iM&list=PLu5LXaMUM_E1VgEoqXBsu758fB8FDymts
+type: fichas
+website: https://www.openoffice.org/
+website_es: https://www.openoffice.org/es/
+---
+
+Apache OpenOffice is a free, open-source office suite that includes a word processor, spreadsheet, presentations, vector drawing tools, and a database.7 It supports numerous file formats, including the standard ISO/IEC OpenDocument format (ODF) as default, as well as other common formats, and focuses on maintaining compatibility with the OpenOffice XML standard, Microsoft's format, and supports over 110 languages, since February 2010.6 Apache OpenOffice is one of the successors of the OpenOffice.org project and integrates features from other office suites like IBM Lotus Symphony.
+
+The office suite is available for several platforms, such as Microsoft Windows, GNU/Linux, BSD, Solaris, and Mac OS X, as well as various ports to other operating systems. The software is distributed under the Apache license.[5] The first version released by Apache was 3.4.0,8 on May 8, 2012. Since that first version, several forks have been made, such as LibreOffice (developed by The Document Foundation), or the Go-OO project.9

@@ -1,0 +1,29 @@
+---
+categories:
+- Cafes
+date: 2023-10-11
+description: 'We''re starting a new activity: every week, have coffee with OfiLibre'
+image: /images/logo-ofilibre-2025.jpg
+tags:
+title: Cafe con OfiLibre
+---
+
+**Attention: time changed as of November 6, 2023 (inclusive): sessions will be at 10:00**
+
+Mark your calendar: starting next October 25, every Wednesday, at 9:30 (changed: will be at 10:00 as of November 6, inclusive), we will have 15 minutes of Cafe con OfiLibre, via video conference. A relaxed chat about the topics that concern us. Each day we will discuss a topic: just connect and listen. And participate, if you feel like it. After all, a way to keep in touch with those interested in free culture, open access publishing, free software, open data, and all that jazz. That said, the coffee (or tea, or glass of water, or whatever you like) is on you.
+
+> [Teams room for Cafe con OfiLibre](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQ0ODZlYWItMzRkNi00OTMwLWE3MDEtMzNiY2Y4N2U1MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
+
+Tentative program for the next cafés:
+
+* October 25: Presentation of Cafe con OfiLibre. 20 years of the [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration).
+* November 8: Open access journals. Summary of the Support Program for Open Access Journal Publishing of the Vice-Rectorate for Community, Campus, Culture and Sports.
+* November 15: Open access publishing and free software. We will have the collaboration of José Luis Aznarte Mellado, Director of the Division of Evaluation of Studies and Institutions of ANECA and professor at UNED.
+* November 22: Open access courses, including the announcement of the opening of the form for courses of the second semester of the 2023-2024 academic year.
+* November 29: Final Degree Projects in open access.
+* December 13: Free software in the University.
+* December 20: Open access publication of contributions for the Research Excellence Call.
+* January 10: Open Access Publishing Days.
+* January 17: Open access monographs.
+
+With this inauguration, we also take the opportunity to celebrate [Open Access Week](https://www.openaccessweek.org/), which is celebrated worldwide, this year between October 23 and 29.

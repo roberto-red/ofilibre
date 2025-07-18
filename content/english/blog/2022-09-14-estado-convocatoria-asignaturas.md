@@ -1,0 +1,63 @@
+---
+categories:
+- Open Subjects
+date: 2022-09-14
+description: Summary of the Status of the Open Subjects Call 2022.
+image: images/guias/openaccess-square.png
+tags:
+- Open publishing
+- free software
+- OfiLibre
+title: Status of the Open Subjects call
+---
+
+We're starting the course with many things, but with a focus on the [Call for recognition of open-access publication of subjects 2022-2023](/documentos/convocatoria-asignaturas-abierto-2022-2023.pdf).
+
+
+This call, **open until September 30**, aims to promote the creation of high-quality open educational resources among teaching staff and encourage their use in the subjects they teach.
+
+
+Given the interest aroused, from OfiLibre we have planned a series of actions to help the teaching community prepare what is necessary to participate.
+
+
+### Telematic sessions to resolve doubts:
+
+To continue responding to possible doubts, we have organized a series of ad-hoc telematic sessions. They will take place via Teams room:
+
+    Tuesday, September 6, 17:00 
+    Wednesday, September 14, 12:00 
+    Tuesday, September 20, 17:00 
+    Wednesday, September 28, 12:00 
+
+*We recommend reviewing the call text and the [presentation video](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20) from last July before attending.
+ 
+
+### Call guide:
+
+In this guide, you will find all the [necessary information about the call](/en/guias/convocatoria-asignaturas-abierto/) and the most useful links.
+
+### Frequently Asked Questions:
+
+With the doubts we receive in our ofilibre email ofilibre@urjc.es, we have created a [Frequently Asked Questions space](/en/guias/convocatoria-asignaturas-abierto/#faq) that we believe can be very helpful to those considering participating in the call.   
+
+ 
+### Video upload
+
+To facilitate the incorporation of a series of videos, the CIED has developed [these procedures](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093) that we hope will be helpful.
+
+ 
+### Software upload
+
+We have prepared a [procedure for uploading software](/en/guias/convocatoria-asignaturas-abierto-software/) in the "Others" category of the call.
+
+ 
+### Templates for uploading documents
+
+We have designed a [series of templates in free format](/en/guias/plantillas-asignaturas-abierto/), in case you find them interesting to use for your materials.
+ 
+ 
+### Open Archive
+
+The URJC Library will need a few days to process the materials uploaded to the Open Archive of the BURJC. Therefore, the last day to upload them and receive a handle to include in this call will be September 28.
+
+Remember that we are at your disposal at our ofilibre email ofilibre@urjc.es

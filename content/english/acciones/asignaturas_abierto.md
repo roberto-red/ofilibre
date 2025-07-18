@@ -9,8 +9,8 @@ Materials related to the call for recognition of open access course publication.
 
 * [Open Subjects on the virtual classroom](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)
 
-* [2025–2026 Call](/blog/2025-04-09-open-subjects)
-* [2024–2025 Call](/blog/2024-09-02-open-subjects-presentation)
-* [2023–2024 Call](/guias/convocatoria-asignaturas-abierto/)
-* [Results of the 2022–2023 Call, second semester](/blog/2023-convocatoria-asignaturas-abierto-results/)
-* [Results of the 2022–2023 Call, first semester](/blog/2023-02-28-convocatoria-asignaturas-abierto-results/)
+* [2025–2026 Call](/en/blog/2025-04-09-asignaturas-abierto)
+* [2024–2025 Call](/en/blog/2024-09-02-presentacion-asignaturas-abierto)
+* [2023–2024 Call](/en/guias/convocatoria-asignaturas-abierto/)
+* [Results of the 2022–2023 Call, second semester](/en/blog/2023-resultados-convocatoria-asignaturas)
+* [Results of the 2022–2023 Call, first semester](/en/blog/2023-02-28-resultados-convocatoria-asignaturas/)

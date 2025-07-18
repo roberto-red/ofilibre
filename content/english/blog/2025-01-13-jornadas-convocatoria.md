@@ -1,0 +1,52 @@
+---
+categories:
+- Free culture days
+- calls
+date: 2025-01-13
+description: We are opening the call for proposals to participate in the IV Free Culture
+  Days of the URJC. This event is an opportunity to share your ideas, knowledge, and
+  projects related to free culture, free knowledge, free software, and open science.
+image: /images/logo-ofilibre-2025.jpg
+tags:
+title: Call for Contributions, Free Culture Days 2025
+---
+
+We're opening the call for proposals to participate in the IV Free Culture Days of the URJC! Yes, we're already on the fourth edition! This event is an opportunity to share your ideas, knowledge, and projects related to free culture, free knowledge, free software, and open science. The Days will take place on March 26 and 27, on the Fuenlabrada campus, with some related activities on other campuses during that same week.
+
+## How can you participate this year?
+
+* 🎤 Short talks: you can present your work in a brief and in-person format.
+* 🖼️ Posters: if you prefer a visual proposal, posters with a free license are a great option to showcase your work in a creative way. Write the proposal and, if accepted, send us the material in March.
+* ✨ Stand in the fair: if you have a project, tool, or resource, you can request a stand to share it with attendees.
+* 🛠️ Workshops: if you have a practical or dynamic activity that might interest the public, you can organize your own workshop!
+* 🛋️ Thematic rooms: a space for those with common interests to gather, share ideas, and interact on topics of interest.
+* 🎨 Other ways to participate: if you come up with another way to contribute to the Days, we're open to new proposals. We want to make this event unique and diverse!
+
+## Themes:
+
+Participation forms can be about any of the following themes:
+
+* Experiences related to open science and citizen laboratories
+* Experiences related to open publication of teaching materials
+* Experiences of using open materials created by third parties
+* Experiences related to open publication of research results
+* Experiences related to open publication or use of open data in teaching, research, or management activities
+
+## Important details
+
+* ⏰ The deadline to submit proposals is Friday, February 14, 2025 ❤️​.
+* 📥 You can send your proposal through the following [form](https://forms.office.com/e/8izm4HGNsf)
+* 📧 If you have any questions, don't hesitate to write to us at ofilibre@urjc.es, indicating "Free Culture Days" as the subject.
+
+If you're interested in participating as an attendee, don't worry! Registrations to attend will open later, at the end of February 2025.
+
+We're looking forward to seeing your proposal and sharing this important event with the entire university community!
+
+**Get informed and participate!** Stay up to date on our social media. You'll find all the updated information and key dates at:
+
+*   **Web:** [https://ofilibre.urjc.es/](https://ofilibre.urjc.es/)
+*   **Mastodon:** [@OfiLibreURJC@floss.social](https://floss.social/@ofilibreurjc)
+*   **Bluesky:** [@ofilibre.bsky.social](https://bsky.app/profile/ofilibre.bsky.social)
+*   **Twitter/X:** [@OfiLibreURJC](https://x.com/OfiLibreURJC)
+*   **Telegram:** [https://t.me/ofilibreurjc](https://t.me/ofilibreurjc)
+*   **Instagram:** [@ofilibreurjc](https://www.instagram.com/ofilibreurjc/)

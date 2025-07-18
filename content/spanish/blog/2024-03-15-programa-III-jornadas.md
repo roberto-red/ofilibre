@@ -10,7 +10,7 @@ tags:
 image: /images/Contenido_III_Jornadas_thumb.png
 ---
 
-Programa de las Jornadas, incluyendo enlaces a los materiales utilizados en las presentaciones y talleres. Los pósters los puedes encontrar en [esta entrada del blog.](../posters-iii-jornadas)
+Programa de las Jornadas, incluyendo enlaces a los materiales utilizados en las presentaciones y talleres. Los pósters los puedes encontrar en [esta entrada del blog.](/blog/posters-iii-jornadas)
 
 ## Miércoles 20 de marzo
 

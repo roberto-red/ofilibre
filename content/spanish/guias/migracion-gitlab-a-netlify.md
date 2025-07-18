@@ -142,8 +142,8 @@ collections:
     folder: 'content/espanol/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    media_folder: '/../../../static//blog/{{slug}}'
-    public_folder: '//blog/{{slug}}'
+    media_folder: '/../../../static/blog/{{slug}}'
+    public_folder: '/blog/{{slug}}'
     editor:
       preview: true
     fields:

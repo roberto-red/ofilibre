@@ -1,0 +1,39 @@
+---
+categories:
+- Open Data
+date: 2021-06-30
+description: The EOSC is a European initiative with the goal of promoting Open Science
+  to accelerate the creation of new knowledge and promote the accessibility and transparency
+  of research projects.
+image: images/blog/european-open-science-cloud/EOSC-square.png
+slug: european-open-science-cloud
+tags:
+- Open science
+title: European Open Science Cloud
+---
+
+The [European Open Science Cloud](https://www.eosc.eu/) (EOSC) is an initiative funded by the European Commission, conceived with the objective of promoting Open Science in Europe. Open science fosters the creation of new knowledge, inspires education, incentivizes innovation, and promotes accessibility and transparency.
+
+The EOSC is a federation of several open cloud services, designed to support European open science projects. It offers researchers a virtual environment with open services for storing, managing, analyzing, and reusing research data.
+
+Existing data infrastructures will be grouped into a single one, the European Research Data Commons, where data will be openly accessible and [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accessible, Interoperable, and Reusable). This aims to overcome national borders and improve collaboration between scientific disciplines.
+
+The EOSC Association was established as a legal entity on July 29, 2020, with the [CSIC](https://www.csic.es/) as one of its founding members. On June 23, 2021, the "Memorandum of Understanding" was signed, formally constituting this organization.
+
+The Rey Juan Carlos University participates as an observer in this organization.
+
+The [European Commission](https://europa.eu/european-union/about-eu/institutions-bodies/european-commission_es) funds the EOSC through projects belonging to the [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) program. Below, you can see the projects that contribute to the development of the EOSC:
+![European EOSC Projects](/images/blog/european-open-science-cloud/proyectos.png)
+____________________________________________________
+
+### Interesting links 
+
+* [EOSC Association website](https://www.eosc.eu/)
+
+* [EOSC portal](https://eosc-portal.eu/)
+
+* [Twitter of the EOSC Secretariat](https://twitter.com/eoscsecretariat)
+
+* [Twitter of the EOSC Association](https://twitter.com/eosc_eu)
+
+Note: I translated "La OfiLibre" as "OfiLibre" as per your request, but since it's not present in the original text, I didn't have to do it.

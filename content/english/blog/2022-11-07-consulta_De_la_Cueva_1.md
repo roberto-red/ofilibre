@@ -1,0 +1,22 @@
+---
+categories:
+- Resources
+- Open Data
+date: 2022-10-27
+description: Queries to Javier de la Cueva about CC
+image: images/CC.png/
+slug: consulta-expertos-octubre
+tags:
+- Open publishing
+title: Expert consultations
+---
+
+In OfiLibre, we often receive many inquiries about the use of free materials, licenses, free software, etc. We don't always have an answer for everything ;) So when we have doubts, we seek help by consulting experts.
+
+On this occasion, we contacted [Javier de la Cueva](https://es.wikipedia.org/wiki/Javier_de_la_Cueva), a lawyer specializing in digital rights, to ask him about the use of CC-BY and CC-BY-SA licenses in materials we generate within the university.
+
+The inquiries we made to him arise from the [Open Course Call](/en/guias/convocatoria-asignaturas-abierto/). They involve two quite common scenarios within the development of our teaching activity. Can we assign free licenses to our material if it contains images or excerpts from other materials?
+
+[Here is the detailed report sent to us by Javier de la Cueva](/en/guias/consulta-expertos/).
+
+And if you have more doubts... don't hesitate to ask us!

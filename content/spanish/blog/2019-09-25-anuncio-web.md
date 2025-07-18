@@ -1,14 +1,14 @@
 ---
-title: "¡Ya tenemos web!"
-date: 2019-09-25
-slug: anuncio-web
-description: "La OfiLibre, por fin, publica su página web, donde podrás encontrar gran cantidad de recursos libres."
 categories:
     - Recursos
+date: 2019-09-25
+description: "La OfiLibre, por fin, publica su página web, donde podrás encontrar gran cantidad de recursos libres."
+image: /images/logo-ofilibre-2025.jpg
+slug: anuncio-web
 tags:
     - Web
     - OfiLibre
-image: /images/logo-ofilibre-2025.jpg
+title: "¡Ya tenemos web!"
 ---
 
 La OfiLibre lleva ocho meses puesta en marcha y, por fin, anunciamos nuestra página web. En esta web podréis encontrar recursos libres de todo tipo (guías de programas libres, imágenes, sonidos...). Además, publicaremos noticias sobre el mundo del software, las licencias, publicaciones... Para que tengáis la mayor información posible a la hora de publicar o elegir medios.

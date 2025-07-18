@@ -1,0 +1,56 @@
+---
+categories:
+- Free culture days
+- Free Culture
+date: 2024-04-16
+description: Summary of the III Free Culture Days 2024
+image: /images/RESUMEN-III-Jornadas-thumb.jpg
+slug: resumen-III-jornadas
+tags:
+- Free culture days
+- URJC
+- Free Culture
+title: Summary of the III Free Culture Days 2024
+---
+
+[III Free Culture Days](/en/blog/programa-iii-jornadas/) have been a huge success.
+
+This event, which is gaining more followers every time, took place on March 20 and 21, 2024, at the Fuenlabrada Management Building of the URJC.
+
+This new call brought together students, teachers, and professionals from the research world with a common interest: promoting the use of FREE CULTURE.
+
+The opening act of these jornadas was led by our Vice-Rector Mercedes del Hoyo Hurtado alongside Jesus González Barahona, who held one of our "Cafés with OfiLibre".
+
+We had the participation of several guest speakers:
+- Remedios Pérez García *"From Open Access to Open Science: Challenges of Technical Editing"*
+- Sonia Castro García-Muñoz *"Open Data: Expansion Movement"*.
+
+Additionally, as a novelty, we had an afternoon dedicated to Open Artificial Intelligence, which included the presence of:
+ - Jose Antonio Gelado *"Free Podcast. Podcast and Artificial Intelligence"*
+ - Pablo Aragón *"Wikimedia Research in the Era of Artificial Intelligence"*
+ - Pedro Cuenca *"Open Generative Artificial Intelligence"*.
+
+<br/>
+
+We cannot forget the Round Table (Achievements and challenges of URJC's open-access journals: A shared dialogue with the scientific community) moderated by Tomás Zarza, who also had a small moment where he was introduced as the new Coordinator of Open Publications and new member of OfiLibre.
+
+Walking around the fair, participating in one of the workshops, attending a theatrical performance, and having a coffee among people with the same concern for free culture have made these jornadas a unique event at our university.
+
+The posters used were collected in [this blog entry.](/en/blog/posters-iii-jornadas)
+
+Thanks to all participants and attendees. We hope to see you next year.
+
+[**Link to TV URJC**](https://tv.urjc.es/series/65f1c4c5a848b9cfa425be43) where you can watch all the jornadas on demand.
+
+### Numbers of the III Jornadas
+
+- Attendees to the jornadas: 206
+- Attendees to workshops: 62
+- Number of workshops: 4
+- Presentation of journals: 7
+- Fair stands: 8
+- Short presentations: 21
+- Guest presentations: 2
+- Talks: 7
+- Posters: 12
+- Dramatized reading: 1 (URJC Theater Group: Arrojo escénico)

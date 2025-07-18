@@ -1,0 +1,47 @@
+---
+categories:
+- Free Software
+date: 2022-04-06
+description: What does a program need to fulfill to be free software? How can I publish
+  my programs as free software? Why might all this matter to me?
+image: images/blog/software-libre/logo.png
+slug: 2022-04-20-software-libre
+tags:
+title: 'Seminars: What is free software?'
+---
+
+The free software is everywhere today. Free software makes up the majority of the infrastructure of the information society, enables the Internet to function, is used in large quantities by many companies, allows for shorter and more efficient innovation cycles, and is central to the concept of open science...
+
+And yet, free software remains largely unknown. Not only because we often use free software without realizing it, but also because in many cases we don't have a clear idea of what conditions a program must meet to be considered free software.
+
+In this seminar, we will try to clarify these concepts, explain what free software is and why it's important, and also detail what you need to do if you want the software you've programmed to be free.
+
+So if you're interested in knowing what free software is, if you want to know what advantages it has, or distribute a program as free software, or more specifically what you would need to do to publish your programs (for example, your research results, or the program you're doing for your thesis) as free software, come to the seminar.
+
+## Contents
+
+* What is free software?
+* Implications of free software
+* Free software licenses
+* How to publish free software
+
+## Materials
+
+* Slides: [PDF format](/transpas/software-libre/transpas.pdf)
+* [Guide: Publishing free software](/en/guias/publicar-software-libre)
+
+## Data Summary
+
+* Who is it aimed at: the entire university community, but especially those who produce computer programs.
+
+* When: April 20, 2022, 13:00 to 14:30.
+
+* Format: hybrid (in-person and video conference for remote attendance).
+
+* In-person attendance: Móstoles Campus, Aulario I Building, Room 004.
+
+* Remote attendance: [Teams Room](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JlNzY2ODctM2ZmOS00YTdlLThjYjItZjU0MTU2NmJhOTcw%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d).
+
+* Registration (necessary to attend): [event on eventos.urjc.es](https://eventos.urjc.es/82054/detail/what-is-free-software.html).
+
+* Attendees will receive a certificate of Academic Recognition Credits (RAC). To be eligible for credits, it is essential to have registered with a university email address, appear on the attendance sheet (for in-person attendees) or on the Teams attendance list (remote attendees, please authenticate on Teams with your university email address), and participate in the activities proposed during the seminar.

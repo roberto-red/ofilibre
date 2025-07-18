@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sexenios on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/sexenios/</link>
+    <description>Recent content in Sexenios on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sexenios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posibilidades de publicación en acceso abierto para el PDI de la URJC</title>
+      <link>http://localhost:1313/blog/2023-11-12-acceso-abierto/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-11-12-acceso-abierto/</guid>
+      <description>ANECA ha publicado un Borrador de criterios de evaluación de la Convocatoria 2023 de Sexenios de investigación, abriendo un proceso de consultas al respecto.</description>
+    </item>
+  </channel>
+</rss>

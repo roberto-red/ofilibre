@@ -1,0 +1,124 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: static
+public_folder: /
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/spanish/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    media_folder: '/../../../static/blog/{{slug}}'
+    public_folder: '/blog/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["Universidad"]}
+      - { label: 'Etiquetas', name: 'tags', widget: 'list'}
+      - { label: 'Logo', name: 'image', widget: 'image', default: '/logos/logo-ofilibre-2025.jpg'}
+      - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
+
+  - name: 'guias'
+    label: 'Guías'
+    folder: 'content/spanish/guias'
+    create: true
+    slug: '{{slug}}'
+    media_folder: '/../../../static/guias/{{slug}}'
+    public_folder: '../../guias/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Logo', name: 'image', widget: 'image' }
+      - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
+      - { label: 'Etiquetas', name: 'tags', widget: 'list'}
+      - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
+
+  - name: 'fichas'
+    label: 'Fichas'
+    folder: 'content/spanish/fichas'
+    create: true
+    slug: '{{slug}}'
+    media_folder: '/../../../static/fichas/{{slug}}'
+    public_folder: '../../fichas/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Logo', name: 'image', widget: 'image' }
+      - { label: 'Página web', name: 'website', widget: 'string' }
+      - { label: 'Página web (español)', name: 'website_es', widget: 'string', required: false }
+      - label: 'Licencias'
+        name: 'licenses'
+        widget: 'list'
+        fields:
+          - { label: 'Nombre', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+      - { label: 'MyApps', name: 'myapps', widget: 'boolean', default: false }
+      - { label: 'Código fuente (URL)', name: 'source', widget: 'string' }
+      - label: 'Guías de instalación'
+        name: 'installs'
+        widget: 'list'
+        fields:
+          - { label: 'Nombre', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+          - { label: 'Formato', name: 'kind', widget: 'string', required: false }
+      - label: 'Tutoriales'
+        name: 'tutorials'
+        widget: 'list'
+        fields:
+          - { label: 'Nombre', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+          - { label: 'Formato', name: 'kind', widget: 'string', required: false }
+      - label: 'Extras'
+        name: 'others'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: 'Nombre', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+      - label: 'Capturas de pantalla'
+        name: 'screenshots'
+        widget: 'list'
+        fields:
+          - { label: 'Nombre', name: 'name', widget: 'string' }
+          - { label: 'Archivo', name: 'file', widget: 'image' }
+          - { label: 'Atribución', name: 'attribution', widget: 'string', required: false }
+      - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
+
+  - name: 'presentaciones'
+    label: 'Presentaciones'
+    folder: 'content/spanish/pres'
+    create: true
+    slug: '{{slug}}'
+    media_folder: '/../../../static/pres/{{slug}}'
+    public_folder: '../../pres/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - { label: 'Logo', name: 'image', widget: 'image' }
+      - label: 'Transparencias'
+        name: 'transpas'
+        widget: 'object'
+        fields:
+          - { label: 'Archivo PDF', name: 'pdf', widget: 'file' }
+          - { label: 'Archivo ODP', name: 'odp', widget: 'file' }
+      - label: 'Extras'
+        name: 'extras'
+        required: false
+        widget: 'list'
+        fields:
+          - { label: 'Nombre', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+      - { label: 'Cuerpo', name: 'body', widget: 'markdown' }
+

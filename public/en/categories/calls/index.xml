@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calls on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/calls/</link>
+    <description>Recent content in Calls on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/calls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Open Subjects 2025-2026: Explanatory Meeting and Q&amp;A Session</title>
+      <link>http://localhost:1313/en/blog/2025-06-04-asignaturas-en-abierto-25-26-encuentro/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-06-04-asignaturas-en-abierto-25-26-encuentro/</guid>
+      <description>The Call for Recognition of Open Access Publication of Teaching Materials for the 2025-2026 academic year has been published.</description>
+    </item>
+    <item>
+      <title>Call for Open Subjects 2025-2026</title>
+      <link>http://localhost:1313/en/blog/2025-04-09-asignaturas-abierto/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-04-09-asignaturas-abierto/</guid>
+      <description>The Call for the recognition of open access publication of teaching materials for the 2025-2026 academic year has been published.</description>
+    </item>
+    <item>
+      <title>Call for Contributions, Free Culture Days 2025</title>
+      <link>http://localhost:1313/en/blog/2025-01-13-jornadas-convocatoria/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2025-01-13-jornadas-convocatoria/</guid>
+      <description>We&amp;rsquo;re opening the call for proposals to participate in the IV Free Culture Days of the URJC!</description>
+    </item>
+    <item>
+      <title>Presentation of Open Call for Subjects</title>
+      <link>http://localhost:1313/en/blog/2024-09-02-presentacion-asignaturas-abierto/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2024-09-02-presentacion-asignaturas-abierto/</guid>
+      <description>The next Wednesday, September 4, we will have a video conference to present the 2024-2025 call for recognition of open access course publication.</description>
+    </item>
+    <item>
+      <title>Academic Journals of the URJC ¡Welcome!</title>
+      <link>http://localhost:1313/en/blog/convocatoria-revistas/</link>
+      <pubDate>Fri, 14 Apr 2023 11:02:06 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/convocatoria-revistas/</guid>
+      <description>The Vicerrectorado of Community Campus, Culture and Sports promotes the creation of a platform for the URJC to publish academic journals.</description>
+    </item>
+    <item>
+      <title>Open subjects: a happy reality</title>
+      <link>http://localhost:1313/en/blog/2023-02-28-resultados-convocatoria-asignaturas/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/2023-02-28-resultados-convocatoria-asignaturas/</guid>
+      <description>The past June, the Call for Recognition of Open Access Course Materials 2022-2023 was published.</description>
+    </item>
+    <item>
+      <title>Call for Open Subjects: Software for Teaching</title>
+      <link>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-software/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-software/</guid>
+      <description>[Draft: non-definitive document, under review]&#xA;The call for Recognition of Open Publication of Subjects allows teachers to contribute software (computer programs) used in teaching, such as solved practices, example programs, and programs designed to facilitate understanding of aspects of the subject, etc.</description>
+    </item>
+    <item>
+      <title>Previous calls for open subject publication</title>
+      <link>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-2022-2023/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-2022-2023/</guid>
+      <description>This page shows information about previous calls. The current call can be found here</description>
+    </item>
+    <item>
+      <title>URJC calls for scientific publication aids</title>
+      <link>http://localhost:1313/en/blog/ayudas-publicacion/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/ayudas-publicacion/</guid>
+      <description>TRANSLATION / LINGUISTIC REVIEW SERVICE FOR PDI URJC SCIENTIFIC ARTICLE EXPENSES</description>
+    </item>
+  </channel>
+</rss>

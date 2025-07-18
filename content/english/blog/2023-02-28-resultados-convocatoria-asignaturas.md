@@ -1,0 +1,38 @@
+---
+categories:
+- Open Subjects
+- Calls
+date: 2023-02-28
+description: Resultado de la convocatoria de Subjects in Open Access
+image: images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
+slug: 2023-02-28-resultados-convocatoria-asignaturas
+tags:
+- subjects
+- open access
+- URJC
+title: 'Open subjects: a happy reality'
+---
+
+The past June, the [Call for Recognition of Open Access Course Materials 2022-2023](/en/blog/2022-09-14-estado-convocatoria-asignaturas/) was published. Until September 30, 2022, applications related to courses taught in the first quarter of 2022-2023 were received. What a joy to receive so many and such good ones! From OfiLibre, we are very happy with the [recently published results](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto), since we now have **38 open access courses!**
+
+### The call in numbers:
+
+* 43 applications received
+* 83 teachers authors of materials
+* 36 course guides
+* 34 note collections
+* 39 presentation or slide collections
+* 40 exercise, problem, or project collections
+* 30 assessment test collections
+* 30 short video or podcast collections
+* 14 Other material collections (e.g., computer program collections or illustration collections)
+* 4 training workshops
+* More than 10 personalized tutorials to help resolve doubts
+
+### The call in bars:
+
+![Captura_Materiales_Baremo_2](/images/1-asignaturas.png)
+
+According to the Material Evaluation Rubric, each category could receive between 0 and 14 points. In this graph, each bar shows a category of materials (notes, slides, exercises, etc.). Within each bar, the colors indicate the quantity of materials according to the score received.
+
+Congratulations to the participating faculty! :)

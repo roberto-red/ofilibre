@@ -1,0 +1,26 @@
+---
+categories:
+- Open publishing
+- Resources
+date: 2024-06-10
+description: Rey Juan Carlos University obtains two grants in the call funded by the
+  Spanish Foundation for Science and Technology (María de Guzmán program), for the
+  improvement of its infrastructure for open science.
+image: /images/openaccess-square.png
+tags:
+- Library
+- Open Science
+- María de Guzmán
+- URJC
+title: URJC obtains aid for improvement of its infrastructure for open science
+---
+
+![María de Guzmán](/images/blog/maria-guzman/maria_de_guzman.png)
+
+A few months ago, we applied for the María de Guzmán Grants for the promotion of excellent scientific research. The final resolution has been published and... and we got them!
+
+The projects presented (led by the Library and Publications of the University) aim to improve the open archive of the URJC ([BURJC digital](https://burjcdigital.urjc.es/)) and the open-access academic publishing platforms, especially the journal ([revistas](https://revistas.urjc.es/)) and monograph platforms. To achieve this, improvements in computer infrastructure and training for authors and editors are proposed. The project aligns with the National Strategy for Open Science and the Law on Science, Technology, and Innovation. The objectives of our proposal cover three axes: information, support, and training.
+
+We are one of the (only) four institutions that have had two María de Guzmán projects approved in the Line of action 2 (Open Science and Interoperability in Digital Infrastructures of Institutional Institutions). We are the second institution that has captured the most funds from this call, with a total of approximately 165,000 euros.
+
+So now, it's time to get to work ;-) We'll keep you informed!

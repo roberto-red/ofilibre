@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/taller/</link>
+    <description>Recent content in Taller on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/taller/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obras libres: uso y disfrute</title>
+      <link>http://localhost:1313/blog/trabajos-obras-libres-2/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/trabajos-obras-libres-2/</guid>
+      <description>Hay muchos materiales libres disponibles en Internet, que puedes reutilizar para tus trabajos, o en general para tu propias obras.</description>
+    </item>
+  </channel>
+</rss>

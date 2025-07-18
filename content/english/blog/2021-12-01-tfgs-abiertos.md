@@ -1,0 +1,18 @@
+---
+categories:
+- Open publishing
+date: 2021-12-01
+description: 'Presentation: Open Publication of Final Degree Projects'
+image: images/blog/tfgs-abiertos/open-access-square.png
+slug: tfgs-abiertos
+tags:
+- TFG
+title: Open Publication of TFGs
+---
+
+At the Rey Juan Carlos University, you can publish your Final Degree Project (the thesis and other results you have obtained) in open access. What does this mean? Why might it interest you? How to do it, if you find it interesting?
+
+Materials:
+
+* Slides, full version: [PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp)
+* Slides, summary version: [PDF](/transpas/tfgs-abiertos/TFGs_Abiertos-corto.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos-corto.odp)

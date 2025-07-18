@@ -1,0 +1,42 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-03-14
+image: /images/fichas/ultimakercura/logo.png
+installs:
+- kind: pdf
+  name: How to install Gimp 2.10.2
+  url: https://ultimaker.com/download/73560/180104-Ultimaker-CuraConnect-Manuals-%28EN%29_ES-v1.1.pdf
+licenses:
+- name: LGPLv3
+  url: https://es.wikipedia.org/wiki/GNU_Lesser_General_Public_License
+myapps: true
+others:
+- kind: video
+  name: Another tutorial
+  url: https://www.youtube.com/playlist?list=PLdLJV6tsi3ACyxZt8ZNCywmOmdSpE2_cZ
+- kind: video
+  name: Another tutorial more
+  url: https://www.youtube.com/playlist?list=PLsaNLYwo4AA5IHkmtW_sy6_cijLh4hfdz
+screenshots:
+- file: captura.png
+  name: Ultimaker Cura
+- file: captura.png
+  name: Ultimaker Cura
+- file: captura.png
+  name: Ultimaker Cura
+source: https://github.com/Ultimaker/Cura
+title: Ultimaker Cura
+tutorials:
+- name: Cura Tutorials
+  url: https://of3lia.com/ultimaker-cura/
+- kind: video
+  name: Complete Tutorial on Ultimaker Cura
+  url: https://www.youtube.com/watch?v=rWkzor3ZYTA&list=PLFLCAmAG0-qj6uOzdyit3h6_V5seCam6n
+type: fichas
+website: https://ultimaker.com/en/products/ultimaker-cura-software
+website_es:
+---
+
+Software fundamentally used in the transformation of 3D models (obj, stl, x3d...) into a valid format for 3D printing (gcode). This process takes place through the subdivision of the object into layers. It has the ability to adapt to the technical profiles of any printer's hardware.

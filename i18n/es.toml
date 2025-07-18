@@ -103,3 +103,8 @@ other = "Correo electrónico"
 
 [redes]
 other = "Redes sociales"
+
+# Botones
+
+[learnMore]
+other = "Saber más"

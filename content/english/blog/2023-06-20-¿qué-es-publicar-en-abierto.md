@@ -1,0 +1,45 @@
+---
+categories:
+- Open publishing
+date: 2023-06-20 12:03:31.623000+00:00
+description: Guide on how to publish openly
+image: /images/búho-4.jpg
+slug: publicar-abierto
+tags:
+- guides-publish
+title: What is open publishing?
+---
+
+**WHAT IS IT ABOUT?**
+
+Publishing your work (whether it's photography, research, drawing, notes, TFG, thesis, etc.) in an open way means making your material available to the public: anyone can reuse it, always recognizing your authorship, without needing to ask for permission.
+
+**GET TO KNOW CREATIVE COMMONS LICENSES (which we prefer at URJC)**
+
+To publish in an open way, you can use Creative Commons licenses (CC), which warn in advance that your material can be used under certain conditions. From URJC, we recommend two:
+
+**CC-BY**: Attribution (BY), meaning that whoever uses your material must ALWAYS mention you as the author <http://creativecommons.org/licenses/by/4.0/deed.es>
+
+**CC-BY-SA**: Attribution-Share Alike (SA), meaning that, in addition to mentioning authorship, any derived work must be shared with a similar license [](http://creativecommons.org/licenses/by-sa/4.0/deed.es)<http://creativecommons.org/licenses/by-sa/4.0/deed.es>
+
+![](/images/creative-commons-1.jpg)
+
+These licenses allow anyone to use, share, modify, even for commercial purposes, the material you have released.
+
+**ADDING THE LICENSE TO YOUR MATERIAL**
+
+Simply writing the license in your material makes it free. You must add the license text or icons in a visible place on one of the first pages, along with the link to the CC website where it is explained in more detail.
+
+For example:
+
+***©2023 Juana García Pérez***
+
+***Some rights reserved.***
+
+***This work is distributed under the license: CC-BY-SA 4.0***
+
+***Attribution-ShareAlike 4.0 International of Creative Commons. Available at <http://creativecommons.org/licenses/by-sa/4.0/deed.es>***
+
+By simply writing this, your material is already free! But for it to be really shared, it's necessary to upload it to a repository like BURJC or TV-URJC.
+
+![Open publication infographic](/images/2-cómo-publicar-en-abierto.jpg "Open publication infographic")

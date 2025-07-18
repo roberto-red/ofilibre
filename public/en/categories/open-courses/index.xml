@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Courses on OfiLibre URJC english</title>
+    <link>http://localhost:1313/en/categories/open-courses/</link>
+    <description>Recent content in Open Courses on OfiLibre URJC english</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/open-courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recognition of Open Publication of Subjects 2023-2024</title>
+      <link>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-2023-2024/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-2023-2024/</guid>
+      <description>The form for the 2023-2024 call (second semester) is now available (https://forms.</description>
+    </item>
+    <item>
+      <title>Call for Open Subjects: Software for Teaching</title>
+      <link>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-software/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-software/</guid>
+      <description>[Draft: non-definitive document, under review]&#xA;The call for Recognition of Open Publication of Subjects allows teachers to contribute software (computer programs) used in teaching, such as solved practices, example programs, and programs designed to facilitate understanding of aspects of the subject, etc.</description>
+    </item>
+    <item>
+      <title>Previous calls for open subject publication</title>
+      <link>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-2022-2023/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/convocatoria-asignaturas-abierto-2022-2023/</guid>
+      <description>This page shows information about previous calls. The current call can be found here</description>
+    </item>
+    <item>
+      <title>Publication of Open Educational Materials</title>
+      <link>http://localhost:1313/en/guias/materiales-docentes-abierto/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guias/materiales-docentes-abierto/</guid>
+      <description>Any university teacher can choose to publish some or all of the teaching materials they have prepared in open access.</description>
+    </item>
+  </channel>
+</rss>

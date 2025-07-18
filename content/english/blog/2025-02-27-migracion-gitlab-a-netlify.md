@@ -1,0 +1,12 @@
+---
+categories:
+- resources
+- free software
+date: 2025-02-27
+description: As of this course, the OfiLibre website is hosted on Netlify.
+image: /images/logo-ofilibre-2025.jpg
+tags:
+title: ¡OfiLibre is on Netlify!
+---
+
+Our website is now hosted on Netlify. If you want to know how we did it, we've explained it in detail in our [latest guide](/en/guias/migracion-gitlab-a-netlify).

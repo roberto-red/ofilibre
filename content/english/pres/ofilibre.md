@@ -1,0 +1,28 @@
+---
+categories:
+- Resources
+- Free Culture
+date: 2019-04-01
+description: Presentation of OfiLibre, carried out on several campuses.
+extras:
+- name: 'OfiLibre: A transversal unit on open science (presentation at CRAI Conference 2023) (PDF)'
+  url: /transpas/ofilibre/OfiLibre-transversal.pdf
+- name: 'OfiLibre: A transversal unit on open science (presentation at CRAI Conference 2023) (ODF)'
+  url: /transpas/ofilibre/OfiLibre-transversal.odp
+- name: 'URJC OfiLibre: A model to promote free culture at the University (presentation at esLibre 2022) (PDF)'
+  url: /transpas/ofilibre/Modelo-OfiLibre.pdf
+- name: 'URJC OfiLibre: A model to promote free culture at the University (ODF)'
+  url: /transpas/ofilibre/Modelo-OfiLibre.odp
+- name: Rethinking Free Software Offices at Universities (presentation at esLibre 2021) (PDF)
+  url: /transpas/ofilibre/Modelo-OfiLibre-2021-06-25.pdf
+- name: Rethinking Free Software Offices at Universities (ODF)
+  url: /transpas/ofilibre/Modelo-OfiLibre-2021-06-25.odp
+image: /transpas/ofilibre/OfiLibre-presentacion.png
+slides:
+  odp: /transpas/ofilibre/OfiLibre-presentacion.odp
+  pdf: /transpas/ofilibre/OfiLibre-presentacion.pdf
+title: Presentation of OfiLibre
+type: pres
+---
+
+Presentation of OfiLibre, made in several campus.

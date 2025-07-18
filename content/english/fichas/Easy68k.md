@@ -1,0 +1,38 @@
+---
+categories:
+- Resources
+- Free Software
+date: 2019-12-02
+image: /images/fichas/easy68k/logo.png
+installs:
+- kind: web
+  name: Quick Start Guide (in English)
+  url: http://www.easy68k.com/QuickStart/LoadPageFrames.htm
+licenses:
+- name: GPL
+  url: https://es.wikipedia.org/wiki/GNU_General_Public_License
+myapps: true
+others:
+screenshots:
+- attribution: '[Captura tomada de easy68k.com](http://www.easy68k.com/images/sim68k.PNG)'
+  file: captura.png
+  name: Easy68k in operation (screenshot)
+- attribution: '[Captura tomada de easy68k.com](http://www.easy68k.com/images/easybin.png)'
+  file: captura.png
+  name: Easy68k in operation (screenshot)
+source: https://github.com/ProfKelly/EASy68K
+title: Easy68k
+tutorials:
+- kind: video
+  name: Compilation of related videos
+  url: https://www.youtube.com/playlist?list=PLHGIubDapHI6YPe3e83q3dzDm91US_ium
+- kind: web
+  name: Examples from the official website
+  url: http://www.easy68k.com/easy68kexamples.htm
+type: fichas
+website: http://www.easy68k.com/
+website_es:
+---
+
+Easy68k is an IDE for creating, editing, and executing programs written in assembly code for Motorola 68000 on a Windows PC or in Wine without the need for any additional hardware.
+It is used in teaching to delve deeper into the operation of a processor.

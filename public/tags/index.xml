@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 17 Jul 2025 16:04:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MOOC</title>
+      <link>http://localhost:1313/tags/mooc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mooc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OfiLibre</title>
+      <link>http://localhost:1313/tags/ofilibre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ofilibre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redes Sociales</title>
+      <link>http://localhost:1313/tags/redes-sociales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/redes-sociales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acceso Abierto</title>
+      <link>http://localhost:1313/tags/acceso-abierto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acceso-abierto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura Libre</title>
+      <link>http://localhost:1313/tags/cultura-libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cultura-libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Formación</title>
+      <link>http://localhost:1313/tags/formaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/formaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Licencias</title>
+      <link>http://localhost:1313/tags/licencias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/licencias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vídeos</title>
+      <link>http://localhost:1313/tags/v%C3%ADdeos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/v%C3%ADdeos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Café Con OfiLibre</title>
+      <link>http://localhost:1313/tags/caf%C3%A9-con-ofilibre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/caf%C3%A9-con-ofilibre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>URJC</title>
+      <link>http://localhost:1313/tags/urjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/urjc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asignaturas en Abierto</title>
+      <link>http://localhost:1313/tags/asignaturas-en-abierto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/asignaturas-en-abierto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convocatorias</title>
+      <link>http://localhost:1313/tags/convocatorias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/convocatorias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biblioteca</title>
+      <link>http://localhost:1313/tags/biblioteca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biblioteca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ciencia Abierta</title>
+      <link>http://localhost:1313/tags/ciencia-abierta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ciencia-abierta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>María De Guzmán</title>
+      <link>http://localhost:1313/tags/mar%C3%ADa-de-guzm%C3%A1n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mar%C3%ADa-de-guzm%C3%A1n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jornadas</title>
+      <link>http://localhost:1313/tags/jornadas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jornadas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sexenios</title>
+      <link>http://localhost:1313/tags/sexenios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sexenios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explicacion-Cultura</title>
+      <link>http://localhost:1313/tags/explicacion-cultura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/explicacion-cultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guias-Publicar</title>
+      <link>http://localhost:1313/tags/guias-publicar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/guias-publicar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asignaturas</title>
+      <link>http://localhost:1313/tags/asignaturas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/asignaturas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura_libre</title>
+      <link>http://localhost:1313/tags/cultura_libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cultura_libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talk</title>
+      <link>http://localhost:1313/tags/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/talk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wikipedia</title>
+      <link>http://localhost:1313/tags/wikipedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wikipedia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publicación_en_abierto</title>
+      <link>http://localhost:1313/tags/publicaci%C3%B3n_en_abierto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/publicaci%C3%B3n_en_abierto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Revistas</title>
+      <link>http://localhost:1313/tags/revistas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/revistas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Materiales Docentes</title>
+      <link>http://localhost:1313/tags/materiales-docentes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/materiales-docentes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publicación Abierta</title>
+      <link>http://localhost:1313/tags/publicaci%C3%B3n-abierta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/publicaci%C3%B3n-abierta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Libre</title>
+      <link>http://localhost:1313/tags/software-libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/software-libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TFG</title>
+      <link>http://localhost:1313/tags/tfg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tfg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A-Frame</title>
+      <link>http://localhost:1313/tags/a-frame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/a-frame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talleres</title>
+      <link>http://localhost:1313/tags/talleres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/talleres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Charlas</title>
+      <link>http://localhost:1313/tags/charlas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/charlas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Science</title>
+      <link>http://localhost:1313/tags/open-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acuerdo Transformativo</title>
+      <link>http://localhost:1313/tags/acuerdo-transformativo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acuerdo-transformativo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publicación en Abierto</title>
+      <link>http://localhost:1313/tags/publicaci%C3%B3n-en-abierto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/publicaci%C3%B3n-en-abierto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wiley</title>
+      <link>http://localhost:1313/tags/wiley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wiley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concilio De Lo Libre</title>
+      <link>http://localhost:1313/tags/concilio-de-lo-libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/concilio-de-lo-libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Obras Libres</title>
+      <link>http://localhost:1313/tags/obras-libres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/obras-libres/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taller</title>
+      <link>http://localhost:1313/tags/taller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/taller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Música Libre</title>
+      <link>http://localhost:1313/tags/m%C3%BAsica-libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/m%C3%BAsica-libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelos 3D</title>
+      <link>http://localhost:1313/tags/modelos-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modelos-3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LibreOffice</title>
+      <link>http://localhost:1313/tags/libreoffice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/libreoffice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investigación</title>
+      <link>http://localhost:1313/tags/investigaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/investigaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BURJC Digital</title>
+      <link>http://localhost:1313/tags/burjc-digital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/burjc-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Congreso</title>
+      <link>http://localhost:1313/tags/congreso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/congreso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docencia</title>
+      <link>http://localhost:1313/tags/docencia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/docencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ayudas</title>
+      <link>http://localhost:1313/tags/ayudas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ayudas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovación</title>
+      <link>http://localhost:1313/tags/innovaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/innovaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guías</title>
+      <link>http://localhost:1313/tags/gu%C3%ADas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gu%C3%ADas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apoyo</title>
+      <link>http://localhost:1313/tags/apoyo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/apoyo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovación Docente</title>
+      <link>http://localhost:1313/tags/innovaci%C3%B3n-docente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/innovaci%C3%B3n-docente/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

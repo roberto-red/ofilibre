@@ -8,17 +8,17 @@ slides:
 
 extras:
   - name: Introducción a la Cultura Libre (PDF)
-    url: /pres/curso-cultura-libre/Cultura_Libre_Intro.pdf
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.pdf
   - name: Introducción a la Cultura Libre (ODP, para LibreOffice)
-    url: /pres/curso-cultura-libre/Cultura_Libre_Intro.odp
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.odp
   - name: Licencias (PDF)
-    url: /pres/curso-cultura-libre/Cultura_Libre_Licencias.pdf
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
   - name: Licencias (ODP, para LibreOffice)
-    url: /pres/curso-cultura-libre/Cultura_Libre_Licencias.odp
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
   - name: Búsqueda de obras libres (PDF)
-    url: /pres/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
   - name: Búsqueda de obras libres (ODP, para LibreOffice)
-    url: /pres/curso-cultura-libre/Cultura_Libre_Busqueda.odp
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
 
 type: pres
 categories:

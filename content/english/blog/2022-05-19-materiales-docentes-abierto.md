@@ -1,0 +1,32 @@
+---
+categories:
+- Resources
+- Open publishing
+date: 2022-05-19
+description: We make available to the teaching community a selection of information
+  related to the publication of open educational materials.
+image: images/guias/openaccess-square.png
+slug: 2022-05-19-materiales-docentes-abierto
+tags:
+title: Teaching materials in open access
+---
+
+We are making available to the teaching community a selection of information to start learning about publishing teaching materials in open access.
+
+As teachers, we often generate materials for our students. These materials can vary from videos, presentations to project in the classroom, notebooks, exams, etc. If these materials are our own creation, we could work on opening up our courses, offering them in open access, available to everyone, with a free license. But... what steps do we need to follow? Below, we offer a compilation of selected materials based on the questions that usually reach OfiLibre, including a new guide on this topic:
+
+* [Guide: Publishing teaching materials in open access](/en/guias/materiales-docentes-abierto/)
+
+* What is free culture? [Fundamentals and motivations of free culture](https://tv.urjc.es/video/579f2c3bd68b1420378b5c09)
+
+* What are free licenses? Can I put a free license on my material? How do I do it? [Good practices in the use of free materials](https://urjconline.atavist.com/2017/03/07/buenas-prcticas-en-el-uso-de-materiales/#Licencias_de_Cesion_de_Derechos_Creative_Commons) 
+
+* What licenses are considered free by the Open Publication Council? By decision of the Government Council, the licenses considered free are [Attribution (CC-BY)](https://creativecommons.org/licenses/by/4.0/deed.es_ES) and [Attribution-ShareAlike (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES), from Creative Commons
+
+* Can I use free works in my projects? [My projects and free works: a good pair](https://tv.urjc.es/video/5fda6c44d68b140e468b4ce3)
+
+* How do I make my material available to people? By uploading it to the Open Archive of the University. [Get to know the open archive of URJC](/en/blog/archivo-abierto/)
+
+* [What is the current procedure for uploading documents to the Open Archive of URJC?](https://burjcdigital.urjc.es/page/howtopublish)
+
+We hope to continue offering answers to your questions. For any query, do not hesitate to write to us at ofilibre@urjc.es

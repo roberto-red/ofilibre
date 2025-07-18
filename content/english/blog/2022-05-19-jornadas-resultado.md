@@ -1,0 +1,21 @@
+---
+categories:
+- Free culture days
+- Free Culture
+date: 2022-05-19
+description: Summary of the 1st Free Culture Day at URJC (including video of the presentations).
+image: images/blog/jornada-cultura-libre/square.png
+slug: 2022-05-19-jornadas-resultado
+tags:
+title: Results Free Culture Days
+---
+
+The past 30th of March, the First Open Culture Conference of the URJC took place. Our idea was to achieve a meeting point, training, and exchange of experiences on topics related to open culture at the University: open publication (of teaching materials, research, etc.), open science, open data, and free software, and we believe we succeeded!
+
+We had the special presence of Pilar Rico (Head of the Open Access Unit, Repositories and Journals FECYT) and Jesús Tramullas (Professor of Documentation, University of Zaragoza), and over 20 presentations on experiences related to Open Culture at the university. The conference was streamed and recorded thanks to the URJC's Audiovisual Service.
+
+Among the attendees were Mercedes Del Hoyo Hurtado, Vice-Rector of University Extension; Visitación López-Miranda González, Vice-Rector of Research; Alberto Sánchez Campos, Vice-Rector of Digital Transformation and Teaching Innovation; and, of course, students, Library staff, and teachers from different areas of knowledge. The feedback received has been very positive and encourages us to start thinking about the second conference, for 2023!
+
+Below, we leave you the video of the meeting. As for the materials and list of presentations, [you can retrieve them in the conference announcement](/en/blog/jornadas-cultura-libre/#detalle-y-materiales-de-ponencias).
+
+<iframe src='https://tv.urjc.es/iframe/626bfdadd3b334bb231e753c' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>

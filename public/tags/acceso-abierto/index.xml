@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acceso Abierto on OfiLibre URJC</title>
+    <link>http://localhost:1313/tags/acceso-abierto/</link>
+    <description>Recent content in Acceso Abierto on OfiLibre URJC</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/acceso-abierto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Dónde está la licencia?</title>
+      <link>http://localhost:1313/blog/2024-09-18-donde-esta-licencia/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-09-18-donde-esta-licencia/</guid>
+      <description>Te ofrecemos el vídeo ¿Dónde está la licencia?, para ayudar a identificar licencias de acceso abierto en revistas de investigación.</description>
+    </item>
+    <item>
+      <title>Presentación de convocatoria de asignaturas en abierto</title>
+      <link>http://localhost:1313/blog/2024-09-02-presentacion-asignaturas-abierto/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-09-02-presentacion-asignaturas-abierto/</guid>
+      <description>El próximo miércoles 4 de septiembre tendremos una videoconferencia de presentación de la convocatoria 2024-2025 de reconocimiento a la publicación de asignaturas en acceso abierto.</description>
+    </item>
+    <item>
+      <title>Feliz 2024</title>
+      <link>http://localhost:1313/blog/2023-12-21-feliz-2024/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-12-21-feliz-2024/</guid>
+      <description>Querida comunidad universitaria:&#xA;Desde la OfiLibre, perteneciente al Vicerrectorado de Comunidad Campus, Cultura y Deporte queremos desearos un 2024 lleno de materiales libres, muchas publicaciones en abierto, que uséis software libre y reaprovechéis los datos abiertos.</description>
+    </item>
+    <item>
+      <title>Posibilidades de publicación en acceso abierto para el PDI de la URJC</title>
+      <link>http://localhost:1313/blog/2023-11-12-acceso-abierto/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-11-12-acceso-abierto/</guid>
+      <description>ANECA ha publicado un Borrador de criterios de evaluación de la Convocatoria 2023 de Sexenios de investigación, abriendo un proceso de consultas al respecto.</description>
+    </item>
+    <item>
+      <title>Borrador de Sexenios y acceso abierto</title>
+      <link>http://localhost:1313/blog/borrador-de-sexenios-y-acceso-abierto/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/borrador-de-sexenios-y-acceso-abierto/</guid>
+      <description>ANECA ha publicado el Borrador de criterios de evaluación de la Convocatoria 2023 de Sexenios de investigación, que está sometido a un proceso de consulta pública hasta el próximo 19 de noviembre de 2023.</description>
+    </item>
+    <item>
+      <title>¡Asignaturas en abierto del 2º cuatrimestre! (2023)</title>
+      <link>http://localhost:1313/blog/2023-resultados-convocatoria-asignaturas/</link>
+      <pubDate>Tue, 23 May 2023 10:44:34 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-resultados-convocatoria-asignaturas/</guid>
+      <description>¡Volvemos a contar con nuevas asignaturas en abierto! Hasta el pasado mes de enero estuvimos recibiendo las solicitudes relativas a asignaturas del segundo cuatrimestre.</description>
+    </item>
+    <item>
+      <title>Asignaturas en abierto: una feliz realidad</title>
+      <link>http://localhost:1313/blog/2023-02-28-resultados-convocatoria-asignaturas/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-02-28-resultados-convocatoria-asignaturas/</guid>
+      <description>El pasado mes de junio se publicó la Convocatoria para el Reconocimiento de publicación de asignaturas en acceso abierto 2022-2023.</description>
+    </item>
+    <item>
+      <title>Asignaturas en acceso abierto (primer cuatrimestre 2022-23)</title>
+      <link>http://localhost:1313/blog/asignaturas-abierto-2022-2023-1/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/asignaturas-abierto-2022-2023-1/</guid>
+      <description>Este es el listado de las asignaturas que han obtenido la baremación suficiente como para ser consideradas &amp;ldquo;Asignaturas en Acceso Abierto&amp;rdquo;, entre las que se han presentado a la Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023 (primer cuatrimestre).</description>
+    </item>
+  </channel>
+</rss>
