@@ -21,7 +21,7 @@ description = "This is meta description"
   home = ["HTML", "JSON"]
 
 [params]
-showLanguageSwitcher = false
+showLanguageSwitcher = true
 logo = "images/logos/banner-urjc.png"
 menufixed = true
 contacto_form_action = "sendmail.php"
