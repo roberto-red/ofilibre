@@ -17,9 +17,7 @@
                             <span class="tf-ion-android-menu"></span>
                         </button>
                         <div id="drapeaux" class="select-language d-block d-lg-none">
-                            {{ range .Site.Params.listeLangues }}
-                                {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
-                            {{ end }}
+                            {{ partial "flags.html" . }}
                         </div>
                     </div>
                     <div class="collapse navbar-collapse" id="navigation">
@@ -56,13 +54,13 @@
                                     {{ end }}
                                     {{ end }}
                                 {{ end }}
-{{ if .Site.Params.showLanguageSwitcher }}
-<li class="nav-item d-none d-lg-block">
-    <div class="select-language nav-link">
-        {{ partial "flags.html" . }}
-    </div>
-</li>
-{{ end }}
+                                {{ if .Site.Params.showLanguageSwitcher }}
+                                <li class="nav-item d-none d-lg-block">
+                                    <div class="select-language nav-link">
+                                        {{ partial "flags.html" . }}
+                                    </div>
+                                </li>
+                                {{ end }}
                         </ul>
                     </div>
                 </nav>

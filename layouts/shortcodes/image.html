@@ -1,0 +1,28 @@
+<figure class="cited-image">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" title="{{ .Get "title" }}">
+  {{ if or (.Get "title") (.Get "author") (.Get "license") (.Get "source") }}
+  <figcaption>
+    <p class="caption-meta">
+      {{ with .Get "title" }}
+        <span class="title">Título: {{ . }}</span>
+      {{ end }}
+      {{ with .Get "author" }}
+        <span class="author">Autor: {{ . }}</span>
+      {{ end }}
+      {{ with .Get "license" }}
+        <span class="license">
+          Licencia: 
+          {{ with $.Get "licenseUrl" }}
+            <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Get "license" }}</a>
+          {{ else }}
+            {{ $.Get "license" }}
+          {{ end }}
+        </span>
+      {{ end }}
+      {{ with .Get "source" }}
+        <span class="source">Fuente: <a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a></span>
+      {{ end }}
+    </p>
+  </figcaption>
+  {{ end }}
+</figure>

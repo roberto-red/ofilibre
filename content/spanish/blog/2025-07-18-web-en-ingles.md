@@ -1,12 +1,13 @@
 ---
 title: "¡Ya está disponible la web de la OfiLibre en inglés!"
-date: 2025-07-16
-description: ""
+date: 2025-07-18
+description: "Échale un vistazo a la web en inglés y conoce cómo hemos realizado la traducción"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
     - recursos
 tags:
+draft: true
 ---
 
 ¡OfiLibre ya está disponible en inglés!

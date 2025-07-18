@@ -1,9 +1,9 @@
 ---
-title: "Generación automática de miniaturas usando PIL (Python)"
+title: "Generación automática de miniaturas con Python"
 image: 
 date: 2025-07-16
 type: guias
-description: ""
+description: "Conoce las herramientas que usamos en la OfiLibre para la edición de imágenes, lo que nos permite generar miniaturas"
 categories:
   - Recursos
   - software libre

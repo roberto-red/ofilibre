@@ -1,12 +1,13 @@
 ---
 title: "¡Cambio de diseño en la web!"
-date: 2025-07-16
-description: ""
+date: 2025-07-18
+description: "Conoce el nuevo diseño de la página web y cómo hemos hecho el cambio"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
     - recursos
 tags:
+draft: true
 ---
 
 ¡Estrenamos nueva web en OfiLibre! 

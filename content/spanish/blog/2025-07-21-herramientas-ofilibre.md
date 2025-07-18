@@ -1,7 +1,7 @@
 ---
 title: "Herramientas informáticas utilizadas en la OfiLibre"
-date: 2025-07-16
-description: ""
+date: 2025-07-21
+description: "Conoce las herramientas informáticas que utilizamos en la OfiLibre para automatizar las tareas"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre

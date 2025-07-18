@@ -3,7 +3,7 @@ title: "Desarrollo web de realidad virtual con A-Frame"
 image: 
 date: 2025-07-16
 type: guias
-description: ""
+description: "Conoce el procedimiento que hemos seguido para crear una experiencia de realidad virtual con A-Frame"
 categories:
   - Recursos
   - software libre

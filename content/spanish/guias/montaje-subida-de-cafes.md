@@ -3,7 +3,7 @@ title: "Proceso de montaje y subida de los Cafés con OfiLibre"
 image: 
 date: 2025-07-16
 type: guias
-description: ""
+description: "Conoce el procedimiento que seguimos para la elaboración de los Cafés con OfiLibre, desde su grabación hasta su publicación en plataformas"
 categories:
   - Recursos
   - software libre

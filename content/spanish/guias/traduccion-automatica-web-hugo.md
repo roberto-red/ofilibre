@@ -3,11 +3,12 @@ title: "Traducción automática de un sitio web Hugo con IA"
 image: images/logos/logo-ofilibre-2025.jpg
 date: 2025-07-16
 type: guias
-description: ""
+description: "Conoce cómo publicar un sitio Hugo en un nuevo idioma usando traducción automática con LLM"
 categories:
   - Recursos
   - software libre
 tags:
+draft: true
 ---
 
 # Guía técnica: cómo añadimos soporte multilenguaje (inglés) a la web de OfiLibre

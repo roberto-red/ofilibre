@@ -1803,3 +1803,45 @@ hr {
   -webkit-animation-delay: -0.1s;
   animation-delay: -0.1s;
 }
+
+/*=================================================================
+  Cited images
+==================================================================*/
+
+figure.cited-image {
+  text-align: center;
+  max-width: 100%;
+}
+figure.cited-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+figure.cited-image figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #555;
+  line-height: 1.4;
+}
+.caption-title {
+  font-weight: bold;
+}
+.caption-meta {
+  font-size: 0.75rem;
+  color: #777;
+}
+.caption-meta span {
+  display: inline-block;
+  margin-right: 0.6em;
+}
+
+.cited-image figcaption .caption-meta {
+  margin: 0.7rem;
+  line-height: 1.5;
+}
+
+.cited-image figcaption .caption-meta span {
+  display: inline;
+  margin-right: 0.75em;
+  white-space: nowrap;
+}

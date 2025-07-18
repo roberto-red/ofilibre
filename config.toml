@@ -18,7 +18,7 @@ description = "This is meta description"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "RSS"]
 
 [params]
 showLanguageSwitcher = true
@@ -90,6 +90,7 @@ mastodon = "https://floss.social/@OfiLibreURJC"
 telegram = "https://t.me/ofilibreurjc"
 instagram = "https://www.instagram.com/ofilibreurjc/"
 gitlab = "https://gitlab.etsit.urjc.es/ofilibre"
+rss = "/index.xml" 
 mapLatitude = "40.337887"
 mapLongitude = "-3.874810"
 mapMarker = "/contact/marker.png"
@@ -139,6 +140,7 @@ mastodon = "https://floss.social/@OfiLibreURJC"
 telegram = "https://t.me/ofilibreurjc"
 instagram = "https://www.instagram.com/ofilibreurjc/"
 gitlab = "https://gitlab.etsit.urjc.es/ofilibre"
+rss = "/en/index.xml" 
 mapLatitude = "40.337887"
 mapLongitude = "-3.874810"
 mapMarker = "/contact/marker.png"
