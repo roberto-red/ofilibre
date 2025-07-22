@@ -1,134 +1,130 @@
-<h1 align=center>Navigator Hugo</h1>
-<p align=center>This theme is highly customizable and aimed exclusively at presenting any business or corporate profile.</p>
-<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/navigator" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnavigator%2Fsite%2Fen%2F&form_factor=desktop">Page Speed (93%)🚀</a>
-</h2>
+# Guía de mantenimiento y estructura del sitio Ofilibre
 
+Este documento está pensado para que cualquier persona pueda mantener y actualizar la web, aunque no la haya montado originalmente.
 
+---
 
-<p align=center>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.147.2" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.147.2&color=f00&logo=hugo" />
-  </a>
+## 1. Requisitos previos y herramientas necesarias
 
-  <a href="https://github.com/gethugothemes/navigator-hugo/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/gethugothemes/navigator-hugo" alt="license"></a>
+- El sitio está hecho con **Hugo**. Se recomienda usar la versión v0.147.2 o superior. Puedes descargarla desde [https://gohugo.io/getting-started/installing/](https://gohugo.io/getting-started/installing/).
+- Es necesario tener **Git** instalado para clonar el repositorio y subir cambios.
+- Se recomienda usar un editor de texto como **Visual Studio Code**.
+- El despliegue y el CMS están gestionados a través de **Netlify**. La cuenta utilizada es la de **Ofilibre**. Si necesitas acceso, contacta con el responsable de Ofilibre para que te añada como usuario.
 
-  <img src="https://img.shields.io/github/languages/code-size/gethugothemes/navigator-hugo" alt="code size">
+---
 
-  <a href="https://github.com/gethugothemes/navigator-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/gethugothemes/navigator-hugo" alt="contributors"></a>
+## 2. Cómo instalar y probar en local
 
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
-</p>
+1. Clona el repositorio:
+   ```bash
+   git clone https://gitlab.com/ofilibre/ofilibre.gitlab.io.git
+   cd ofilibre.gitlab.io
+   ```
+2. Instala Hugo si no lo tienes:
+   - Descárgalo desde [https://gohugo.io/getting-started/installing/](https://gohugo.io/getting-started/installing/)
+   - Comprueba la instalación con:
+     ```bash
+     hugo version
+     ```
+3. Lanza el servidor local:
+   ```bash
+   hugo serve
+   ```
+4. Abre tu navegador y accede a [http://localhost:1313](http://localhost:1313) para ver la web en local.
 
+---
 
+## 3. Enlace al estilo original
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37659754/54080047-38a01b80-4312-11e9-8aa2-1e716c07c0f2.gif" alt="screenshot" width="100%">
-</p>
+El sitio utiliza el tema **Navigator Hugo**.
+- Demo y documentación original: [https://demo.gethugothemes.com/navigator/](https://demo.gethugothemes.com/navigator/)
+- Repositorio del tema: [https://github.com/gethugothemes/navigator-hugo](https://github.com/gethugothemes/navigator-hugo)
 
+---
 
-## 🔑Features
-- 📄 7+ Pre-Designed Pages
-- 🏠 Multiple homepages (2)
-- 🌍 Multiple language support (Fr, En)
-- 📊 Google Analytics support
-- ⚙️ Netlify settings predefine
-- 🅱️ Bootstrap Based
-- ✉️ contacto form support
-- 🔄 GDPR consent enabled
-- 🗺️ Google Maps support
-- 🚀 Google Page Speed optimized
-- 🌐 Open Graph meta tag
-- 🐦 Twitter Card meta tag
+## 4. Cambios y personalizaciones realizadas
 
-## 📄 7+ Pre-Designed Pages
+- **Estructura de carpetas adaptada** para separar contenido por idioma y sección.
+- **Plantillas personalizadas** en `layouts/` para ajustarse a las necesidades de Ofilibre.
+- **Integración con Netlify CMS** para edición sencilla de contenido.
+- **Archivos estáticos** organizados en `static/` (imágenes, PDFs, documentos, etc.).
+- **Configuración multilingüe** y menús adaptados.
+- **Ajustes en `config.toml`** para personalización de la web, idiomas, menús, etc.
 
-- 🏠 Home Page
-- ℹ️ ofilibre Page
-- 📞 contacto Page
-- 📄 recursos Page
-- 📄 Blog Page
-- 📝 Blog Single Page
-- 📧 contacto Page
+---
 
-## 🔧Local development
+## 5. Estructura del proyecto
 
-```bash
-# clone the repository
-git clone git@github.com:gethugothemes/navigator-hugo.git
+- `content/english/` y `content/spanish/`:  
+  Contenido de la web, organizado por idioma y sección (`blog/`, `guias/`, `pres/`, etc.).
+- `static/`:  
+  Archivos estáticos accesibles desde la web (imágenes, PDFs, etc.).
+- `layouts/`:  
+  Plantillas HTML personalizadas.
+- `data/`:  
+  Archivos de datos estructurados (equipo, actividades, etc.).
+- `config.toml`:  
+  Configuración principal del sitio.
+- `static/admin/`:  
+  Configuración y acceso al CMS de Netlify.
 
-# setup project
-$ npm run project-setup
+---
 
-# Start local dev server
-$ npm run dev
-```
+## 6. ¿Cómo añadir o modificar contenido?
 
-Or Check out [Full Documentation](https://docs.gethugothemes.com/navigator/?ref=github).
+### A. Manualmente (Markdown)
 
+1. Elige la carpeta adecuada en `content/idioma/sección/` (por ejemplo, `content/spanish/blog/`).
+2. Crea un archivo `.md` siguiendo la estructura:
+   ```markdown
+   ---
+   title: "Título"
+   date: YYYY-MM-DD
+   draft: false
+   description: "Breve descripción"
+   tags: ["etiqueta1", "etiqueta2"]
+   ---
+   Contenido en Markdown.
+   ```
+3. Sube imágenes o archivos a `static/images/` o `static/documentos/` y enlázalos desde el Markdown.
+4. Haz commit y push a la rama principal.
 
-## ⚙️Deployment and hosting
+### B. Usando el CMS de Netlify
 
-[![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/navigator-hugo)
+1. Accede a [https://ofilibre.urjc.es/admin](https://ofilibre.urjc.es/admin) e inicia sesión.
+2. Elige la colección (blog, guías, presentaciones, etc.).
+3. Crea o edita la entrada rellenando los campos del formulario.
+4. Guarda y publica. El CMS generará el archivo Markdown y lo subirá al repositorio.
 
-Follow the steps.
+---
 
+## 7. ¿Cómo añadir archivos estáticos?
 
-<!-- reporting issue -->
-## 🐞Reporting Issues
+- Sube imágenes a `static/images/`.
+- Sube documentos a `static/documentos/` o la carpeta correspondiente.
+- Enlaza estos archivos desde los archivos Markdown usando rutas relativas, por ejemplo:  
+  `/images/mi-imagen.jpg` o `/documentos/mi-archivo.pdf`
 
-We use GitHub Issues as the official bug tracker for the navigator Template. Please Search [existing
-issues](https://github.com/gethugothemes/navigator-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/navigator-hugo/issues).
+---
 
+## 8. Enlazar y configurar el CMS de Netlify
 
-## 📱Submit Your Website To Our Showcase
+- El CMS está configurado en `static/admin/config.yml`.
+- Si necesitas añadir nuevas colecciones o campos, edita ese archivo.
+- El acceso es mediante Git Gateway o autenticación de Netlify Identity (según configuración actual).
+- El CMS genera archivos Markdown en las carpetas correspondientes de `content/`.
 
-Are you using Navigator Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
+---
 
-Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
+## 9. Despliegue y hosting
 
-[Submit](https://gethugothemes.com/showcase?submit=show) your Navigator Hugo powered website.
+- El sitio está pensado para desplegarse automáticamente en Netlify tras cada push a la rama principal.
+- Si necesitas desplegar manualmente, sigue las instrucciones de Netlify o ejecuta `hugo` para generar el sitio estático en `public/`.
 
-<!-- licence -->
-## 📄License
+---
 
-Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
-[Gethugothemes](https://gethugothemes.com)
+## 10. Notas y recomendaciones
 
-**Code License:** Released under the [MIT](https://github.com/gethugothemes/navigator-hugo/blob/master/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
-share those images.
-
-<!-- resources -->
-## 🙏Special Thanks
-
-- [Bootstrap](https://getbootstrap.com)
-- [Jquery](https://jquery.com)
-- [Filterizr](https://yiotis.net/filterizr/)
-- [Lightbox2](https://lokeshdhakar.com/projects/lightbox2)
-- [Parallax](https://ianlunn.co.uk/plugins/jquery-parallax)
-- [Slick Slider](https://kenwheeler.github.io/slick/)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Google Fonts](https://fonts.google.com/)
-- [All Contributors](https://github.com/gethugothemes/navigator-hugo/graphs/contributors)
-
-## 👨‍💻Hire Us
-
-Besides developing unique, blazing-fast Hugo themes, we also provide customized accioness. We specialize in creating affordable, high-quality static websites based on Hugo.
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our
-[accioness](https://gethugothemes.com/accioness/?utm_source=navigator_github&utm_medium=referral&utm_campaign=github_theme_readme)**
-
-<!-- premium themes -->
-## Premium Themes By Us
-
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=navigator_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Meghna](https://demo.gethugothemes.com/thumbnails/meghna.png)](https://gethugothemes.com/products/meghna/) | [![Bigspring](https://demo.gethugothemes.com/thumbnails/bigspring.png)](https://gethugothemes.com/products/bigspring/) |
-|:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Meghna** | **Bigspring** |
+- Si añades una nueva sección, crea la carpeta en `content/idioma/` y la plantilla en `layouts/` si es necesario.
+- Revisa la documentación de Hugo para personalizaciones avanzadas: [https://gohugo.io/documentation/](https://gohugo.io/documentation/)
+- Si tienes dudas sobre el tema visual, consulta el repositorio original del tema Navigator.
