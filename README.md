@@ -80,9 +80,14 @@ El sitio utiliza el tema **Navigator Hugo**.
    ---
    title: "Título"
    date: YYYY-MM-DD
-   draft: false
-   description: "Breve descripción"
-   tags: ["etiqueta1", "etiqueta2"]
+   description: "Breve descrpción"
+   image: /images/"ejemplo"
+   categories:
+      - "Categoría 1"
+      - "Categoría 2"
+   tags:
+      - "Tag 1"
+      - "Tag 2"
    ---
    Contenido en Markdown.
    ```
