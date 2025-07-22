@@ -116,8 +116,10 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 - El CMS está configurado en `static/admin/config.yml`.
 - Si necesitas añadir nuevas colecciones o campos, edita ese archivo.
+- Otro archivo necesario es `netlify.toml`.
 - El acceso es mediante Git Gateway o autenticación de Netlify Identity (según configuración actual).
 - El CMS genera archivos Markdown en las carpetas correspondientes de `content/`.
+- Para más información sobre Netlify visita [esta gúia paso a paso](https://ofilibre.urjc.es/guias/migracion-gitlab-a-netlify/) donde se explica cómo fue la migración.
 
 ---
 
