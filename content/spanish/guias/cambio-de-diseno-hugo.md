@@ -1,14 +1,13 @@
 ---
 title: "Cambio de tema en un sitio web desarrollado con Hugo"
 image: images/logos/logo-ofilibre-2025.jpg
-date: 2025-07-16
+date: 2025-07-23
 type: guias
 description: "La web de la OfiLibre tiene un nuevo diseño, y en esta guía explicamos los pasos que hemos seguido para realizar el cambio"
 categories:
   - Recursos
   - software libre
 tags:
-draft: true
 ---
 
 # Nueva versión del sitio web de OfiLibre con plantilla Hugo
@@ -180,4 +179,4 @@ listeLangues = [
 Con esta migración hemos conseguido un sitio web más moderno y accesible, manteniendo la estructura y contenidos previos.
 Además, se ha añadido navegación multilingüe y se ha mejorado el rendimiento.
 
-En caso de duda con el código, se puede consultar en [este repositorio de gitlab.](https://gitlab.com/ofilibre/ofilibre.gitlab.io)
+En caso de duda con el código, se puede consultar en [este repositorio de GitLab](https://gitlab.com/ofilibre/ofilibre.gitlab.io).

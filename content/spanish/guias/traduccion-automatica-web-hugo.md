@@ -287,6 +287,7 @@ other = "Learn more"
 Así, Hugo sabrá qué mostrar cuando renderice la versión en inglés del sitio.
 
 ## 4. Traducción automatizada con un LLM
+
 Para facilitar la tarea de traducción, usamos un script con un modelo de lenguaje (LLM) que se encargó de traducir automáticamente todos los textos del español al inglés. 
 El script fue ejecutado sobre todos los .yml y .toml relevantes, y posteriormente revisamos los textos manualmente para garantizar la coherencia y calidad.
 
