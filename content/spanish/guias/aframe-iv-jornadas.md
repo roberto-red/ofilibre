@@ -1,14 +1,13 @@
 ---
 title: "Desarrollo web de realidad virtual con A-Frame"
-image: 
-date: 2025-07-16
+image: /images/logo-ofilibre-2025.jpg
+date: 2025-07-24
 type: guias
 description: "Conoce el procedimiento que hemos seguido para crear una experiencia de realidad virtual con A-Frame"
 categories:
   - Recursos
   - software libre
 tags:
-draft: true
 ---
 
 # Guía: Cómo creamos nuestro espacio virtual con A-Frame

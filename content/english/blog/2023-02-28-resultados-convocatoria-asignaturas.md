@@ -3,7 +3,7 @@ categories:
 - Open Subjects
 - Calls
 date: 2023-02-28
-description: Resultado de la convocatoria de Subjects in Open Access
+description: Open subjects call results
 image: images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
 slug: 2023-02-28-resultados-convocatoria-asignaturas
 tags:

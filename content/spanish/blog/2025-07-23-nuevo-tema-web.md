@@ -7,7 +7,6 @@ categories:
     - software libre
     - recursos
 tags:
-draft: true
 ---
 
 ¡Estrenamos nueva web en OfiLibre! 

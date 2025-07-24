@@ -1,6 +1,6 @@
 ---
 title: "Edición automática de imágenes con Python"
-image: 
+image: /images/logo-ofilibre-2025.jpg
 date: 2025-07-23
 type: guias
 description: "Conoce las herramientas que usamos en la OfiLibre para la edición de imágenes, lo que nos permite generar miniaturas"
