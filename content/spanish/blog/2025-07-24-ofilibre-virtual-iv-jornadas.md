@@ -1,13 +1,12 @@
 ---
 title: "¡Visita la OfiLibre de manera virtual!"
-date: 2025-07-16
+date: 2025-07-24
 description: "Conoce el espacio virtual que hemos creado utilizando A-Frame"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
     - recursos
 tags:
-draft: true
 ---
 
 Recorre nuestro espacio virtual libre

@@ -1,18 +1,17 @@
 ---
 title: "¡Cambio de diseño en la web!"
-date: 2025-07-18
+date: 2025-07-23
 description: "Conoce el nuevo diseño de la página web y cómo hemos hecho el cambio"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
     - recursos
 tags:
-draft: true
 ---
 
 ¡Estrenamos nueva web en OfiLibre! 
 
-Ya puedes visitar [https://ofilibre.urjc.es](https://ofilibre.urjc.es) y descubrir nuestro nuevo espacio: con un diseño más limpio, visual y accesible, pensado para que navegar sea más fácil que nunca.
+Ya puedes visitar [https://ofilibre.urjc.es](https://ofilibre.urjc.es) y descubrir nuestro nuevo espacio: con un diseño más limpio, _responsive_ y accesible, pensado para que navegar sea más fácil que nunca.
 
 Encontrarás nuestros blogs, guías, recursos sobre software libre, asignaturas en abierto y más. Todo bien organizado, con espíritu colaborativo y muchas ganas de compartir.
 

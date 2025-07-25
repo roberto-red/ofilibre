@@ -2,8 +2,7 @@
 categories:
 - Open Subjects
 date: 2023-05-23 10:44:34.561000+00:00
-description: Resultado de la convocatoria de Subjects in open access of the second
-  semester
+description: Open subjects call results (2nd quarter)
 image: /images/convocatoria-aseignaturas-2.jpg
 slug: 2023-resultados-convocatoria-asignaturas
 tags:
