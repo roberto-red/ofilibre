@@ -1,13 +1,12 @@
 ---
 title: "Herramientas informáticas utilizadas en la OfiLibre"
-date: 2025-07-21
+date: 2025-07-25
 description: "Conoce las herramientas informáticas que utilizamos en la OfiLibre para automatizar las tareas"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
     - recursos
 tags:
-draft: true
 ---
 
 En OfiLibre no solo nos gusta hacer las cosas bien, también nos gusta hacerlas **inteligentemente**. Por eso, hemos incorporado varias herramientas y scripts de automatización que nos ayudan a ahorrar tiempo, reducir errores y agilizar nuestro trabajo diario.
@@ -30,7 +29,7 @@ Desde la grabación hasta la publicación en plataformas de audio, hemos automat
 
 Hemos desarrollado un sistema que permite:
 
-- Redactar correos con plantillas HTML.
+- Redactar correos con parámetros variables.
 - Personalizarlos automáticamente para cada destinatario.
 - Enviarlos con programación o en respuesta a eventos concretos.
 
@@ -39,23 +38,18 @@ Ideal para avisos de nuevas publicaciones, eventos o difusión de recursos.
 [Ver guía de automatización de emails](/guias/envio-de-correos-masivos)
 
 
-#### Edición de miniaturas de asignaturas en abierto
+#### Edición de imágenes con Python
 
-Para nuestras asignaturas en abierto, generamos miniaturas de forma sistemática y automatizada:
+Hemos desarrollado una serie de scripts en Python que nos permiten automatizar la creación de imágenes con un estilo coherente y profesional. Algunas de sus características son:
 
-- Diseño basado en plantilla.
-- Inserción automática de nombre de la asignatura, autor y nombre del recurso.
-- Exportación en formato optimizado para web.
+- Crear imágenes a partir de plantillas gráficas.
+- Insertar texto en distintas posiciones, con distintos tamaños, colores y fuentes.
+- Adaptar el diseño según el número de personas o el tipo de contenido.
+- Usar fuentes libres descargadas automáticamente desde Google Fonts.
+- Exportar las imágenes en formato PNG, listas para usar en la web o en redes sociales.
 
-Esto nos permite mantener coherencia visual y agilidad al subir nuevos contenidos.
+Además, lo hemos particularizado para la generación de miniaturas para los Cafés con OfiLibre, así como para la generación de miniaturas para los materiales de asignaturas en abierto.
 
-[Ver guía de edición automatizada de miniaturas](guias/generacion-de-miniaturas)
-
+[Ver guía de edición de imágenes con Python](/guias/edicion-imagenes-python)
 
 Gracias a estas automatizaciones, el equipo de OfiLibre puede centrarse más en crear y compartir conocimiento libre, y menos en tareas repetitivas.
-
-Enlazar a tres guias:
-
-- Montaje y subida de cafes (lo que incluye la generación de miniaturas, edicion, paso a mp3 y subida a plataformas)
-- Envío de correos
-- Edición de miniaturas asignaturas en abierto

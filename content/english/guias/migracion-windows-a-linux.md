@@ -4,7 +4,7 @@ categories:
 - Free Software
 date: 2025-03-11
 image: /images/guias/logo-ubuntu.png
-tags:
+tags: 
 title: Migration from Windows to Linux
 type: guias
 ---
@@ -15,18 +15,18 @@ This guide describes the process we followed to install Linux (as the only opera
 
 1. We selected the **GNU/Linux distribution to use.** In our case we chose **Ubuntu** for its simplicity and versatility, making it a suitable distribution for taking your first steps with Linux.
 
-2. We **downloaded the ISO file** of the chosen distribution. In our case we did this from the [Ubuntu download page](https://ubuntu.com/download/desktop), selecting version 24.04.1 LTS.
+2. **We downloaded the ISO file** of the chosen distribution. In our case we did this from the [Ubuntu download page](https://ubuntu.com/download/desktop), selecting version 24.04.1 LTS.
 
-3. We **downloaded the application to create the bootable USB**. In our case it was balenaEtcher and we obtained it [from its official page.](https://etcher.balena.io/)
+3. **We downloaded the application to create the bootable USB**. In our case it was balenaEtcher and we obtained it [from its official page.](https://etcher.balena.io/)
 
-4. We **prepared the bootable USB**. To do this, we connect the USB, open balenaEtcher, select the ISO file in the _Flash from file_ option and the corresponding USB in the _Select target_ option (remember that this procedure will erase the contents of the USB) and select _Flash!_ This process may take a few minutes.
+4. **We prepared the bootable USB**. To do this, we connect the USB, open balenaEtcher, select the ISO file in the _Flash from file_ option and the corresponding USB in the _Select target_ option (remember that this procedure will erase the contents of the USB) and select _Flash!_ This process may take a few minutes.
 
-5. We **accessed the BIOS to modify the boot options**. To do this, we disconnect the USB, reconnect it and restart the computer. On the boot screen you will be shown which button (which may vary depending on the computer, in our case it was F11) you need to press to enter the so-called _Boot Menu_. This boot menu is what will allow you to start the computer directly from the hard drive, where you have your conventional operating system, or from any other external drive. We modify the boot options so that the USB is the first, that is, the priority, and we exit the BIOS.
+5. **We accessed the BIOS to modify the boot options**. To do this, we disconnect the USB, reconnect it and restart the computer. On the startup screen you will be told which button (which may vary depending on the computer, in our case it was F11) you need to press to enter the so-called _Boot Menu_. This boot menu is what will allow you to start the computer directly from the hard drive, where you have your conventional operating system, or from any other external drive. We modify the boot options so that the USB is the first, that is, the priority, and we exit the BIOS.
 
-6. In the menu that appears, we **select _Try or Install Ubuntu_**. In the next menu we configure the language and **choose the _Install Ubuntu_ option**. Subsequently we will be asked to configure the keyboard layout and connect to a wireless network (WiFi). In the next step we select the most appropriate options for our context, although it is recommended to check the options:
+6. In the menu that will be displayed **we select _Try or Install Ubuntu_**. In the next menu we configure the language and **choose the option _Install Ubuntu_**. Later we will be asked to configure the keyboard layout and the connection to a wireless network (WiFi). In the next step we select the options most appropriate to our context, although it is recommended to check the options:
 
-*   _Normal installation_  
+*   _Normal installation_
 *   _Download updates while installing Ubuntu_
-*   _Install third-party software for graphics and Wi-Fi hardware and additional media formats_  
+*   _Install third-party software for graphics and Wi-Fi hardware and additional media formats_
 
-In the next menu, which is the most important for the type of installation we are doing, we **select _Erase disk and install Ubuntu_**. In the subsequent steps we will be asked to configure the disk partitions and system users, thus completing the installation process.
+In the next menu, which is the most important for the type of installation we are doing, **we will select _Erase disk and install Ubuntu_**. In the subsequent steps we will be asked to configure the disk partitions and system users, thus completing the installation process.

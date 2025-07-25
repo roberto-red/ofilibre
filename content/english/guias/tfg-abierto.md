@@ -1,7 +1,7 @@
 ---
 categories:
 - Resources
-- Open Access Publication
+- Open Publishing
 date: 2022-03-22
 image: /images/logo-ofilibre-2025.jpg
 tags:
@@ -132,7 +132,7 @@ published in open access:
 > > [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration),
 > > October 22, 2003
 
-The URJC Open Publication Council has recognized
+URJC Open Publication Council has recognized
 the following as open access licenses (which comply
 with the most common definitions of open access):
 

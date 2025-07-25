@@ -1,13 +1,12 @@
 ---
 title: "¡Ya está disponible la web de la OfiLibre en inglés!"
-date: 2025-07-18
+date: 2025-07-25
 description: "Échale un vistazo a la web en inglés y conoce cómo hemos realizado la traducción"
 image: images/logos/logo-ofilibre-2025.jpg
 categories:
     - software libre
     - recursos
 tags:
-draft: true
 ---
 
 ¡OfiLibre ya está disponible en inglés!
@@ -24,6 +23,6 @@ Muy fácil: solo tienes que hacer **click en el selector de idioma** situado en 
 
 Hemos preparado una **guía paso a paso** donde explicamos el proceso técnico que hemos seguido para internacionalizar el sitio usando la plantilla de Hugo `navigator-hugo`. Puedes consultarla aquí:
 
-[Guía técnica: cómo añadimos soporte multilenguaje a OfiLibre](guias/traduccion-automatica-web-hugo)
+[Guía técnica: cómo añadimos soporte multilenguaje a OfiLibre](/guias/traduccion-automatica-web-hugo)
 
 Seguimos trabajando para hacer de OfiLibre un espacio más accesible, útil y abierto para toda la comunidad universitaria… ¡en todos los idiomas posibles!

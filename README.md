@@ -4,7 +4,7 @@ Este documento está pensado para que cualquier persona pueda mantener y actuali
 
 ---
 
-## 1. Requisitos previos y herramientas necesarias
+## Requisitos previos y herramientas necesarias
 
 - El sitio está hecho con **Hugo**. Se recomienda usar la versión v0.147.2 o superior. Puedes descargarla desde [https://gohugo.io/getting-started/installing/](https://gohugo.io/getting-started/installing/).
 - Es necesario tener **Git** instalado para clonar el repositorio y subir cambios.
@@ -13,7 +13,7 @@ Este documento está pensado para que cualquier persona pueda mantener y actuali
 
 ---
 
-## 2. Cómo instalar y probar en local
+## Cómo instalar y probar en local
 
 1. Clona el repositorio:
    ```bash
@@ -34,7 +34,7 @@ Este documento está pensado para que cualquier persona pueda mantener y actuali
 
 ---
 
-## 3. Enlace al estilo original
+## Enlace al estilo original
 
 El sitio utiliza el tema **Navigator Hugo**.
 - Demo y documentación original: [https://demo.gethugothemes.com/navigator/](https://demo.gethugothemes.com/navigator/)
@@ -42,7 +42,7 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-## 4. Cambios y personalizaciones realizadas
+## Cambios y personalizaciones realizadas
 
 - **Estructura de carpetas adaptada** para separar contenido por idioma y sección.
 - **Plantillas personalizadas** en `layouts/` para ajustarse a las necesidades de Ofilibre.
@@ -53,7 +53,7 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-## 5. Estructura del proyecto
+## Estructura del proyecto
 
 - `content/english/` y `content/spanish/`:  
   Contenido de la web, organizado por idioma y sección (`blog/`, `guias/`, `pres/`, etc.).
@@ -70,7 +70,10 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-## 6. ¿Cómo añadir o modificar contenido?
+## ¿Cómo añadir o modificar contenido?
+
+  - A la hora de localizar o añadir contenido se debe recordar que el link para el sitio en español (por defecto) tiene esta estructura `ofilibre.urjc.es/blog` por ejemplo.
+  - En cambio, el sitio en inglés contiene las siglas "en" de esta forma `ofilibre.urjc.es/en/blog`.
 
 ### A. Manualmente (Markdown)
 
@@ -103,7 +106,7 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-## 7. ¿Cómo añadir archivos estáticos?
+## ¿Cómo añadir archivos estáticos?
 
 - Sube imágenes a `static/images/`.
 - Sube documentos a `static/documentos/` o la carpeta correspondiente.
@@ -112,7 +115,7 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-## 8. Enlazar y configurar el CMS de Netlify
+## Enlazar y configurar el CMS de Netlify
 
 - El CMS está configurado en `static/admin/config.yml`.
 - Si necesitas añadir nuevas colecciones o campos, edita ese archivo.
@@ -123,14 +126,43 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-## 9. Despliegue y hosting
+## Despliegue y hosting
 
 - El sitio está pensado para desplegarse automáticamente en Netlify tras cada push a la rama principal.
 - Si necesitas desplegar manualmente, sigue las instrucciones de Netlify o ejecuta `hugo` para generar el sitio estático en `public/`.
 
 ---
 
-## 10. Notas y recomendaciones
+## Citar imágenes (/shortcodes/image.html)
+
+Para insertar imágenes con atribución y licencia de forma estandarizada, se ha implementado la plantilla `/shortcodes/image.html`. Para utilizarlo se incluye un fragmento HTML en el Markdown correspondiente, de la siguiente manera:
+
+```
+{{< image
+  src="/images/blog/mooc/foto-blog-3.jpg"
+  alt="Set de grabación. En la mesa están sentados, de izquierda a derecha, Jesús M. González Barahona, Florencia Claes y Tomás Zarza."
+  title="Grabación del MOOC"
+  author="OfiLibre"
+  license="CC BY-SA 4.0"
+  licenseUrl="https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+>}}
+```
+
+**Parámetros:**
+
+- src: Ruta relativa de la imagen.
+- alt: Texto alternativo (para accesibilidad).
+- title: Título o pie de foto.
+- author: Autoría de la imagen.
+- license: Tipo de licencia.
+- licenseUrl: Enlace a la licencia correspondiente.
+- source: Fuente (url) de la imagen.
+
+Este shortcode asegura que la imagen se muestre correctamente y que los créditos y licencias estén bien citados.
+
+---
+
+## Notas y recomendaciones
 
 - Si añades una nueva sección, crea la carpeta en `content/idioma/` y la plantilla en `layouts/` si es necesario.
 - Revisa la documentación de Hugo para personalizaciones avanzadas: [https://gohugo.io/documentation/](https://gohugo.io/documentation/)

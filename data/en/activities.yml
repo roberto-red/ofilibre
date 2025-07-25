@@ -5,30 +5,30 @@ item      :
 
   - image : /images/acciones/consejo-pa.png
     title : Open Publishing Council
-    link  : /acciones/consejo-publicacion-abierta/
+    link  : /en/acciones/consejo-publicacion-abierta/
     description : >
       Minutes and documents related to the meetings of the Open Publishing Council.
 
   - image : /images/acciones/normativa.png
     title : Regulations related to OfiLibre
-    link  : /acciones/normativa/
+    link  : /en/acciones/normativa/
     description : >
       Regulations (bylaws, regulatory developments, etc.) related to OfiLibre.
 
   - image : /images/acciones/cafes.png
     title : Cafe con OfiLibre
-    link  : /acciones/cafes/
+    link  : /en/acciones/cafes/
     description : >
       A few minutes each week to chat about free culture, open access publishing, free software, and open data, among other topics that matter to us.
 
   - image : /images/acciones/jornadas.png
     title : Free Culture Days
-    link  : /acciones/jornadas
+    link  : /en/acciones/jornadas
     description : >
       Free Culture Days: a few days to celebrate free culture, open publishing, open data, and free software, among other relevant topics.
 
   - image : /images/acciones/asignaturas-abierto.png
     title : Open Subjects
-    link  : /acciones/asignaturas_abierto
+    link  : /en/acciones/asignaturas_abierto
     description : >
       Materials related to URJC’s Open Subjects Program.

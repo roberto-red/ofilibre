@@ -3,7 +3,6 @@ title: "¿Qué es una Licencia?"
 date: "2025-03-21T08:00:00"
 slug: "licencias-libres"
 description: "Aprende qué es una licencia y cómo regula el uso, distribución y modificación de obras. Descubre las distintas licencias Creative Commons y de software que permiten compartir conocimiento de manera flexible y segura."
-type: post
 categories:
   - Jornadas
 tags:

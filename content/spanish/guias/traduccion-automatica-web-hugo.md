@@ -1,21 +1,18 @@
 ---
 title: "Traducción automática de un sitio web Hugo con IA"
 image: images/logos/logo-ofilibre-2025.jpg
-date: 2025-07-16
+date: 2025-07-25
 type: guias
 description: "Conoce cómo publicar un sitio Hugo en un nuevo idioma usando traducción automática con LLM"
 categories:
   - Recursos
   - software libre
 tags:
-draft: true
 ---
 
 # Guía técnica: cómo añadimos soporte multilenguaje (inglés) a la web de OfiLibre
 
 En esta guía te explicamos, paso a paso, cómo hemos implementado el soporte en inglés en la página web de **OfiLibre**, basada en la plantilla [`navigator-hugo`](https://github.com/gethugothemes/navigator-hugo).
-
----
 
 ## 1. Configuración multilenguaje en `config.toml`
 
@@ -288,7 +285,71 @@ Así, Hugo sabrá qué mostrar cuando renderice la versión en inglés del sitio
 
 ## 4. Traducción automatizada con un LLM
 
-Para facilitar la tarea de traducción, usamos un script con un modelo de lenguaje (LLM) que se encargó de traducir automáticamente todos los textos del español al inglés. 
-El script fue ejecutado sobre todos los .yml y .toml relevantes, y posteriormente revisamos los textos manualmente para garantizar la coherencia y calidad.
+La traducción del contenido al inglés no se hizo manualmente. Para acelerar el proceso y mantener la estructura técnica de cada archivo (metadatos y cuerpo del texto), utilizamos un modelo de lenguaje (LLM) a través de un script Python que automatiza todo el flujo. En nuestro caso, el LLM utilizado fue Kimi K2, con id `moonshotai/kimi-k2-instruct`.
 
-Este script lo puedes obtener en el [código de la ofilibre.](https://gitlab.etsit.urjc.es/ofilibre/code)
+El objetivo es traducir archivos .md escritos en español y generar su versión en inglés, manteniendo intacto el formato Markdown y los metadatos (como título, descripción, etiquetas, etc.).
+
+### ¿Cómo funciona este sistema?
+
+El script realiza tres tareas principales:
+
+1. Carga de configuración: A través de un archivo config.yml, se define:
+
+- La clave de acceso al modelo de lenguaje (API Key).
+- El modelo a usar (por ejemplo, llama3-70b).
+- Directorio de origen y de destino.
+- Qué campos traducir (por ejemplo: title, description, o incluso campos anidados como installs.name).
+
+2. Traducción del frontmatter: Este bloque es la cabecera de los archivos Markdown, donde se declaran propiedades clave como título, categorías o etiquetas. La traducción se hace campo por campo, cuidando:
+
+- No inventar contenido.
+- Mantener el formato.
+- Traducir listas o campos anidados si se indica.
+
+3. Traducción del cuerpo del contenido: El texto principal del artículo se traduce respetando el formato Markdown, enlaces, listas y bloques de código. Se siguen reglas específicas para mantener enlaces y nombres propios como "OfiLibre" sin traducir.
+
+### Herramientas utilizadas
+
+- Python: El lenguaje del script.
+- frontmatter: Librería para leer y escribir archivos Markdown con metadatos.
+- langchain y langchain_groq: Para conectar fácilmente con el modelo de lenguaje alojado en Groq (una plataforma optimizada para ejecutar modelos LLM de forma rápida).
+- tqdm: Para mostrar el progreso de traducción de los archivos.
+- yaml: Para leer la configuración en formato .yml.
+
+### ¿Cómo se usa?
+
+Se configura el archivo config.yml, por ejemplo:
+
+```yaml
+GROQ_API_KEY: "tu_clave_de_api"
+MODEL_NAME: "moonshotai/kimi-k2-instruct"
+SOURCE_DIR: "content/spanish/guias"
+TARGET_DIR: "content/english/guias"
+fields:
+  - title
+  - description
+  - categories
+  - tags
+```
+
+Se ejecuta el script con Python:
+
+```bash
+python3 translator.py
+```
+
+El script:
+
+- Lee todos los archivos .md desde el directorio fuente.
+- Traduce los campos especificados en el frontmatter.
+- Traduce el contenido manteniendo el formato.
+- Guarda los archivos traducidos en el directorio de destino.
+
+Además, si algún archivo incluye un campo `translate: false`, el script lo ignora automáticamente.
+
+### Resultado
+
+Este proceso nos permitió traducir decenas de archivos con alta fidelidad, minimizando errores humanos y respetando el estilo técnico de la web. Cada archivo traducido añade una nota inicial indicando que se trata de una traducción automática, para que los visitantes lo tengan en cuenta.
+
+Para ver los detalles del código visitar [este repositorio](https://gitlab.eif.urjc.es/ofilibre/code), concretamente el directorio `/automatizacion/traduccion-llm/`.
+

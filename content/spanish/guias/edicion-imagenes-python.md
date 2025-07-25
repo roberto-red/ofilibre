@@ -1,21 +1,18 @@
 ---
 title: "Edición automática de imágenes con Python"
-image: /images/logo-ofilibre-2025.jpg
-date: 2025-07-23
+image: /images/guias/Pillow.png
+date: 2025-07-25
 type: guias
 description: "Conoce las herramientas que usamos en la OfiLibre para la edición de imágenes, lo que nos permite generar miniaturas"
 categories:
   - Recursos
   - software libre
 tags:
-draft: true
 ---
 
 Como parte de nuestro trabajo en la [OfiLibre](/ofilibre/), generamos muchas imágenes personalizadas para actividades, vídeos y materiales de difusión. Para no depender de herramientas de diseño gráfico pesadas o privativas, hemos desarrollado una serie de scripts en Python que nos permiten automatizar la creación de imágenes con un estilo coherente y profesional.
 
 Estas herramientas están basadas en la librería [Pillow](https://python-pillow.org), también conocida como PIL (Python Imaging Library), que permite manipular imágenes fácilmente desde código.
-
----
 
 ## ¿Qué podemos hacer con estos scripts?
 
@@ -24,8 +21,6 @@ Estas herramientas están basadas en la librería [Pillow](https://python-pillow
 - Adaptar el diseño según el número de personas o el tipo de contenido.
 - Usar fuentes libres descargadas automáticamente desde Google Fonts.
 - Exportar las imágenes en formato PNG, listas para usar en la web o en redes sociales.
-
----
 
 ## Herramienta general: generador de imágenes dinámico
 
@@ -39,8 +34,6 @@ Para consultar más detalles, visitar [este repositorio de GitLab](https://gitla
 
 Sin embargo, debido a la complejidad que puede suponer rellenar el archivo `config.yml`, especialmente en lo que a la posición (coordenadas) de los elementos se refiere, hemos diseñado scripts adaptados a dos casos de uso frecuentes en la oficina: la generación de miniaturas para los [cafés](/acciones/cafes) y la generación de miniaturas para los materiales pertenecientes a las [asignaturas en abierto](/acciones/asignaturas_abierto). En esos scripts adaptados las coordenadas, colores, tamaños y fuentes de los elementos ya vienen prefijados, de manera tal que sólo se indica su contenido.
 
----
-
 ## Caso 1: miniaturas para **Café con OfiLibre**
 
 La serie de vídeos Café con OfiLibre necesitaba miniaturas coherentes entre episodios, pero flexibles para adaptarse a diferentes combinaciones de presentadores e invitados.
@@ -52,8 +45,6 @@ Según el número de personas, el script elige entre varias plantillas predefini
 Esto nos permite mantener una línea gráfica uniforme con el mínimo esfuerzo, y facilita la generación de imágenes cuando hay muchos episodios seguidos.
 
 Para consultar más detalles, visitar [este repositorio de GitLab](https://gitlab.eif.urjc.es/ofilibre/code/), en la carpeta `automatizacion/miniaturas-cafes/`.
-
----
 
 ## Caso 2: miniaturas para asignaturas en abierto
 
@@ -70,16 +61,12 @@ Todo esto se configura en un archivo `config.yml`, y el script genera automátic
 
 Para consultar más detalles, visitar [este repositorio de GitLab](https://gitlab.eif.urjc.es/ofilibre/code/), en la carpeta `automatizacion/miniaturas-asignaturas-abierto/`.
 
----
-
 ## Ventajas de este enfoque
 
 - **Ahorro de tiempo:** No hace falta abrir ningún programa de edición, solo ajustar los textos y ejecutar un comando.
 - **Consistencia visual:** Todas las imágenes mantienen un diseño unificado.
 - **Uso de fuentes libres:** Usamos tipografías de Google Fonts, descargadas dinámicamente, lo que evita depender de fuentes privativas o tener que instalarlas manualmente.
 - **Adaptabilidad:** El sistema se puede modificar fácilmente para nuevas campañas o formatos.
-
----
 
 ## Cómo empezar
 

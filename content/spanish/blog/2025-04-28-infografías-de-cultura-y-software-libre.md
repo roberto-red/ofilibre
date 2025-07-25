@@ -22,16 +22,6 @@ Estas infografías se utilizaron tanto en la caseta que se puso la semana previa
 
 ![](/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto.png)
 
-
-
-
-
-
-
-
-
-
-
 Esto es el resto de los materiales creados tanto para la caseta como para las Jornadas.
 
 ![](/images/blog/infografías-de-cultura-y-software-libre/info-ofilibre.png)

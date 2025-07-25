@@ -2,7 +2,7 @@
 title: "Publicación Abierta en Investigación"
 date: 2023-03-27
 image: /transpas/publicacion-abierta-investigacion/publicacion-abierta-investigacion.png
-decription: "Presentación sobre publicación abierta en investigación."
+description: "Presentación sobre publicación abierta en investigación."
 slides:
     pdf: /transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion.pdf
     odp: /transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion.odp

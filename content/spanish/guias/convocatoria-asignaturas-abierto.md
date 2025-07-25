@@ -115,7 +115,7 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
   * Mismos datos que en la portada del documento: ¿Coinciden los datos de la portada con los indicados en los formularios de depósito? En particular, es importante que el título, el listado de personas autoras y la licencia se correspondan exactamente con lo indicado en la portada de la obra.
 
-Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra en el documento [Publicación de materiales docentes en abierto](materiales-docentes-abierto).
+Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra en el documento [Publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto).
 
 ### Preguntas más frecuentes sobre esta convocatoria[🔗](#faq)
 

@@ -21,29 +21,29 @@
             <div id="featureSlider">
               {{ range $element := .item }}
               <div class="feature-slide">
+                  {{ with $element.link }}
+                      <a href="{{ . }}" class="feature-card-link">
+                  {{ end }}
                   <div class="feature-card text-center" style="background: #f5f3f3;">
                       <div class="feature-icon">
                           <i class="{{ $element.icon }}"></i>
                       </div>
                       {{ with $element.title }}
-                          <h3 class="feature-title">
-                              {{ with $element.link }}
-                                  <a href="{{ . }}" style="color:black;">{{ $element.title }}</a>
-                              {{ else }}
-                                  {{ $element.title }}
-                              {{ end }}
+                          <h3 class="feature-title" style="color:black;">
+                              {{ $element.title }}
                           </h3>
                       {{ end }}
                       <p>{{ $element.description }}</p>
                   </div>
+                  {{ with $element.link }}
+                      </a>
+                  {{ end }}
               </div>
               {{ end }}
-
             </div>
         </div>
         </div>
     </div>
     </section>
-    {{ end }}
+  {{ end }}
 {{ end }}
-

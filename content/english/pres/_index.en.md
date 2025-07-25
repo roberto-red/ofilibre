@@ -1,4 +1,4 @@
 ---
-title: "Presentations"
-description: "Slides from talks and workshops previously held by OfiLibre"
+description: Slides from the talks and workshops we have previously held at OfiLibre
+title: Presentations
 ---

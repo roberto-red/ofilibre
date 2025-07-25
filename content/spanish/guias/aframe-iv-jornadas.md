@@ -44,13 +44,9 @@ Es el punto de entrada al mundo virtual. Aquí colocamos:
 
 Esta sala da acceso al resto mediante **puertas clicables** que te teletransportan, usando la propiedad `door-link` de A-Frame.
 
----
-
 ### Sala de la izquierda: *Cafés con la OfiLibre*
 
 Una recreación de nuestro **set de grabación del pódcast**, con micrófonos, sillas y decoración para explicar de forma visual cómo grabamos nuestras conversaciones sobre cultura libre.
-
----
 
 ### Sala del software libre
 
@@ -61,8 +57,6 @@ Aquí mostramos ejemplos de **programas libres que usamos durante el año**, com
 - Hugo
 - A-Frame  
 Con descripciones flotantes que se activan al acercarse.
-
----
 
 ### Sala de la actividad de la OfiLibre
 

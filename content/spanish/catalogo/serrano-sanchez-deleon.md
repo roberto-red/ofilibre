@@ -2,7 +2,7 @@
 title: "Simulador del Simple-As-Possible Computer (SAP-1)"
 author: Ángel Serrano Sánchez de León
 department: ETSII
-degrees: Grado en Ingeniería Informática, Fundamentos de Computadores, actividades de divulgación de la Semana de la Ciencia
+degrees: Grado en Ingeniería Informática, Fundamentos de Computadores
 link: http://aserrano.es/portafolio/informatica-con-processing/sap1/
 license: Creative Commons Reconocimiento-No Comercial-Compartir Igual
 date: 2020-11-21

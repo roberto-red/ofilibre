@@ -54,7 +54,7 @@ URJC institutional repository:
 * [BURJC Digital](https://burjcdigital.urjc.es)
 * [Page to upload documents to BURJC Digital](https://burjcdigital.urjc.es/submit)
 
-Help documents prepared by the URJC Library:
+Help documents prepared by URJC Library:
 
 * [Resources to find evidence of quality in my publications for Accreditations and Sexenios](/images/guias/sexenios_ciencia_abierta/Recursos_Indicios_Sexenios.pdf) (presentation)
 * [New evaluation criteria for the 2023 Research Sexenios Call (help document for URJC teaching and research staff)](/images/guias/sexenios_ciencia_abierta/DOCUMENTOAYUDA_PDI_INFORME_21122023.pdf)

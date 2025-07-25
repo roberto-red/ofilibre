@@ -798,6 +798,17 @@ opacity: 1 !important;
   transform: translateY(-5px);
 }
 
+.feature-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.feature-card-link:hover .feature-card {
+  background: #e0e0e0 !important;
+  transition: background 0.3s ease;
+}
+
 .feature-icon {
   font-size: 40px;
   margin-bottom: 20px;
