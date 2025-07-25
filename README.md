@@ -133,7 +133,6 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ---
 
-<<<<<<< HEAD
 ## Citar imágenes (/shortcodes/image.html)
 
 Para insertar imágenes con atribución y licencia de forma estandarizada, se ha implementado la plantilla `/shortcodes/image.html`. Para utilizarlo se incluye un fragmento HTML en el Markdown correspondiente, de la siguiente manera:
@@ -163,8 +162,6 @@ Este shortcode asegura que la imagen se muestre correctamente y que los crédito
 
 ---
 
-=======
->>>>>>> 5c60fb4aa3da8c30a0c00697bdcfbf59189f5953
 ## Notas y recomendaciones
 
 - Si añades una nueva sección, crea la carpeta en `content/idioma/` y la plantilla en `layouts/` si es necesario.
