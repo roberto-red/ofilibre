@@ -33,7 +33,7 @@ Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](
 
   * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
   * [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
-* [Infografía-resumen de la convocatoria ](https://urjc-my.sharepoint.com/:b:/r/personal/ofilibre_urjc_es/Documents/con%20BECARIOS/Asignaturas%20en%20abierto/Infograf%C3%ADa.pdf?csf=1&web=1&e=y9okE6)
+* [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2025-2026-infografia.pdf)
 * [Guía-resumen para rellenar el formulario de solicitud](/documentos/guiaFormularioSolicitud_25_26.pdf)  
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
 
