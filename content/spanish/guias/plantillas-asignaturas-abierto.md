@@ -19,7 +19,7 @@ Tenemos plantillas para LaTeX y para LibreOffice.
 
 Plantillas para LaTeX:
 
-* [Plantilla para LaTeX](/documentos/plantillas/asigabierto_latex.zip)
+* [Plantilla para LaTeX](/documentos/plantillas/asigabierto_latex.zip), contribuida originalmente por Guille Carrión Santiago.
 
 Plantillas para LibreOffice:
 
