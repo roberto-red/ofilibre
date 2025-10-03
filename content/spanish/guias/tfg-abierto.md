@@ -210,7 +210,7 @@ Mientras la plataforma de TFGs no esté conectada con
 el Archivo Abierto, hay que hacer el depósito en el Archivo
 Abierto manualmente. Para ello, una vez el TFG ha sido
 evaluado positivamente, se seguirán las instrucciones
-descritas en \["Cómo publicar"](https://burjcdigital.urjc.es/page/howtopublish)
+descritas en \["Cómo publicar"](https://urjc.libguides.com/burjcdigital/comopublicar)
 en el \[sitio web de BURJC Digital](https://burjcdigital.urjc.es).
 Junto con la memoria en formato PDF se puede (y es conveniente) depositar
 otros materiales relacionados con el TFG, en un archivo ZIP.

@@ -233,7 +233,7 @@ Para la publicación del material, la Universidad dispone de una serie de Plataf
 
 * Archivo Abierto de la Universidad,
 [BURJC Digital](https://burjcdigital.urjc.es).
-Se seguirán las instrucciones descritas en ["Cómo publicar"](https://burjcdigital.urjc.es/page/howtopublish)
+Se seguirán las instrucciones descritas en ["Cómo publicar"](https://urjc.libguides.com/burjcdigital/comopublicar)
 en el [sitio web de BURJC Digital](https://burjcdigital.urjc.es).
 Junto con el material (normalmente en formato PDF) se puede
 (y es conveniente) depositar un archivo comprimido (ZIP) con

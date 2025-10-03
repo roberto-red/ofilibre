@@ -91,7 +91,7 @@ Para terminar el proceso, tendrás que subir el fichero comprimido a [BURJC Digi
 pandoc README.md -s  -f gfm -V colorlinks=true -o README.pdf
 ```
 
-* Sigue las [instrucciones de BURJC Digital](https://burjcdigital.urjc.es/page/howtopublish) para realizar el archivo:
+* Sigue las [instrucciones de BURJC Digital](https://urjc.libguides.com/burjcdigital/comopublicar) para realizar el archivo:
 
   * Elige la colección "materiales docentes", y en el campo "Resumen", escribe un resumen sobre el software que estás subiendo, y termina con estas dos líneas (sustituyendo, naturalmente, por el identificador en Software Heritage de tu versión, y la url de tu repositorio público): 
 
