@@ -50,6 +50,10 @@ preloader = "images/preloader/preloader.gif"
 enable = false
 expire_days = 1
 
+# Allow HTML in Markdown pages
+[markup.goldmark.renderer]
+unsafe = true
+
 # Idiomas
 [languages]
 

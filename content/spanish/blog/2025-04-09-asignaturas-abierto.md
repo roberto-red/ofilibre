@@ -34,4 +34,4 @@ Más información:
 * [Asignaturas en abierto en el aula virtual de la URJC](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)
 * [Colección de materiales docentes en BURJC Digital](https://burjcdigital.urjc.es/collections/c54516e9-d910-4353-9971-b1e485078248), entre los que se encuentran los depositados para las distintas ediciones de esta convocatoria
 
-<iframe src='https://tv.urjc.es/iframe/68e77f01838899c4740f1c78' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+<iframe src='https://tv.urjc.es/iframe/68e77f01838899c4740f1c78' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
