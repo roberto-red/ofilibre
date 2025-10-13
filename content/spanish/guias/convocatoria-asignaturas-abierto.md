@@ -10,6 +10,11 @@ categories:
 tags:
 ---
 
+**¡Atención!: Sesión de dudas y preguntas el próximo viernes 17 de octubre de 2025, a las 13:15, en [este canal de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTcyYWM5YjMtNDRjYi00YTIzLTk5N2UtNTIyNTAyMzgxY2Mz%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)**
+
+<iframe src='https://tv.urjc.es/iframe/68e77f01838899c4740f1c78' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
+
+
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
 El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la convocatoria y responder a todas tus preguntas sobre la convocatoria. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, es muy posible que el video de esta sesión te interese.
