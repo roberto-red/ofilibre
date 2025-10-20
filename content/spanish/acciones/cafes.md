@@ -21,9 +21,17 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 ## Programa (tentativo) para los próximos cafés:
 
-* Septiembre de 2025: Comienzo del curso 2025-2026
+* Semana del acceso abierto
+
+* BURJC Digital reconocido con el sello FECyT
 
 ## Cafés ya disfrutados:
+
+Curso 2025-2026:
+
+* 15 de octubre: [Arte y cultura libre](https://tv.urjc.es/video/68f1fb50838899ab52679832)
+
+* 1 de octube: [Comienzo del curso 2025-2026](https://tv.urjc.es/video/68dd180a8388992cc46e0d31)
 
 Curso 2024-2025
 
