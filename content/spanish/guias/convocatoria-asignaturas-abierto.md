@@ -10,7 +10,7 @@ categories:
 tags:
 ---
 
-**¡Atención!: Sesión de dudas y preguntas el próximo viernes 17 de octubre de 2025, a las 13:15, en [este canal de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTcyYWM5YjMtNDRjYi00YTIzLTk5N2UtNTIyNTAyMzgxY2Mz%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)**
+**¡Atención!: El [video de la sesión de dudas y preguntas](https://tv.urjc.es/video/68f60cfc83889984ea2621f1) del pasado viernes 17 de octubre de 2025, ya está disponible en TV URJC**
 
 <iframe src='https://tv.urjc.es/iframe/68e77f01838899c4740f1c78' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
 
@@ -21,6 +21,10 @@ El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la c
 
 * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
 * [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+
+El viernes 17 de octubre tuvo lugar una sesión de resolución de dudas y preguntas.
+
+* [Video de la sesión](https://tv.urjc.es/video/68f60cfc83889984ea2621f1)
 
 ### Convocatoria
 

@@ -12,6 +12,7 @@ Materiales relacionados con la convocatoria para el reconocimiento de publicaci√
 
 * [Convocatoria 2025-2026](/blog/2025-04-09-asignaturas-abierto)
 * [Convocatoria 2024-2025](/blog/2024-09-02-presentacion-asignaturas-abierto)
-* [Convocatoria 2023-2024](/guias/convocatoria-asignaturas-abierto/)
+* [Convocatoria 2023-2024](/guias/convocatoria-asignaturas-abierto-2023-2024)
+* [Convocatoria 2022-2023](/guias/convocatoria-asignaturas-abierto-2022-2023)
 * [Resultados de la convocatoria 2022-2023, segundo cuatrimestre](/blog/2023-resultados-convocatoria-asignaturas/)
 * [Resultados de la convocatoria 2022-2023, primer cuatrimestre](/blog/2023-02-28-resultados-convocatoria-asignaturas/)
