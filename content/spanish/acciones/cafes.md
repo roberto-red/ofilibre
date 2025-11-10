@@ -21,15 +21,18 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 ## Programa (tentativo) para los próximos cafés:
 
-* Semana del acceso abierto
-
-* BURJC Digital reconocido con el sello FECyT
 
 ## Cafés ya disfrutados:
 
 Curso 2025-2026:
 
-* 15 de octubre: [Arte y cultura libre](https://tv.urjc.es/video/68f1fb50838899ab52679832)
+* 5 de noviembre [Software libre en arte](https://tv.urjc.es/video/69105099ae7edf520c3a2004). Repaso a algunos programas libres utilizados en el mundo de la creación artística.
+
+* 29 de octubre: [Distintivo de calidad FECyT para BURJC Digital](https://tv.urjc.es/video/69104b9fae7edf51a00f9794), con Fernando Silva Sánchez (responsable de Ciencia Abierta de Biblioteca) Laura de la Cruz Parra (responsable del Servicio de Publicaciones)
+
+* 22 de octubre: [Semana del acceso abierto](https://tv.urjc.es/video/68f8d4d58388999d904d3f54)
+
+* 15 de octubre: [Arte y cultura libre](https://tv.urjc.es/video/68f1fb50838899ab52679832). Comentarios y elucubraciones sobre la cultura libre en el contexto de la producción artística.
 
 * 1 de octube: [Comienzo del curso 2025-2026](https://tv.urjc.es/video/68dd180a8388992cc46e0d31)
 
