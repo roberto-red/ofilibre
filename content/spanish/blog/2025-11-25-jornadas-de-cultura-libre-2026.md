@@ -12,7 +12,7 @@ tags:
   - Jornadas; Cultura Libre; Ciencia Abierta
 image: /images/logo-ofilibre-2025.jpg
 ---
-![Fondo blanco, texto rojo y negro. Save The Date, el 25 y 26 de Marzo 2026](/blog/jornadas-de-cultura-libre-2025/captura-de-pantalla-2025-11-25-a-las-15.48.38.png "Save the date 2026")
+![Fondo blanco, texto rojo y negro. Save The Date, el 25 y 26 de Marzo 2026](/blog/jornadas-de-cultura-libre-2026/save_the_date.png "Save the date 2026")
 
 La cultura libre regresa un año más y ¡esta vez viene acompañada! En 2026 celebramos las **V Jornadas de Cultura Libre**, y se nos suma la Ciencia Abierta al cartel. 
 
