@@ -1,6 +1,6 @@
 ---
-title: Jornadas de Cultura Libre 2026
-slug: jornadas-de-cultura-libre-2025
+title: Jornadas de Cultura Libre 2026 (Primer anuncio)
+slug: jornadas-de-cultura-libre-2026-anuncio
 date: 2025-11-28T15:26:35.226Z
 description: "La cultura libre regresa un año más y ¡esta vez viene acompañada!
   En 2026 celebramos las V Jornadas de Cultura Libre, y se nos suma la Ciencia
