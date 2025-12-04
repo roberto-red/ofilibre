@@ -1,7 +1,7 @@
 ---
 title: Café con OfiLibre
 image: /images/acciones/cafes.png
-date: 2024-11-02
+date: 2025-12-04
 description: "Café con la OfiLibre. Unos minutos cada semana con la cultura libre, al publicación en acceso abierto, el software libre, los datos abiertos, y todas estas cosas que te interesan"
 ---
 
@@ -26,7 +26,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 Curso 2025-2026:
 
-* 5 de noviembre [Software libre en arte](https://tv.urjc.es/video/69105099ae7edf520c3a2004). Repaso a algunos programas libres utilizados en el mundo de la creación artística.
+* 3 de diciembre: [Software y Hardware libres con ObiJuan](https://tv.urjc.es/video/69314778ae7edf6797270002). Charlamos con Juan González Gómez, de la EIF, sobre hardware libre, software libre, y otros asuntos relacionados.
+
+* 19 de noviembre: [Cómo marcar materiales libres](https://tv.urjc.es/video/69145bedae7edf82984ee04a). ¿Quieres publicar alguna obra en acceso abierto y no sabes cómo indicar que se distribuye con una cierta licencia? Este café trata justamente sobre cómo resolver ese problema.
+
+* 12 de noviembre: [Jornadas de Innovación docente 2025](https://tv.urjc.es/video/69145bf0ae7edf8292450252). Irene Ros Martín, del [CIED](https://cied.urjc.es/), conversa sobre las Jornadas de Innvoación Docente, y su relación con la publicación de materiales docentes en acceso abierto.
+
+* 5 de noviembre: [Software libre en arte](https://tv.urjc.es/video/69105099ae7edf520c3a2004). Repaso a algunos programas libres utilizados en el mundo de la creación artística.
 
 * 29 de octubre: [Distintivo de calidad FECyT para BURJC Digital](https://tv.urjc.es/video/69104b9fae7edf51a00f9794), con Fernando Silva Sánchez (responsable de Ciencia Abierta de Biblioteca) Laura de la Cruz Parra (responsable del Servicio de Publicaciones)
 
