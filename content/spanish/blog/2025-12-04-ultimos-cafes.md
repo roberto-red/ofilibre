@@ -5,7 +5,7 @@ description: "Durante los últimos meses hemos tenido cafés sobre temas muy var
 categories:
   - Cafés
 tags:
-  - Café con OfiLibre;cultura libre;acceso abierto;hardware libre;software libre
+  - Café con OfiLibre, cultura libre, acceso abierto, hardware libre, software libre
 image: /images/acciones/cafes.png
 ---
 
