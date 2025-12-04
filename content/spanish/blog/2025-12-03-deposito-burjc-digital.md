@@ -3,8 +3,12 @@ title: BURJC Digital estrena nueva versión de DSpace y simplifica el depósito 
 date: 2025-12-03
 description: "Biblioteca ha actualizado nuestro archivo abierto institucional, BURJC Digital, a una nueva versión. El depósitio es ahora más sencillo, y puede hacerse desde la propia plataforma, o desde el Portal Científico de la Universidad."
 categories:
+  - Universidad
+  - Publicación en abierto
 tags:
-  - Publicación en Acceso Abierto; Ciencia Abierta; BURJC Digital
+  - acceso abierto
+  - ciencia abierta
+  - BURJC Digital
 image: /blog/burjc_digital_square.png
 ---
 ![BURJC Digital logo: a toy figure with a magnifying glass](/blog/burjc_digital.png "BURJC Digital logo")

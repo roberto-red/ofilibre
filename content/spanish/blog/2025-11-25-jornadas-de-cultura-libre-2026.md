@@ -9,7 +9,9 @@ categories:
   - Jornadas
   - Cultura libre
 tags:
-  - Jornadas; Cultura Libre; Ciencia Abierta
+  - Jornadas
+  - cultura libre
+  - ciencia abierta
 image: /images/logo-ofilibre-2025.jpg
 ---
 ![Fondo blanco, texto rojo y negro. Save The Date, el 25 y 26 de Marzo 2026](/blog/jornadas-de-cultura-libre-2026/save_the_date.png "Save the date 2026")
