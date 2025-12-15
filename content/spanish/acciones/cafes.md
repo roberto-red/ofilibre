@@ -1,7 +1,7 @@
 ---
 title: Café con OfiLibre
 image: /images/acciones/cafes.png
-date: 2025-12-04
+date: 2025-12-15
 description: "Café con la OfiLibre. Unos minutos cada semana con la cultura libre, al publicación en acceso abierto, el software libre, los datos abiertos, y todas estas cosas que te interesan"
 ---
 
@@ -21,10 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 ## Programa (tentativo) para los próximos cafés:
 
+* 17 de diciembre: Cnversación con Abraham Duarte, Rector de la URJC, y Joaquín Rams, Vicerrector de Investigación, biblioteca y doctorado.
 
 ## Cafés ya disfrutados:
 
 Curso 2025-2026:
+
+* 10 de diciembre: [Encuentro Nacional de Editores Académicos](https://tv.urjc.es/video/6939ba00ae7edf6acf1b68d0). Tomás Zarza (Coordinador de Publicación Abierta) y Laura de la Cruz (Jefa del Servicio de Publicaciones) nos hablan sobre el encuentro de UNE, en el que entre otras cosas se habló de la transición de las editoriales universitarias hacia la publicación en abierto.
 
 * 3 de diciembre: [Software y Hardware libres con ObiJuan](https://tv.urjc.es/video/69314778ae7edf6797270002). Charlamos con Juan González Gómez, de la EIF, sobre hardware libre, software libre, y otros asuntos relacionados.
 
