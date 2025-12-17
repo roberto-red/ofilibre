@@ -21,11 +21,13 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 ## Programa (tentativo) para los próximos cafés:
 
-* 17 de diciembre: Cnversación con Abraham Duarte, Rector de la URJC, y Joaquín Rams, Vicerrector de Investigación, biblioteca y doctorado.
+* 14 de enero: 25 Aniversario de Wikipedia.
 
 ## Cafés ya disfrutados:
 
 Curso 2025-2026:
+
+* 17 de diciembre: [Visita del Rector y Vicerrector de Investigación](https://tv.urjc.es/video/6942fef3ae7edff965477ca2). Conversación con Abraham Duarte, Rector de la URJC, y Joaquín Rams, Vicerrector de Investigación, biblioteca y doctorado.
 
 * 10 de diciembre: [Encuentro Nacional de Editores Académicos](https://tv.urjc.es/video/6939ba00ae7edf6acf1b68d0). Tomás Zarza (Coordinador de Publicación Abierta) y Laura de la Cruz (Jefa del Servicio de Publicaciones) nos hablan sobre el encuentro de UNE, en el que entre otras cosas se habló de la transición de las editoriales universitarias hacia la publicación en abierto.
 
