@@ -52,7 +52,7 @@ Si lo que te interesa es participar como asistente, ¡no te preocupes! Las inscr
 ## Antes de terminar, aclaremos unas cositas ;)
 
 Para entender mejor qué es la Cultura Libre, tomamos la [Definición de Obras culturales libres](https://freedomdefined.org/Definition/Es): "obras o expresiones que pueden ser libremente estudiadas, aplicadas, copiadas y/o modificadas por cualquiera, para cualquier propósito".
-\
+
 En el caso de la Ciencia Abierta, tomamos la [Definición de UNESCO](https://www.unesco.org/es/legal-affairs/recommendation-open-science): "Ciencia abierta se define como un constructo inclusivo que combina diversos movimientos y prácticas con el fin de que los conocimientos científicos multilingües estén abiertamente disponibles y sean accesibles para todos, así como reutilizables por todos, se incrementen las colaboraciones científicas y el intercambio de información en beneficio de la ciencia y la sociedad, y se abran los procesos de creación, evaluación y comunicación de los conocimientos científicos a los agentes sociales más allá de la comunidad científica tradicional. La ciencia abierta comprende todas las disciplinas científicas y todos los aspectos de las prácticas académicas, incluidas las ciencias básicas y aplicadas, las ciencias naturales y sociales y las humanidades, y se basa en los siguientes pilares clave: conocimiento científico abierto, infraestructuras de la ciencia abierta, comunicación científica, participación abierta de los agentes sociales y diálogo abierto con otros sistemas de conocimiento."
 
 **¡Infórmate y participa!** Mantente al tanto en nuestras redes sociales. Toda la información actualizada y las fechas clave las encontrarás en:  
