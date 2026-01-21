@@ -1,4 +1,8 @@
-## Miembros del Consejo de Publicación Abierta de la URJC
+----
+-title: "Miembros del Consejo de Publicación Abierta de la URJC"
+-date: 2025-02-18
+-url: /acciones/consejo-publicacion-abierta/miembros/
+----
 
 Miembros en función de su cargo:
 
