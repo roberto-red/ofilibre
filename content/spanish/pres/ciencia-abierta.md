@@ -1,8 +1,8 @@
 ---
 title: Ciencia Abierta
-date: 2026-01-26
+date: 2026-01-25
+description: Presentaciones sobre ciencia abierta.
 image: /transpas/ciencia-abierta/ciencia-abierta.png
-description: "Presentación sobre ciencia abierta."
 slides:
     pdf: /transpas/ciencia-abierta/Ciencia_Abierta.pdf
     odp: /transpas/ciencia-abierta/Ciencia_Abierta.odp
@@ -13,9 +13,9 @@ categories:
     - Cultura Libre
 ---
 
-Presentación sobre ciencia abierta.
+Presentación sobre ciencia abierta, en general.
 
-Presentaciones anteriores sobre este mismo tema:
+Otras presentaciones sobre este mismo tema:
 
 * Presentación en el cuurso de formación para PDI de la URJC "Investigación Responsable: Ética y Buenas Prácticas Científicas" (febrero de 2025): [PDF](/transpas/ciencia-abierta/Ciencia_Abierta_Etica_2025-02-11.pdf), [ODP, para LibreOffice](/transpas/ciencia-abierta/Ciencia_Abierta_Etica_2025-02-11.odp)
 
