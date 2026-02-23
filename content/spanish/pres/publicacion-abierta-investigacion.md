@@ -17,6 +17,8 @@ Presentación sobre publicación abierta en investigación.
 
 Otras versiones de esta presentación:
 
+* Investigación doctoral y publicación en acceso abierto, Ciclo interuniversitario de formación doctoral, Universidades Comunidad de Madrid, 24 de febrero de 2026 ([formato PDF](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2026-02-24.pdf), [formato ODP para LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2026-02-24.odp)).
+
 * Investigación doctoral y publicación en acceso abierto, Ciclo interuniversitario de formación doctoral, Universidades Comunidad de Madrid, 4 de febrero de 2025 ([formato PDF](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2025-02-04.pdf), [formato ODP para LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2025-02-04.odp)).
 
 * Ciencia Abierta y Publicación Científica en Abierto, Plan de Formación de PDI, Universidad Rey Juan Carlos, 14 de enero de 2025 ([formato PDF](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_PDI_2025-01-13.pdf), [formato ODP para LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_PDI_2025-01-13.odp)).
