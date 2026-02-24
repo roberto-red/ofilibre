@@ -7,7 +7,7 @@ description: "Jornadas de Cultura Libre: unos días para celebrar la cultura lib
 
 Desde 2022 se celebran, anualmente, las Jornadas de Cultura Libre de la URJC:
 
-* V Jornadas de Cultura Libre (25 y 26 de marzo): [primer anuncio](/blog/jornadas-de-cultura-libre-2026-anuncio), [petición de contribuciones](/blog/2025-12-18-convocatoria-de-contribuciones-jornadas-de-cultura-libre-y-ciencia-abierta-2026/).
+* V Jornadas de Cultura Libre (25 y 26 de marzo): [primer anuncio](/blog/jornadas-de-cultura-libre-2026-anuncio), [petición de contribuciones](/blog/2025-12-18-convocatoria-de-contribuciones-jornadas-de-cultura-libre-y-ciencia-abierta-2026/), [inscripción abierta](/blog/2026-02-24-v-jornadas-inscripcion/).
 
 * IV Jornadas de Cultura Libre (26 y 27 de marzo de 2025): [primer anuncio](/blog/2024-11-27-jornadas), [convocatoria de contribuciones](/blog/2025-01-13-jornadas-convocatoria), [sesión con los candidatos a rector](/blog/sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre/), [programa completo](/blog/programa-iv-jornadas/)
 
