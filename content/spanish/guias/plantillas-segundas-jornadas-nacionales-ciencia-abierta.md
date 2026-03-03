@@ -1,6 +1,6 @@
 ---
 title: "Plantillas para las II Jornadas Nacionales de Ciencia Abierta"
-date: 2026-03-02
+date: 2026-03-03
 image: /images/logo-ofilibre-2025.jpg
 type: guias
 categories:
