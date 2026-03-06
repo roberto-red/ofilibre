@@ -19,13 +19,20 @@ Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el C
 
 * [Internet Archive: Café con OfiLibre 2023-2024](https://archive.org/search?query=series%3A%22Caf%C3%A9+con+con+OfiLibre+2023-2024%22)
 
-## Programa (tentativo) para los próximos cafés:
-
-* 14 de enero: 25 Aniversario de Wikipedia.
-
 ## Cafés ya disfrutados:
 
 Curso 2025-2026:
+
+* 11 de febrero: [Vídeos de Contenido Abierto para Moocs](https://tv.urjc.es/video/6995d542ae7edfd6294fd9b3). Recibimos a Bárbara Caffarel, profesora de la casa que ha hecho nuestros vídeos cortos. 
+
+* 11 de febrero: [I Love Free Software Day y Visita al FOSDEM](https://tv.urjc.es/video/698cc625ae7edfca7e6cc45b). Jesús González Barahona nos habla sobre su experiencia en el FOSDEM y acerca del I Love Free Software Day, que se celebra el 14 de abril. 
+
+* 4 de febrero: [Asignaturas en abierto con Alexandre Wagemakers](https://tv.urjc.es/video/6985aeeaae7edf47cc159342). Recibimos a Alexandre Wagemakers, profesor que ha participado en la convocatoria de Asignaturas en abierto, para que nos cuente su experiencia y animar a la participación.
+
+* 21 de enero: [Jornadas Nacionales de Ciencia Abierta y Jornadas de Cultura Libre](https://tv.urjc.es/video/6970a48cae7edf6d3f357e25). Hablamos sobre las Segundas Jornadas Nacionales de Ciencia Abierta y las V Jornadas de Cultura Libre que se celebrarán en el proceso del mes de marzo de 2026.
+
+* 14 de enero: [25 Años de Wikipedia](https://tv.urjc.es/video/696773d9ae7edfe2603e2ce7). Comenzamos el año 2026 con la celebración de los 25 
+años de Wikipedia y el conocimiento libre
 
 * 17 de diciembre: [Visita del Rector y Vicerrector de Investigación](https://tv.urjc.es/video/6942fef3ae7edff965477ca2). Conversación con Abraham Duarte, Rector de la URJC, y Joaquín Rams, Vicerrector de Investigación, biblioteca y doctorado.
 
