@@ -18,7 +18,9 @@ Contará con **presentaciones de expertos**, **talleres** sobre temas específic
 
 **Lugar**: Salón de Actos y hall principal, Edificio de Gestión, Campus de Alcorcón.
 
-**[Más información y acceso](https://ofilibre.urjc.es/acciones/jornadas/)**
+**[Enlace al streaming](https://tv.urjc.es/live/event/69b002abae7edf70946dc777)**
+
+**[Inscripción](https://eventos.urjc.es/147119/tickets/v-jornadas-de-cultura-libre-y-ciencia-abierta-de-la-urjc.html)**
 
 Los créditos RAC se otorgarán en función de la cantidad de horas de asistencia presencial, pudiendo el alumnado asistir a las jornadas en su totalidad o a bloques específicos. Para esto, deberá marcar asistencia mediante los métodos propuestos en las Jornadas. **Si se participa de todas las jornadas y sus talleres, se puede sumar créditos RAC**.
 
