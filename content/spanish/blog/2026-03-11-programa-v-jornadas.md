@@ -5,9 +5,9 @@ date: "2026-03-11T09:00:00"
 slug: programa-v-jornadas
 description: "Consulta el programa completo de las V Jornadas de Cultura Libre, con ponencias, talleres y actividades sobre acceso abierto, educación, ciencia ciudadana e innovación. ¡No te pierdas ningún detalle!"
 categories:
-
-* Jornadas
+    - Jornadas
 tags:
+    - Software Libre
 image: /blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
 
 ---
