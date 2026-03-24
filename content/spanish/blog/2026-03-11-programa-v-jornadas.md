@@ -36,16 +36,17 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 * **Joaquín Rams Ramos**, Vicerrector de Investigación, Doctorado y Biblioteca.
 
-#### 09:15 - 10:10 Ponencia Invitada: (Título provisional) Por qué nos conviene el software libre
+#### 09:15 - 10:10 Ponencia Invitada: Abierto hasta el amanecer... y más allá: la importancia del software libre en las instituciones educativas
 
 * **Cristina Valdera López**, Directora de Cedec - Centro Nacional de Desarrollo Curricular en Sistemas no Propietarios.
 
-#### 10:10 - 11:00 Ponencias cortas: SOFTWARE LIBRE, TÉCNICAS, WIKIPEDIA
+#### 10:10 - 11:00 Ponencias cortas: SOFTWARE LIBRE, TÉCNICAS
 
 * **Pablo Hinojosa**: *Public Money Public Code.*
 * **Charlie Martínez**: *Quirinux GNU/Linux: software libre y soberanía tecnológica en la producción de cine animado.*
 * **Miguel Montero Alonso**: *Armonización de la Huella de Carbono: un Marco Metodológico Abierto para la Sostenibilidad Transparente.*
 * **Alejandro Valor González y Pablo García Pérez**: *Producción y publicación de contenidos culturales con software libre.*
+* **Ana Alzaga Gallo**: *Libre o excluyente: ética y soberanía tecnológica en la atención a la diversidad.*
 * **Pablo Hinojosa**: *Cultura libre aplicada en el aula: el caso del IES Senda Galiana de Torres de la Alameda (Madrid).*
 
 #### 11:00 - 11:30 DESCANSO, CAFÉ, FERIA y PÓSTERS
@@ -59,12 +60,13 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 12:25 - 13:00 Presentaciones Institucionales
 
-* *Editorial Academia Abierta*
-* *Oficina de Proyectos Europeos*: Presentación de herramienta ResearchComp, por **Rosa María Mesa Vélez**.
+* *Editorial Academia Abierta*. **Tomás Zarza y Laura de la Cruz**.
+* *Oficina de Proyectos Europeos*: Presentación de herramienta ResearchComp. **Rosa María Mesa Vélez**.
+* *Biblioteca URJC frente a la Ciencia abierta*. **Fernando Silva Sánchez**.
 
-#### 13:00 - 13:20 Visibilidad de las investigadoras. Wikipedia y Ciencia abierta
+#### 13:00 - 13:20 Resumen de las II Jornadas Nacionales de Ciencia Abierta
 
-* **Florencia Claes**, Coordinadora de Conocimiento Abierto en OfiLibre. Coord. Grupo de Innovación Docente Consolidado en Wikipedia InnovaWiki.
+* **Florencia Claes, Jesús González Barahona y Tomás Zarza**, Responsables OfiLibre.
 
 #### 13:20 - 14:00 Mesa Redonda: Retos de Ciencias de la Salud ante la Ciencia Abierta
 
@@ -77,28 +79,27 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 * Stands presentes en la Feria y Pósters.
 * La organización **invita** a quienes asistan a café, zumos y bollitos.
 
-#### 15:00 - 17:00 Talleres y reuniones por la tarde
+#### 15:00 - 17:00 Talleres
 
-* **Taller para alumnos** *(detalles e inscripciones por confirmar)*.
+* *Datos de Biodiversidad al Alcance de Tod@s: Aprende a Interpretarlos y utilizarlos.* **María Luisa Rubia Teso**, ESCET. Dpto. Biología. Área de Biodiversidad y Conservación de la Universidad Rey Juan Carlos. Necesaria inscripción.
 
 ---
 
 ### JUEVES 26 - Salón de actos Edif. Gestión Alcorcón
 
-#### 09:00 - 09:15 ¿Por qué todo esto que hacemos en la OfiLibre es importante para la comunidad universitaria?
-
-* **Jesús González Barahona, Tomás Zarza, Florencia Claes**, Responsables de Oficina de Conocimiento y Cultura Libres (OfiLibre).
-
-#### 09:15 - 10:00 Ponencia Invitada: «El sistema no lo permite», o cuando la infraestructura decide qué ciencia es posible
+#### 09:00 - 09:50 Ponencia Invitada: «El sistema no lo permite», o cuando la infraestructura decide qué ciencia es posible
 
 * **Marc Bria Ramírez**, Servei de Publicacions de la UAB. Miembro de los comités técnicos de PKP y EDCH.
 
-#### 10:00 - 10:40 Ponencias cortas: CIENCIA ABIERTA / CULTURA LIBRE
+#### 09:50 - 10:40 Ponencias cortas: CIENCIA ABIERTA / CULTURA LIBRE
 
 * **Carmen De Pablos Heredero**: *Características y aplicaciones de los datos abiertos demográficos a nivel regional.*
 * **Irene Ros Martín**: *El proyecto UStand, una iniciativa de cooperación educativa.*
 * **Jennifer García Carrizo**: *Hypatia’s Circular Odyssey.*
 * **Agustín Martínez Peláez**: *Desarrollo de la Plataforma del Patrimonio Cultural, Científico, Tecnológico y bibliográfico de la URJC y la pertenencia a la Red Española de Patrimonio Universitario (REPU).*
+* **Mayte Ruiz y Carmen Soler**: *II edición de los Laboratorios Ciudadanos de la BURJC: Conexiones con el entorno.*
+* **Antonio A. Caballero y Laura Arroyo**: *Guía de lenguaje inclusivo.*
+* **Julio Caubín**: *Portal de Datos Abiertos y Premios a la Reutilización del Ayuntamiento de Madrid.*
 
 #### 10:40 - 11:00 Ponencia Invitada: Vía diamante, financiación de hojalata
 
@@ -109,23 +110,32 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 * Stands presentes en la Feria y Pósters.
 * La organización **invita** a quienes asistan a café, zumos y bollitos.
 
-#### 11:30 - 12:00 Presentaciones Institucionales
+#### 11:30 - 12:10 Presentaciones Institucionales
 
-* *Escuela Internacional de Doctorado*
-* *Asignaturas en abierto*
+* *La Escuela Internacional de Doctorado y la Ciencia Abierta.* **Gonzalo Viñuales Ferreiro**, Subdirector de Estudiantes de la EID.
+* *Defensoría universitaria.* **Alberto Sánchez Campos**.
+* *Asignaturas en abierto: entrega de diplomas.*
+* *Conocimiento abierto en el CIED.* **Jaume Urquiza**.
 
-#### 12:00 - 13:00 Ponencia Invitada: "El caso BOSCO y el derecho de acceso al código fuente del software de las administraciones públicas"
+#### 12:10 - 13:10 Ponencia Invitada: "El caso BOSCO y el derecho de acceso al código fuente del software de las administraciones públicas"
 
 * **Javier de la Cueva**
 
-#### 13:00 - 14:00 Ponencias cortas: EDUCACIÓN Y REA
+#### 13:10 - 14:00 Ponencias cortas: EDUCACIÓN Y REA
 
+* **Ángel Pazos López, Miguel Esteban Galarza y Antonio Sánchez Rosa**: *La construcción del conocimiento abierto en el Laboratorio Ciudadano de Experimentación Artística Sensorial de la URJC.*
 * **Leire Gabriela de Colsa Lozano y Marta Camarena Ferrero**: *Presentación de Recurso Educativo Abierto del proyecto innova CINTER.*
 * **Rafael Linares Palomar**: *El cruzaminas. Expansión transmedia de la película Disonancia.*
 * **Maria del Carmen Gálvez de la Cuesta**: *CONECTA: Creación de REAs desde la comunicación responsable y el pensamiento crítico.*
+* **Maria Begoña Rivas Rebaque**: *Curso para trabajar la economía circular y la sostenibilidad en el aula como recurso educativo abierto (REA).*
 
 #### 14:00 - 15:00 COMIDA - FERIA - PÓSTERS
 
 * Stands presentes en la Feria y Pósters.
 * La organización **invita** a quienes asistan a café, zumos y bollitos.
 * Abrazos de despedida :)
+
+#### 15:00 - 17:00 Talleres y reuniones por la tarde
+
+* *IA Libre: Inteligencia artificial para todos.* Impartido por **Pablo García Pérez**, Asociación de Inteligencia Artificial de la Universidad Rey Juan Carlos. Necesaria inscripción.
+* *Taller de publicación de datos con Wikibase: reduciendo barreras para compartir nuestros datos de investigación.* Impartido por **Tomás Saorín Pérez y Juan Pastor**, Grupo de Innovación docente CONNECT de la Universidad de Murcia. Necesaria inscripción.
