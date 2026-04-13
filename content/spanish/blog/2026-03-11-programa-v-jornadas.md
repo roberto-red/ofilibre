@@ -43,12 +43,12 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 10:10 - 11:00 Ponencias cortas: SOFTWARE LIBRE, TÉCNICAS
 
-* **Pablo Hinojosa**: *Public Money Public Code.*([presentación](/static/documentos/presentacion/GrupoA/1-Pablo.pdf))
-* **Charlie Martínez**: *Quirinux GNU/Linux: software libre y soberanía tecnológica en la producción de cine animado.*([presentación](/static/documentos/presentacion/GrupoA/2-charlie.pdf))
-* **Miguel Montero Alonso**: *Armonización de la Huella de Carbono: un Marco Metodológico Abierto para la Sostenibilidad Transparente.*([presentación](/static/documentos/presentacion/GrupoA/3-Miguel.pdf))
-* **Alejandro Valor González y Pablo García Pérez**: *Producción y publicación de contenidos culturales con software libre.*([presentación](/static/documentos/presentacion/GrupoA/4-AlexyPablo.pdf))
+* **Pablo Hinojosa**: *Public Money Public Code.*([presentación](/documentos/presentacion/GrupoA/1-Pablo.pdf))
+* **Charlie Martínez**: *Quirinux GNU/Linux: software libre y soberanía tecnológica en la producción de cine animado.*([presentación](/documentos/presentacion/GrupoA/2-charlie.pdf))
+* **Miguel Montero Alonso**: *Armonización de la Huella de Carbono: un Marco Metodológico Abierto para la Sostenibilidad Transparente.*([presentación](/documentos/presentacion/GrupoA/3-Miguel.pdf))
+* **Alejandro Valor González y Pablo García Pérez**: *Producción y publicación de contenidos culturales con software libre.*([presentación](/documentos/presentacion/GrupoA/4-AlexyPablo.pdf))
 * **Ana Alzaga Gallo**: *Libre o excluyente: ética y soberanía tecnológica en la atención a la diversidad.*([presentación](/documentos/presentacion/GrupoA/5-Ana.pdf))
-* **Pablo Hinojosa**: *Cultura libre aplicada en el aula: el caso del IES Senda Galiana de Torres de la Alameda (Madrid).*([presentación](/static/documentos/presentacion/GrupoA/6-Pablo.pdf))
+* **Pablo Hinojosa**: *Cultura libre aplicada en el aula: el caso del IES Senda Galiana de Torres de la Alameda (Madrid).*([presentación](/documentos/presentacion/GrupoA/6-Pablo.pdf))
 
 #### 11:00 - 11:30 DESCANSO, CAFÉ, FERIA y PÓSTERS
 
@@ -57,13 +57,13 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 11:30 - 12:25 Ponencia Invitada: Políticas de retención de derechos y otras buenas prácticas en ciencia abierta en el Reino Unido – y sus ecos en España
 
-* **Pablo de Castro**, Open Access Advocacy Librarian, University of Strathclyde Glasgow.([presentación](/static/documentos/presentacion/invitadas/02_Pablo.pdf))
+* **Pablo de Castro**, Open Access Advocacy Librarian, University of Strathclyde Glasgow.([presentación](/documentos/presentacion/invitadas/02_Pablo.pdf))
 
 #### 12:25 - 13:00 Presentaciones Institucionales
 
 * *Editorial Academia Abierta*. **Tomás Zarza y Laura de la Cruz**.
-* *Oficina de Proyectos Europeos*: Presentación de herramienta ResearchComp. **Rosa María Mesa Vélez**.([presentación](/static/documentos/presentacion/institucionales/2-OPE.pdf))
-* *Biblioteca URJC frente a la Ciencia abierta*. **Fernando Silva Sánchez**.([presentación](/static/documentos/presentacion/institucionales/3-Fernando.pdf))
+* *Oficina de Proyectos Europeos*: Presentación de herramienta ResearchComp. **Rosa María Mesa Vélez**.([presentación](/documentos/presentacion/institucionales/2-OPE.pdf))
+* *Biblioteca URJC frente a la Ciencia abierta*. **Fernando Silva Sánchez**.([presentación](/documentos/presentacion/institucionales/3-Fernando.pdf))
 
 #### 13:00 - 13:20 Resumen de las II Jornadas Nacionales de Ciencia Abierta
 
@@ -94,17 +94,17 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 09:50 - 10:40 Ponencias cortas: CIENCIA ABIERTA / CULTURA LIBRE
 
-* **Carmen De Pablos Heredero**: *Características y aplicaciones de los datos abiertos demográficos a nivel regional.*([presentación](/static/documentos/presentacion/Dia2/cortas1/01_CarmenDePablo.pdf))
-* **Irene Ros Martín**: *El proyecto UStand, una iniciativa de cooperación educativa.*([presentación](/static/documentos/presentacion/Dia2/cortas1/02_IreneRos.pdf))
-* **Jennifer García Carrizo**: *Hypatia’s Circular Odyssey.*([presentación](/static/documentos/presentacion/Dia2/cortas1/03_Jennifer.pptx))
-* **Agustín Martínez Peláez**: *Desarrollo de la Plataforma del Patrimonio Cultural, Científico, Tecnológico y bibliográfico de la URJC y la pertenencia a la Red Española de Patrimonio Universitario (REPU).*([presentación](/static/documentos/presentacion/Dia2/cortas1/04_AgustinMartinez.pptx))
-* **Mayte Ruiz y Carmen Soler**: *II edición de los Laboratorios Ciudadanos de la BURJC: Conexiones con el entorno.*([presentación](/static/documentos/presentacion/Dia2/cortas1/05_Mayte.pptx))
-* **Antonio A. Caballero y Laura Arroyo**: *Guía de lenguaje inclusivo.*([presentación](/static/documentos/presentacion/Dia2/cortas1/06_AntonioCaballero.pdf))
-* **Julio Caubín**: *Portal de Datos Abiertos y Premios a la Reutilización del Ayuntamiento de Madrid.*([presentación](/static/documentos/presentacion/Dia2/cortas1/07_Datosmadrid.pdf))
+* **Carmen De Pablos Heredero**: *Características y aplicaciones de los datos abiertos demográficos a nivel regional.*([presentación](/documentos/presentacion/Dia2/cortas1/01_CarmenDePablo.pdf))
+* **Irene Ros Martín**: *El proyecto UStand, una iniciativa de cooperación educativa.*([presentación](/documentos/presentacion/Dia2/cortas1/02_IreneRos.pdf))
+* **Jennifer García Carrizo**: *Hypatia’s Circular Odyssey.*([presentación](/documentos/presentacion/Dia2/cortas1/03_Jennifer.pptx))
+* **Agustín Martínez Peláez**: *Desarrollo de la Plataforma del Patrimonio Cultural, Científico, Tecnológico y bibliográfico de la URJC y la pertenencia a la Red Española de Patrimonio Universitario (REPU).*([presentación](/documentos/presentacion/Dia2/cortas1/04_AgustinMartinez.pptx))
+* **Mayte Ruiz y Carmen Soler**: *II edición de los Laboratorios Ciudadanos de la BURJC: Conexiones con el entorno.*([presentación](/documentos/presentacion/Dia2/cortas1/05_Mayte.pptx))
+* **Antonio A. Caballero y Laura Arroyo**: *Guía de lenguaje inclusivo.*([presentación](/documentos/presentacion/Dia2/cortas1/06_AntonioCaballero.pdf))
+* **Julio Caubín**: *Portal de Datos Abiertos y Premios a la Reutilización del Ayuntamiento de Madrid.*([presentación](/documentos/presentacion/Dia2/cortas1/07_Datosmadrid.pdf))
 
 #### 10:40 - 11:00 Ponencia Invitada: Vía diamante, financiación de hojalata
 
-* **Manuel Gértrudix Barrio**([presentación](/static/documentos/presentacion/Dia2/02_ManuelGertrudix.pdf))
+* **Manuel Gértrudix Barrio**([presentación](/documentos/presentacion/Dia2/02_ManuelGertrudix.pdf))
 
 #### 11:00 - 11:30 DESCANSO, CAFÉ, FERIA y PÓSTERS
 
@@ -113,9 +113,9 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 11:30 - 12:10 Presentaciones Institucionales
 
-* *La Escuela Internacional de Doctorado y la Ciencia Abierta.* **Gonzalo Viñuales Ferreiro**, Subdirector de Estudiantes de la EID.([presentación](/static/documentos/presentacion/Dia2/institucionales/01_Gonzalo.pdf))
+* *La Escuela Internacional de Doctorado y la Ciencia Abierta.* **Gonzalo Viñuales Ferreiro**, Subdirector de Estudiantes de la EID.([presentación](/documentos/presentacion/Dia2/institucionales/01_Gonzalo.pdf))
 * *Defensoría universitaria.* **Alberto Sánchez Campos**.
-([presentación](/static/documentos/presentacion/Dia2/institucionales/02_Alberto.pdf))
+([presentación](/documentos/presentacion/Dia2/institucionales/02_Alberto.pdf))
 * *Asignaturas en abierto: entrega de diplomas.*
 * *Conocimiento abierto en el CIED.* **Jaume Urquiza**.
 
@@ -125,11 +125,11 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 13:10 - 14:00 Ponencias cortas: EDUCACIÓN Y REA
 
-* **Ángel Pazos López, Miguel Esteban Galarza y Antonio Sánchez Rosa**: *La construcción del conocimiento abierto en el Laboratorio Ciudadano de Experimentación Artística Sensorial de la URJC.*([presentación](/static/documentos/presentacion/Dia2/institucionales/1-AngelPazos.pptx))
-* **Leire Gabriela de Colsa Lozano y Marta Camarena Ferrero**: *Presentación de Recurso Educativo Abierto del proyecto innova CINTER.*([presentación](/static/documentos/presentacion/Dia2/institucionales/2-Leire.pdf))
-* **Rafael Linares Palomar**: *El cruzaminas. Expansión transmedia de la película Disonancia.*([presentación](/static/documentos/presentacion/Dia2/institucionales/3-Rafael.pdf))
-* **Maria del Carmen Gálvez de la Cuesta**: *CONECTA: Creación de REAs desde la comunicación responsable y el pensamiento crítico.*([presentación](/static/documentos/presentacion/Dia2/institucionales/4-Maria.pdf))
-* **Maria Begoña Rivas Rebaque**: *Curso para trabajar la economía circular y la sostenibilidad en el aula como recurso educativo abierto (REA).*([presentación](/static/documentos/presentacion/Dia2/institucionales/5-MariaBegoña.pdf))
+* **Ángel Pazos López, Miguel Esteban Galarza y Antonio Sánchez Rosa**: *La construcción del conocimiento abierto en el Laboratorio Ciudadano de Experimentación Artística Sensorial de la URJC.*([presentación](/documentos/presentacion/Dia2/institucionales/1-AngelPazos.pptx))
+* **Leire Gabriela de Colsa Lozano y Marta Camarena Ferrero**: *Presentación de Recurso Educativo Abierto del proyecto innova CINTER.*([presentación](/documentos/presentacion/Dia2/institucionales/2-Leire.pdf))
+* **Rafael Linares Palomar**: *El cruzaminas. Expansión transmedia de la película Disonancia.*([presentación](/documentos/presentacion/Dia2/institucionales/3-Rafael.pdf))
+* **Maria del Carmen Gálvez de la Cuesta**: *CONECTA: Creación de REAs desde la comunicación responsable y el pensamiento crítico.*([presentación](/documentos/presentacion/Dia2/institucionales/4-Maria.pdf))
+* **Maria Begoña Rivas Rebaque**: *Curso para trabajar la economía circular y la sostenibilidad en el aula como recurso educativo abierto (REA).*([presentación](/documentos/presentacion/Dia2/institucionales/5-MariaBegoña.pdf))
 
 #### 14:00 - 15:00 COMIDA - FERIA - PÓSTERS
 
