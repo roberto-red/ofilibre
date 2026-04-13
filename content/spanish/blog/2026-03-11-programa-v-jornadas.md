@@ -125,11 +125,11 @@ Los créditos RAC se otorgan en función de la cantidad de horas de asistencia p
 
 #### 13:10 - 14:00 Ponencias cortas: EDUCACIÓN Y REA
 
-* **Ángel Pazos López, Miguel Esteban Galarza y Antonio Sánchez Rosa**: *La construcción del conocimiento abierto en el Laboratorio Ciudadano de Experimentación Artística Sensorial de la URJC.*([presentación](/documentos/presentaciones/Dia2/institucionales/1-AngelPazos.pptx))
-* **Leire Gabriela de Colsa Lozano y Marta Camarena Ferrero**: *Presentación de Recurso Educativo Abierto del proyecto innova CINTER.*([presentación](/documentos/presentaciones/Dia2/institucionales/2-Leire.pdf))
-* **Rafael Linares Palomar**: *El cruzaminas. Expansión transmedia de la película Disonancia.*([presentación](/documentos/presentaciones/Dia2/institucionales/3-Rafael.pdf))
-* **Maria del Carmen Gálvez de la Cuesta**: *CONECTA: Creación de REAs desde la comunicación responsable y el pensamiento crítico.*([presentación](/documentos/presentaciones/Dia2/institucionales/4-Maria.pdf))
-* **Maria Begoña Rivas Rebaque**: *Curso para trabajar la economía circular y la sostenibilidad en el aula como recurso educativo abierto (REA).*([presentación](/documentos/presentaciones/Dia2/institucionales/5-MariaBegoña.pdf))
+* **Ángel Pazos López, Miguel Esteban Galarza y Antonio Sánchez Rosa**: *La construcción del conocimiento abierto en el Laboratorio Ciudadano de Experimentación Artística Sensorial de la URJC.*([presentación](/documentos/presentaciones/Dia2/cortas2/1-AngelPazos.pptx))
+* **Leire Gabriela de Colsa Lozano y Marta Camarena Ferrero**: *Presentación de Recurso Educativo Abierto del proyecto innova CINTER.*([presentación](/documentos/presentaciones/Dia2/cortas2/2-Leire.pdf))
+* **Rafael Linares Palomar**: *El cruzaminas. Expansión transmedia de la película Disonancia.*([presentación](/documentos/presentaciones/Dia2/cortas2/3-Rafael.pdf))
+* **Maria del Carmen Gálvez de la Cuesta**: *CONECTA: Creación de REAs desde la comunicación responsable y el pensamiento crítico.*([presentación](/documentos/presentaciones/Dia2/cortas2/4-Maria.pdf))
+* **Maria Begoña Rivas Rebaque**: *Curso para trabajar la economía circular y la sostenibilidad en el aula como recurso educativo abierto (REA).*([presentación](/documentos/presentaciones/Dia2/cortas2/5-MariaBegoña.pdf))
 
 #### 14:00 - 15:00 COMIDA - FERIA - PÓSTERS
 
