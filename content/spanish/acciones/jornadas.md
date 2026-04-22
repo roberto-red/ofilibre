@@ -7,12 +7,12 @@ description: "Jornadas de Cultura Libre: unos días para celebrar la cultura lib
 
 Desde 2022 se celebran, anualmente, las Jornadas de Cultura Libre de la URJC:
 
-* V Jornadas de Cultura Libre (25 y 26 de marzo): [primer anuncio](/blog/jornadas-de-cultura-libre-2026-anuncio), [petición de contribuciones](/blog/2025-12-18-convocatoria-de-contribuciones-jornadas-de-cultura-libre-y-ciencia-abierta-2026/), [inscripción abierta](/blog/2026-02-24-v-jornadas-inscripcion/), [programa completo](/blog/2026-03-11-programa-v-jornadas.md)
+* V Jornadas de Cultura Libre (25 y 26 de marzo): [primer anuncio](/blog/jornadas-de-cultura-libre-2026-anuncio), [petición de contribuciones](/blog/2025-12-18-convocatoria-de-contribuciones-jornadas-de-cultura-libre-y-ciencia-abierta-2026/), [inscripción abierta](/blog/2026-02-24-v-jornadas-inscripcion/), [programa completo](/blog/2026-03-11-programa-v-jornadas.md), [fotos](https://commons.wikimedia.org/wiki/Category:Jornadas_de_Cultura_Libre_URJC_2026)
 
-* IV Jornadas de Cultura Libre (26 y 27 de marzo de 2025): [primer anuncio](/blog/2024-11-27-jornadas), [convocatoria de contribuciones](/blog/2025-01-13-jornadas-convocatoria), [sesión con los candidatos a rector](/blog/sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre/), [posters](/blog/posters-iv-jornadas/), [programa completo](/blog/programa-iv-jornadas/)
+* IV Jornadas de Cultura Libre (26 y 27 de marzo de 2025): [primer anuncio](/blog/2024-11-27-jornadas), [convocatoria de contribuciones](/blog/2025-01-13-jornadas-convocatoria), [sesión con los candidatos a rector](/blog/sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre/), [posters](/blog/posters-iv-jornadas/), [programa completo](/blog/programa-iv-jornadas/), [fotos](https://commons.wikimedia.org/wiki/Category:Jornadas_de_Cultura_Libre_URJC_2025)
 
-* III Jornadas de Cultura Libre (20 y 21 de marzo de 2024): [programa final, incluyendo materiales](/blog/programa-iii-jornadas/), [posters](/blog/posters-iii-jornadas/), [anuncio](/blog/2024-01-10-jornadas/)
+* III Jornadas de Cultura Libre (20 y 21 de marzo de 2024): [programa final, incluyendo materiales](/blog/programa-iii-jornadas/), [posters](/blog/posters-iii-jornadas/), [anuncio](/blog/2024-01-10-jornadas/), [fotos](https://commons.wikimedia.org/wiki/Category:Jornadas_de_Cultura_Libre_URJC_2024)
 
-* II Jornadas de Cultura Libre (29 y 30 de marzo de 2023): [programa final, incluyendo materiales y vídeos](/blog/resumen-segundas-jornadas-2023/), [posters](/blog/posters-ii-jornadas/), [anuncio](/blog/jornadas-cultura-libre-2/)
+* II Jornadas de Cultura Libre (29 y 30 de marzo de 2023): [programa final, incluyendo materiales y vídeos](/blog/resumen-segundas-jornadas-2023/), [posters](/blog/posters-ii-jornadas/), [anuncio](/blog/jornadas-cultura-libre-2/), [fotos](https://commons.wikimedia.org/wiki/Category:Jornadas_de_Cultura_Libre_URJC_2023)
 
-* I Jornadas de Cultura Libre (30 de marzo de 2022): [programa final, incluyendo materiales y vídeos](/blog/2022-05-19-jornadas-resultado/), [anuncio](/blog/jornadas-cultura-libre/)
+* I Jornadas de Cultura Libre (30 de marzo de 2022): [programa final, incluyendo materiales y vídeos](/blog/2022-05-19-jornadas-resultado/), [anuncio](/blog/jornadas-cultura-libre/), [fotos](https://commons.wikimedia.org/wiki/Category:Jornadas_de_Cultura_Libre_URJC_2022)
