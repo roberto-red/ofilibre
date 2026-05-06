@@ -6,7 +6,7 @@ categories:
 date: 2022-03-21
 description: Seminar on open publishing of the TFG, part of the seminar cycle on open
   publishing of the Final Degree Project and the use of free materials in it.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/Cuadrado_TFG_en_abierto.jpeg
+image: /local/images/Cuadrado_TFG_en_abierto.jpeg
 slug: 2022-03-23-tfg-abierto
 tags:
 - TFG

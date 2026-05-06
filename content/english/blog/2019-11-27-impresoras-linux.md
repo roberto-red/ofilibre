@@ -5,7 +5,7 @@ date: 2019-11-27
 description: Recently, new printers have been installed for use by University staff.
   OfiLibre has coordinated the preparation of a guide on how to print from them using
   Linux-based systems.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/impresoras/impresora.png
+image: /local/images/guias/impresoras/impresora.png
 slug: impresoras-linux
 tags:
 - Guides

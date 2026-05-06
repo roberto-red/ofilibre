@@ -6,7 +6,7 @@ tags:
 categories:
     - Publicación en abierto
 description: "Información sobre los acuerdos transformativos suscritos por la URJC son diferentes revistas científicas para la publicación en abierto de artículos científicos"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 Los Acuerdos Transformativos son una serie de acuerdos alcanzados por las uiversidades españolas con determinadas editoriales de revistas científicas con el objetivo de alinearnos con otros países de la Unión Europea y poder cumplir con los mandatos de Acceso Abierto de diversas instituciones españolas y europeas.
@@ -17,4 +17,4 @@ Cualquier autor perteneciente a alguna de las universidades e instituciones firm
 
 La lista de editoriales que han suscrito acuerdos con la URJC se puede consultar en el menú superior en el desplegable "Acuerdos Transformativos" tal como se indica en la imagen. Es necesario verificar los requisitos de cada editorial. La web de la Biblioteca indica en cada caso el flujo de trabajo que deben seguir los autores para publicar con dicha editorial bajo el correspondiente acuerdo transformativo con la misma.
 
-![Menú acuerdos transformativos](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.png)
+![Menú acuerdos transformativos](/local/images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.png)

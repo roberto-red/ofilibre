@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2021-04-20
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/obs/logo.png
+image: /local/images/fichas/obs/logo.png
 installs:
 - kind: web
   name: Installation and configuration guide

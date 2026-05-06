@@ -3,7 +3,7 @@ categories:
 - Open publishing
 date: 2021-12-01
 description: 'Presentation: Open Publication of Final Degree Projects'
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/tfgs-abiertos/open-access-square.png
+image: /local/images/blog/tfgs-abiertos/open-access-square.png
 slug: tfgs-abiertos
 tags:
 - TFG

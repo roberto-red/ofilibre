@@ -3,7 +3,7 @@ categories:
 - Open Subjects
 date: 2022-09-14
 description: Summary of the Status of the Open Subjects Call 2022.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/openaccess-square.png
+image: /local/images/guias/openaccess-square.png
 tags:
 - Open publishing
 - free software

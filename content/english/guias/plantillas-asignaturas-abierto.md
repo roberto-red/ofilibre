@@ -6,7 +6,7 @@ date: 2022-07-28
 description: To facilitate the creation of open educational materials, for example
   to participate in the Open Subjects Call, OfiLibre provides the university community
   with templates for creating text documents and presentations.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags: 
 title: Templates for open subjects publication
 type: guias
@@ -23,4 +23,4 @@ Two templates are provided in LibreOffice format:
 
 To use the templates, simply open them with LibreOffice, and when saving select "Save As..." > "ODF Presentation (odp)" for presentations, or "Save As..." > "ODF Text Document (odt)" for text documents, as shown in the image.
 
-![guardar-como](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/plantillas/guardar-como.png)
+![guardar-como](/local/images/guias/plantillas/guardar-como.png)

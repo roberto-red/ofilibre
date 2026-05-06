@@ -10,7 +10,7 @@ categories:
     - Jornadas
     - Cultura libre
 description: "Jornadas de Cultura Libre 2023 de la URJC"  
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/SAVE_THE_DATE_7.jpg"
+image: "/local/images/blog/jornada-cultura-libre/SAVE_THE_DATE_7.jpg"
 ---
 
 La *cultura libre* está más cerca de lo que creemos. Está tan cerca que en marzo de 2023 volveremos a tener en la URJC las Jornadas de Cultura libre.

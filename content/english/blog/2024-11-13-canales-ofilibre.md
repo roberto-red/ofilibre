@@ -4,7 +4,7 @@ categories:
 date: 2024-11-13
 description: OfiLibre has several channels that you can consult (or subscribe to them)
   if you want to follow the information we provide.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags:
 - Social Networks
 title: Communication channels of OfiLibre

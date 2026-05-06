@@ -5,7 +5,7 @@ categories:
 date: 2025-07-24
 description: Learn about the procedure we followed to create a virtual reality experience
   with A-Frame
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags: 
 title: Web development of virtual reality with A-Frame
 type: guias

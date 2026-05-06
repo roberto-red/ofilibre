@@ -8,7 +8,7 @@ degrees: Bachelor of Science (B.Sc.) in Economics, Bachelor of Science (B.Sc.) i
 department: FCJS
 description: Review classes of theoretical contents taught in person (Introduction
   to Statistics, Descriptive Statistics, and Introduction to Probability)
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/estadistica1.png
+image: /local/images/catalogo/estadistica1.png
 license: Attribution-ShareAlike 4.0 International
 link: https://www.youtube.com/watch?v=TRrbm07m0yw&list=PLiqyQxHITcwwtQpza8-sS-QtmZzdcyvrQ
 title: Notes on Statistics 1 (Video-classes)

@@ -5,7 +5,7 @@ categories:
 date: 2020-12-11
 description: How to create a free video from a Teams recording. Includes lightly editing
   the video, adding headers, music, license, credits, and other details.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/recetas-teams-video/cabecera-square.jpg
+image: /local/images/blog/recetas-teams-video/cabecera-square.jpg
 slug: recetas-teams-video
 title: OfiLibre Recipes. From Teams recording to free video.
 ---

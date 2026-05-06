@@ -10,7 +10,7 @@ tags:
     - Wiley
     - Acuerdo transformativo
     - Publicación en abierto
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/acuerdo-editorial-wiley/acuerdo-square.png"
+image: "/local/images/blog/acuerdo-editorial-wiley/acuerdo-square.png"
 ---
 
 Según ha informado el Vicerrectorado de Extensión Universitaria, la URJC ha firmado un nuevo acuerdo con la editorial Wiley, que permitirá leer y publicar en abierto los artículos de autores de la URJC.

@@ -1,6 +1,6 @@
 ---
 title: Maxima
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/maxima/logo.png
+image: /local/images/fichas/maxima/logo.png
 website: https://maxima.sourceforge.io/
 website_es: https://maxima.sourceforge.io/es/
 licenses:

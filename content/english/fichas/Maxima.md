@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2021-04-28
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/maxima/logo.png
+image: /local/images/fichas/maxima/logo.png
 installs:
 - kind: web
   name: Installation instructions for the complete Maxima package

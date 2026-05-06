@@ -3,7 +3,7 @@ categories:
 - Resources
 date: 2020-07-20
 description: OfiLibre creates a mailing list to share its news in an alternative way.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/lista-correo-ofilibre/thumb-email.png
+image: /local/images/blog/lista-correo-ofilibre/thumb-email.png
 slug: lista-correo-ofilibre
 title: We have a mailing list!
 ---

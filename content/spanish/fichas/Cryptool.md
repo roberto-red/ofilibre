@@ -1,6 +1,6 @@
 ---
 title: Cryptool
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/cryptool/logo.png
+image: /local/images/fichas/cryptool/logo.png
 website: https://www.cryptool.org/en/
 website_es:
 licenses:

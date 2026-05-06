@@ -1,6 +1,6 @@
 ---
 title: Autopsy
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/autopsy/logo.png
+image: /local/images/fichas/autopsy/logo.png
 website: https://www.sleuthkit.org/
 website_es: 
 licenses:

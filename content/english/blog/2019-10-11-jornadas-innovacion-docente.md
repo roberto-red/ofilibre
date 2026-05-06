@@ -2,7 +2,7 @@
 categories:
 - Free culture days
 date: 2019-10-11
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-innovacion/semana-innovación-docente.png
+image: /local/images/blog/jornadas-innovacion/semana-innovación-docente.png
 slug: jornadas-innovacion-docente
 tags:
 - Talks

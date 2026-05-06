@@ -3,7 +3,7 @@ categories:
 - Cafes
 date: 2023-10-11
 description: 'We''re starting a new activity: every week, have coffee with OfiLibre'
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags:
 title: Cafe con OfiLibre
 ---

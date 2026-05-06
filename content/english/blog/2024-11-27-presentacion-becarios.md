@@ -3,7 +3,7 @@ categories:
 - University
 date: 2024-11-27
 description: During this course, we have a new and exceptionally large group of Scholars
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags:
 title: We're starting the course with scholarship holders!
 ---
@@ -21,7 +21,7 @@ During this course, we have a new and exceptionally large group of Scholars, who
 
 We are confident that their dedication and creativity will allow us to continue advancing with renewed energy, consolidating OfiLibre's mission as a space for training and growth in the field of free culture.
 
-![Scholars of the 2024-2025 course](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/becarios-2024.jpg)
+![Scholars of the 2024-2025 course](/local/images/blog/becarios-2024.jpg)
 
 We welcome you to the team! We are eager to see all the ideas and projects we will develop together in the coming months.
 

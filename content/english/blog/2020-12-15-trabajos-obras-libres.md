@@ -6,7 +6,7 @@ description: 'Just because a work is available on the Internet does not necessar
   mean its author has given you permission to use it in your work. Fortunately, there
   is a type of work for which the author has indeed given me permission, and I can
   reuse it without any issues: these are free works.'
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/trabajos-obras-libres/cabecera-square.png
+image: /local/images/blog/trabajos-obras-libres/cabecera-square.png
 slug: trabajos-obras-libres
 title: 'OfiLibre Seminars. My works and free works: a good match'
 ---

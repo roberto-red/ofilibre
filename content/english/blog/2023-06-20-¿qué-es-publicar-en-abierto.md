@@ -3,7 +3,7 @@ categories:
 - Open publishing
 date: 2023-06-20 12:03:31.623000+00:00
 description: Guide on how to publish openly
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/búho-4.jpg
+image: /local/images/búho-4.jpg
 slug: publicar-abierto
 tags:
 - guides-publish
@@ -24,7 +24,7 @@ To publish in an open way, you can use Creative Commons licenses (CC), which war
 
 **CC-BY-SA**: Attribution-Share Alike (SA), meaning that, in addition to mentioning authorship, any derived work must be shared with a similar license [](http://creativecommons.org/licenses/by-sa/4.0/deed.es)<http://creativecommons.org/licenses/by-sa/4.0/deed.es>
 
-![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/creative-commons-1.jpg)
+![](/local/images/creative-commons-1.jpg)
 
 These licenses allow anyone to use, share, modify, even for commercial purposes, the material you have released.
 
@@ -44,4 +44,4 @@ For example:
 
 By simply writing this, your material is already free! But for it to be really shared, it's necessary to upload it to a repository like BURJC or TV-URJC.
 
-![Open publication infographic](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/2-cómo-publicar-en-abierto.jpg "Open publication infographic")
+![Open publication infographic](/local/images/2-cómo-publicar-en-abierto.jpg "Open publication infographic")

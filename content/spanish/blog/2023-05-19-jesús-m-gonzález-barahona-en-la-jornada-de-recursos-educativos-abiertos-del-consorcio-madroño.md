@@ -7,7 +7,7 @@ slug: jesus-jornada-REA
 categories:
   - Recursos
   - Publicación en abierto
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/1200px-logo_consorcio_madroño.jpg
+image: /local/images/1200px-logo_consorcio_madroño.jpg
 ---
 
 <!--\[if gte mso 9]><xml>

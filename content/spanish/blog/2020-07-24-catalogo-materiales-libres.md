@@ -8,7 +8,7 @@ categories:
     - Datos Abiertos
 tags:
     - Docencia
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 En este contexto, la OfiLibre ha decidido crear un **catálogo de materiales libres usados en asignaturas de la URJC**. De esta forma, tendremos recopilada de una manera ordenada todo este material docente tan valioso, publicado de forma abierta en la Universidad Rey Juan Carlos.

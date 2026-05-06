@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-14
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/ultimakercura/logo.png
+image: /local/images/fichas/ultimakercura/logo.png
 installs:
 - kind: pdf
   name: How to install Gimp 2.10.2

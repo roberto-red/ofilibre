@@ -1,6 +1,6 @@
 ---
 title: Protégé
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/protégé/logo.png
+image: /local/images/fichas/protégé/logo.png
 website: https://protege.stanford.edu/
 website_es:
 licenses:
@@ -38,4 +38,4 @@ categories:
 ---
 
 Protégé es un editor libre de código abierto y un sistema de adquisición de conocimiento. Al igual que Eclipse, Protégé es un framework para el cual otros proyectos sugieren plugins. La aplicación está escrita en Java y usa fuertemente Swing para crear su compleja interfaz. Protégé recientemente tiene más de 100000 usuarios registrados.
-Protégé está desarrollado por la Universidad de Stanford, en colaboración con la Universidad de Mánchester. 
+Protégé está desarrollado por la Universidad de Stanford, en colaboración con la Universidad de Mánchester

@@ -4,7 +4,7 @@ categories:
 date: 2020-02-06
 description: Rey Juan Carlos University approves an Institutional Declaration on Open
   Science, Education, and Publishing to become a reference in this field.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 slug: declaracion-pub-abierta
 title: Rey Juan Carlos University promotes open knowledge
 ---

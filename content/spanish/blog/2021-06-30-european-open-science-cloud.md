@@ -7,7 +7,7 @@ tags:
 categories:
     - Datos abiertos
 description: "La EOSC es una iniciativa de ámbito europeo con el objetivo de promover la Ciencia Abierta para acelerar la creación de nuevo conocimiento y promover la accesibilidad y la transparencia de los proyectos de investigación."
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/european-open-science-cloud/EOSC-square.png"
+image: "/local/images/blog/european-open-science-cloud/EOSC-square.png"
 ---
 
 La [European Open Science Cloud](https://www.eosc.eu/) (EOSC) es una iniciativa con financiación de la comisión europea, concebida con el objetivo de promover la Ciencia Abierta en Europa. La ciencia abierta favorece la creación de nuevo conocimiento, inspira la educación, incentiva la innovación y promueve la accesibilidad y la transparencia.
@@ -21,7 +21,7 @@ La Asociación EOSC se estableció como una entidad legal el 29 de julio de 2020
 La Universidad Rey Juan Carlos participa como observador en este organismo.
 
 La [Comisión Europea](https://europa.eu/european-union/about-eu/institutions-bodies/european-commission_es) financia a la EOSC a través de proyectos pertenecientes al programa [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en). A continuación, se pueden ver los proyectos que contribuyen al desarrollo de la EOSC:
-![Proyectos Europeos EOSC](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/european-open-science-cloud/proyectos.png)
+![Proyectos Europeos EOSC](/local/images/blog/european-open-science-cloud/proyectos.png)
 ____________________________________________________
 
 ### Enlaces de interés 

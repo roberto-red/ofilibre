@@ -9,7 +9,7 @@ tags:
 categories:
     - Asignaturas en abierto
 description: "Listado de asignaturas que se ponen en acceso abierto como resultado de la convocatoria del primer cuatrimestre del curso 2022-2023, junto con enlaces a sus materiales."
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/openaccess-square.png"
+image: "/local/images/guias/openaccess-square.png"
 ---
 
 Este es el listado de las asignaturas que han obtenido la baremación suficiente como para ser consideradas "Asignaturas en Acceso Abierto", entre las que se han presentado a la [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/guias/convocatoria-asignaturas-abierto/) (primer cuatrimestre). Junto a cada una, se incluyen sus materiales publicados en acceso abierto.

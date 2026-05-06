@@ -7,7 +7,7 @@ date: '2025-03-26'
 description: Link to the recording of the session with the two rector candidates,
   Abraham Duarte Muñoz and Fernando García Muiña, which kicked off IV Free
   Culture Days.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/poster.png
+image: /local/images/blog/jornadas-2025/poster.png
 slug: grabacion-sesion-con-los-candidatos-a-rector-iv-jornadas-de-cultura-libre
 tags:
 title: Recording of the session with the candidates for Rector

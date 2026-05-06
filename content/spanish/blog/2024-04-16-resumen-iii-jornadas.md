@@ -10,7 +10,7 @@ tags:
   - "Jornadas"
   - "URJC"
   - "Cultura libre"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/RESUMEN-III-Jornadas-thumb.jpg
+image: /local/images/RESUMEN-III-Jornadas-thumb.jpg
 ---
 
 Nuestras III [*Jornadas de Cultura Libre*](/blog/programa-iii-jornadas/) han sido todo un éxito. 

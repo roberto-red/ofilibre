@@ -4,7 +4,7 @@ categories:
 date: 2021-11-11
 description: Micael Gallego and Sergio Murillo teach you some open-source solutions
   for video conferencing
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/charla-webrtc/logo-webrtc.png
+image: /local/images/blog/charla-webrtc/logo-webrtc.png
 slug: videoconferencia-web
 tags:
 - Talks

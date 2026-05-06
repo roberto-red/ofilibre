@@ -8,7 +8,7 @@ categories:
     - Recursos
     - Datos Abiertos
 description: "Consultas a Javier de la Cueva sobre CC"
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/CC.png/"
+image: "/local/images/CC.png/"
 ---
 
 En la OfliLibre solemos recibir muchas consultas sobre uso de materiales libres, licencias, software libre, etc. No siempre tenemos respuesta para todo ;) Así que cuando tenemos dudas, buscamos ayuda consultando a expertos.

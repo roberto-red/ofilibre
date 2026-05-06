@@ -1,6 +1,6 @@
 ---
 title: Beast
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/beast/logo.png
+image: /local/images/fichas/beast/logo.png
 website: https://beast.community/index.html
 website_es: 
 licenses:

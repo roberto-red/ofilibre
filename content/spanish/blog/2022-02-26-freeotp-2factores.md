@@ -6,7 +6,7 @@ tags:
 categories:
     - Software libre
 description: "FreeOTP es un programa libre que puede funcionar como segundo factor de autenticación"
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/freeotp-2factores/square.png"
+image: "/local/images/blog/freeotp-2factores/square.png"
 ---
 
 En la URJC estamos de transición al [uso de varios factores de autenticación](https://infotic.urjc.es/pages/viewpage.action?pageId=135299113) (la contraseña y otro) para poder utilizar muchos servicios. El segundo factor puede por ejemplo un móvil, donde recibiremos un código que tendremos que introducir para autenticarnos. Pero puede ser también una aplicación, normalmente para el móvil, que nos dará el código para autenticarnos. 

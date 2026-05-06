@@ -6,7 +6,7 @@ date: 2025-06-04
 description: The details of the call can be found in the attached document Call for
   the Recognition of Open Access Subject Publication 2025-2026. This meeting summarizes
   and explains some of its most important aspects.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-urjc-square.png
+image: /local/images/logo-urjc-square.png
 tags: 
 title: 'Open Subjects Call 2025-2026: explanatory meeting and Q&A'
 ---

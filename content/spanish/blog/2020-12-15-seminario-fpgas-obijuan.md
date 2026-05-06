@@ -8,7 +8,7 @@ categories:
 tags:
     - Charlas
 description: "Seminario sobre FPGAs, placas hardware libres programables. El seminario incluye una demo y una presentación sobre la tecnología."
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/seminario-fpgas-obijuan/fpga-square.png"
+image: "/local/images/blog/seminario-fpgas-obijuan/fpga-square.png"
 ---
 
 Demo FPGAs: 

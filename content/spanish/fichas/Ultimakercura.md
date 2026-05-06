@@ -1,6 +1,6 @@
 ---
 title: UltimakerCura
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/ultimakercura/logo.png
+image: /local/images/fichas/ultimakercura/logo.png
 website: https://ultimaker.com/en/products/ultimaker-cura-software
 website_es: 
 licenses:

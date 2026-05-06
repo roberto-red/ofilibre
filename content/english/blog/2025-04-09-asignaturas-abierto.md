@@ -5,7 +5,7 @@ categories:
 date: 2025-04-09
 description: The Call for the recognition of open access publication of teaching materials
   for the 2025-2026 academic year has been published.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-urjc-square.png
+image: /local/images/logo-urjc-square.png
 tags:
 title: Open Subjects Call 2025-2026
 ---

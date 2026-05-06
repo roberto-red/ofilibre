@@ -1,6 +1,6 @@
 ---
 title: "Envío de correos masivos con Evolution"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/evolution.png
+image: /local/images/guias/evolution.png
 date: 2025-07-25
 type: guias
 description: "Conoce la metodología que usamos en la OfiLibre para el envío de correos masivos"

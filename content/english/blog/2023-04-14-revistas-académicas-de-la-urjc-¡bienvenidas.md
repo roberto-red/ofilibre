@@ -5,7 +5,7 @@ categories:
 date: 2023-04-14 11:02:06.752000+00:00
 description: The call for support for the creation and maintenance of academic journals
   at URJC is launched. Applications can be submitted throughout the year.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/mini-tevistas.png
+image: /local/images/mini-tevistas.png
 slug: convocatoria-revistas
 tags:
 - open_access_publication

@@ -5,7 +5,7 @@ categories:
 date: 2021-04-07
 description: An online repository dedicated to hosting free, high-quality music that
   allows its use in derivative works.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/fma-square.png
+image: /local/images/blog/free-music-archive/fma-square.png
 slug: free-music-archive
 tags:
 - Free Music
@@ -18,7 +18,7 @@ Do you know the [Free Music Archive](https://www.freemusicarchive.org/home) proj
 
 It is an online repository dedicated to hosting free music. Its goal is to provide an archive of music under Creative Commons licenses that can be downloaded freely and used in other derivative works.
 
-![Captura Busqueda en FMA](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/captura01.png)
+![Captura Busqueda en FMA](/local/images/blog/free-music-archive/captura01.png)
 
 The works published on FMA are reviewed and are high-quality pieces. Additionally, the site allows users who download these works to make donations to their composers.
 
@@ -28,11 +28,11 @@ This project began in 2009 thanks to [WFMU](https://wfmu.org/), [KBOO](https://k
 
 The existing files were moved to [TheInternetArchive](https://archive.org/). It is a digital library that advocates for universal access to knowledge on the Internet and hosts all kinds of files: copies of web pages, software, music, books...
 
-![The Internet Archive logo](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/Internet_Archive_logo_and_wordmark.svg.png)
+![The Internet Archive logo](/local/images/blog/free-music-archive/Internet_Archive_logo_and_wordmark.svg.png)
 
 In 2019 the [FMA was acquired](https://www.prweb.com/releases/global_music_community_tribe_of_noise_acquires_free_music_archive/prweb16583352.htm) by [TribeofNoise](https://www.tribeofnoise.com/), a social network for musicians who share their music. This network added FMA's songs to its own free catalog, thus expanding the collection.
 
-![Tribe of Noise logo](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/tribeofnoise.png)
+![Tribe of Noise logo](/local/images/blog/free-music-archive/tribeofnoise.png)
 
 In May 2020 Tribe of Noise [received the "Grant for the Web" award](https://www.grantfortheweb.org/blog/free-music-archive) for developing new online business models based on open standards and for supporting access to free music.
 
@@ -40,7 +40,7 @@ In May 2020 Tribe of Noise [received the "Grant for the Web" award](https://www.
 
 Some songs published on Tribe of Noise are limited to the Non Commercial scope. This means they can be used freely as long as it is not a paid project. To be able to use these songs for that purpose, TribeOfNoise also maintains a [store](https://prosearch.tribeofnoise.com/search/index) that allows artists to set a price for the use of their songs in commercial audiovisual projects.
 
-![Captura Tribe of Noise PRO](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/captura02.png)
+![Captura Tribe of Noise PRO](/local/images/blog/free-music-archive/captura02.png)
 
 ### Links of interest
 

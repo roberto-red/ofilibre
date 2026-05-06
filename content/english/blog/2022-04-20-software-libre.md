@@ -4,7 +4,7 @@ categories:
 date: 2022-04-06
 description: What does a program need to fulfill to be free software? How can I publish
   my programs as free software? Why might all this matter to me?
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/software-libre/logo.png
+image: /local/images/blog/software-libre/logo.png
 slug: 2022-04-20-software-libre
 tags:
 title: 'Seminars: What is free software?'

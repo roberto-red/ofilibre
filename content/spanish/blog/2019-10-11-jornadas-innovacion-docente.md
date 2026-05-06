@@ -7,7 +7,7 @@ categories:
 tags:
     - Charlas
     - Innovación docente
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-innovacion/semana-innovación-docente.png"
+image: "/local/images/blog/jornadas-innovacion/semana-innovación-docente.png"
 ---
 
 Las VI Jornadas de Innovación Docente URJC online son un espacio de análisis, reflexión e intercambio sobre prácticas docentes y metodologías didácticas aplicadas a la educación apoyada con sistemas, servicios y herramientas digitales.

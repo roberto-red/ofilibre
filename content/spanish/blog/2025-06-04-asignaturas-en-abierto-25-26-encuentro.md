@@ -2,7 +2,7 @@
 title: "Convocatoria de asignaturas en abierto 2025-2026: encuentro explicativo y resolución de dudas"
 date: 2025-06-04
 description: Los detalles de la convocatoria pueden consultarse en el documento Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-2026 adjunto. En este encuentro se resumen y se explican algunos de sus aspectos más importantes.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-urjc-square.png
+image: /local/images/logo-urjc-square.png
 categories:
     - asignaturas en abierto
     - convocatorias

@@ -1,6 +1,6 @@
 ---
 title: OpenOffice
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/openoffice/logo.png
+image: /local/images/fichas/openoffice/logo.png
 website: https://www.openoffice.org/
 website_es: https://www.openoffice.org/es/
 licenses:

@@ -7,7 +7,7 @@ categories:
   - Jornadas
   - Cultura Libre
 tags:
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/Contenido_III_Jornadas_thumb.png
+image: /local/images/Contenido_III_Jornadas_thumb.png
 ---
 
 Programa de las Jornadas, incluyendo enlaces a los materiales utilizados en las presentaciones y talleres. Los pósters los puedes encontrar en [esta entrada del blog.](/blog/posters-iii-jornadas)

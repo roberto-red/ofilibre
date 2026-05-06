@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-12
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/octave/logo.png
+image: /local/images/fichas/octave/logo.png
 installs: 
 licenses:
 - name: GPL

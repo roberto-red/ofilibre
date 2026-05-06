@@ -1,6 +1,6 @@
 ---
 title: SWIProlog
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/swiprolog/logo.png
+image: /local/images/fichas/swiprolog/logo.png
 website: http://www.swi-prolog.org/
 website_es:
 licenses:

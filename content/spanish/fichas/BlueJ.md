@@ -1,6 +1,6 @@
 ---
 title: BlueJ
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/bluej/logo.png
+image: /local/images/fichas/bluej/logo.png
 website: https://www.bluej.org/
 website_es: 
 licenses:

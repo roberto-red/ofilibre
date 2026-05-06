@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2023-07-05 12:18:07.158000+00:00
 description: Set of explanatory posters related to free culture
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/17-_cartel_revista_forum_docentis-2.jpg
+image: /local/images/17-_cartel_revista_forum_docentis-2.jpg
 slug: posters-ii-jornadas
 tags:
 - culture-explanation
@@ -19,68 +19,68 @@ Here are all the posters presented at II Free Culture Days. We hope you enjoy th
 
   Author: Daniel Martín Cudero 
 
-![Redesigning math teaching-learning](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/1-póster-daniel_martín_cudero.jpg "Webquests in the classroom")
+![Redesigning math teaching-learning](/local/images/1-póster-daniel_martín_cudero.jpg "Webquests in the classroom")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/localhttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/1-daniel_martín_cudero-grande.jpg)
+[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/1-daniel_martín_cudero-grande.jpg)
 
 * **“Communication system for intubated patients”**
 
   Authors: Carla de León and Laura Díaz
 
-![Poster about this new communication system](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/2-sistema_de_comunicación_para_pacientes_intubados.jpg "Communication system for intubated patients")
+![Poster about this new communication system](/local/images/2-sistema_de_comunicación_para_pacientes_intubados.jpg "Communication system for intubated patients")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/2-pacientes-intubados-grande.jpg)
+[Download it here](/local/images/2-pacientes-intubados-grande.jpg)
 
 * **"ASTRI Art and Society" Magazine**
 
   Authors: Tomás Zarza Núñez and Miguel S. Moñita
 
-![Explanatory poster about the Astri magazine](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/poster_asri.jpg "ASTRI Magazine")
+![Explanatory poster about the Astri magazine](/local/images/poster_asri.jpg "ASTRI Magazine")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/poster_asri-grande.jpg)
+[Download it here](/local/images/poster_asri-grande.jpg)
 
 * **“Periodic table of popular computer fonts and open alternatives”**
 
   Author: José F. Vélez Serrano
 
-![Table about free fonts](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/5-fuentesimprimible.jpg "Free fonts")
+![Table about free fonts](/local/images/5-fuentesimprimible.jpg "Free fonts")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/5-fuentesimprimible-grande.jpg)
+[Download it here](/local/images/5-fuentesimprimible-grande.jpg)
 
 * **“Theater as a creative tool”**
 
   Author: Liuba González Cid
 
-![Explanatory poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/6-infografía-el_teatro_como_herramienta_creativa-fecyt-urjc-cultura-libre_2_2_.jpg "Theater as a creative tool")
+![Explanatory poster](/local/images/6-infografía-el_teatro_como_herramienta_creativa-fecyt-urjc-cultura-libre_2_2_.jpg "Theater as a creative tool")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/6-el_teatro_como_herramienta_creativa-grande.jpg)
+[Download it here](/local/images/6-el_teatro_como_herramienta_creativa-grande.jpg)
 
 * **"Classroom cyberimaginary"**
 
-![Explanatory poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom cyberimaginary")
+![Explanatory poster](/local/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom cyberimaginary")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/16-classroom-ciberimaginario-grande.jpg)
+[Download it here](/local/images/16-classroom-ciberimaginario-grande.jpg)
 
 * **"Open source robotics"**
 
   Intelligent Robotics Lab
 
-![Explanatory poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/20-robotsposter_cultura_libre_v2-1.jpg "Open source robotics")
+![Explanatory poster](/local/images/20-robotsposter_cultura_libre_v2-1.jpg "Open source robotics")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/20-robotsposter_grande.jpg)
+[Download it here](/local/images/20-robotsposter_grande.jpg)
 
 * **"Wikipedia Club"**
 
   Author: José María García De Madariaga Miranda
 
-![Explanatory poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/club_wikipedia.jpg "Wikipedia Club")
+![Explanatory poster](/local/images/club_wikipedia.jpg "Wikipedia Club")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/club_wikipedia-grande.jpg)
+[Download it here](/local/images/club_wikipedia-grande.jpg)
 
 * **"Co-creation of educational materials through Instagram for Industrial Archaeology"**
 
   Authors: Alberto Polo Romero and Irene Salinero Sánchez
 
-![Explanatory poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/polo_salinero_poster_ofilibre.jpg "Co-creation of educational materials through Instagram for Industrial Archaeology")
+![Explanatory poster](/local/images/polo_salinero_poster_ofilibre.jpg "Co-creation of educational materials through Instagram for Industrial Archaeology")
 
-[Download it here](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/polo_salinero_grande.jpg)
+[Download it here](/local/images/polo_salinero_grande.jpg)

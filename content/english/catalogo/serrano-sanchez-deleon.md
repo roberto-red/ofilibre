@@ -12,7 +12,7 @@ description: Simplest Possible Computer Simulator (SAP-1, Simple-As-Possible Com
   through a simple (and limited) assembly language. The simulator shows the data path
   and the execution process of instructions cycle by cycle. This resource can be used
   as an introduction to computer architecture.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/serrano-sanchez-deleon.png
+image: /local/images/catalogo/serrano-sanchez-deleon.png
 license: Creative Commons Attribution-NonCommercial-ShareAlike
 link: http://aserrano.es/portafolio/informatica-con-processing/sap1/
 title: Simple-As-Possible Computer Simulator (SAP-1)

@@ -8,7 +8,7 @@ categories:
     - Software Libre
 tags:
     - Modelos 3D
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/modelos3D_square.png"
+image: "/local/images/blog/webs-impresion-3D/modelos3D_square.png"
 ---
 
 ¿Te interesa la impresión 3D? ¿Diseñas tus propios objetos o descargas modelos 3D de internet? ¿Sabes bajo qué licencia están publicados esos modelos?
@@ -21,11 +21,11 @@ Seguramente todos los aficionados a la impresión 3D ya conocen [Thingiverse](ht
 
 Es muy sencillo ver bajo qué licencia se ha publicado cada diseño, a la izquierda de su descripción. En este ejemplo podemos ver que el creador permite la distribución, adaptación y modificación, incluso para uso comercial, siempre que se cite al creador original y se distribuya bajo la misma licencia.
 
-![CCAtributionLicense-Screenshot](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/License.png)
+![CCAtributionLicense-Screenshot](/local/images/blog/webs-impresion-3D/License.png)
 
 Sin embargo, la opción de búsqueda avanzada funciona un poco mal en Thingiverse. Podemos ver que no se encuentra ningún resultado al filtrar por tipo de licencia, aunque ya hemos visto que hay muchos modelos usando Creative Commons - Attribution. Tal vez lo solucionen en el futuro, quién sabe.
 
-![License Filter - No Results Found](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/No%20results%20found.png)
+![License Filter - No Results Found](/local/images/blog/webs-impresion-3D/No%20results%20found.png)
 
 ## YouMagine
 
@@ -33,7 +33,7 @@ Otra alternativa open-source muy interesante es la web [YouMagine](https://www.y
 
 En esta web también es muy sencillo ver el tipo de licencia que se aplica a cada objeto, junto a su descripción. Pero no permite el filtrado por tipo de licencia en la búsqueda.
 
-![BSD License - YouMagine Screenshot](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/youmagine.png)
+![BSD License - YouMagine Screenshot](/local/images/blog/webs-impresion-3D/youmagine.png)
 
 [En 2015](https://blog.youmagine.com/2015/03/3dpl-released-an-open-source-license-for-3d-printed-things/), YouMagine anunció la creación de la [licencia 3DPL](https://medium.com/@jorispeels/youmagine-3dpl-c11fce097ae), la primera licencia open-source dedidada específicamente a la impresión 3D. Esta licencia cubre ciertas áreas que las licencias open-source tradicionales no consideraban.
 
@@ -43,7 +43,7 @@ Por ejemplo, por defecto permite distribuir y modificar. Opcionalmente, se puede
 
 Finalmente, otra opción es la web [BlenderMarket](https://blendermarket.com/), que aloja modelos creados por diseñadores con la herramienta open source Blender. Muchos están diseñados para animaciones 3D y videojuegos, pero la página permite filtrar solo los modelos imprimibles, o aquellos con licencias libres.
 
-![BlenderMarket screenshot](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/BlenderMarket.png)
+![BlenderMarket screenshot](/local/images/blog/webs-impresion-3D/BlenderMarket.png)
 
 ____________________________
 

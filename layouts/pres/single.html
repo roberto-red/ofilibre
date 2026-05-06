@@ -22,10 +22,10 @@
         <div class="post-thumb mb-3">
           {{ with .Params.slides.pdf }}
           <a href="{{ . | relURL }}" target="_blank" rel="noopener">
-            <img class="img-fluid" src="{{ $.Params.image | absURL }}" alt="{{ $.Title }}">
+            <img class="img-fluid" src="{{ partial "resolve-image" $.Params.image }}" alt="{{ $.Title }}">
           </a>
           {{ else }}
-          <img class="img-fluid" src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+          <img class="img-fluid" src="{{ partial "resolve-image" .Params.image }}" alt="{{ .Title }}">
           {{ end }}
         </div>
 

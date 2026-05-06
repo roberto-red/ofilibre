@@ -11,7 +11,7 @@ categories:
 tags:
   - publicación_en_abierto
   - revistas
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/mini-tevistas.png
+image: /local/images/mini-tevistas.png
 ---
 
 El Vicerrectorado de Comunidad Campus, Cultura y Deporte promueve la creación de una plataforma de la URJC para la publicación de revistas académicas. En esta plataforma se publicarán revistas promovidas por personal de la Universidad, en formato digital y en acceso abierto. Para promover la creación y el mantenimiento de estas revistas, también publica una convocatoria regular, la que pueden presentarse tanto revistas ya en marcha como proyectos que pretendan editar nuevas revistas. La plataforma y el programa se gestionan por el [Servicio de Publicaciones del Área de Biblioteca Universitaria](https://www.urjc.es/burjc/investiga/publicar), con el apoyo de la OfiLibre.

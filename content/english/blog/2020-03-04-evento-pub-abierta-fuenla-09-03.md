@@ -4,7 +4,7 @@ categories:
 date: 2020-03-04
 description: OfiLibre organizes together with the Faculty of Communication Sciences
   the presentation 'Introduction to Open Publishing', aimed at teaching staff.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/evento-pub-abierta-fuenla-09-03/fccom.png
+image: /local/images/blog/evento-pub-abierta-fuenla-09-03/fccom.png
 slug: evento-pub-abierta-fuenla-09-03
 tags:
 - Talks

@@ -25,7 +25,7 @@
     {{ with .Params.image }}
     <div class="row mb-4">
       <div class="col-md-4 mx-auto">
-        <img src="{{ . | absURL }}" alt="{{ i18n "logoOf" }} {{ $.Title }}" class="img-fluid d-block mx-auto" style="max-height: 200px; object-fit: contain;">
+        <img src="{{ partial "resolve-image" . }}" alt="{{ i18n "logoOf" }} {{ $.Title }}" class="img-fluid d-block mx-auto" style="max-height: 200px; object-fit: contain;">
       </div>
     </div>
     {{ end }}

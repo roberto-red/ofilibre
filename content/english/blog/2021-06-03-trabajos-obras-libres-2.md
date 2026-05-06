@@ -5,7 +5,7 @@ date: 2021-06-03
 description: 'Not everything available on the Internet is free for us to use, but
   if you know how to look, there''s a lot that is: free works. In this type of works,
   the author has given you permission to use and reuse them without any issues.'
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/trabajos-obras-libres/cabecera-square-2.png
+image: /local/images/blog/trabajos-obras-libres/cabecera-square-2.png
 slug: trabajos-obras-libres-2
 tags:
 - Free works

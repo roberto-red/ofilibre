@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2022-05-19
 description: Summary of the 1st Free Culture Day at URJC (including video of the presentations).
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/square.png
+image: /local/images/blog/jornada-cultura-libre/square.png
 slug: 2022-05-19-jornadas-resultado
 tags:
 title: Results Free Culture Days

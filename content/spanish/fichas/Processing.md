@@ -1,6 +1,6 @@
 ---
 title: Processing
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/processing/logo.png
+image: /local/images/fichas/processing/logo.png
 website: https://processing.org/
 website_es: 
 licenses:

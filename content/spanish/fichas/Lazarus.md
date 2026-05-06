@@ -1,6 +1,6 @@
 ---
 title: Lazarus
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/lazarus/logo.png
+image: /local/images/fichas/lazarus/logo.png
 website: https://www.lazarus-ide.org/
 website_es: 
 licenses:

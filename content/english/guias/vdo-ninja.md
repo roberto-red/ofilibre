@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2025-01-30
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/logo-vdo-ninja.png
+image: /local/images/guias/vdo-ninja/logo-vdo-ninja.png
 tags:
 title: VDO.ninja to broadcast remote meetings
 type: guias
@@ -19,17 +19,17 @@ Everything happens inside the browser (peer to peer), so it has fairly low laten
 
 When we enter the main page we find this screen:
 
-![Main menu of VDO.ninja](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/menuPrincipal.png)
+![Main menu of VDO.ninja](/local/images/guias/vdo-ninja/menuPrincipal.png)
 
 For what we want to use it for, it’s best to choose the Create a Room option. Within this option we have this:
 
-![Creating a room](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/createRoom.png)
+![Creating a room](/local/images/guias/vdo-ninja/createRoom.png)
 
 In our particular case, the CafesOfiLibre room is already created and pinned in the Google bookmarks bar in Neiser’s session on the laptop.
 
 When we want to start again, we’ll type a name and a password (for extra security) and select the option that says "The director will be preforming as well, appearing in group scenes", so that we also join the “call”. Finally, we’ll click on "Enter the room’s Control Center in the director’s role" so we can control everything ourselves.
 
-![Invitation to the room](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/linksInvitacion.png)
+![Invitation to the room](/local/images/guias/vdo-ninja/linksInvitacion.png)
 
 What we’ll need to share with the guest is the link on the left inside the blue box that says INVITE A GUEST. To get the video and audio into OBS we’ll need to add the link on the right inside the green box as a browser source.
 
@@ -37,26 +37,26 @@ What we’ll need to share with the guest is the link on the left inside the blu
 
 The guest will see this and select Join Room with a Camera, then choose the microphone and camera:
 
-![Option to join the room](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/opcionUnirse.png)
+![Option to join the room](/local/images/guias/vdo-ninja/opcionUnirse.png)
 
-![Configuration to join the room](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/unirseSalaConfig.png)
+![Configuration to join the room](/local/images/guias/vdo-ninja/unirseSalaConfig.png)
 
 Now, as directors we’ll see this:
 
-![The guest has joined the room](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/usuarioUnido.png)
+![The guest has joined the room](/local/images/guias/vdo-ninja/usuarioUnido.png)
 
 And we’ll be able to control the volume, mute, deafen the guest, and much more.
 
 To be able to talk to the guest and record the podcast, we’ll join as participants while being the director, like this (clicking the button that says enables director’s microphone or video):
 
-![Guest and host of the room](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/usuarioYHost.png)
+![Guest and host of the room](/local/images/guias/vdo-ninja/usuarioYHost.png)
 
-![Option to join for the host](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/unirseHost.png)
+![Option to join for the host](/local/images/guias/vdo-ninja/unirseHost.png)
 
 ## Configuration in OBS
 
 Now that the call is set up, we need to configure how everything will look and sound in OBS:
 
-![OBS configuration](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/vdo-ninja/obsConfig.png)
+![OBS configuration](/local/images/guias/vdo-ninja/obsConfig.png)
 
 We choose the width and height and check the box that says control audio via OBS, so the call’s audio is heard—both our microphone and the guest’s microphone.

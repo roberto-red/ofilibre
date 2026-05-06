@@ -7,7 +7,7 @@ tags:
 categories:
     - Recursos
 description: "Recientemente se han instalado nuevas impresoras para su uso por el personal de la Universidad. La OfiLibre ha coordinado la preparación de una guía sobre cómo imprimir en ellas desde sistemas basados en Linux."
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/impresoras/impresora.png"
+image: "/local/images/guias/impresoras/impresora.png"
 ---
 
 Recientemente se han instalado nuevas impresoras para su uso por el personal de la Universidad.

@@ -5,7 +5,7 @@ description: "Comenzamos una nueva actividad: todas las semanas, toma café con 
 categories:
   - Cafés
 tags:
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 **Atención: hora cambiada a partir del 6 de noviembre de 2023 (incluido): las sesiones serán a las 10:00**

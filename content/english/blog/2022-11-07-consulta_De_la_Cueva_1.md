@@ -4,7 +4,7 @@ categories:
 - Open Data
 date: 2022-10-27
 description: Queries to Javier de la Cueva about CC
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/CC.png/
+image: /local/images/CC.png/
 slug: consulta-expertos-octubre
 tags:
 - Open publishing

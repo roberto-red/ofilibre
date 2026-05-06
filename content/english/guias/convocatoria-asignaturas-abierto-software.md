@@ -4,7 +4,7 @@ categories:
 - Open Subjects
 - Calls
 date: 2022-09-06
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/software-libre/logo.png
+image: /local/images/guias/software-libre/logo.png
 tags: 
 title: 'Open Subjects Call: software for teaching'
 type: guias

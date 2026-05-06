@@ -1,6 +1,6 @@
 ---
 title: Mars
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/mars/logo.png
+image: /local/images/fichas/mars/logo.png
 website: http://courses.missouristate.edu/KenVollmar/mars/
 website_es: 
 licenses:

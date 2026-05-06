@@ -1,6 +1,6 @@
 ---
 title: "Anaconda"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/anaconda/logo.png
+image: /local/images/fichas/anaconda/logo.png
 website: https://anaconda.org/anaconda/anaconda-navigator
 website_es: 
 licenses:

@@ -8,7 +8,7 @@ license: Atribución-CompartirIgual 4.0 Internacional
 date: 2020-11-21
 description: "Clases de repaso de los contenidos teóricos que se imparten en el modo presencial (Introducción a la Estadística, Estadística Descriptiva e Introducción a la Probabilidad)"
 
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/estadistica1.png"
+image: "/local/images/catalogo/estadistica1.png"
 type: catalogo
 categories:
     - Recursos

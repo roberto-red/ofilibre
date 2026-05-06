@@ -36,7 +36,7 @@
                                         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
                                     </div>
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded shadow" src="{{ .image | absURL }}" alt="tab-image">
+                                        <img class="img-fluid rounded shadow" src="{{ partial "resolve-image" .image }}" alt="tab-image">
                                     </div>
                                 </div>
                             </div>

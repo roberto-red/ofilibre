@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-01
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/netbeans/logo.png
+image: /local/images/fichas/netbeans/logo.png
 installs:
 - name: How to install Netbeans
   url: https://netbeans.org/community/releases/68/install_es.html

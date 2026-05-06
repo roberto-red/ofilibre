@@ -1,6 +1,6 @@
 ---
 title: Audacity
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/audacity/logo.png
+image: /local/images/fichas/audacity/logo.png
 website: https://www.audacityteam.org/download/
 website_es: 
 licenses:

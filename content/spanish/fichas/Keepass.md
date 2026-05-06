@@ -1,6 +1,6 @@
 ---
 title: KeePass
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/keepass/logo.png
+image: /local/images/fichas/keepass/logo.png
 website: https://keepass.info/
 website_es: 
 licenses:

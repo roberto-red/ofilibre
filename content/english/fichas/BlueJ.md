@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-01
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/bluej/logo.png
+image: /local/images/fichas/bluej/logo.png
 installs:
 - name: How to install BlueJ
   url: https://www.bluej.org/download/install.html

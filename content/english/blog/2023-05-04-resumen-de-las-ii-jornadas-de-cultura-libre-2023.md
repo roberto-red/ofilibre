@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2023-05-04 13:49:52.705000+00:00
 description: Summary of II Free Culture Days 2023
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/resumen-de-las-jornadas-2.jpg
+image: /local/images/resumen-de-las-jornadas-2.jpg
 slug: resumen-segundas-jornadas-2023
 tags:
 - Free culture days

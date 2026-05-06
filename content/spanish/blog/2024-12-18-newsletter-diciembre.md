@@ -6,7 +6,7 @@ categories:
   - cultura libre
   - datos abiertos
 tags:
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 ¡Hola, comunidad URJC! Arrancamos el curso con emocionantes novedades en OfiLibre.  

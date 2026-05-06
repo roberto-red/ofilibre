@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-08
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/processing/logo.png
+image: /local/images/fichas/processing/logo.png
 installs:
 - name: How to install Processing
   url: https://processing.org/tutorials/gettingstarted/

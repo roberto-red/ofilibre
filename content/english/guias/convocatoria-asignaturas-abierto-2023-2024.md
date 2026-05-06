@@ -4,7 +4,7 @@ categories:
 - Open Subjects
 - Open Publishing
 date: 2023-07-05
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags: 
 title: Open Subjects Publication Recognition 2023-2024
 type: guias
@@ -63,7 +63,7 @@ You can also consult the frequently asked questions and their answers later in t
 
 Yes, but only the categories in which the maximum score was not achieved will be evaluated. Let us consider an example: Hermenegilda Gómez Stravinsky submitted the subject Multicolour Engineering, with the following result:
 
-![Example](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/convocatoria-asignaturas-abierto/ejemplo.png)
+![Example](/local/images/guias/convocatoria-asignaturas-abierto/ejemplo.png)
 
 #### Is there a specific format for documents (presentations, text documents…)?
 
@@ -75,7 +75,7 @@ Depending on the type of document, the licence is usually included either at the
 
 Here is an example:
 
-![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
+![](/local/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2023 Author Hermenegilda Gómez Stravinsky

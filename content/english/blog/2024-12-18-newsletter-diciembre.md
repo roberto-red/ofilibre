@@ -5,7 +5,7 @@ categories:
 date: 2024-12-18
 description: We're starting the course with exciting news in OfiLibre and we want
   to tell you more about them.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags:
 title: December News!
 ---

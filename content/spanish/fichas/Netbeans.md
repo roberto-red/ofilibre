@@ -1,6 +1,6 @@
 ---
 title: Netbeans
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/netbeans/logo.png
+image: /local/images/fichas/netbeans/logo.png
 website: https://netbeans.org/
 website_es:
 licenses:

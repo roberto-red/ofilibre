@@ -5,7 +5,7 @@ slug: declaracion-pub-abierta
 description: "La Universidad Rey Juan Carlos aprueba una Declaración Institucional sobre Ciencia, Educación y Publicación Abierta para convertirse en una referencia en este campo."
 categories:
     - Publicación en abierto
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 La Universidad Rey Juan Carlos [aprobó](https://www.urjc.es/todas-las-noticias-de-actualidad/4951-apuesta-clara-de-la-urjc-por-el-conocimiento-abierto) el pasado 31 de enero un documento donde hace una apuesta clara por el conocimiento abierto. Dicho documento recoge la voluntad de la institución por integrar entre sus actividades, políticas institucionales y planes de futuro, la creación de un entorno en el que se favorezcan la ciencia y la educación abierta. Para ello, se dotará de los mecanismos y las acciones necesarias.

@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-14
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/mars/logo.png
+image: /local/images/fichas/mars/logo.png
 installs: 
 licenses:
 - name: MIT License

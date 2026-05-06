@@ -7,7 +7,7 @@ description: Check out the complete content of IV Free Culture Days, with links
   to the presentation videos, as well as to the materials used in them. Lectures,
   workshops and activities on open access, education, citizen science and innovation,
   among other activities. Don't miss a single detail!
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/poster.png
+image: /local/images/blog/jornadas-2025/poster.png
 slug: contenidos-iv-jornadas
 tags:
 title: IV Free Culture Days Contents

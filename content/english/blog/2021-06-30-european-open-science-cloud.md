@@ -5,7 +5,7 @@ date: 2021-06-30
 description: The EOSC is a European initiative with the goal of promoting Open Science
   to accelerate the creation of new knowledge and promote the accessibility and transparency
   of research projects.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/european-open-science-cloud/EOSC-square.png
+image: /local/images/blog/european-open-science-cloud/EOSC-square.png
 slug: european-open-science-cloud
 tags:
 - Open science
@@ -25,7 +25,7 @@ The EOSC Association was established as a legal entity on July 29, 2020, with th
 Rey Juan Carlos University participates as an observer in this organization.
 
 The [European Commission](https://europa.eu/european-union/about-eu/institutions-bodies/european-commission_es) funds the EOSC through projects belonging to the [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) program. Below, you can see the projects that contribute to the development of the EOSC:
-![European EOSC Projects](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/european-open-science-cloud/proyectos.png)
+![European EOSC Projects](/local/images/blog/european-open-science-cloud/proyectos.png)
 ____________________________________________________
 
 ### Interesting links 

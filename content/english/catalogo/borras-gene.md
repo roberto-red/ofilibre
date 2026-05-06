@@ -8,7 +8,7 @@ degrees: Bachelor of Science (B.Sc.) in Video Game Design and Development
 department: ETSII
 description: Notes based on PMBOK, waterfall/predictive methodology for project management
   and direction.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/borras-gene.png
+image: /local/images/catalogo/borras-gene.png
 license: Creative Commons Attribution-NonCommercial-ShareAlike
 link: https://www.slideshare.net/orioltic/tema-1-fundamentos-de-la-gestin-de-proyectos-202021-238867690
 title: Notes for the Project Management and Direction course

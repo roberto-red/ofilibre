@@ -11,7 +11,7 @@ tags:
   - "Formación"
   - "Cultura libre"
   - "Acceso abierto"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/openaccess-square.png
+image: /local/images/openaccess-square.png
 ---
 
 <iframe src='https://tv.urjc.es/iframe/66ab576943c84969a63ad8b6' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>

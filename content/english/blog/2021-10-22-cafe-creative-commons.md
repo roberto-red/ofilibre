@@ -4,7 +4,7 @@ categories:
 - Open publishing
 date: 2021-10-22
 description: Coffee and Creative Commons with OfiLibre at Library
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/cafe-creative-commons/cc20-square.png
+image: /local/images/blog/cafe-creative-commons/cc20-square.png
 slug: cafe-creative-commons-2021
 tags:
 title: Coffee and Creative Commons
@@ -28,4 +28,4 @@ Related materials:
 
 * Slides ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
 
-* [Poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/cafe-creative-commons/cartel_A3.pdf)
+* [Poster](/local/images/blog/cafe-creative-commons/cartel_A3.pdf)

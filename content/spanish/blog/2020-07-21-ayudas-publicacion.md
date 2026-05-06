@@ -7,7 +7,7 @@ categories:
     - Convocatorias
 tags:
     - Ayudas
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 **SERVICIO DE TRAMITACIÓN DE GASTOS DE TRADUCCIÓN / REVISIÓN LINGÜÍSTICA DE ARTÍCULOS CIENTÍFICOS DEL PDI URJC**

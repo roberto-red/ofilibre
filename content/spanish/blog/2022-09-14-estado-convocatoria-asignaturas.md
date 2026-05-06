@@ -9,7 +9,7 @@ categories:
     - Asignaturas en abierto
     - Convocatorias
 description: "Resumen del estado de la Convocatoria de Asignaturas en abierto 2022."
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/openaccess-square.png"
+image: "/local/images/guias/openaccess-square.png"
 ---
 
 Empezamos el curso con muchas cosas, pero con el foco puesto en la [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/documentos/convocatoria-asignaturas-abierto-2022-2023.pdf). 

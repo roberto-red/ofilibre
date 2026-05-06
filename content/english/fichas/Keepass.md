@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-26
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/keepass/logo.png
+image: /local/images/fichas/keepass/logo.png
 installs: 
 licenses:
 - name: GPLv2

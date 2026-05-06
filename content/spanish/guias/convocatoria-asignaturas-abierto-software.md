@@ -1,6 +1,6 @@
 ---
 title: "Convocatoria de asignaturas en abierto: software para docencia"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/software-libre/logo.png
+image: /local/images/guias/software-libre/logo.png
 date: 2022-09-06
 type: guias
 categories:

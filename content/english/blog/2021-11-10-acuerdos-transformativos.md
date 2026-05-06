@@ -4,7 +4,7 @@ categories:
 date: 2021-11-10
 description: Information about the transformative agreements signed by URJC with
   different scientific journals for the open publication of scientific articles
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 slug: acuerdos-transformativos
 tags:
 title: Transformative agreements for open access publication
@@ -20,4 +20,4 @@ Any author belonging to one of the universities and institutions that have signe
 
 The list of publishers that have signed agreements with URJC can be consulted in the top menu under the "Transformatory Agreements" dropdown, as indicated in the image. It is necessary to verify the requirements of each publisher. The Library website indicates in each case the workflow that authors must follow to publish with said publisher under the corresponding transformatory agreement with it.
 
-![Transformatory Agreements menu](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.png)
+![Transformatory Agreements menu](/local/images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.png)

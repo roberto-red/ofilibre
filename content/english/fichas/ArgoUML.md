@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-15
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/argouml/logo.png
+image: /local/images/fichas/argouml/logo.png
 installs:
 - name: Installation instructions (in English)
   url: http://argouml-stats.tigris.org/documentation/quickguide-0.32/

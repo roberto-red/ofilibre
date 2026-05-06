@@ -1,0 +1,5 @@
+{{- if hasPrefix . "/local/" -}}
+{{- printf "%s%s" site.Params.rawBase . -}}
+{{- else -}}
+{{- . | absURL -}}
+{{- end -}}

@@ -3,7 +3,7 @@ categories:
 - Free Culture
 date: 2023-04-18 10:11:29.515000+00:00
 description: People who share knowledge. Guest talk Houda Elmimouni
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/captura-de-pantalla-2023-04-17-a-las-13.13.49.png
+image: /local/images/captura-de-pantalla-2023-04-17-a-las-13.13.49.png
 slug: Charla invitada Houda Elmimouni
 tags:
 - wikipedia

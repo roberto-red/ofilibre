@@ -2,7 +2,7 @@
 title: Reconocimiento de publicación de asignaturas en abierto 2025-2026
 date: 2025-06-05
 description: Reconocimiento de publicación de asignaturas en abierto 2025-2026
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 type: guias
 categories:
   - Recursos
@@ -142,7 +142,7 @@ Dependiendo del tipo de documento se suele incluir la licencia o bien al princip
 
 Este es un ejemplo: 
 
-![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
+![](/local/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2024 Autora Hermenegilda Gómez Stravinsky

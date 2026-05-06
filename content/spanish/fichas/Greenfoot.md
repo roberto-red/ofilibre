@@ -1,6 +1,6 @@
 ---
 title: Greenfoot
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/greenfoot/logo.png
+image: /local/images/fichas/greenfoot/logo.png
 website: https://www.greenfoot.org/home
 website_es: 
 licenses:

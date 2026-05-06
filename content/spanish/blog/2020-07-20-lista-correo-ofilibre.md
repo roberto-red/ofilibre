@@ -5,7 +5,7 @@ slug: lista-correo-ofilibre
 description: "La OfiLibre crea una lista de correo para poder difundir sus novedades de una manera alternativa."
 categories:
     - Recursos
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/lista-correo-ofilibre/thumb-email.png"
+image: "/local/images/blog/lista-correo-ofilibre/thumb-email.png"
 ---
 
 La OfiLibre ha creado una lista de correo para poder recibir todas las novedades, actualizaciones y eventos que publiquemos en nuestras redes sociales de forma inmediata.

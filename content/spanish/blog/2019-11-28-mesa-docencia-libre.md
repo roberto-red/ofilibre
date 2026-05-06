@@ -7,7 +7,7 @@ categories:
 tags:
     - Innovación
 description: "Panel para presentar experiencias de innovación docente relacionadas con el conocimiento y la cultura libre, en el contexto de las Jornadas sobre Innovación Docente de la URJC."
-image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/mesa-docencia-libre/jornadas-innovacion.png"
+image: "/local/images/blog/mesa-docencia-libre/jornadas-innovacion.png"
 ---
 
 En el contexto de las [Jornadas sobre Innovación Docente 2019](https://eventos.urjc.es/38971/programme/vi-jornadas-de-innovacion-docente.html),

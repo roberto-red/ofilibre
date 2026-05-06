@@ -7,7 +7,7 @@ slug: jornadas-programa
 categories:
   - Jornadas
   - Cultura libre
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/contenidos-ii-jornadas-vertical.jpg
+image: /local/images/contenidos-ii-jornadas-vertical.jpg
 ---
 
 <!--StartFragment-->

@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-12-03
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/horton/logo.png
+image: /local/images/fichas/horton/logo.png
 installs:
 - kind: web
   name: How to install Horton (in English)

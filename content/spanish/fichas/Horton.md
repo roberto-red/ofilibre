@@ -1,6 +1,6 @@
 ---
 title: Horton
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/horton/logo.png
+image: /local/images/fichas/horton/logo.png
 website: https://theochem.github.io/horton/
 website_es: 
 licenses:

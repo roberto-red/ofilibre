@@ -6,7 +6,7 @@ date: 2025-01-13
 description: We are opening the call for proposals to participate in IV Free Culture
   Days of URJC. This event is an opportunity to share your ideas, knowledge, and
   projects related to free culture, free knowledge, free software, and open science.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags:
 title: Call for Contributions, Free Culture Days 2025
 ---

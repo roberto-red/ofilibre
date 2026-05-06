@@ -21,6 +21,7 @@ description = "This is meta description"
   home = ["HTML", "JSON", "RSS"]
 
 [params]
+rawBase = "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master"
 showLanguageSwitcher = true
 logo = "images/logos/banner-urjc.png"
 menufixed = true

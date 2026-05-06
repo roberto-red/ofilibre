@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-04
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/autopsy/logo.png
+image: /local/images/fichas/autopsy/logo.png
 installs:
 - name: Installation of Autopsy
   url: https://sleuthkit.org/autopsy/docs/user-docs/4.5.0/installation_page.html

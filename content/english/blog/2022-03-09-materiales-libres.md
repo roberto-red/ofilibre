@@ -5,7 +5,7 @@ categories:
 date: 2022-03-02
 description: Seminar on reusing free materials, part of the seminar cycle on open
   publishing of the Final Degree Project and the use of free materials in it.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/materiales_libres.jpeg
+image: /local/images/materiales_libres.jpeg
 slug: 2022-03-09-materiales-libres
 tags:
 - TFG

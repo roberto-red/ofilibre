@@ -9,7 +9,7 @@ department: ETSII
 description: Set of animations based on physical laws to explain concepts such as
   free fall motion, spring oscillations, inclined plane falls, moment of inertia,
   rotating pulleys, etc.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/fisica-videojuegos.png
+image: /local/images/catalogo/fisica-videojuegos.png
 license: Creative Commons Attribution-NonCommercial-ShareAlike
 link: http://aserrano.es/portafolio/fisica-con-processing/
 title: Physics Animations with Processing

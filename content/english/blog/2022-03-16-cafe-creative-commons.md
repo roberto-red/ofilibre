@@ -4,7 +4,7 @@ categories:
 - Open publishing
 date: 2022-03-04
 description: Coffee and Creative Commons with OfiLibre at Library
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/Café_Alcorcón_Cuadrado_16_marzo.png
+image: /local/images/Café_Alcorcón_Cuadrado_16_marzo.png
 slug: cafe-creative-commons-2022
 tags:
 title: Coffee and Creative Commons

@@ -26,7 +26,7 @@
 
                     <div class="col-md-3 mb-3 mb-md-0">
                       {{ with .image }}
-                        <img class="img-fluid rounded shadow activities-image" src="{{ . | absURL }}" alt="a">
+                        <img class="img-fluid rounded shadow activities-image" src="{{ partial "resolve-image" . }}" alt="a">
                       {{ end }}
                     </div>
 

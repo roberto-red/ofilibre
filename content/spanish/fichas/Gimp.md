@@ -1,6 +1,6 @@
 ---
 title: Gimp
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/gimp/logo.png
+image: /local/images/fichas/gimp/logo.png
 website: https://gimp.org
 website_es: https://gimp.org.es
 licenses:

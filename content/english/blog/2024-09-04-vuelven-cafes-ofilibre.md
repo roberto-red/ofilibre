@@ -4,7 +4,7 @@ categories:
 date: 2024-09-04
 description: This new course we're back to having coffee on Wednesdays at 10:00, live
   through TV-URJC.
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 tags:
 - URJC
 title: OfiLibre coffee shops are back!

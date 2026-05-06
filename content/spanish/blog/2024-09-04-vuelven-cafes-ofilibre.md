@@ -7,7 +7,7 @@ categories:
 tags:
   - "URJC"
   - "Café con OfiLibre"
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
+image: /local/images/logo-ofilibre-2025.jpg
 ---
 
 El próximo miércoles 11 de septiembre... ¡vuelven los cafés de la OfiLibre! Comenzaremos el curso hablando de los planes que tenemos, de cómo puedes estar al tanto de lo que hacemos, y de cuáles son las acciones más relevantes que está preparando la Universidad en lo relacionado con el acceso abierto, la cultura libre, y todos estos temas que nos interesan en la OfiLibre.
