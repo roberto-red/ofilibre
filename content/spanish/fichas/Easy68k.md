@@ -26,7 +26,7 @@ screenshots:
     attribution: "[Captura tomada de easy68k.com](http://www.easy68k.com/images/sim68k.PNG)"
   - name: Easy68k en funcionamiento (captura)
     file: captura.png
-    attribution: "[Captura tomada de easy68k.com](http://www.easy68k.comhttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/easybin.png)"
+    attribution: "[Captura tomada de easy68k.com](http://www.easy68k.com/images/easybin.png)"
 date: 2019-12-02
 type: fichas
 categories:

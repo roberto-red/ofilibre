@@ -17,7 +17,7 @@ screenshots:
 - attribution: '[Captura tomada de easy68k.com](http://www.easy68k.com/images/sim68k.PNG)'
   file: captura.png
   name: Easy68k in operation (screenshot)
-- attribution: '[Captura tomada de easy68k.com](http://www.easy68k.comhttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/easybin.png)'
+- attribution: '[Captura tomada de easy68k.com](http://www.easy68k.com/images/easybin.png)'
   file: captura.png
   name: Easy68k in operation (screenshot)
 source: https://github.com/ProfKelly/EASy68K
