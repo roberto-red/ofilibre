@@ -6,7 +6,7 @@ date: 2020-10-20
 description: Well into this new academic year, we want the campaign to collect open
   educational resources produced by URJC professors to reach the entire University
   Community, thus giving all professors the opportunity to participate in it.
-image: images/blog/recopilacion-rea/logo-rea.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/recopilacion-rea/logo-rea.png
 slug: recopilacion-recursos-educativos-abiertos
 tags: ''
 title: Compilation of open educational resources

@@ -5,7 +5,7 @@ categories:
 date: 2021-06-07
 description: An initiative to share open knowledge, in collaboration with the free
   offices of UGR and UCM.
-image: images/blog/el-concilio-de-lo-libre/concilio-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/el-concilio-de-lo-libre/concilio-square.png
 slug: el-concilio-de-lo-libre
 tags:
 - Talks

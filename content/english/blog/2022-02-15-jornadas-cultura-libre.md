@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2022-03-21
 description: First Free Culture Days of URJC
-image: images/blog/jornada-cultura-libre/square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/square.png
 slug: jornadas-cultura-libre
 tags:
 title: First Free Culture Days

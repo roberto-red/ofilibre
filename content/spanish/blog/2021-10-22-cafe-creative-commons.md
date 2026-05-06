@@ -7,7 +7,7 @@ categories:
     - Cafés
     - Publicación en Abierto
 description: "Café y Creative Commons con OfiLibre en Biblioteca"
-image: "images/blog/cafe-creative-commons/cc20-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/cafe-creative-commons/cc20-square.png"
 ---
 
 ¿Quieres pasar un rato distendido hablando sobre las licencias Creative Commons? ¿Quieres reflexionar con nosotros sobre sus efectos, cuáles son consideradas de acceso abierto y cuáles no, qué licencia te puede interesar más...? Si alguno de estos temas te interesa, o simplemente quieres enterarte un poco sobre ellos, ¡vente!

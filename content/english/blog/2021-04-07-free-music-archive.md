@@ -5,7 +5,7 @@ categories:
 date: 2021-04-07
 description: An online repository dedicated to hosting free, high-quality music that
   allows its use in derivative works.
-image: images/blog/free-music-archive/fma-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/fma-square.png
 slug: free-music-archive
 tags:
 - Free Music

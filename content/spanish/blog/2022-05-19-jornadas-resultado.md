@@ -7,7 +7,7 @@ categories:
     - Jornadas
     - Cultura libre
 description: "Resumen de la I Jornada de Cultura Libre de la URJC (incluyendo video de las presentaciones)."
-image: "images/blog/jornada-cultura-libre/square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/square.png"
 ---
 
 El pasado 30 de marzo tuvieron lugar las Primeras Jornadas de Cultura Libre de la URJC. Nuestra idea era lograr un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos y software libre, ¡y creemos que lo hemos conseguido!

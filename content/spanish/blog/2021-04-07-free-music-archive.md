@@ -8,7 +8,7 @@ categories:
     - Software Libre
 tags:
     - Música libre
-image: "images/blog/free-music-archive/fma-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/free-music-archive/fma-square.png"
 ---
 
 ¿Conoces el proyecto [Free Music Archive](https://www.freemusicarchive.org/home)?

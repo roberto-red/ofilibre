@@ -4,7 +4,7 @@ categories:
 date: 2023-02-16
 description: List of subjects that are made open access as a result of the call for
   the first quarter of the 2022-2023 course, along with links to their materials.
-image: images/guias/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/openaccess-square.png
 slug: asignaturas-abierto-2022-2023-1
 tags:
 - open access

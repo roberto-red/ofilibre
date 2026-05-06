@@ -6,7 +6,7 @@ description: "Cómo generar un video libre a partir de una grabación de Teams. 
 categories:
     - Datos Abiertos
     - Recursos
-image: "images/blog/recetas-teams-video/cabecera-square.jpg"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/recetas-teams-video/cabecera-square.jpg"
 ---
 
 <iframe src='https://tv.urjc.es/iframe/5fb8fe89d68b141e608b4575' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>

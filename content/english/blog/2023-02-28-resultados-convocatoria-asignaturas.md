@@ -4,7 +4,7 @@ categories:
 - Calls
 date: 2023-02-28
 description: Open subjects call results
-image: images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
 slug: 2023-02-28-resultados-convocatoria-asignaturas
 tags:
 - subjects

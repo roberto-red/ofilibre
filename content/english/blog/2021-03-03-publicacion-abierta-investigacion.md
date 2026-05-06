@@ -5,7 +5,7 @@ date: 2021-03-03
 description: Open publishing is a fundamental aspect of open science. This seminar,
   organized with the International Doctoral School, explains the details of open publishing,
   focusing especially on those that may be most relevant for researchers.
-image: images/blog/publicacion-abierta-investigacion/portada-square.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/publicacion-abierta-investigacion/portada-square.jpg
 slug: publicacion-abierta-investigacion
 tags:
 - Research

@@ -6,7 +6,7 @@ date: 2021-03-25
 description: Do you know what license the 3D printing models you download from the
   internet have? We show you some websites where you can download models with free
   licenses.
-image: images/blog/webs-impresion-3D/modelos3D_square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/modelos3D_square.png
 slug: webs-impresión-3D
 tags:
 - 3D Models

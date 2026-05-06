@@ -4,7 +4,7 @@ categories:
 date: 2019-10-25
 description: On September 23 we celebrated Free Software Day on the Móstoles campus.
   Here are the presentations the speakers used in their talks.
-image: images/blog/software-freedom/sfd.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/software-freedom/sfd.png
 slug: dia-software-libre-pres
 tags:
 - Talks

@@ -7,7 +7,7 @@ tags:
 categories:
     - Software libre
 description: "Micael Gallego y Sergio Murillo te enseñan algunas soluciones de código abierto para videoconferencia"
-image: "images/blog/charla-webrtc/logo-webrtc.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/charla-webrtc/logo-webrtc.png"
 ---
 
 En un mundo donde nos hemos habituado a usar soluciones de videoconferencia, es necesario conocer las soluciones de código abierto que existen y tenemos a nuestra disposición. Si además dichas soluciones siguen un mismo estándar, mucho mejor. 

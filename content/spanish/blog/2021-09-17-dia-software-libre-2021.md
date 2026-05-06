@@ -7,7 +7,7 @@ tags:
 categories:
     - Software libre
 description: "El día del Software Libre es una celebración anual del software libre a nivel mundial."
-image: "images/blog/dia-software-libre-2021/SFDlogo-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/dia-software-libre-2021/SFDlogo-square.png"
 ---
 
 Como cada tercer sábado de septiembre, desde la OfiLibre conmemoramos el Día del Software Libre. Este año se celebra la decimoctava edición, y cae mañana, 18 de septiembre.

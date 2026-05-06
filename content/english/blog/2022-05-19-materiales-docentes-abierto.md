@@ -5,7 +5,7 @@ categories:
 date: 2022-05-19
 description: We make available to the teaching community a selection of information
   related to the publication of open educational materials.
-image: images/guias/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/openaccess-square.png
 slug: 2022-05-19-materiales-docentes-abierto
 tags:
 title: Teaching materials in open access

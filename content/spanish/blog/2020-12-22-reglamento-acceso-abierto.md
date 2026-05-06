@@ -6,7 +6,7 @@ description: "El Consejo de Gobierno de la URJC ha aprobado el Reglamento de Acc
 categories:
     - Cultura Libre
     - Universidad
-image: "images/blog/reglamento-acceso-abierto/openaccess-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/reglamento-acceso-abierto/openaccess-square.png"
 ---
 
 El Consejo de Gobierno de la Universidad Rey Juan Carlos aprobó, en su reunión del pasado 18 de diciembre, el nuevo Reglamento de Acceso y Cultura Abierta. Este reglamento establece las bases de funcionamiento de las plataformas de publicación abierta en la Universidad, y establece un Consejo de Publicación Abierta para promover y organizar su uso.

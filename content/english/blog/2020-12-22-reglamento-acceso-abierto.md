@@ -5,7 +5,7 @@ categories:
 date: 2020-12-22
 description: The Governing Council of URJC has approved the Regulation of Access and
   Open Culture.
-image: images/blog/reglamento-acceso-abierto/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/reglamento-acceso-abierto/openaccess-square.png
 slug: reglamento-acceso-abierto
 title: Access and Open Culture Regulations
 ---

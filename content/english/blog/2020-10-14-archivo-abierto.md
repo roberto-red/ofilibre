@@ -6,7 +6,7 @@ date: 2020-10-14
 description: Within URJC library there is an open archive whose objective is to
   archive and preserve the scientific output resulting from the academic and research
   activity of the university community.
-image: images/blog/archivo-abierto/biblioteca.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/archivo-abierto/biblioteca.jpg
 slug: archivo-abierto
 tags:
 - BURJC Digital

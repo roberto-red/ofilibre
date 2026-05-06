@@ -5,7 +5,7 @@ categories:
 date: 2021-06-22
 description: Rey Juan Carlos University signs with Wiley publisher the license for
   access to its articles and open publication in its journals.
-image: images/blog/acuerdo-editorial-wiley/acuerdo-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/acuerdo-editorial-wiley/acuerdo-square.png
 slug: acuerdo-editorial-wiley
 tags:
 - Wiley

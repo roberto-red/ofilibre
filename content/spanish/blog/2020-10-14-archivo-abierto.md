@@ -8,7 +8,7 @@ categories:
     - Datos Abiertos
 tags:
     - BURJC Digital
-image: "images/blog/archivo-abierto/biblioteca.jpg"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/archivo-abierto/biblioteca.jpg"
 ---
 
 La OfiLibre quiere dar a conocer [eciencia](https://eciencia.urjc.es/page/howtopublish), el archivo abierto dentro de la BURJC-Digital que funciona como un repositorio institucional de la Universidad Rey Juan Carlos. Su objetivo es archivar y preservar la producción científica resultante de la actividad académica e investigadora de la comunidad universitaria, con el fin de difundirla en acceso abierto.

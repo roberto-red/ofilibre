@@ -5,7 +5,7 @@ slug: trabajos-obras-libres
 description: "El que una obra esté disponible en Internet no significa necesariamente que su autor te haya dado permiso para usarla en tus trabajos. Afortunadamente, hay un tipo de obras para las que el autor sí me ha dado permiso, y puedo reutlizarlas sin problemas: son las obras libres."
 categories:
     - Cultura libre
-image: "images/blog/trabajos-obras-libres/cabecera-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/trabajos-obras-libres/cabecera-square.png"
 ---
 
 <iframe src='https://tv.urjc.es/iframe/5fda6c44d68b140e468b4ce3' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>

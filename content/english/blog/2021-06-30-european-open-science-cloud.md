@@ -5,7 +5,7 @@ date: 2021-06-30
 description: The EOSC is a European initiative with the goal of promoting Open Science
   to accelerate the creation of new knowledge and promote the accessibility and transparency
   of research projects.
-image: images/blog/european-open-science-cloud/EOSC-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/european-open-science-cloud/EOSC-square.png
 slug: european-open-science-cloud
 tags:
 - Open science

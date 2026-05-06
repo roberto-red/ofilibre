@@ -3,7 +3,7 @@ categories:
 - Free Software
 date: 2021-09-17
 description: The Free Software Day is an annual celebration of free software worldwide.
-image: images/blog/dia-software-libre-2021/SFDlogo-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/dia-software-libre-2021/SFDlogo-square.png
 slug: dia-software-libre-2021
 tags:
 title: Happy Free Software Day!

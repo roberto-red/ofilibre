@@ -9,7 +9,7 @@ tags:
     - Obras libres
     - Taller
     - Concilio de lo libre
-image: "images/blog/trabajos-obras-libres/cabecera-square-2.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/trabajos-obras-libres/cabecera-square-2.png"
 ---
 
 Hay muchos materiales libres disponibles en Internet, que puedes reutilizar para tus trabajos, o en general para tu propias obras. Pero no siempre es facil encontrarlos, ni siquiera reconocerlos. Bienvenidos al mundo de las obras libres: veamos qué son, cómo podemos reconocerlas y cómo podemos encontrarlas. También hablamos sobre cómo hacer que tus propias obras sean libres, y qué implicaciones (positivas y negativas) puede tener para ti.

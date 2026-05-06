@@ -4,7 +4,7 @@ categories:
 date: 2020-09-24
 description: Last weekend the esLibre 2020 conference was held, organized by OfiLibre,
   which saw a large turnout despite being a remote edition.
-image: images/blog/evento-eslibre/eslibre-cuadrado.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/evento-eslibre/eslibre-cuadrado.png
 slug: evento-eslibre
 tags:
 - Congress

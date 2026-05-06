@@ -5,7 +5,7 @@ date: 2021-03-15
 description: Tutorial to create a generic document, such as a letter, email, or certificate,
   in which personal data changes. We explain how to automate this process using LibreOffice
   Writer's Mail Merge tool.
-image: images/blog/generar-documentos-libreoffice/libreoffice-square.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/libreoffice-square.jpg
 slug: generar-documentos-libreoffice
 tags:
 - LibreOffice

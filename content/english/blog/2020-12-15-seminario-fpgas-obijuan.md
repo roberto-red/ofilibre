@@ -5,7 +5,7 @@ categories:
 date: 2020-12-15
 description: Seminario sobre FPGAs, placas hardware libres programables. El seminario
   incluye una demo y una presentación sobre la tecnología.
-image: images/blog/seminario-fpgas-obijuan/fpga-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/seminario-fpgas-obijuan/fpga-square.png
 slug: seminario-fpgas-obijuan
 tags:
 - Talks

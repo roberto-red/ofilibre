@@ -4,7 +4,7 @@ categories:
 date: 2019-09-15
 description: Series of informational talks about different types of software and alternatives
   on the occasion of Free Software Day
-image: images/blog/software-freedom/sfd.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/software-freedom/sfd.png
 slug: dia-software-libre
 tags:
 - Talks

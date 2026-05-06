@@ -8,7 +8,7 @@ categories:
     - Software Libre
 tags:
     - Modelos 3D
-image: "images/blog/webs-impresion-3D/modelos3D_square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/modelos3D_square.png"
 ---
 
 ¿Te interesa la impresión 3D? ¿Diseñas tus propios objetos o descargas modelos 3D de internet? ¿Sabes bajo qué licencia están publicados esos modelos?

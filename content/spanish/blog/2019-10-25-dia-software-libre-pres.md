@@ -7,7 +7,7 @@ categories:
 tags:
     - Charlas
 description: "El pasado 23 septiembre celebramos el Día del Software Libre en el campus de Móstoles. Aquí os dejamos las presentaciones que utilizaron los ponentes en sus charlas."
-image: "images/blog/software-freedom/sfd.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/software-freedom/sfd.png"
 ---
 
 El pasado 23 de septiembre celebramos con la Comunidad Universitaria el Día del Software Libre. Para ello [organizamos una serie de charlas sobre distintos aspectos del software libre, tal y como lo usamos o producimos en la URJC](/blog/dia-software-libre/). Para los que no pudisteis asistir, y para los que quieren recordar este día, aquí os dejamos una serie de fotografías del evento y las presentaciones (transparencias) utilizadas por los ponentes:

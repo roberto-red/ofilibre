@@ -10,7 +10,7 @@ tags:
   - asignaturas
   - acceso abierto
   - URJC
-image: images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/ResolucionConvocatoriaAsignaturasEnAbierto.jpg
 ---
 
 El pasado mes de junio se publicó la [Convocatoria para el Reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/blog/2022-09-14-estado-convocatoria-asignaturas/). Hasta el 30 de septiembre de 2022 se recibieron las solicitudes relativas a asignaturas impartidas en el primer cuatrimestre de 2022-2023. ¡Y qué alegría al recibir tantas y tan buenas! Desde la OfiLibre estamos muy contentos con los [resultados obtenidos recién publicados](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto), puesto que desde ahora contamos con **¡38 asignaturas en acceso abierto!**

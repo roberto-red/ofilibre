@@ -8,7 +8,7 @@ categories:
 tags:
     - Charlas
 description: "Una iniciativa para compartir el conocimiento libre, en colaboración con las oficinas libres de la UGR y UCM."
-image: "images/blog/el-concilio-de-lo-libre/concilio-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/el-concilio-de-lo-libre/concilio-square.png"
 ---
 
 "Compartir el conocimiento es la clave de una sociedad libre y justa."

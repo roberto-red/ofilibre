@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2023-01-24
 description: Free Culture Days 2023 of URJC
-image: images/blog/jornada-cultura-libre/SAVE_THE_DATE_7.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/SAVE_THE_DATE_7.jpg
 slug: jornadas-cultura-libre-2
 tags:
 - Free culture days

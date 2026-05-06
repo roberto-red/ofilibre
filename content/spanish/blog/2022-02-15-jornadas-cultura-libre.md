@@ -7,7 +7,7 @@ categories:
   - Jornadas
   - Cultura libre
 description: "Primeras Jornadas de Cultura Libre de la URJC"
-image: "images/blog/jornada-cultura-libre/square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/square.png"
 ---
 
 [ Después de la jornada hemos editado esta noticia incorporando los materiales que se generaron en ella, para que sirva como archivo ]

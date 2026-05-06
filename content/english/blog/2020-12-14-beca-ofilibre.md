@@ -4,7 +4,7 @@ categories:
 date: 2020-12-14
 description: URJC Call for Collaboration Grants for University students, including
   a grant for Free Software at OfiLibre
-image: images/blog/becas-2021/foss_logos.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/becas-2021/foss_logos.jpg
 slug: beca-ofilibre
 title: OfiLibre Free Software Scholarship
 ---

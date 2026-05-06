@@ -7,7 +7,7 @@ tags:
 categories:
     - Publicación en abierto
 description: "Presentacion: Publicación en abierto de trabajos fin de grado"
-image: "images/blog/tfgs-abiertos/open-access-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/tfgs-abiertos/open-access-square.png"
 ---
 
 En la Universidad Rey Juan Carlos puedes publicar tu Trabajo Fin de Grado (la memoria y otros resultados que hayas obtenido) en acceso abierto. ¿Qué quiere decir esto? ¿Por qué te puede interesar? ¿Cómo hacerlo, si lo encuentras interesante?

@@ -7,7 +7,7 @@ categories:
     - Recursos
     - Publicación en abierto
 description: "Bien avanzado este nuevo curso, queremos que la campaña de recopilación de recursos educativos abiertos producidos por profesores de la URJC llegue a toda la Comunidad Universitaria, y así dar a todos los profesores la oportunidad de participar en ella."
-image: "images/blog/recopilacion-rea/logo-rea.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/recopilacion-rea/logo-rea.png"
 ---
 
 La producción de materiales digitales de apoyo a la docencia (apuntes, transparencias, recursos gráficos, videos, audios, etc) es común en nuestra Universidad desde hace tiempo. Los últimos meses, con la intensificación de la docencia por medios digitales, ha potenciado aún más esta producción. Y muchos de estos materiales se están distribuyendo como [recursos educativos abiertos](https://es.unesco.org/themes/tic-educacion/rea) (recursos que se distribuyen de forma que se facilita su uso, adaptación y distribución gratuitos).

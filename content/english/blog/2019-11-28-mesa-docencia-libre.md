@@ -4,7 +4,7 @@ categories:
 date: 2019-11-28
 description: Panel to present teaching innovation experiences related to open knowledge
   and culture, in the context of the Teaching Innovation Days of URJC.
-image: images/blog/mesa-docencia-libre/jornadas-innovacion.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/mesa-docencia-libre/jornadas-innovacion.png
 slug: mesa-docencia-libre
 tags:
 - Innovation

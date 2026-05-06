@@ -7,7 +7,7 @@ categories:
     - Recursos
 tags:
     - LibreOffice
-image: "images/blog/generar-documentos-libreoffice/libreoffice-square.jpg"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/libreoffice-square.jpg"
 ---
 
 En ocasiones, podemos necesitar escribir un documento genérico para enviar a personas distintas, como una carta, mail o certificado. Tal vez queremos que el documento solo cambie en algunos puntos con datos personales, como puede ser el nombre o la dirección de cada persona. Por simplificar, a menudo se opta por hacer esto manualmente, rellenándolos uno a uno; pero esto supone invertir mucho tiempo si la lista de destinatarios es muy grande. Desde la OfiLibre os queremos mostrar cómo automatizar este proceso utilizando la herramienta [Mail Merge](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/WG4.2/PDF/WG4211-UsingMailMerge.pdf) de LibreOffice Writer. 

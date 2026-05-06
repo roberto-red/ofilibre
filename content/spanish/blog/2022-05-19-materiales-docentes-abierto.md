@@ -7,7 +7,7 @@ categories:
     - Recursos
     - Publicación en abierto
 description: "Ponemos a disposición de la comunidad docente una selección de información relacionada  con la publicación de materiales docentes en abierto."
-image: "images/guias/openaccess-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/openaccess-square.png"
 ---
 
 Ponemos a disposición de la comunidad docente una selección de información para empezar a conocer sobre la publicación de materiales docentes en abierto.

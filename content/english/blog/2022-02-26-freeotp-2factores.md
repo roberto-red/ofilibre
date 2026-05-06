@@ -4,7 +4,7 @@ categories:
 date: 2022-02-26
 description: FreeOTP is a free program that can function as a second authentication
   factor
-image: images/blog/freeotp-2factores/square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/freeotp-2factores/square.png
 slug: freeotp-2factores
 tags:
 title: Two-Factor Authentication with FreeOTP

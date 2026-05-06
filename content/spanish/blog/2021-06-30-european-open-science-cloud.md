@@ -7,7 +7,7 @@ tags:
 categories:
     - Datos abiertos
 description: "La EOSC es una iniciativa de ámbito europeo con el objetivo de promover la Ciencia Abierta para acelerar la creación de nuevo conocimiento y promover la accesibilidad y la transparencia de los proyectos de investigación."
-image: "images/blog/european-open-science-cloud/EOSC-square.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/european-open-science-cloud/EOSC-square.png"
 ---
 
 La [European Open Science Cloud](https://www.eosc.eu/) (EOSC) es una iniciativa con financiación de la comisión europea, concebida con el objetivo de promover la Ciencia Abierta en Europa. La ciencia abierta favorece la creación de nuevo conocimiento, inspira la educación, incentiva la innovación y promueve la accesibilidad y la transparencia.
