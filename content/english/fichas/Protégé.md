@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-13
-image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/protege/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/protégé/logo.png
 installs:
 - name: How to install Protégé
   url: https://protege.stanford.edu/download/protege/4.3/installanywhere/Web_Installers/
