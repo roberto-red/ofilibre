@@ -5,7 +5,7 @@ categories:
 date: 2025-07-25
 description: From OfiLibre we have generated a series of scripts to automate video
   generation using FFmpeg
-image: /images/guias/ffmpeg.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/ffmpeg.png
 tags: 
 title: Automatic video generation with FFmpeg
 type: guias

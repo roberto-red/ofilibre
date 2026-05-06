@@ -5,7 +5,7 @@ categories:
 date: 2020-11-16
 description: Seminar on Docker, Kubernetes, and other related free technologies widely
   used to deploy modern cloud applications.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: seminario-docker-kubernetes
 tags:
 - Talks

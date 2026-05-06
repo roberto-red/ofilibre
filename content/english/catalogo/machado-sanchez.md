@@ -8,7 +8,7 @@ degrees: Bachelor of Science (B.Sc.) in Industrial Technology Engineering
 department: ESCET
 description: 22 videos with explanations on various Digital Electronics topics. If
   the videos are based on slides, they have a link to the slides available on Zenodo.
-image: /images/catalogo/electronica-digital.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/electronica-digital.png
 license: Creative Commons Attribution
 link: https://www.youtube.com/playlist?list=PLSUmB2yTypWHDpU3QnX1kL3F9v-AWJ4L8
 title: Fundamentals of Digital Electronics

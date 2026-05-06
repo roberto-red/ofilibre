@@ -1,7 +1,7 @@
 ---
 title: Migración de Windows a Linux
 date: 2025-03-11
-image: /images/guias/logo-ubuntu.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/logo-ubuntu.png
 type: guias
 categories:
   - Recursos

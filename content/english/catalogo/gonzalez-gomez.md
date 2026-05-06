@@ -9,7 +9,7 @@ department: ETSIT
 description: 'Course focused on understanding the structure, operation, and design
   of computers, as well as their system-level programming, using the most modern architecture:
   RISC-V.'
-image: /images/catalogo/arqu-ordenadores.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/arqu-ordenadores.png
 license: Creative Commons Attribution-ShareAlike
 link: https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki
 title: 'RISC-V: Computer Architecture Laboratory'

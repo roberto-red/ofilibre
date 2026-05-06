@@ -6,7 +6,7 @@ tags:
 categories:
     - Publicación en abierto
 description: "Jesús González Barahona, Coordinador de la OfiLibre, te enseña cómo publicar tus materiales docentes en acceso abierto"
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 Muchos de los materiales docentes que producimos en la Universidad podrían publicarse en acceso abierto (open access). La publicación en abierto de materiales docentes puede tener muchas ventajas para tanto para profesores como alumnos. Los materiales se pueden compartir sin problemas, se pueden actualizar o reelaborar, y el trabajo colaborativo se hace mucho más fácil. La visibilidad de estos materiales, y por tanto de sus autores, también es mayor. Pero no todo son ventajas: también pueden aparecer algunos problemas. Por ello, es conveniente conocer con cierto detalle las implicaciones de esta forma de distribuir nuestros materiales, de forma que podamos maximizar sus ventajas, y reducir al mínimo los problemas que nos pueda causar.

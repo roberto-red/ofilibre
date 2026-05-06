@@ -1,6 +1,6 @@
 ---
 title: Arduino
-image: /images/fichas/arduino/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/arduino/logo.png
 website: https://www.arduino.cc/
 website_es: 
 licenses:

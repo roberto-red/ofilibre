@@ -4,7 +4,7 @@ categories:
 date: 2019-10-15
 description: OfiLibre supports events related to its purposes (open publishing, free
   software, open data, free culture), organized by members of the university community.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: eventos-apoyados
 tags:
 - Support

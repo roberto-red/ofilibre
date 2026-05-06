@@ -6,7 +6,7 @@ categories:
   - recursos
   - software libre
 tags:
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 Nuestra web ya se encuentra alojada en Netlify. Si quieres saber cómo lo hemos hecho, en nuestra [última guía](/guias/migracion-gitlab-a-netlify) lo hemos explicado detalladamente.

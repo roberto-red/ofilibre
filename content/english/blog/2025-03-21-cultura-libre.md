@@ -6,7 +6,7 @@ date: '2025-03-21T08:00:00'
 description: Get to know the movement that promotes the free distribution and modification
   of creative, scientific, and technical works. We explore its fundamental principles
   and examples of collaborative projects that foster open access to knowledge.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: cultura-libre
 tags:
 title: What is Free Culture?

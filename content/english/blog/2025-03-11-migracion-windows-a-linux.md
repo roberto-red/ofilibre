@@ -5,7 +5,7 @@ categories:
 date: 2025-03-11
 description: In our last guide we explained the installation of Linux as a single
   operating system.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 tags:
 title: Take the leap to Linux!
 ---

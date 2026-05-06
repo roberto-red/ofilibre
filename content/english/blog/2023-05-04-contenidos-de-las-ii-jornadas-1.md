@@ -5,7 +5,7 @@ categories:
 date: 2023-05-04 15:46:57.485000+00:00
 description: Here you have the program and the speakers who participated in the Conference,
   among other data.
-image: /images/contenidos-ii-jornadas-vertical.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/contenidos-ii-jornadas-vertical.jpg
 slug: jornadas-programa
 title: Contents of II Free Culture Days
 ---

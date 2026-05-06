@@ -8,7 +8,7 @@ degrees: Bachelor of Science (B.Sc.) in Business Administration and Management
 department: FCJS
 description: Review classes of theoretical contents taught in person (Statistical
   Inference, etc.)
-image: /images/catalogo/estadistica2.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/estadistica2.png
 license: Attribution-ShareAlike 4.0 International
 link: https://www.youtube.com/watch?v=joM3M3GOLUs&list=PLiqyQxHITcwxuaRxy06ma6oRY7JjK5ayo
 title: Notes on Statistics 2 (Video-classes)

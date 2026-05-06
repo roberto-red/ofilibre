@@ -5,7 +5,7 @@ date: 2020-07-21
 description: Rey Juan Carlos University has opened a call for grants to cover the
   costs associated with the publication of articles and/or chapters in indexed international
   journals and/or publishers of recognized prestige.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: ayudas-publicacion
 tags:
 - Grants

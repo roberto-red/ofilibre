@@ -3,7 +3,7 @@ categories:
 - Resources
 - University
 date: 2019-11-19
-image: /images/guias/impresoras/impresora.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/impresoras/impresora.png
 tags: 
 title: Printing from Linux on URJC printers
 type: guias

@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-13
-image: /images/fichas/greenfoot/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/greenfoot/logo.png
 installs:
 - name: How to install Greenfoot
   url: https://www.greenfoot.org/download/installation

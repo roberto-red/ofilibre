@@ -1,6 +1,6 @@
 ---
 title: Inkscape
-image: /images/fichas/inkscape/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/inkscape/logo.png
 website: https://inkscape.org/
 website_es: https://inkscape.org/es/
 licenses:

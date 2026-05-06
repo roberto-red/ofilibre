@@ -8,7 +8,7 @@ license: Creative Commons Atribución-CompartirIgual
 date: 2020-11-26
 description : "Curso orientado a comprender la estructura, funcionamiento y diseño de los computadores, así como su programación a nivel de sistemas, utilizando la arquitectura más moderna: RISC-V"
 
-image: "/images/catalogo/arqu-ordenadores.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/arqu-ordenadores.png"
 type: catalogo
 categories:
     - Recursos

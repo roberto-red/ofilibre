@@ -6,7 +6,7 @@ categories:
   - Recursos
 tags:
   - "Redes sociales"
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 Si quieres seguir la información que difundimos desde la OfiLibre, estos son los canales que usamos:

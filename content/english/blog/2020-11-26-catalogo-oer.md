@@ -5,7 +5,7 @@ categories:
 date: 2020-11-26
 description: We announce the publication of the first entries in the open-access teaching
   materials catalog of URJC.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: catalogo-oer
 tags:
 - Teaching materials
@@ -22,10 +22,10 @@ From OfiLibre, in addition to maintaining the catalog, we will issue documents t
 
 This is the catalog we are launching:
 
-[![Catalog](/images/blog/catalogo-oer/catalogo.png)](/en/catalogo)
+[![Catalog](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/catalogo-oer/catalogo.png)](/en/catalogo)
 
 For each material (video collection, notes, website, etc.) we have prepared an entry that includes the authors’ names, a link to the material, a brief description, and in many cases details about the production process and the platforms used for publication. Here is an example entry, one of the first we received:
 
-[![Catalog entry example](/images/blog/catalogo-oer/ejemplo.png)](/en/catalogo/rabadan-perez-01)
+[![Catalog entry example](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/catalogo-oer/ejemplo.png)](/en/catalogo/rabadan-perez-01)
 
 We hope this catalog will help us better understand what materials we are publishing in open access and to start sharing experiences.

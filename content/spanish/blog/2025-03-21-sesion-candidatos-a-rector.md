@@ -7,7 +7,7 @@ categories:
   - Cafés
   - Jornadas
 tags:
-image: /images/blog/jornadas-2025/poster.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/poster.png
 ---
 
 El miércoles 26 de marzo comenzaremos las **IV Jornadas de Cultura Libre** con un café con los dos candidatos a rector, **Abraham Duarte Muñoz** y **Fernando García Muiña**. Hablaremos con ellos sobre el conocimiento libre, publicación en acceso abierto, ciencia abierta, software libre, datos abiertos, etc.  

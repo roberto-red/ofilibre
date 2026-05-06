@@ -1,6 +1,6 @@
 ---
 title: Impresión desde Linux en las impresoras de la URJC
-image: /images/guias/impresoras/impresora.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/impresoras/impresora.png
 date: 2019-11-19
 type: guias
 categories:

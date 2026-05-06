@@ -3,7 +3,7 @@ categories:
 - Open publishing
 date: 2023-11-12
 description: Information about open access publishing possibilities for URJC PDI
-image: /images/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/openaccess-square.png
 slug: 2023-11-12-acceso-abierto
 tags:
 - Open Access

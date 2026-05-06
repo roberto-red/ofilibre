@@ -8,7 +8,7 @@ license: Creative Commons Reconocimiento-No Comercial-Compartir Igual
 date: 2020-11-21
 description: "Conjunto de animaciones basadas en las leyes físicas para explicar conceptos como el movimiento de caída libre, oscilaciones con muelles, caídas por planos inclinados, momento de inercia, poleas que giran, etc."
 
-image: "/images/catalogo/fisica-videojuegos.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/fisica-videojuegos.png"
 type: catalogo
 categories:
     - Recursos

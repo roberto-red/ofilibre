@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-14
-image: /images/fichas/audacity/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/audacity/logo.png
 installs:
 - name: How to install Audacity
   url: https://www.lifestylealcuadrado.com/tutorial-de-audacity-en-espanol-el-programa-edicion-audio/

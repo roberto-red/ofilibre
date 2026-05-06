@@ -22,7 +22,7 @@ OfiLibre has decided to focus on **bachelor's theses** and **master's theses**.
 BURJC follows the [Regulations for the Operation of the Publications Council of the Institutional Open Archive of URJC](https://eciencia.urjc.es/page/howtopublish), which was approved by the Governing Council on July 27, 2017.
 
 If an author is interested in having their work included in BURJC Digital, they must follow the instructions provided at this [link](https://eciencia.urjc.es/page/howtopublish). We leave you a screenshot of the guidelines to follow:
-![captura_instrucciones](/images/blog/archivo-abierto/captura_instrucciones.png)
+![captura_instrucciones](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/archivo-abierto/captura_instrucciones.png)
 
 Publishing a work in open access has countless advantages both academically and professionally.  
 1. Bachelor's and master's theses involve a great deal of effort and work; this way, your contribution to the community can be used by other members.  

@@ -7,7 +7,7 @@ categories:
   - Cultura libre
   - Software libre
 tags:
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 Es un  movimiento que promueve la libertad para distribuir y modificar obras creativas, científicas y técnicas. Sus principios son:  

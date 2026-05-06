@@ -3,7 +3,7 @@ categories:
     - Recursos
 date: 2019-09-25
 description: "La OfiLibre, por fin, publica su página web, donde podrás encontrar gran cantidad de recursos libres."
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: anuncio-web
 tags:
     - Web

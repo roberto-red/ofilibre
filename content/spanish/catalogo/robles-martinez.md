@@ -8,7 +8,7 @@ license: Creative Commons Atribución-CompartirIgual
 date: 2020-11-21
 description: "Conjunto de materiales docentes sobre la construcción de sitios web, tanto en el lado del servidor como en el lado del navegador. Incluye transparencias, ejercicios, exámenes, enunciados de prácticas, código fuente de ejemplo, etc."
 
-image: "/images/catalogo/tecnologia-web.jpg"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/tecnologia-web.jpg"
 type: catalogo
 categories:
     - Recursos

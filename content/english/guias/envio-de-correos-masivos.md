@@ -4,7 +4,7 @@ categories:
 - free software
 date: 2025-07-25
 description: Learn about the methodology we use at OfiLibre for sending mass emails
-image: /images/guias/evolution.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/evolution.png
 tags: 
 title: Mass mailing with Evolution
 type: guias

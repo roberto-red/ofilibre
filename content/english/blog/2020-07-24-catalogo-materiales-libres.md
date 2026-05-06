@@ -8,7 +8,7 @@ description: Due to the situation caused by COVID-19 and the shift of University
   months. In the process, many professors have wanted to take the opportunity to publish
   them as open educational materials, who might be interested in doing so shortly,
   or who plan to do so for the coming academic year.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: catalogo-materiales-libres
 tags:
 - Teaching

@@ -33,7 +33,7 @@ The past June, the [Call for Recognition of Open Access Course Materials 2022-20
 
 ### The call in bars:
 
-![Captura_Materiales_Baremo_2](/images/1-asignaturas.png)
+![Captura_Materiales_Baremo_2](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/localhttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/1-asignaturas.png)
 
 According to the Material Evaluation Rubric, each category could receive between 0 and 14 points. In this graph, each bar shows a category of materials (notes, slides, exercises, etc.). Within each bar, the colors indicate the quantity of materials according to the score received.
 

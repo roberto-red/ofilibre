@@ -1,6 +1,6 @@
 ---
 title: 7zip
-image: /images/fichas/7zip/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/7zip/logo.png
 website: https://www.7-zip.org/
 website_es: 
 licenses:

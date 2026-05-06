@@ -6,7 +6,7 @@ date: 2024-09-02
 description: Rey Juan Carlos University has once again published its call for recognition
   of the effort to publish open educational materials. This presentation will explain
   the main characteristics of the call.
-image: /images/logo-urjc-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-urjc-square.png
 tags:
 - URJC
 - Open Subjects

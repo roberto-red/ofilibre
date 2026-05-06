@@ -1,7 +1,7 @@
 ---
 title: "Plantillas para las V Jornadas de Cultura Libre y Ciencia Abierta"
 date: 2026-03-02
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 type: guias
 categories:
   - Recursos

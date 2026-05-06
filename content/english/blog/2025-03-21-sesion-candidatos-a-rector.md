@@ -6,7 +6,7 @@ date: '2025-03-21T10:00:00'
 description: Check the details about the next coffee, which will kick off IV Free
   Culture Days, with the two candidates for rector, Abraham Duarte Muñoz and Fernando
   García Muiña.
-image: /images/blog/jornadas-2025/poster.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/poster.png
 slug: sesion-con-los-candidatos-a-rector-en-las-iv-jornadas-de-cultura-libre
 tags:
 title: Session with the candidates for Rector at IV Free Culture Days

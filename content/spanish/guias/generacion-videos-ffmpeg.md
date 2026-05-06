@@ -1,6 +1,6 @@
 ---
 title: "Generación automática de vídeos con FFmpeg"
-image: /images/guias/ffmpeg.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/ffmpeg.png
 date: 2025-07-25
 type: guias
 description: "Desde la OfiLibre hemos generado una serie de scripts para automatizar la generación de vídeos usando FFmpeg"

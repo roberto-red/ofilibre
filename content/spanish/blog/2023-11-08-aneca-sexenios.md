@@ -7,7 +7,7 @@ categories:
   - Publicación en abierto
 tags:
   - acceso abierto
-image: /images/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/openaccess-square.png
 ---
 
 ANECA ha publicado el [Borrador de criterios de evaluación de la Convocatoria 2023 de Sexenios de investigación](https://www.aneca.es/documents/20123/49576/Borrador+Resolucion+Criterios+CNEAI+2023_061123.pdf/c5a3af88-bb33-c50a-b5da-82fed2198c05?t=1699282634260), que está sometido a un [proceso de consulta pública](https://www.aneca.es/-/consulta-p%C3%BAblica-sobre-el-borrador-de-criterios-de-evaluaci%C3%B3n-de-la-pr%C3%B3xima-convocatoria-2023-del-sexenio-de-investigaci%C3%B3n) hasta el próximo 19 de noviembre de 2023.

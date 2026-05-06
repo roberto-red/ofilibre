@@ -8,7 +8,7 @@ categories:
     - Recursos
     - Cultura libre
 description: "Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres."
-image: "images/materiales_libres.jpeg"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/materiales_libres.jpeg"
 ---
 
 Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres. ¿En qué condiciones puedes incluir materiales libres? ¿Dónde puedes encontrarlos? ¿Cómo se referencia el autor original? Responderemos estas y otras preguntas.

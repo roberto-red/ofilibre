@@ -6,7 +6,7 @@ tags:
 categories:
     - Cultura libre
 description: "Florencia Claes, profesora de Comunicación Multimedia de la URJC, se suma al equipo de OfiLibre"
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 Florencia Claes, profesora de Comunicación Multimedia de la URJC y Presidenta de Wikimedia España se suma al equipo de OfiLibre.

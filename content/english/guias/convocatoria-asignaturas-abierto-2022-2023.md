@@ -4,7 +4,7 @@ categories:
 - Open Subjects
 - Calls
 date: 2022-07-05
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 tags: 
 title: Previous open-subject publication calls
 type: guias

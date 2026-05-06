@@ -5,7 +5,7 @@ categories:
 date: 2022-03-02
 description: Cycle of seminars on open publication of the Final Degree Project and
   the use of free materials in it.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: 2022-02-tfg-abierto
 tags:
 - TFG

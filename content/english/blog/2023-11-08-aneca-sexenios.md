@@ -4,7 +4,7 @@ categories:
 date: 2023-11-08
 description: Aspects related to the open publication of the draft published by ANECA
   on the 2023 Call for Research Six-Year Terms
-image: /images/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/openaccess-square.png
 slug: borrador-de-sexenios-y-acceso-abierto
 tags:
 - open access

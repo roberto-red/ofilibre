@@ -1,6 +1,6 @@
 ---
 title: Notepad++
-image: /images/fichas/notepad/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/notepad/logo.png
 website: https://notepad-plus-plus.org/
 website_es: 
 licenses:

@@ -10,7 +10,7 @@ department: ETSIT (School of Telecommunication Engineering)
 description: Set of teaching materials on website construction, both server-side and
   client-side development. Includes slides, exercises, exams, practice statements,
   and sample source code.
-image: /images/catalogo/tecnologia-web.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/tecnologia-web.jpg
 license: Creative Commons Attribution-ShareAlike 4.0 International
 link: https://cursosweb.github.io/
 title: Web Application Development

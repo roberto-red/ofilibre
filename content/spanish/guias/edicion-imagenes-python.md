@@ -1,6 +1,6 @@
 ---
 title: "Edición automática de imágenes con Python"
-image: /images/guias/Pillow.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/Pillow.png
 date: 2025-07-25
 type: guias
 description: "Conoce las herramientas que usamos en la OfiLibre para la edición de imágenes, lo que nos permite generar miniaturas"

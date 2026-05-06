@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2025-02-27
-image: /images/guias/netlify-logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/netlify-logo.png
 tags: 
 title: Migration of a Hugo project from GitLab Pages to Netlify
 type: guias
@@ -154,7 +154,7 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
       - { label: 'Tags', name: 'tags', widget: 'list'}
       - { label: 'Background (elongated)', name: 'bg_image', widget: 'image', default: '/images/backgrounds/page-title.jpg'}
-      - { label: 'Logo (square)', name: 'thumb', widget: 'image', default: '/images/logo-ofilibre-2025.jpg'}
+      - { label: 'Logo (square)', name: 'thumb', widget: 'image', default: 'https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Attachments'
         name: 'files'
@@ -169,8 +169,8 @@ collections:
     folder: 'content/espanol/guias'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/images/guias/{{slug}}'
-    public_folder: '../../images/guias/{{slug}}'
+    media_folder: '/../../../statichttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/{{slug}}'
+    public_folder: '../..https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/{{slug}}'
     editor:
       preview: true
     fields:
@@ -196,7 +196,7 @@ collections:
     folder: 'content/espanol/fichas'
     create: true
     slug: '{{slug}}'
-    media_folder: '/../../../static/images/fichas/{{slug}}'
+    media_folder: '/../../../statichttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/{{slug}}'
     public_folder: ''
     editor:
       preview: true

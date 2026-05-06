@@ -4,7 +4,7 @@ categories:
 date: 2025-07-25
 description: Learn about the tools we use at OfiLibre for image editing, which allow
   us to generate thumbnails
-image: /images/guias/Pillow.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/Pillow.png
 tags: 
 title: Automatic image editing with Python
 type: guias

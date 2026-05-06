@@ -10,7 +10,7 @@ tags:
   - "Asignaturas en abierto"
   - "Acceso abierto"
   - "Convocatorias"
-image: /images/logo-urjc-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-urjc-square.png
 ---
 
 El próximo miércoles 4 de septiembre tendremos una videoconferencia de presentación de la convocatoria 2024-2025 de reconocimiento a la publicación de asignaturas en acceso abierto. Como en cursos anteriores, esta convocatoria pretende fomentar la publicación de materiales docentes en acceso abierto, mediante ciertos incentivos y reconocimientos al personal docente que los ha producido y los utiliza en sus clases.

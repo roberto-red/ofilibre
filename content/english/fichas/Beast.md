@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-11-20
-image: /images/fichas/beast/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/beast/logo.png
 installs:
 - kind: web
   name: How to install Beast

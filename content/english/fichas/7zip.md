@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-13
-image: /images/fichas/7zip/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/7zip/logo.png
 installs:
 - kind: web
   name: How to install 7-zip

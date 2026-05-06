@@ -5,7 +5,7 @@ categories:
 date: 2025-07-25
 description: Learn the procedure we follow for producing the Cafes con OfiLibre,
   from recording to publishing on platforms
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 tags: 
 title: Production process of the Cafes con OfiLibre
 type: guias

@@ -1,6 +1,6 @@
 ---
 title: OBS
-image: /images/fichas/obs/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/obs/logo.png
 website: https://obsproject.com/
 website_es: https://obsproject.com/es
 licenses:

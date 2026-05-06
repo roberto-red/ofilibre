@@ -5,7 +5,7 @@ description: "La URJC fomenta la cultura abierta con concursos culturales bajo l
 categories:
   - cultura libre
 tags:
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 **La URJC fomenta la cultura abierta con concursos culturales bajo licencias libres**  
@@ -13,7 +13,7 @@ image: /images/logo-ofilibre-2025.jpg
 Móstoles, 3 de diciembre de 2024 – La Universidad Rey Juan Carlos (URJC) celebró el acto de entrega de premios de promoción cultural, un evento que pone en valor la creatividad y el talento de su comunidad universitaria. Este año, por primera vez, todas las obras premiadas se publicarán bajo **licencias libres (Creative Commons BY-SA)**, permitiendo su difusión y reutilización abierta, en línea con los objetivos de la **Oficina de Conocimiento y Cultura Libres (OfiLibre)**.  
 
 <div align="center">
-<img src="/images/by-sa.png">
+<img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/by-sa.png">
 </div>
 <br></br>
 

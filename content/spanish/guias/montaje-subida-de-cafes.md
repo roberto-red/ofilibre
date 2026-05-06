@@ -1,6 +1,6 @@
 ---
 title: "Proceso de producción de los Cafés con OfiLibre"
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 date: 2025-07-25
 type: guias
 description: "Conoce el procedimiento que seguimos para la elaboración de los Cafés con OfiLibre, desde su grabación hasta su publicación en plataformas"

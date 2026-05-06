@@ -28,4 +28,4 @@ Related materials:
 
 * Slides ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
 
-* [Poster](/images/blog/cafe-creative-commons/cartel_A3.pdf)
+* [Poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/cafe-creative-commons/cartel_A3.pdf)

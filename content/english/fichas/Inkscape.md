@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-26
-image: /images/fichas/inkscape/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/inkscape/logo.png
 installs: 
 licenses:
 - name: GPLv3

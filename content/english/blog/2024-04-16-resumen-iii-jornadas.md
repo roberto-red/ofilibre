@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2024-04-16
 description: Summary of III Free Culture Days 2024
-image: /images/RESUMEN-III-Jornadas-thumb.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/RESUMEN-III-Jornadas-thumb.jpg
 slug: resumen-III-jornadas
 tags:
 - Free culture days

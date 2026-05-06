@@ -1,6 +1,6 @@
 ---
 title: Octave
-image: /images/fichas/octave/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/octave/logo.png
 website: https://www.gnu.org/software/octave/
 website_es: 
 licenses:

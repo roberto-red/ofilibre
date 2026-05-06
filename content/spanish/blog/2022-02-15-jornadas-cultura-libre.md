@@ -166,9 +166,9 @@ Está disponible el video con todas las presentaciones de la jornada, y un [resu
 
 * Plantilla de transparencias: [formato ODF, para LibreOffice](/transpas/jornada-cultura-libre/presentacion_jornadas.odp), [formato PPTX, para PowerPoint](/transpas/jornada-cultura-libre/presentacion_jornadas.pptx), [formato PDF](/transpas/jornada-cultura-libre/presentacion_jornadas.pdf).
 
-* "Bombilla abierta": [formato PDF](/images/blog/jornada-cultura-libre/bombilla.pdf), [formato PNG](/images/blog/jornada-cultura-libre/bombilla.png). Autor: José Luis Rubio Tamayo. Licencia: Creative Commons Reconocimiento 4.0 Internacional.
+* "Bombilla abierta": [formato PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/bombilla.pdf), [formato PNG](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/bombilla.png). Autor: José Luis Rubio Tamayo. Licencia: Creative Commons Reconocimiento 4.0 Internacional.
 
-* [Cartel de la jornada](/images/blog/jornada-cultura-libre/square.png)
+* [Cartel de la jornada](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/square.png)
 
 ## Envío de propuestas e inscripción
 

@@ -1,6 +1,6 @@
 ---
 title: ArgoUML
-image: /images/fichas/argouml/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/argouml/logo.png
 website: http://argouml.tigris.org/
 website_es: 
 licenses:

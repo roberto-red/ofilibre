@@ -1,6 +1,6 @@
 ---
 title: Publicación de software libre
-image: /images/guias/software-libre/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/software-libre/logo.png
 date: 2022-04-19
 type: guias
 categories:

@@ -4,7 +4,7 @@ categories:
 - Free Culture
 date: 2024-03-14
 description: Summary of the program and speakers participating in III Conference
-image: /images/Contenido_III_Jornadas_thumb.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/Contenido_III_Jornadas_thumb.png
 slug: programa-III-jornadas
 tags:
 title: III Free Culture Days Program

@@ -5,7 +5,7 @@ date: '2025-03-21T09:00:00'
 description: Check out the complete program of IV Free Culture Days, with lectures,
   workshops and activities on open access, education, citizen science and innovation.
   Don't miss a single detail!
-image: /images/blog/jornadas-2025/poster.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/poster.png
 slug: programa-iv-jornadas
 tags:
 title: IV Free Culture Days Program

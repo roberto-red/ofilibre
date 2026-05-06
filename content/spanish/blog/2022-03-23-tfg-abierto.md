@@ -9,7 +9,7 @@ categories:
     - Cultura libre
     - Universidad
 description: "Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres."
-image: "images/Cuadrado_TFG_en_abierto.jpeg"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/Cuadrado_TFG_en_abierto.jpeg"
 ---
 
 Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.¿Qué quiere decir esto? ¿Por qué te puede interesar? ¿Cómo hacerlo, si lo encuentras interesante?

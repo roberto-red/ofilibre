@@ -8,7 +8,7 @@ license: Creative Commons Reconocimiento
 date: 2020-11-21
 description: "22 videos con las explicaciones de varios temas de Electrónica Digital. Si los videos se basan en trasparencias tienen un link a las trasparencias disponibles en Zenodo."
 
-image: "/images/catalogo/electronica-digital.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/electronica-digital.png"
 type: catalogo
 categories:
     - Recursos

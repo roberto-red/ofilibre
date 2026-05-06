@@ -7,7 +7,7 @@ categories:
   - Jornadas
   - Cultura Libre
 tags:
-image: /images/blog/jornadas-2025/poster.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/poster.png
 ---
 
 Programa de las IV Jornadas de Cultura Libre, incluyendo enlaces a los vídeos de las presentaciones, así como a los materiales utilizados en las mismas. Los pósters los puedes encontrar en [esta entrada](/blog/posters-iv-jornadas/) del blog.

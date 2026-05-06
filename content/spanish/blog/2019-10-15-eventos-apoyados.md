@@ -7,7 +7,7 @@ categories:
     - Recursos
 tags:
     - Apoyo
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 ---
 
 Desde la OfiLibre queremos promover el conocimiento sobre la cultura libre,

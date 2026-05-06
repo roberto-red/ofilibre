@@ -4,7 +4,7 @@ categories:
 - Free Software
 - Open Publishing
 date: 2022-04-19
-image: /images/guias/software-libre/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/software-libre/logo.png
 tags: 
 title: Free Software Publishing
 type: guias

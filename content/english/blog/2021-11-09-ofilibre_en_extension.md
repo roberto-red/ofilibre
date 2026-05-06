@@ -4,7 +4,7 @@ categories:
 date: 2021-11-09
 description: Florencia Claes, professor of Multimedia Communication at URJC, joins
   OfiLibre team
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: ofilibre-nueva-integrante
 tags:
 title: New member in OfiLibre

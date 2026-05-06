@@ -1,6 +1,6 @@
 ---
 title: Wireshark
-image: /images/fichas/wireshark/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/wireshark/logo.png
 website: https://www.wireshark.org/
 website_es:
 licenses:

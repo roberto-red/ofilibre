@@ -8,7 +8,7 @@ categories:
 tags:
   - wikipedia
   - talk
-image: /images/captura-de-pantalla-2023-04-17-a-las-13.13.49.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/captura-de-pantalla-2023-04-17-a-las-13.13.49.png
 ---
 
 El lunes 24 de abril a las 13:00 en el Campus de Fuenlabrada tendremos la oportunidad de conocer en persona a la [Dra. Houda Elmimouni](https://www.houdaelmimouni.com/),  que ha investigado sobre cómo los lectores asignan confianza a los artículos de Wikipedia en inglés y las estrategias que utilizan para evaluar la credibilidad de la información presentada.

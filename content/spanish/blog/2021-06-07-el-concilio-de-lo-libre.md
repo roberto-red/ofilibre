@@ -21,7 +21,7 @@ El objetivo de esta iniciativa es exportar a otros entornos aquellas actividades
 
 Todas las actividades son completamente gratuitas y cualquier persona puede participar en ellas.
 
-![Logos Oficinas Software Libre](/images/blog/el-concilio-de-lo-libre/logos-3-oficinas.png)
+![Logos Oficinas Software Libre](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/el-concilio-de-lo-libre/logos-3-oficinas.png)
 
 ## Calendario de actividades
 
@@ -60,7 +60,7 @@ Impartida por [David Pacios Izquierdo](https://twitter.com/Semi_ingenieros).
 - Fecha: 18 de junio 2021 a las 12:00h. 
 - [Enlace a la charla](https://jitsi.ugr.es/charla-carteles-con-libreoffice-2021-06-21).
 
-![Cartel Charla diseño con LibreOffice](/images/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
+![Cartel Charla diseño con LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
 
 En esta charla se explicará como crear carteles de manera muy simple usando LibreOffice. 
 

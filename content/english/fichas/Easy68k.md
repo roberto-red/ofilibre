@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-12-02
-image: /images/fichas/easy68k/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/easy68k/logo.png
 installs:
 - kind: web
   name: Quick start guide (in English)
@@ -17,7 +17,7 @@ screenshots:
 - attribution: '[Captura tomada de easy68k.com](http://www.easy68k.com/images/sim68k.PNG)'
   file: captura.png
   name: Easy68k in operation (screenshot)
-- attribution: '[Captura tomada de easy68k.com](http://www.easy68k.com/images/easybin.png)'
+- attribution: '[Captura tomada de easy68k.com](http://www.easy68k.comhttps://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/easybin.png)'
   file: captura.png
   name: Easy68k in operation (screenshot)
 source: https://github.com/ProfKelly/EASy68K

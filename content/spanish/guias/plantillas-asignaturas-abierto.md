@@ -5,7 +5,7 @@ description: De cara a facilitar la elaboración de materiales docentes en
   abierto, por ejemplo para participar en la convocatoria de asignaturas en
   abierto, la OfiLibre pone a disposición de la comunidad universitaria
   plantillas para la elaboración de documentos de texto y presentaciones.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 type: guias
 categories:
   - Recursos
@@ -28,4 +28,4 @@ Plantillas para LibreOffice:
 
 Para utilizar las plantillas, basta con abrirlas con LibreOffice, y al guardar seleccionar "Save As..." > "ODF Presentation (odp)" para presentaciones, o "Save As...." > "ODF Text Document (odt)" para documentos de texto, como se indica en la imagen.
 
-![guardar-como](/images/guias/plantillas/guardar-como.png)
+![guardar-como](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/plantillas/guardar-como.png)

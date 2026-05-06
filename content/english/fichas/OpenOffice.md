@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-19
-image: /images/fichas/openoffice/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/openoffice/logo.png
 installs:
 - name: How to install OpenOffice
   url: https://www.openoffice.org/download/common/instructions.html

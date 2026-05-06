@@ -6,7 +6,7 @@ date: 2024-09-18
 description: How do I know what license the article I published in such and such a
   magazine has? How can I know under what conditions a material has been published?
   Find the answer to these and other questions in the video Where is the license?
-image: /images/openaccess-square.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/openaccess-square.png
 tags:
 - Licenses
 - Videos

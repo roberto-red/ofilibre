@@ -8,7 +8,7 @@ license: Creative Commons Attribution-NonCommercial-ShareAlike
 date: 2020-11-21
 description : "Apuntes basados en el PMBOK, metodología en cascada/predictiva para la gestión y dirección de proyectos."
 
-image: "/images/catalogo/borras-gene.png"
+image: "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/catalogo/borras-gene.png"
 type: catalogo
 categories:
     - Recursos

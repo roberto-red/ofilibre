@@ -1,6 +1,6 @@
 ---
 title: Protégé
-image: /images/fichas/protege/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/protege/logo.png
 website: https://protege.stanford.edu/
 website_es:
 licenses:

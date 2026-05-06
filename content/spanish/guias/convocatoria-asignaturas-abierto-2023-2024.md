@@ -1,7 +1,7 @@
 ---
 title: Reconocimiento de publicación de asignaturas en abierto 2023-2024
 date: 2023-07-05
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 type: guias
 categories:
   - Recursos
@@ -61,7 +61,7 @@ También, se pueden consultar las preguntas más frecuentes, con sus respuestas,
 
 Sí, pero solo se valorarán las categorías en donde no se haya obtenido el máximo puntaje. Veamos un supuesto: Hermenegilda Gómez Stravinsky presentó la asignatura Ingeniería Multicolor, con el siguiente resultado:
 
-![Ejemplo](/images/guias/convocatoria-asignaturas-abierto/ejemplo.png)
+![Ejemplo](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/convocatoria-asignaturas-abierto/ejemplo.png)
 
 #### ¿Hay algún formato específico para los documentos (presentaciones, documentos de texto…)?
 
@@ -73,7 +73,7 @@ Dependiendo del tipo de documento se suele incluir la licencia o bien al princip
 
 Este es un ejemplo: 
 
-![](/images/cc-by-sa-miniatura.jpg)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2023 Autora Hermenegilda Gómez Stravinsky

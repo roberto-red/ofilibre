@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-04
-image: /images/fichas/anaconda/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/anaconda/logo.png
 installs:
 - name: How to install Anaconda
   url: https://medium.com/@pandeysimran97/installing-anaconda-navigator-in-5-simple-steps-for-deep-learning-projects-c7c794f1768d

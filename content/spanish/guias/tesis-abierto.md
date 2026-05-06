@@ -1,7 +1,7 @@
 ---
 title: Publicación de la tesis doctoral en abierto
 date: 2024-03-12
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 type: guias
 categories:
   - Recursos

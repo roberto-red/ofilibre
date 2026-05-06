@@ -3,7 +3,7 @@ categories:
 - Resources
 - Calls
 date: 2024-01-17
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 tags:
 title: Sexenios and Open Science
 type: guias
@@ -56,16 +56,16 @@ URJC institutional repository:
 
 Help documents prepared by URJC Library:
 
-* [Resources to find evidence of quality in my publications for Accreditations and Sexenios](/images/guias/sexenios_ciencia_abierta/Recursos_Indicios_Sexenios.pdf) (presentation)
-* [New evaluation criteria for the 2023 Research Sexenios Call (help document for URJC teaching and research staff)](/images/guias/sexenios_ciencia_abierta/DOCUMENTOAYUDA_PDI_INFORME_21122023.pdf)
-* [Sexenios 2023, main changes](/images/guias/sexenios_ciencia_abierta/SEXENIOS_2023.pdf) (infographic)
-* [How to add contributions to BURJC Digital](/images/guias/sexenios_ciencia_abierta/COMO_ANADIR_OBRAS_A_BURJC_DIGITAL_2.pdf) (infographic)
-* [Five steps to upload a publication to BURJC Digital](/images/guias/sexenios_ciencia_abierta/5PASOS_INFOGRAFIA.pdf) (infographic)
-* [What metadata of my publication do I need to upload to the repository?](/images/guias/sexenios_ciencia_abierta/METADATOS_INFOGRAFIA.pdf) (infographic)
+* [Resources to find evidence of quality in my publications for Accreditations and Sexenios](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/Recursos_Indicios_Sexenios.pdf) (presentation)
+* [New evaluation criteria for the 2023 Research Sexenios Call (help document for URJC teaching and research staff)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/DOCUMENTOAYUDA_PDI_INFORME_21122023.pdf)
+* [Sexenios 2023, main changes](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/SEXENIOS_2023.pdf) (infographic)
+* [How to add contributions to BURJC Digital](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/COMO_ANADIR_OBRAS_A_BURJC_DIGITAL_2.pdf) (infographic)
+* [Five steps to upload a publication to BURJC Digital](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/5PASOS_INFOGRAFIA.pdf) (infographic)
+* [What metadata of my publication do I need to upload to the repository?](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/METADATOS_INFOGRAFIA.pdf) (infographic)
 
 Other documents and help information:
 
-* [REBUIN recommendations for depositing contributions](/images/guias/sexenios_ciencia_abierta/Recomendaciones_REBUIN.png)
+* [REBUIN recommendations for depositing contributions](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/sexenios_ciencia_abierta/Recomendaciones_REBUIN.png)
 * [Article by Manuel Gertrudix on sexenios](https://ciberimaginario.es/2023/12/07/sexenios-2023-recursos-para-hacer-la-bibliometria-narrativa/)
 
 * Narrative Bibliometrics: applications for the defense of curricula and scientific contributions within the framework of CoARA and ANECA - Sexenios, with Daniel Torres-Salinas and Wenceslao Arroyo-Machado (Department of Information and Communication, University of Granada)

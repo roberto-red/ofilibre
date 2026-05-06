@@ -1,6 +1,6 @@
 ---
 title: Convocatorias previas de publicación de asignaturas en abierto
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 date: 2022-07-05
 type: guias
 categories:

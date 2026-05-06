@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-04
-image: /images/fichas/notepad/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/notepad/logo.png
 installs:
 - name: How to install Notepad++
   url: https://www.fdi.ucm.es/profesor/luis/fp/devtools/Notepad.html

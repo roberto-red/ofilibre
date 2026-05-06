@@ -4,7 +4,7 @@ categories:
 - Open publishing
 date: 2023-05-19 08:58:41.642000+00:00
 description: Intervention of our coordinator at the REA Day of the Consorcio Madroño
-image: /images/1200px-logo_consorcio_madroño.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/1200px-logo_consorcio_madroño.jpg
 slug: jesus-jornada-REA
 title: Jesús M. González Barahona at the Open Educational Resources Day of the Consorcio
   Madroño

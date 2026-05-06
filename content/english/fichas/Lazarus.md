@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-11-28
-image: /images/fichas/lazarus/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/lazarus/logo.png
 licenses:
 - name: GPL
   url: https://en.wikipedia.org/wiki/GNU_General_Public_License

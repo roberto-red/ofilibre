@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-03-13
-image: /images/fichas/gimp/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/gimp/logo.png
 installs:
 - kind: video
   name: How to install Gimp 2.10.2

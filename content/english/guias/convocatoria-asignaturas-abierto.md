@@ -4,7 +4,7 @@ categories:
 - Open Subjects
 date: 2025-06-05
 description: Recognition of open subject publication 2025-2026
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 tags: 
 title: Recognition of Open Subjects Publication 2025-2026
 type: guias
@@ -132,7 +132,7 @@ Depending on the type of document, the license is usually included either at the
 
 This is an example:
 
-![](/images/cc-by-sa-miniatura.jpg)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2024 Author Hermenegilda Gómez Stravinsky

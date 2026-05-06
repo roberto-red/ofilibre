@@ -6,7 +6,7 @@ date: '2025-03-21T08:00:00'
 description: Discover what it means for a resource to be open and how its free and
   unrestricted access drives the dissemination of knowledge, cooperation, and reuse
   of information in different areas such as science, software, and data.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: acceso-abierto
 tags:
 title: What does it mean for something to be open?

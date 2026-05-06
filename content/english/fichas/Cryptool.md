@@ -3,7 +3,7 @@ categories:
 - Resources
 - Free Software
 date: 2019-04-04
-image: /images/fichas/cryptool/logo.png
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/fichas/cryptool/logo.png
 installs:
 - name: How to install Cryptool
   url: https://www.cryptool.org/en/jct-documentation/installation

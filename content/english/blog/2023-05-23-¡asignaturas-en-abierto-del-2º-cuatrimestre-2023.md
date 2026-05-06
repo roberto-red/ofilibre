@@ -3,7 +3,7 @@ categories:
 - Open Subjects
 date: 2023-05-23 10:44:34.561000+00:00
 description: Open subjects call results (2nd quarter)
-image: /images/convocatoria-aseignaturas-2.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/convocatoria-aseignaturas-2.jpg
 slug: 2023-resultados-convocatoria-asignaturas
 tags:
 - subjects
@@ -29,7 +29,7 @@ We're back with new open subjects! Until last January, we were receiving request
 
 **The call in bars:**
 
-![](/images/2-asignaturas.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/2-asignaturas.png)
 
 According to the Material Evaluation Rubric, each category could receive between 0 and 14 points. In this graph, each bar shows a category of materials (notes, slides, exercises, etc.). Within each bar, the colors indicate the amount of materials according to the score received.
 

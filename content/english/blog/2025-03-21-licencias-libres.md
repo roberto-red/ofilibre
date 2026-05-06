@@ -5,7 +5,7 @@ date: '2025-03-21T08:00:00'
 description: Learn what a license is and how it regulates the use, distribution, and
   modification of works. Discover the different Creative Commons and software licenses
   that allow sharing knowledge in a flexible and secure way.
-image: /images/logo-ofilibre-2025.jpg
+image: https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/logo-ofilibre-2025.jpg
 slug: licencias-libres
 tags:
 - OfiLibre
@@ -20,43 +20,43 @@ Licenses Creative Commons (CC): a set of licenses that allow authors to share th
 
 - **CC 0: Public Domain** - Allows use without restrictions, without the need for attribution.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/cc-zero.png" alt="Logo CC-0 license (public domain)" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/cc-zero.png" alt="Logo CC-0 license (public domain)" width="300">
   </div>
   <br>
 
 - **CC BY: Attribution** - Can be used and modified freely, as long as credit is given to the author.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/by.png" alt="Logo CC-BY license" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/by.png" alt="Logo CC-BY license" width="300">
   </div>
   <br>
 
 - **CC BY-SA: Attribution-ShareAlike** - Allows modifications, but derivative works must share the same license.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/by-sa.png" alt="Logo CC-BY-SA license" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/by-sa.png" alt="Logo CC-BY-SA license" width="300">
   </div>
   <br>
 
 - **CC BY-NC: Attribution-NonCommercial** - Use and modification are permitted, but not for commercial purposes.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/by-nc.png" alt="Logo CC-BY-NC license" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/by-nc.png" alt="Logo CC-BY-NC license" width="300">
   </div>
   <br>
 
 - **CC BY-ND: Attribution-NoDerivatives** - Can be shared, but not modified or used to create derivative works.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/by-nd.png" alt="Logo CC-BY-ND license" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/by-nd.png" alt="Logo CC-BY-ND license" width="300">
   </div>
   <br>
 
 - **CC BY-NC-SA: Attribution-NonCommercial-ShareAlike** - Non-commercial use and modification are permitted, but derivative works must maintain the same license.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/by-nc-sa.png" alt="Logo CC-BY-NC-SA license" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/by-nc-sa.png" alt="Logo CC-BY-NC-SA license" width="300">
   </div>
   <br>
 
 - **CC BY-NC-ND: Attribution-NonCommercial-NoDerivatives** - Can be shared only in its original form and not for commercial purposes.
   <div style="text-align: center;">
-    <img src="/images/blog/licencias-cc/by-nc-nd.png" alt="Logo CC-BY-NC-ND license" width="300">
+    <img src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/licencias-cc/by-nc-nd.png" alt="Logo CC-BY-NC-ND license" width="300">
   </div>
   <br>
 
