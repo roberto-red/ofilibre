@@ -47,7 +47,8 @@ El sitio utiliza el tema **Navigator Hugo**.
 - **Estructura de carpetas adaptada** para separar contenido por idioma y sección.
 - **Plantillas personalizadas** en `layouts/` para ajustarse a las necesidades de Ofilibre.
 - **Integración con Netlify CMS** para edición sencilla de contenido.
-- **Archivos estáticos** organizados en `static/` (imágenes, PDFs, documentos, etc.).
+- **Archivos estáticos ligeros** en `static/` (logos del tema, favicon, fondos).
+- **Archivos pesados** (imágenes de posts, presentaciones, pósters) en `local/`, servidos vía URL raw de GitLab (ver sección dedicada más abajo).
 - **Configuración multilingüe** y menús adaptados.
 - **Ajustes en `config.toml`** para personalización de la web, idiomas, menús, etc.
 
@@ -58,7 +59,9 @@ El sitio utiliza el tema **Navigator Hugo**.
 - `content/english/` y `content/spanish/`:  
   Contenido de la web, organizado por idioma y sección (`blog/`, `guias/`, `pres/`, etc.).
 - `static/`:  
-  Archivos estáticos accesibles desde la web (imágenes, PDFs, etc.).
+  Archivos estáticos ligeros accesibles desde la web (logos del tema, favicon, fondos). Solo lo imprescindible para el shell del tema.
+- `local/`:  
+  Archivos pesados (imágenes de blog, fichas, guías, presentaciones, pósters). No se publican en GitLab Pages, se sirven vía URL raw de GitLab. Ver la sección **Archivos pesados y la carpeta `local/`** más abajo.
 - `layouts/`:  
   Plantillas HTML personalizadas.
 - `data/`:  
@@ -94,8 +97,9 @@ El sitio utiliza el tema **Navigator Hugo**.
    ---
    Contenido en Markdown.
    ```
-3. Sube imágenes o archivos a `static/images/` o `static/documentos/` y enlázalos desde el Markdown.
-4. Haz commit y push a la rama principal.
+3. Sube imágenes o archivos pesados a `local/images/` (ver sección **Archivos pesados y la carpeta `local/`**).
+4. En el frontmatter usa rutas `/local/...`. En el cuerpo del Markdown usa la URL raw completa.
+5. Haz commit y push a la rama principal.
 
 ### B. Usando el CMS de Netlify
 
@@ -108,10 +112,116 @@ El sitio utiliza el tema **Navigator Hugo**.
 
 ## ¿Cómo añadir archivos estáticos?
 
-- Sube imágenes a `static/images/`.
-- Sube documentos a `static/documentos/` o la carpeta correspondiente.
-- Enlaza estos archivos desde los archivos Markdown usando rutas relativas, por ejemplo:  
-  `/images/mi-imagen.jpg` o `/documentos/mi-archivo.pdf`
+- Los archivos **ligeros** del tema (logos, favicon, fondos) van en `static/`. No subas aquí imágenes de posts ni presentaciones.
+- Los archivos **pesados** (imágenes de contenido, PDFs de presentaciones, pósters) van en `local/`. Ver la sección siguiente para más detalle.
+
+---
+
+## Archivos pesados y la carpeta `local/`
+
+GitLab Pages tiene un límite de **1 GB** para los artefactos publicados. Para no superarlo, los archivos pesados (imágenes de blog, fichas, guías, presentaciones, pósters, etc.) se almacenan en la carpeta `local/` en lugar de `static/`. Esta carpeta está en el repositorio Git pero **no se publica en Pages**: los archivos se sirven directamente desde la URL raw de GitLab.
+
+### Estructura de `local/`
+
+```
+local/
+├── blog/              ← imágenes de posts del blog
+├── images/            ← imágenes de fichas, guías, equipo, etc.
+│   ├── blog/
+│   ├── fichas/
+│   ├── guias/
+│   └── ...
+└── transpas/          ← PDFs y ODPs de presentaciones
+    ├── 2019/
+    ├── 2020/
+    └── ...
+```
+
+### Variable `rawBase` en `config.toml`
+
+En `config.toml` hay un parámetro que contiene la URL base para acceder a los archivos raw:
+
+```toml
+[params]
+rawBase = "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master"
+```
+
+Los templates de Hugo usan el partial `resolve-image` (definido en `layouts/partials/resolve-image.html`) para convertir automáticamente las rutas `/local/...` en URLs completas. Si algún día cambia la URL del repositorio, solo hay que actualizar `rawBase`.
+
+### Cómo referenciar archivos pesados
+
+Hay **dos casos** según dónde se use la referencia:
+
+#### 1. En el frontmatter (campos `image:`, `slides.pdf:`, `slides.odp:`, etc.)
+
+Usa rutas que empiecen por `/local/`. Los templates de Hugo se encargan de resolverlas automáticamente:
+
+```yaml
+---
+title: "Mi post"
+image: /local/images/blog/mi-imagen.jpg
+---
+```
+
+```yaml
+---
+title: "Mi presentación"
+image: /local/transpas/2025/portada.png
+slides:
+  pdf: /local/transpas/2025/mi-presentacion.pdf
+  odp: /local/transpas/2025/mi-presentacion.odp
+---
+```
+
+#### 2. En el cuerpo del Markdown (imágenes inline, enlaces a archivos)
+
+Hugo **no procesa** las URLs dentro del contenido Markdown a través de templates, así que hay que usar la **URL raw completa**:
+
+```markdown
+![Descripción](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/mi-imagen.jpg)
+
+[Descargar PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/2025/mi-presentacion.pdf)
+```
+
+También funciona con el shortcode `image`:
+
+```
+{{< image
+  src="https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/mi-imagen.jpg"
+  alt="Descripción"
+  title="Título"
+  author="OfiLibre"
+  license="CC BY-SA 4.0"
+  licenseUrl="https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+>}}
+```
+
+### Resumen rápido
+
+| Situación | Dónde poner el archivo | Cómo referenciarlo |
+|---|---|---|
+| Logo del tema, favicon, fondo | `static/images/` | `/images/mi-logo.png` |
+| Imagen de un post de blog | `local/images/blog/` | Frontmatter: `/local/images/blog/foto.jpg` — Markdown inline: URL raw completa |
+| Imagen de una ficha | `local/images/fichas/nombre/` | Frontmatter: `/local/images/fichas/nombre/logo.png` |
+| Imagen de una guía | `local/images/guias/` | Frontmatter: `/local/images/guias/logo.png` |
+| PDF/ODP de presentación | `local/transpas/AÑO/` | Frontmatter: `/local/transpas/2025/archivo.pdf` |
+| Póster u otro archivo pesado | `local/blog/` o subcarpeta adecuada | Markdown inline: URL raw completa |
+
+### Cómo funciona internamente
+
+El partial `layouts/partials/resolve-image.html` contiene esta lógica:
+
+```
+Si la ruta empieza por "/local/" →
+    se construye: rawBase + ruta
+    (ej: https://gitlab.com/.../raw/master/local/images/blog/foto.jpg)
+
+Si no →
+    se usa absURL como siempre
+    (ej: https://ofilibre.urjc.es/images/logos/logo.png)
+```
+
+Los templates que usan este partial son: `blog.html`, `list.html`, `catalogo/single.html`, `fichas/single.html`, `pres/single.html`, `acciones.html`, `equipo.html`, `objetivos.html` y `ofilibre.html`.
 
 ---
 
