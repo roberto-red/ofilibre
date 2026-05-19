@@ -16,40 +16,40 @@ All the posters presented at III Free Culture Days are gathered here. Remember t
 
 * **Climate Warriors**
 
-![Climate Warriors](/local/images/blog/posters-jornadas-2024/01_Carbonell_Alcocer_ClimateWarriors_A1_page-0001.jpg)
+![Climate Warriors](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/01_Carbonell_Alcocer_ClimateWarriors_A1_page-0001.jpg)
 
 * **+UniversiDATA Research Project**
 
-![+UniversiDATA Research Project](/local/images/blog/posters-jornadas-2024/02_Gálvez_De-la-Cuesta_+Universidata_A1_page-0001.jpg)
+![+UniversiDATA Research Project](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/02_Gálvez_De-la-Cuesta_+Universidata_A1_page-0001.jpg)
 
 * **Educational Intervention Program for Promoting Prosocial Online Behavior in Adolescence**
 
-![Prosocial Online Behavior in Adolescence](/local/images/blog/posters-jornadas-2024/03_Pérez_Torres_Be-Prosocial_A1_page-0001.jpg) 
+![Prosocial Online Behavior in Adolescence](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/03_Pérez_Torres_Be-Prosocial_A1_page-0001.jpg) 
 
 * **Wikipedia and Documentary Sources**
 
-![Wikipedia and Documentary Sources](/local/images/blog/posters-jornadas-2024/04_Martínez_Valerio_Wikipedia-y-fuentes-documentales_A2_compressed_page-0001.jpg) 
+![Wikipedia and Documentary Sources](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/04_Martínez_Valerio_Wikipedia-y-fuentes-documentales_A2_compressed_page-0001.jpg) 
 
 * **Open Publication of _Visual Thinking_ Techniques by Health Sciences Students**
 
-![Open Publication of Visual Thinking Techniques](/local/images/blog/posters-jornadas-2024/05_González_Poster_Visual-Thinking__A1_page-0001.jpg) 
+![Open Publication of Visual Thinking Techniques](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/05_González_Poster_Visual-Thinking__A1_page-0001.jpg) 
 
 * **Education Díptych - Wikimedia España**
 
-![Education Díptych (I)](/local/images/blog/posters-jornadas-2024/06_Wikimedia_Díptico-Educación_Doble-Cara_A4_page-0001.jpg)
+![Education Díptych (I)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/06_Wikimedia_Díptico-Educación_Doble-Cara_A4_page-0001.jpg)
 
-![Education Díptych (II)](/local/images/blog/posters-jornadas-2024/06_Wikimedia_Díptico-Educación_Doble-Cara_A4_page-0002.jpg) 
+![Education Díptych (II)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/06_Wikimedia_Díptico-Educación_Doble-Cara_A4_page-0002.jpg) 
 
 * **Digital Gardens - common node**
 
-![Digital Gardens](/local/images/blog/posters-jornadas-2024/07_NODO-COMUN_Jardines-digitales_A2_page-0001.jpg)
+![Digital Gardens](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/07_NODO-COMUN_Jardines-digitales_A2_page-0001.jpg)
 
 * **Open Source Robotics**
 
-![Open Source Robotics](/local/images/blog/posters-jornadas-2024/08_GARCÍA_GÓMEZ_OPEN-SOURCE_A2_page-0001.jpg)
+![Open Source Robotics](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/08_GARCÍA_GÓMEZ_OPEN-SOURCE_A2_page-0001.jpg)
 
 * **VIRION (Virtual Reality applied to school education)**
 
-![Virtual Reality applied to school education (I)](/local/images/blog/posters-jornadas-2024/09_VIRION_Folleto_Doble-Cara_A5_page-0001.jpg)
+![Virtual Reality applied to school education (I)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/09_VIRION_Folleto_Doble-Cara_A5_page-0001.jpg)
 
-![Virtual Reality applied to school education (II)](/local/images/blog/posters-jornadas-2024/09_VIRION_Folleto_Doble-Cara_A5_page-0002.jpg)
+![Virtual Reality applied to school education (II)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/posters-jornadas-2024/09_VIRION_Folleto_Doble-Cara_A5_page-0002.jpg)

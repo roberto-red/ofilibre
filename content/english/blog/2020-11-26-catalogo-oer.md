@@ -22,10 +22,10 @@ From OfiLibre, in addition to maintaining the catalog, we will issue documents t
 
 This is the catalog we are launching:
 
-[![Catalog](/local/images/blog/catalogo-oer/catalogo.png)](/en/catalogo)
+[![Catalog](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/catalogo-oer/catalogo.png)](/en/catalogo)
 
 For each material (video collection, notes, website, etc.) we have prepared an entry that includes the authors’ names, a link to the material, a brief description, and in many cases details about the production process and the platforms used for publication. Here is an example entry, one of the first we received:
 
-[![Catalog entry example](/local/images/blog/catalogo-oer/ejemplo.png)](/en/catalogo/rabadan-perez-01)
+[![Catalog entry example](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/catalogo-oer/ejemplo.png)](/en/catalogo/rabadan-perez-01)
 
 We hope this catalog will help us better understand what materials we are publishing in open access and to start sharing experiences.

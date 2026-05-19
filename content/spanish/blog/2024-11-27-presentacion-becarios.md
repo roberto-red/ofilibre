@@ -19,7 +19,7 @@ Durante este curso, contamos con una nueva y excepcionalmente amplia remesa de B
 
 Tenemos la seguridad de que su dedicación y creatividad nos permitirán seguir avanzando con energía renovada, consolidando la misión de OfiLibre como un espacio de formación y crecimiento en el ámbito de la cultura libre.
 
-![Becarios del curso 2024-2025](/local/images/blog/becarios-2024.jpg)
+![Becarios del curso 2024-2025](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/becarios-2024.jpg)
 
 ¡Os damos la bienvenida al equipo! Estamos deseando ver todas las ideas y proyectos que desarrollaremos en conjunto en los próximos meses.  
 

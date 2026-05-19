@@ -29,15 +29,15 @@ Below we show you how we generated a series of certificates at OfiLibre, using t
 
 - In this tutorial, we will **create the spreadsheet manually**. The first line must contain the generic name of the attributes, and each subsequent line the values for each individual. In this screenshot you can see how we did it:
 
-![captura01](/local/images/blog/generar-documentos-libreoffice/captura01.png)
+![captura01](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura01.png)
 
 - Next, **we save this information in .csv format** (comma-separated values). To do this, select the menu *File > Save As* and from the drop-down choose the *Text CSV* format. The first time you save as CSV, the following warning message may appear:
 
-![captura02](/local/images/blog/generar-documentos-libreoffice/captura02.png)
+![captura02](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura02.png)
 
 - We choose to continue saving in CSV and can select not to ask us again. Then we will be asked to choose the document’s encoding. To correctly preserve Spanish letters such as Ñ or accented vowels, we will choose "Western European (ISO-8859-1)" and click 'OK'.
 
-![captura03](/local/images/blog/generar-documentos-libreoffice/captura03.png)
+![captura03](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura03.png)
 
 - Next, we will **write the document template in Writer**. We write the generic text of the letter or certificate, leaving a couple of spaces where we will insert the personal names and other attributes. We can insert images and format as usual in any document.
 
@@ -45,21 +45,21 @@ Below we show you how we generated a series of certificates at OfiLibre, using t
 
 - To **view the data source tables** already in Writer, go to **View > Data Sources**. A box will appear below the toolbar that allows us to search for our table.
 
-![captura04](/local/images/blog/generar-documentos-libreoffice/captura04.png)
+![captura04](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura04.png)
 
 - To **insert the automatic fields into the text**, select the first cell of each column (which corresponds to the attribute name) and drag it to the desired position in the text. It is possible to modify the text formatting of the attributes. For example, we have put the data in bold and in a larger size, and the text would look like this:
 
-![captura05](/local/images/blog/generar-documentos-libreoffice/captura05.png)
+![captura05](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura05.png)
 
 - If we also want to **insert a date field that updates with the current date**, select *Insert > Field > More Fields* and choose *Date* and the desired format for the date. (We can also select *Fixed Date* if we do not want it to update).
 
 - You can **preview the auto-generated documents** using: *Tools > Mail Merge Wizard* and selecting *Next > Next > Next > Finish*, without changing anything else. This tool also has many other options and would allow us to import data, but on this occasion we will only use it to see a preview of the documents. Another toolbar will appear at the top, which allows you to page through the documents generated for each person, and save the certificates as a single document, or as individual documents. You can choose to save in the format you want, for example as .pdf, or as .odf (the editable equivalent to Word’s .docx).
 
-![captura06](/local/images/blog/generar-documentos-libreoffice/captura06.png)
+![captura06](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura06.png)
 
 - We could also **export the final documents** by directly clicking *File > Print* and pressing '*Yes*' to open the *Mail Merge* dialog. There you can choose which rows are exported, and the name, path, and format of the exported documents.
 
-![captura07](/local/images/blog/generar-documentos-libreoffice/captura07.png)
+![captura07](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/generar-documentos-libreoffice/captura07.png)
 
 - And with this **we would already have our customized letters or certificates, automatically generated** from a data table.
 

@@ -21,7 +21,7 @@ At OfiLibre, we collaborated in the 2019 edition as an organizing team. You can 
 
 This year, our colleagues from the [Free Software Office of the University of Granada](https://osl.ugr.es/2021/09/13/software-freedom-day-17-09-2021/), have celebrated this edition with some very interesting talks about how to participate in a free project, or how to release your code, in addition to installing Linux for free to users who wanted to attend in person. You can find the recordings of the talks in [this link](https://osl.ugr.es/2021/09/13/software-freedom-day-17-09-2021/).
 
-![Map of SFD events in 2021](/local/images/blog/dia-software-libre-2021/2021map.png)
+![Map of SFD events in 2021](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/dia-software-libre-2021/2021map.png)
 
 This is a global map of the different events registered in 2021, and [here](https://www.softwarefreedomday.org/map/) you can find those from previous editions. Due to the global pandemic, most lectures are being broadcast online and generally remain recorded and published openly.
 

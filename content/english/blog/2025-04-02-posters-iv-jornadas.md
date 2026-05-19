@@ -16,56 +16,56 @@ Here are all the posters presented at IV Free Culture Days. Remember that we als
 
 * **The role of student representatives in psychosocial health** - Helena **Thomas Currás** and Helia **Pavón Thomas**
 
-![The role of student representatives in psychosocial health](/local/images/blog/jornadas-2025/Formato-A2/saludPsicosocial_page-0001.jpg)
+![The role of student representatives in psychosocial health](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/saludPsicosocial_page-0001.jpg)
 
 * **Behind the cameras** - Laura **Fernández-Ramírez**, Rafael **Linares**, Javier **Mora**, Raquel **Vinader**, and Ignacio **Nevado**
 
-![Behind the cameras](/local/images/blog/jornadas-2025/Formato-A2/Info_traslascamaras_page-0001.jpg)
+![Behind the cameras](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/Info_traslascamaras_page-0001.jpg)
 
 * **Cutting-edge tools. Harvest 2024. From the factory to the piece (and its pathologies)** - Elisa **Bailliet**, Marlix T. **Pérez**, Arnau **Bel Arnau**, Rubén **Gomariz**, Sara **Sánchez**, Sandra **Sanz**, Lucía **Rodríguez**, Andrea **Pedraza**, Álvaro **Rebollo**
 
-![Cutting-edge tools. Harvest 2024. From the factory to the piece (and its pathologies)](/local/images/blog/jornadas-2025/Formato-A2/PosterPatologias594x420.png)
+![Cutting-edge tools. Harvest 2024. From the factory to the piece (and its pathologies)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/PosterPatologias594x420.png)
 
 * **Cutting-edge tools. Harvest 2024. Visit: from the factory to the piece** - Marlix T. **Pérez**, Elisa **Bailliet**, Arnau **Bel Arnau**, Valentina **Alfaro Kobernyk**, Martín **Pérez del Rey**
 
-![Cutting-edge tools. Harvest 2024. Visit: from the factory to the piece](/local/images/blog/jornadas-2025/Formato-A2/V2-Poster SC-II 594x420.png)
+![Cutting-edge tools. Harvest 2024. Visit: from the factory to the piece](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/V2-Poster SC-II 594x420.png)
 
 * **Science and... Action! Open documentary on scientific dissemination to schoolchildren** - Isabel **G. Azcárate**, Patricia **Marín-García**, Alba **González-Escalada**, Jesús **Sánchez Nogueiro**
 
-![Science and... Action! Open documentary on scientific dissemination to schoolchildren](/local/images/blog/jornadas-2025/Formato-A2/PosterVideoApS_IVJornadaCulturaLibre_page-0001.jpg)
+![Science and... Action! Open documentary on scientific dissemination to schoolchildren](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/PosterVideoApS_IVJornadaCulturaLibre_page-0001.jpg)
 
 * **Geniarte Project** - José Antonio **Vertedor Romero**, Andrea de la Rubia **Gómez-Morán**
 
-![Geniarte Project](/local/images/blog/jornadas-2025/Formato-A2/Poster_page-0001.jpg)
+![Geniarte Project](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/Poster_page-0001.jpg)
 
 * **Current state of open and reproducible science in Neuroimaging, how to extrapolate to my science?** - Martín **García-Montes**, David **Ferrera**, María del Carmen **Martín-Buro**, Irene **Peláez**
 
-![Current state of open and reproducible science in Neuroimaging, how to extrapolate to my science?](/local/images/blog/jornadas-2025/Formato-A2/Poster_CienciaAbierta_MartinGarciaMontes_page-0001.jpg)
+![Current state of open and reproducible science in Neuroimaging, how to extrapolate to my science?](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/Poster_CienciaAbierta_MartinGarciaMontes_page-0001.jpg)
 
 * **Open Source Robotics** - Intelligent Robotics
 
-![Open Source Robotics](/local/images/blog/jornadas-2025/Formato-A2/poster_cultura_libre_v6_cl-2_A2_page-0001.jpg)
+![Open Source Robotics](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/poster_cultura_libre_v6_cl-2_A2_page-0001.jpg)
 
 * **#EvalúaConRedes: Digital Educational Innovation in Swimming Teaching** - Romain **Marconnot**
 
-![#EvalúaConRedes: Digital Educational Innovation in Swimming Teaching](/local/images/blog/jornadas-2025/Formato-A2/PosterEducaConRedes_page-0001.jpg)
+![#EvalúaConRedes: Digital Educational Innovation in Swimming Teaching](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/PosterEducaConRedes_page-0001.jpg)
 
 * **"The castle" of Guzmán** - Pablo **López-Rubio**
 
-![The castle of Guzmán](/local/images/blog/jornadas-2025/Formato-A2/PosterOfiLibreA2.png)
+![The castle of Guzmán](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A2/PosterOfiLibreA2.png)
 
 * **Practices on Simulation-Based Learning and Open Role-Playing Games** - **Pérez Torres**, V., **Latorre Navarro**, M. F., **Rodríguez Cifuentes**, F., and **Thomas-Currás**, H.
 
-![Practices on Simulation-Based Learning and Open Role-Playing Games](/local/images/blog/jornadas-2025/Formato-A3/Aprendizaje_Basado_Simulacion_abierto_A3_page-0001.jpg)
+![Practices on Simulation-Based Learning and Open Role-Playing Games](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A3/Aprendizaje_Basado_Simulacion_abierto_A3_page-0001.jpg)
 
 * **Cultural synergies: Analysis of the offer in the art market and its influence on museum collections (MOACIS)** - Patricia **Labrador Ballestero**; Agustín **Martínez Peláez**; Ana **Vico Belmonte**; Cristina **del Pardo Higuera**; José María de Francisco **Olmos**; Paloma **Villareal Suárez de Cepeda**; Paula **de la Fuente Polo**; Katharina **Nothnagel Vivas**
 
-![Cultural synergies: Analysis of the offer in the art market and its influence on museum collections (MOACIS)](/local/images/blog/jornadas-2025/Formato-A3/MOACIS_page-0001.jpg)
+![Cultural synergies: Analysis of the offer in the art market and its influence on museum collections (MOACIS)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A3/MOACIS_page-0001.jpg)
 
 * **EduComCiencia** - María del Carmen **Gálvez**, Manuel **Gértrudix**, María del Carmen **Gertrudis Casado**, Mario **Rajas**, Miguel **Baños**, Begoña **Rivas**, Jennifer **García**, Alejandro **Carbonell**, Juan **Romero**, Valeria **Levratto**, Luis **Matosas**, Ernesto **Taborda**, José Luis **Rubio**, Hernando **Gómez**, Sergio **Álvarez**, and Rubén **Arcos**
 
-![EduComCiencia](/local/images/blog/jornadas-2025/Formato-A3/plantSuperpowers_page-0001.jpg)
+![EduComCiencia](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A3/plantSuperpowers_page-0001.jpg)
 
 * **ION4PV PROJECT** - Lucía **Serrano Luján**, Nerea **Benito Porras**, and Antonio **Urbina Yeregui**
 
-![ION4PV PROJECT](/local/images/blog/jornadas-2025/Formato-A3/poster_CC_ION4PV_v2_page-0001.jpg)
+![ION4PV PROJECT](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornadas-2025/Formato-A3/poster_CC_ION4PV_v2_page-0001.jpg)

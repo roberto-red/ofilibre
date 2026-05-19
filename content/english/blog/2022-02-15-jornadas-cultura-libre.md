@@ -168,9 +168,9 @@ The video with all the presentations of the Day is available, as well as a [summ
 
 * Slides template: [ODF format, for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/presentacion_jornadas.odp), [PPTX format, for PowerPoint](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/presentacion_jornadas.pptx), [PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/presentacion_jornadas.pdf).
 
-* "Open lightbulb": [PDF format](/local/images/blog/jornada-cultura-libre/bombilla.pdf), [PNG format](/local/images/blog/jornada-cultura-libre/bombilla.png). Author: José Luis Rubio Tamayo. License: Creative Commons Attribution 4.0 International.
+* "Open lightbulb": [PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/bombilla.pdf), [PNG format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/bombilla.png). Author: José Luis Rubio Tamayo. License: Creative Commons Attribution 4.0 International.
 
-* [Day poster](/local/images/blog/jornada-cultura-libre/square.png)
+* [Day poster](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/jornada-cultura-libre/square.png)
 
 ## Proposal submission and registration
 

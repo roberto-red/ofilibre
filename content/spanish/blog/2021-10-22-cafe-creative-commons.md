@@ -26,4 +26,4 @@ Materiales relacionados:
 
 * Transparencias ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/creative_commons/CAFE_2021_creative_commons.odp))
 
-* [Cartel](/local/images/blog/cafe-creative-commons/cartel_A3.pdf)
+* [Cartel](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/cafe-creative-commons/cartel_A3.pdf)

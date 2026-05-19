@@ -13,7 +13,7 @@ tags:
 image: /local/images/openaccess-square.png
 ---
 
-![María de Guzmán](/local/images/blog/maria-guzman/maria_de_guzman.png)
+![María de Guzmán](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/maria-guzman/maria_de_guzman.png)
 
 Hace unos meses nos hemos presentado a la convocatoria de Ayudas María de Guzmán para el fomento de la investigación científica de excelencia. Ya se ha publicado la resolución definitiva y... ¡y nos las dieron!
 

@@ -24,7 +24,7 @@ The goal of this initiative is to export to other environments those activities 
 
 All activities are completely free of charge and anyone can take part.
 
-![Logos Oficinas Software Libre](/local/images/blog/el-concilio-de-lo-libre/logos-3-oficinas.png)
+![Logos Oficinas Software Libre](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/el-concilio-de-lo-libre/logos-3-oficinas.png)
 
 ## Activity calendar
 
@@ -63,7 +63,7 @@ Given by [David Pacios Izquierdo](https://twitter.com/Semi_ingenieros).
 - Date: June 18, 2021 at 12:00 p.m.  
 - [Link to the talk](https://jitsi.ugr.es/charla-carteles-con-libreoffice-2021-06-21).
 
-![Cartel Charla diseño con LibreOffice](/local/images/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
+![Cartel Charla diseño con LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
 
 This talk will explain how to create posters very easily using LibreOffice. 
 

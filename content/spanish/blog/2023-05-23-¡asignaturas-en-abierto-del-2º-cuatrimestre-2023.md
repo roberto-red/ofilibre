@@ -29,7 +29,7 @@ image: /local/images/convocatoria-aseignaturas-2.jpg
 
 **La convocatoria en barras:**
 
-![](/local/images/2-asignaturas.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/2-asignaturas.png)
 
 Según la Rúbrica de evaluación de los materiales, cada categoría podía recibir entre 0 y 14 puntos. En este gráfico cada barra muestra una categoría de materiales (apuntes, diapositivas, ejercicios, etc.). Dentro de cada barra los colores indican la cantidad de materiales según puntuación recibida.
 

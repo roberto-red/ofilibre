@@ -132,7 +132,7 @@ Depending on the type of document, the license is usually included either at the
 
 This is an example:
 
-![](/local/images/cc-by-sa-miniatura.jpg)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2024 Author Hermenegilda Gómez Stravinsky

@@ -19,10 +19,10 @@ Desde la OfiLibre, además de mantener el catálogo, vamos a emitir documentos q
 
 Así queda el catálogo que estamos inaugurando:
 
-[![Catálogo](/local/images/blog/catalogo-oer/catalogo.png)](/catalogo)
+[![Catálogo](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/catalogo-oer/catalogo.png)](/catalogo)
 
 Para cada material (colección de vídeos, apuntes, sitio web, etc.) hemos preparado una ficha que incluye los nombres de los autores, enlace al material, breve descripción del mismo, y en muchos casos detalles sobre el proceso de producción de los materiales, y sobre las plataformas utilizadas para su publicación. Este es un ejemplo de ficha, de las primeras que nos han llegado:
 
-[![Ejemplo de ficha del catálogo](/local/images/blog/catalogo-oer/ejemplo.png)](/catalogo/rabadan-perez-01)
+[![Ejemplo de ficha del catálogo](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/catalogo-oer/ejemplo.png)](/catalogo/rabadan-perez-01)
 
 Esperamos que este catálogo sirva para conocer mejor qué materiales estamos publicando en acceso abierto, y para iniciar intercambios de experiencias.

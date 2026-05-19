@@ -25,11 +25,11 @@ Surely all 3D-printing enthusiasts already know [Thingiverse](https://www.thingi
 
 It is very easy to see under what license each design has been published, to the left of its description. In this example we can see that the creator allows distribution, adaptation, and modification, even for commercial use, as long as the original creator is cited and it is distributed under the same license.
 
-![CCAtributionLicense-Screenshot](/local/images/blog/webs-impresion-3D/License.png)
+![CCAtributionLicense-Screenshot](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/License.png)
 
 However, the advanced search option works rather poorly on Thingiverse. We can see that no results are found when filtering by license type, although we have already seen that many models use Creative Commons - Attribution. Maybe they will fix it in the future, who knows.
 
-![License Filter - No Results Found](/local/images/blog/webs-impresion-3D/No%20results%20found.png)
+![License Filter - No Results Found](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/No%20results%20found.png)
 
 ## YouMagine
 
@@ -37,7 +37,7 @@ Another very interesting open-source alternative is the website [YouMagine](http
 
 On this website it is also very easy to see the type of license that applies to each object, next to its description. But it does not allow filtering by license type in the search.
 
-![BSD License - YouMagine Screenshot](/local/images/blog/webs-impresion-3D/youmagine.png)
+![BSD License - YouMagine Screenshot](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/youmagine.png)
 
 [In 2015](https://blog.youmagine.com/2015/03/3dpl-released-an-open-source-license-for-3d-printed-things/), YouMagine announced the creation of the [3DPL license](https://medium.com/@jorispeels/youmagine-3dpl-c11fce097ae), the first open-source license dedicated specifically to 3D printing. This license covers certain areas that traditional open-source licenses did not consider.
 
@@ -47,7 +47,7 @@ For example, by default it allows distribution and modification. Optionally, you
 
 Finally, another option is the website [BlenderMarket](https://blendermarket.com/), which hosts models created by designers with the open-source tool Blender. Many are designed for 3D animations and video games, but the page allows you to filter only printable models, or those with free licenses.
 
-![BlenderMarket screenshot](/local/images/blog/webs-impresion-3D/BlenderMarket.png)
+![BlenderMarket screenshot](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/webs-impresion-3D/BlenderMarket.png)
 
 ____________________________
 

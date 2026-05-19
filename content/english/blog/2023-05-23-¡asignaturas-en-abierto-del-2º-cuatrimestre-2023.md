@@ -29,7 +29,7 @@ We're back with new open subjects! Until last January, we were receiving request
 
 **The call in bars:**
 
-![](/local/images/2-asignaturas.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/2-asignaturas.png)
 
 According to the Material Evaluation Rubric, each category could receive between 0 and 14 points. In this graph, each bar shows a category of materials (notes, slides, exercises, etc.). Within each bar, the colors indicate the amount of materials according to the score received.
 

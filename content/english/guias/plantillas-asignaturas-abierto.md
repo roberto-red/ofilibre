@@ -23,4 +23,4 @@ Two templates are provided in LibreOffice format:
 
 To use the templates, simply open them with LibreOffice, and when saving select "Save As..." > "ODF Presentation (odp)" for presentations, or "Save As..." > "ODF Text Document (odt)" for text documents, as shown in the image.
 
-![guardar-como](/local/images/guias/plantillas/guardar-como.png)
+![guardar-como](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/plantillas/guardar-como.png)

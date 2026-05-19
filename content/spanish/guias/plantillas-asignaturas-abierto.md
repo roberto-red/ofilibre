@@ -28,4 +28,4 @@ Plantillas para LibreOffice:
 
 Para utilizar las plantillas, basta con abrirlas con LibreOffice, y al guardar seleccionar "Save As..." > "ODF Presentation (odp)" para presentaciones, o "Save As...." > "ODF Text Document (odt)" para documentos de texto, como se indica en la imagen.
 
-![guardar-como](/local/images/guias/plantillas/guardar-como.png)
+![guardar-como](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/plantillas/guardar-como.png)

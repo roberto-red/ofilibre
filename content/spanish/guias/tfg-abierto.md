@@ -9,7 +9,7 @@ categories:
 tags:
   - TFG
 ---
-[ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023! [Infografía resumen](/local/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
+[ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023! [Infografía resumen](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
 
 En la Universidad Rey Juan Carlos, los alumnos que realizan un
 Trabajo Fin de Grado (TFG) pueden decidir que éstos se publiquen

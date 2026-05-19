@@ -17,13 +17,13 @@ Infographics created for the booth and IV Free Culture Days\
 \
 These infographics were used both in the booth set up the week prior to IV Free Culture Days and during the days themselves in the poster area.
 
-![](/local/images/blog/infografías-de-cultura-y-software-libre/licencia-libre.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infografías-de-cultura-y-software-libre/licencia-libre.png)
 
-![](/local/images/blog/infografías-de-cultura-y-software-libre/qué-es-la-cultura-libre.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infografías-de-cultura-y-software-libre/qué-es-la-cultura-libre.png)
 
-![](/local/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto-1.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto-1.png)
 
-![](/local/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infografías-de-cultura-y-software-libre/qué-significa-que-algo-esté-en-abierto.png)
 
 
 
@@ -36,10 +36,10 @@ These infographics were used both in the booth set up the week prior to IV Free 
 
 This is the rest of the materials created for both the booth and the Days.
 
-![](/local/images/blog/infographics-of-free-culture-and-software/info-ofilibre.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infographics-of-free-culture-and-software/info-ofilibre.png)
 
-![](/local/images/blog/infographics-of-free-culture-and-software/how-to-publish-a-tfg-in-open.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infographics-of-free-culture-and-software/how-to-publish-a-tfg-in-open.png)
 
-![](/local/images/blog/infographics-of-free-culture-and-software/frontal-superior-.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infographics-of-free-culture-and-software/frontal-superior-.png)
 
-![](/local/images/blog/infographics-of-free-culture-and-software/wtf.png)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/blog/infographics-of-free-culture-and-software/wtf.png)

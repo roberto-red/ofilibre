@@ -142,7 +142,7 @@ Dependiendo del tipo de documento se suele incluir la licencia o bien al princip
 
 Este es un ejemplo: 
 
-![](/local/images/cc-by-sa-miniatura.jpg)
+![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2024 Autora Hermenegilda Gómez Stravinsky
