@@ -18,4 +18,4 @@ Open publishing is an increasingly attractive option for publishing research res
 
 Related materials:
 
-* Slides used: [PDF](/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.pdf), [ODP (for LibreOffice)](/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.odp)
+* Slides used: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.pdf), [ODP (for LibreOffice)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.odp)

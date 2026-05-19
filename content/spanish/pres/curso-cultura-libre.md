@@ -2,23 +2,23 @@
 title: "El mundo del conocimiento y la cultura libres"
 date: 2022-06-19
 description: "Curso de formación a PDI sobre conocimiento y cultura libres."
-image: /transpas/curso-cultura-libre/Cultura_Libre.png
+image: /local/transpas/curso-cultura-libre/Cultura_Libre.png
 slides:
-  pdf: /transpas/curso-cultura-libre/Cultura_Libre.pdf
+  pdf: /local/transpas/curso-cultura-libre/Cultura_Libre.pdf
 
 extras:
   - name: Introducción a la Cultura Libre (PDF)
-    url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.pdf
+    url: /local/transpas/curso-cultura-libre/Cultura_Libre_Intro.pdf
   - name: Introducción a la Cultura Libre (ODP, para LibreOffice)
-    url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.odp
+    url: /local/transpas/curso-cultura-libre/Cultura_Libre_Intro.odp
   - name: Licencias (PDF)
-    url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
+    url: /local/transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
   - name: Licencias (ODP, para LibreOffice)
-    url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
+    url: /local/transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
   - name: Búsqueda de obras libres (PDF)
-    url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
+    url: /local/transpas/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
   - name: Búsqueda de obras libres (ODP, para LibreOffice)
-    url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
+    url: /local/transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
 
 type: pres
 categories:

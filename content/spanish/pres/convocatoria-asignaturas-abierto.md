@@ -2,10 +2,10 @@
 title: Convocatoria de Asignaturas en Abierto
 date: 2019-11-25
 description: Presentación sobre publicación abierta, desde un punto de vista práctico.
-image: /transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.png
+image: /local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.png
 slides:
-  pdf: /transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf
-  odp: /transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp
+  pdf: /local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf
+  odp: /local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp
 type: pres
 categories:
     - Recursos

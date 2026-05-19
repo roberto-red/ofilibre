@@ -1,11 +1,11 @@
 ---
 title: Datos abiertos
 date: 2019-04-08
-image: /transpas/datos-abiertos/Datos_Abiertos.png
+image: /local/transpas/datos-abiertos/Datos_Abiertos.png
 description: "Presentación en DataMAD, campus de Madrid-Vicálvaro, 14 de noviembre de 2024."
 slides:
-  pdf: /transpas/datos-abiertos/Datos_Abiertos.pdf
-  odp: /transpas/datos-abiertos/Datos_Abiertos.odp
+  pdf: /local/transpas/datos-abiertos/Datos_Abiertos.pdf
+  odp: /local/transpas/datos-abiertos/Datos_Abiertos.odp
  
 extras:
   - name: Presentación en el Campus de Móstoles

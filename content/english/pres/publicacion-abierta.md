@@ -6,13 +6,13 @@ date: 2019-11-25
 description: Presentation on open publishing, from a practical point of view.
 extras:
 - name: Presentation used in the open publishing workshop held at the Educational Innovation and Open Culture Workshops, URJC Alcorcón campus, November 25, 2019.
-  url: /transpas/publicacion-abierta/Publicacion_Abierta-jjii-2019.pdf
+  url: /local/transpas/publicacion-abierta/Publicacion_Abierta-jjii-2019.pdf
 - name: Workshop handout on open publishing held at the Educational Innovation and Open Culture Workshops, URJC Alcorcón campus, November 25, 2019.
-  url: /transpas/publicacion-abierta/publicacion-abierta-jornadas-innovacion-2019.pdf
-image: /transpas/publicacion-abierta/Publicacion_Abierta.png
+  url: /local/transpas/publicacion-abierta/publicacion-abierta-jornadas-innovacion-2019.pdf
+image: /local/transpas/publicacion-abierta/Publicacion_Abierta.png
 slides:
-  odp: /transpas/publicacion-abierta/Publicacion_Abierta.odp
-  pdf: /transpas/publicacion-abierta/Publicacion_Abierta.pdf
+  odp: /local/transpas/publicacion-abierta/Publicacion_Abierta.odp
+  pdf: /local/transpas/publicacion-abierta/Publicacion_Abierta.pdf
 title: Open Publishing
 type: pres
 ---

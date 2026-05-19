@@ -28,4 +28,4 @@ Seminario sobre reutilización de materiales libres, parte del ciclo de seminari
 
 ## Materiales
 
-* Transparencias utilizadas en la presentacion ([PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), para LibreOffice)
+* Transparencias utilizadas en la presentacion ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), para LibreOffice)

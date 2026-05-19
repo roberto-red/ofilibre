@@ -1,11 +1,11 @@
 ---
 title: Introduccion a la Publicación Abierta
 date: 2020-03-09
-image: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.png
+image: /local/transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.png
 description: "Introducción a la publicación abierta, enfocada tanto a la publicación de resultados de investigación, como de materiales docentes."
 slides:
-  pdf: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.pdf
-  odp: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.odp
+  pdf: /local/transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.pdf
+  odp: /local/transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.odp
 extras:
   - name: Presentación en el campus de Fuenlabrada
     url: /blog/evento-pub-abierta-fuenla-09-03

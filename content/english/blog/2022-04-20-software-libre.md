@@ -29,7 +29,7 @@ So if you're interested in knowing what free software is, if you want to know wh
 
 ## Materials
 
-* Slides: [PDF format](/transpas/software-libre/transpas.pdf)
+* Slides: [PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/software-libre/transpas.pdf)
 * [Guide: Publishing free software](/en/guias/publicar-software-libre)
 
 ## Data Summary

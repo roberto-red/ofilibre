@@ -34,8 +34,8 @@ Resources:
 
 * The activity will take place via [videoconference](https://bbb.educar.encanarias.info/b/jes-i3l-d6m-2rr). All you need is a web browser (Firefox, Chrome...).
 
-* Slides: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.pdf), [ODP format for LibreOffice](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.odp).
+* Slides: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.pdf), [ODP format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres-Consorcio.odp).
 
-* Posters: horizontal format ([PDF](/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.pdf), [source document for LibreOffice](/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.odg)), vertical format ([PDF](/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.pdf), [source document for LibreOffice](/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.odg))
+* Posters: horizontal format ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.pdf), [source document for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.odg)), vertical format ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.pdf), [source document for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.odg))
 
 This is a mini-workshop, held in the context of El Concilio de lo Libre, with the participation of the [Free Software Office](https://osl.ugr.es/) of the [University of Granada](https://ugr.es/), the [Free Software Office](https://www.ucm.es/oficina-de-software-libre/) of the [Complutense University of Madrid](https://ucm.es), and [OfiLibre](https://ofilibre.urjc.es/) of [Rey Juan Carlos University](https://urjc.es).

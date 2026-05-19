@@ -18,7 +18,7 @@ This second call is held at Rey Juan Carlos University to encourage lecturers to
 
 The details of the call can be found in the document [Call for the recognition of open-access subject publication 2023-2024](/documentos/convocatoria-asignaturas-abierto-2023-2024.pdf). Below, some of its most important aspects are summarised and explained. In the event of any discrepancy between this summary and the document, the document shall prevail, as it is the officially published version by the University.
 
-* Slides used in the presentation: [PDF format](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.pdf), [ODF format for LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.odp).
+* Slides used in the presentation: [PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.pdf), [ODF format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.odp).
 
 We offer a public online session to resolve queries about the call, via a Teams room:
 

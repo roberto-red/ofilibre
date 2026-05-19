@@ -14,4 +14,4 @@ La publicación abierta es una opción cada vez más interesante para publicar l
 
 Materiales relacionados:
 
-* Transparencias utilizadas: [PDF](/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.pdf), [ODP (para LibreOffice)](/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.odp)
+* Transparencias utilizadas: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.pdf), [ODP (para LibreOffice)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta/Publicacion_Abierta_Investigacion-eid-2020-03.odp)

@@ -5,10 +5,10 @@ categories:
 - Free Software
 date: 2019-05-01
 description: Definitions of open knowledge, free cultural work, and free software.
-image: /transpas/mini-obra-abierta/Definiciones.png
+image: /local/transpas/mini-obra-abierta/Definiciones.png
 slides:
-  odp: /transpas/mini-obra-abierta/Definiciones.odp
-  pdf: /transpas/mini-obra-abierta/Definiciones.pdf
+  odp: /local/transpas/mini-obra-abierta/Definiciones.odp
+  pdf: /local/transpas/mini-obra-abierta/Definiciones.pdf
 title: Definition of open work (mini-presentation)
 type: pres
 ---

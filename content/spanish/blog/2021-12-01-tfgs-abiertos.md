@@ -14,5 +14,5 @@ En la Universidad Rey Juan Carlos puedes publicar tu Trabajo Fin de Grado (la me
 
 Materiales:
 
-* Transparencias, versión completa: [PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF, para LibreOffice](/transpas/tfgs-abiertos/TFGs_Abiertos.odp)
-* Transparencias, versión resumida: [PDF](/transpas/tfgs-abiertos/TFGs_Abiertos-corto.pdf), [ODF, para LibreOffice](/transpas/tfgs-abiertos/TFGs_Abiertos-corto.odp)
+* Transparencias, versión completa: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF, para LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.odp)
+* Transparencias, versión resumida: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos-corto.pdf), [ODF, para LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos-corto.odp)

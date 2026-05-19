@@ -16,7 +16,7 @@ Esta segunda convocatoria se realiza en la Universidad Rey Juan Carlos para prom
 
 Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2023-2024](/documentos/convocatoria-asignaturas-abierto-2023-2024.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y el documento, tendrá validez el documento, que es el oficialmente publicado por la Universidad.
 
-* Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.odp).
+* Transparencias utilizadas en la presentación: [formato PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.pdf), [formato ODF para LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2023-2024.odp).
 
 Ofrecemos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
 

@@ -28,4 +28,4 @@ The presentation will be held via videoconference in the [Council Room of the Un
 
 Materials from this presentation:
 
-* Slides: [PDF](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (for example for LibreOffice)](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)
+* Slides: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (for example for LibreOffice)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)

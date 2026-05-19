@@ -27,4 +27,4 @@ La presentacion se hará mediante videoconferencia, en la [sala Concilio del Big
 
 Materiales de esta presentación:
 
-* Transparencias: [PDF](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (por ejemplo para LibreOffice)](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)
+* Transparencias: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (por ejemplo para LibreOffice)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)

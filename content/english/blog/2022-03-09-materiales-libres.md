@@ -31,4 +31,4 @@ Seminar on reusing free materials, part of the seminar cycle on open publication
 
 ## Materials
 
-* Slides used in the presentation ([PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), for OfiLibre)
+* Slides used in the presentation ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), for OfiLibre)

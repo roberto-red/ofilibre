@@ -2,10 +2,10 @@
 title: Publicación de Materiales Docentes en Abierto en URJC
 date: 2023-04-24
 description: "Presentación sobre la promoción de la publicación en abierto de recursos docentes en la URJC, Jornada del Consorcio Madroño"
-image: /transpas/recursos-docentes-abiertos-urjc/REA_URJC.png
+image: /local/transpas/recursos-docentes-abiertos-urjc/REA_URJC.png
 slides:
-  pdf: /transpas/recursos-docentes-abiertos-urjc/REA_URJC.pdf
-  odp: /transpas/recursos-docentes-abiertos-urjc/REA_URJC.odp
+  pdf: /local/transpas/recursos-docentes-abiertos-urjc/REA_URJC.pdf
+  odp: /local/transpas/recursos-docentes-abiertos-urjc/REA_URJC.odp
 type: pres
 categories:
     - Recursos

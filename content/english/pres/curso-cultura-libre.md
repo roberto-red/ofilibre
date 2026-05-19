@@ -6,20 +6,20 @@ date: 2022-06-19
 description: Training course for teaching staff on open knowledge and culture.
 extras:
 - name: Introduction to Free Culture (PDF)
-  url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.pdf
+  url: /local/transpas/curso-cultura-libre/Cultura_Libre_Intro.pdf
 - name: Introduction to Free Culture (ODP, for LibreOffice)
-  url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.odp
+  url: /local/transpas/curso-cultura-libre/Cultura_Libre_Intro.odp
 - name: Licenses (PDF)
-  url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
+  url: /local/transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
 - name: Licenses (ODP, for LibreOffice)
-  url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
+  url: /local/transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
 - name: Finding free works (PDF)
-  url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
+  url: /local/transpas/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
 - name: Finding free works (ODP, for LibreOffice)
-  url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
-image: /transpas/curso-cultura-libre/Cultura_Libre.png
+  url: /local/transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
+image: /local/transpas/curso-cultura-libre/Cultura_Libre.png
 slides:
-  pdf: /transpas/curso-cultura-libre/Cultura_Libre.pdf
+  pdf: /local/transpas/curso-cultura-libre/Cultura_Libre.pdf
 title: The world of open knowledge and culture
 type: pres
 ---

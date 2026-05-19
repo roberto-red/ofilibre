@@ -33,5 +33,5 @@ Among other topics, we cover the following:
 
 Related materials:
 
-* Slides used: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (for LibreOffice)](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
+* Slides used: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (for LibreOffice)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
 * [Video on URJC TV](https://tv.urjc.es/video/5fda6c44d68b140e468b4ce3)

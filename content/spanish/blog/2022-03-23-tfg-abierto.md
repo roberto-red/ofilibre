@@ -29,5 +29,5 @@ Responderemos estas y otras preguntas.
 
 # Materiales
 
-* Transparencias utilizadas en la presentacion ([PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp), para LibreOffice)
+* Transparencias utilizadas en la presentacion ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.odp), para LibreOffice)
 * Guía: [Publicación del trabajo fin de grado en abierto](/guias/tfg-abierto/).

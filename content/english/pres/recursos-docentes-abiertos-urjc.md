@@ -5,10 +5,10 @@ categories:
 date: 2023-04-24
 description: Presentation on the promotion of open publishing of teaching resources
   at URJC, Consorcio Madroño Free Culture Days
-image: /transpas/recursos-docentes-abiertos-urjc/REA_URJC.png
+image: /local/transpas/recursos-docentes-abiertos-urjc/REA_URJC.png
 slides:
-  odp: /transpas/recursos-docentes-abiertos-urjc/REA_URJC.odp
-  pdf: /transpas/recursos-docentes-abiertos-urjc/REA_URJC.pdf
+  odp: /local/transpas/recursos-docentes-abiertos-urjc/REA_URJC.odp
+  pdf: /local/transpas/recursos-docentes-abiertos-urjc/REA_URJC.pdf
 title: Open Publishing of Teaching Materials at URJC
 type: pres
 ---

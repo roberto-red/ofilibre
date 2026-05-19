@@ -23,7 +23,7 @@ In this way, the University also fulfills its social mission of transmitting kno
 On Tuesday, June 3, a session was held to present the call and answer all your questions about the call. Whether you're just starting to inform yourself or already have a proposal in progress, the video of this session may interest you.
 
 * [Video of the session](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
-* [Slides used during the session](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+* [Slides used during the session](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
 
 More information:
 

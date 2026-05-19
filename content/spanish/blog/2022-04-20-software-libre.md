@@ -26,7 +26,7 @@ Así que si te interesa saber qué es el software libre, si quieres saber qué v
 
 ## Materiales
 
-* Transparencias: [formato PDF](/transpas/software-libre/transpas.pdf)
+* Transparencias: [formato PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/software-libre/transpas.pdf)
 * [Guía: Publicación de software libre](/guias/publicar-software-libre)
 
 ## Resumen de datos

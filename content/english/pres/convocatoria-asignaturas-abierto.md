@@ -5,10 +5,10 @@ categories:
 - Open Subjects
 date: 2019-11-25
 description: Presentation on open publishing, from a practical point of view.
-image: /transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.png
+image: /local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.png
 slides:
-  odp: /transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp
-  pdf: /transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf
+  odp: /local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp
+  pdf: /local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf
 title: Open Subjects Call
 type: pres
 ---

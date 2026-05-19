@@ -20,24 +20,24 @@ on Thursday, November 28 at 15:30, in Aula Magna 203, Building III, Móstoles Ca
 with the participation of:
 
 * José Eloy Hortal Muñoz ([@JoseEloyHortal](https://twitter.com/JoseEloyHortal)),
- Faculty of Legal and Social Sciences, URJC. Presentation: [PDF](/transpas/mesa-docencia-libre/eloy-hortal.pdf).
+ Faculty of Legal and Social Sciences, URJC. Presentation: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/eloy-hortal.pdf).
 
 * Florencia Claes ([@FlorenClaes](https://twitter.com/FlorenClaes)),
- Faculty of Communication Sciences, URJC. Presentation: [PDF](/transpas/mesa-docencia-libre/florencia-claes.pdf),
- [ODP](/transpas/mesa-docencia-libre/florencia-claes.odp).
+ Faculty of Communication Sciences, URJC. Presentation: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/florencia-claes.pdf),
+ [ODP](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/florencia-claes.odp).
 
 * Francisco Molina Rueda ([@PacoMolinaRueda](https://twitter.com/PacoMolinaRueda)),
- Faculty of Health Sciences, URJC. Presentation: [PDF](/transpas/mesa-docencia-libre/francisco-molina.pdf).
+ Faculty of Health Sciences, URJC. Presentation: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/francisco-molina.pdf).
 
 * Micael Gallego Carrillo ([@micael_gallego](https://twitter.com/micael_gallego)),
  School of Computer Engineering, URJC
 
 * Juan González Gómez ([@Obijuan_cube](https://twitter.com/Obijuan_cube)),
- School of Telecommunications Engineering, URJC. Presentation: [PDF](/transpas/mesa-docencia-libre/juan-gonzalez.pdf),
- [ODP](/transpas/mesa-docencia-libre/juan-gonzalez.odp).
+ School of Telecommunications Engineering, URJC. Presentation: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/juan-gonzalez.pdf),
+ [ODP](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/juan-gonzalez.odp).
 
 The moderator of the round table will be Jesús González Barahona ([@jgbarah2](https://twitter.com/jgbarah)),
  School of Telecommunications Engineering and OfiLibre, URJC.
 Each participant will briefly present a teaching experience in the creation
 and dissemination of open educational materials that has been of fundamental importance.
-Next, the advantages and problems of open educational materials (based on a brief list ([PDF](/transpas/mesa-docencia-libre/general.pdf), [ODP](/transpas/mesa-docencia-libre/general.odp)) to start the discussion) will be debated in the university context, and comments from the audience will be addressed.
+Next, the advantages and problems of open educational materials (based on a brief list ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/general.pdf), [ODP](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/mesa-docencia-libre/general.odp)) to start the discussion) will be debated in the university context, and comments from the audience will be addressed.

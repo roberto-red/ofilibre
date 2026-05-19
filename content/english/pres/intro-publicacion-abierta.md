@@ -8,10 +8,10 @@ description: Introduction to open publishing, focused both on the publication of
 extras:
 - name: Fuenlabrada campus presentation
   url: /blog/evento-pub-abierta-fuenla-09-03
-image: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.png
+image: /local/transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.png
 slides:
-  odp: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.odp
-  pdf: /transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.pdf
+  odp: /local/transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.odp
+  pdf: /local/transpas/intro-publicacion-abierta/Intro_Publicacion_Abierta.pdf
 title: Introduction to Open Publishing
 type: pres
 ---

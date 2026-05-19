@@ -26,6 +26,6 @@ Admission is free until the venue is full. More [information on URJC Events](htt
 
 Related materials:
 
-* Slides ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
+* Slides ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/creative_commons/CAFE_2021_creative_commons.odp))
 
 * [Poster](/local/images/blog/cafe-creative-commons/cartel_A3.pdf)

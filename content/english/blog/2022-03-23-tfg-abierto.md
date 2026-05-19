@@ -33,5 +33,5 @@ We will answer these and other questions.
 
 # Materials
 
-* Slides used in the presentation ([PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp))
+* Slides used in the presentation ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.odp))
 * Guide: [Open publication of the final degree project](/en/guias/tfg-abierto/).

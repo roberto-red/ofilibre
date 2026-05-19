@@ -21,7 +21,7 @@
 
         <div class="post-thumb mb-3">
           {{ with .Params.slides.pdf }}
-          <a href="{{ . | relURL }}" target="_blank" rel="noopener">
+          <a href="{{ partial "resolve-image" . }}" target="_blank" rel="noopener">
             <img class="img-fluid" src="{{ partial "resolve-image" $.Params.image }}" alt="{{ $.Title }}">
           </a>
           {{ else }}
@@ -38,14 +38,14 @@
         <ul class="list-unstyled mb-4">
           {{ with .Params.slides.pdf }}
           <li>
-            <a href="{{ . | relURL }}" target="_blank" rel="noopener">
+            <a href="{{ partial "resolve-image" . }}" target="_blank" rel="noopener">
               📄 PDF
             </a>
           </li>
           {{ end }}
           {{ with .Params.slides.odp }}
           <li>
-            <a href="{{ . | relURL }}" target="_blank" rel="noopener">
+            <a href="{{ partial "resolve-image" . }}" target="_blank" rel="noopener">
               🧾 ODP
             </a>
           </li>
@@ -57,7 +57,7 @@
         <ul class="pl-4" style="list-style-type: disc;">
           {{ range . }}
           <li>
-            <a href="{{ .url | relURL }}" target="_blank" rel="noopener">
+            <a href="{{ partial "resolve-image" .url }}" target="_blank" rel="noopener">
               {{ .name }}
             </a>
           </li>

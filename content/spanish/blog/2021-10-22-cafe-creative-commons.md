@@ -24,6 +24,6 @@ La entrada es libre hasta que se complete el aforo. Más [información en Evento
 
 Materiales relacionados:
 
-* Transparencias ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
+* Transparencias ([PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/creative_commons/CAFE_2021_creative_commons.odp))
 
 * [Cartel](/local/images/blog/cafe-creative-commons/cartel_A3.pdf)

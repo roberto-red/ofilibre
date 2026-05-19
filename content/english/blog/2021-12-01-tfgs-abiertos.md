@@ -16,5 +16,5 @@ At Rey Juan Carlos University, you can publish your Final Degree Project (the th
 
 Materials:
 
-* Slides, full version: [PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp)
-* Slides, summary version: [PDF](/transpas/tfgs-abiertos/TFGs_Abiertos-corto.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos-corto.odp)
+* Slides, full version: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos.odp)
+* Slides, summary version: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos-corto.pdf), [ODF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/tfgs-abiertos/TFGs_Abiertos-corto.odp)

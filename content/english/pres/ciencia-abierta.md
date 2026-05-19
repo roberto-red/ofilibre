@@ -4,10 +4,10 @@ categories:
 - Free Culture
 date: 2022-05-26
 description: Presentation on open science.
-image: /transpas/ciencia-abierta/ciencia-abierta.png
+image: /local/transpas/ciencia-abierta/ciencia-abierta.png
 slides:
-  odp: /transpas/ciencia-abierta/Ciencia_Abierta.odp
-  pdf: /transpas/ciencia-abierta/Ciencia_Abierta.pdf
+  odp: /local/transpas/ciencia-abierta/Ciencia_Abierta.odp
+  pdf: /local/transpas/ciencia-abierta/Ciencia_Abierta.pdf
 title: Open Science
 type: pres
 ---
@@ -18,6 +18,6 @@ Presentation on open science.
 
 Previous presentations on this same topic:
 
-* Presentation at URJC teaching staff training course "Responsible Research: Ethics and Good Scientific Practices" (February 2025): [PDF](/transpas/ciencia-abierta/Ciencia_Abierta_Etica_2025-02-11.pdf), [ODP, for LibreOffice](/transpas/ciencia-abierta/Ciencia_Abierta_Etica_2025-02-11.odp)
+* Presentation at URJC teaching staff training course "Responsible Research: Ethics and Good Scientific Practices" (February 2025): [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/ciencia-abierta/Ciencia_Abierta_Etica_2025-02-11.pdf), [ODP, for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/ciencia-abierta/Ciencia_Abierta_Etica_2025-02-11.odp)
 
-* Presentation in the subject "Research Ethics", of URJC International Doctoral School (May 2022): [PDF](/transpas/ciencia-abierta/Ciencia_Abierta-2022-05-26.pdf), [ODP, for LibreOffice](/transpas/ciencia-abierta/Ciencia_Abierta-2022-05-26.odp)
+* Presentation in the subject "Research Ethics", of URJC International Doctoral School (May 2022): [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/ciencia-abierta/Ciencia_Abierta-2022-05-26.pdf), [ODP, for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/ciencia-abierta/Ciencia_Abierta-2022-05-26.odp)

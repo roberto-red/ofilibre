@@ -19,39 +19,39 @@ On September 23 we celebrated Free Software Day with the University Community. T
 ![Free Software Day](/local/images/blog/dia-software-libre/sfd-images.jpg)
 
 
-[**"Free FPGAs: sharing hardware"**](/transpas/dia-software-libre/fgaps-libres.pdf), Juan González Gómez
+[**"Free FPGAs: sharing hardware"**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/fgaps-libres.pdf), Juan González Gómez
 
-[![Free FPGAs](/local/images/blog/dia-software-libre/fgpas-libres.png)](/transpas/dia-software-libre/fgaps-libres.pdf)
-
-
-[**OpenVidu, an open-source platform to add videoconferencing to your web and mobile application**](/transpas/dia-software-libre/openvidu-talk.pdf), Pablo Fuente Pérez
-
-[![OpenVidu Talk](/local/images/blog/dia-software-libre/openvidu-talk.png)](/transpas/dia-software-libre/openvidu-talk.pdf)
+[![Free FPGAs](/local/images/blog/dia-software-libre/fgpas-libres.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/fgaps-libres.pdf)
 
 
-[**"Free software in robotics: ROS and URJC-JdeRobot"**](/transpas/dia-software-libre/ros-y-jdrobot.pdf), José María Cañas Plaza
+[**OpenVidu, an open-source platform to add videoconferencing to your web and mobile application**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/openvidu-talk.pdf), Pablo Fuente Pérez
 
-[![ROS and URJC - JdeROBOT](/local/images/blog/dia-software-libre/ros-y-jdrobot.png)](/transpas/dia-software-libre/ros-y-jdrobot.pdf)
-
-
-[**"Enriching the open-source tool ecosystem for web testing development with Selenium"**](/transpas/dia-software-libre/selenium.pdf), Boni García Gutiérrez
-
-[![Selenium](/local/images/blog/dia-software-libre/selenium.png)](/transpas/dia-software-libre/selenium.pdf)
+[![OpenVidu Talk](/local/images/blog/dia-software-libre/openvidu-talk.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/openvidu-talk.pdf)
 
 
-[**"Damegender"**](/transpas/dia-software-libre/damegender.pdf), David Arroyo Menéndez
+[**"Free software in robotics: ROS and URJC-JdeRobot"**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/ros-y-jdrobot.pdf), José María Cañas Plaza
 
-[![Damegender](/local/images/blog/dia-software-libre/damegender.png)](/transpas/dia-software-libre/damegender.pdf)
-
-
-[**"Linux Labs at Rey Juan Carlos University: a use case"**](/transpas/dia-software-libre/linux-enla-urjc.pdf), Antonio Gutiérrez Mayoral
-
-[![Linux Labs](/local/images/blog/dia-software-libre/linux-enla-urjc.png)](/transpas/dia-software-libre/linux-enla-urjc.pdf)
+[![ROS and URJC - JdeROBOT](/local/images/blog/dia-software-libre/ros-y-jdrobot.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/ros-y-jdrobot.pdf)
 
 
-[**"The NetGUI/Netkit network emulator for active learning in Telecommunications Engineering subjects"**](transpas/dia-software-libre/netgui-netkit.pdf), José Centeno González
+[**"Enriching the open-source tool ecosystem for web testing development with Selenium"**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/selenium.pdf), Boni García Gutiérrez
 
-[![NetGUI-Netkit](/local/images/blog/dia-software-libre/netgui-netkit.png)](transpas/dia-software-libre/netgui-netkit.pdf)
+[![Selenium](/local/images/blog/dia-software-libre/selenium.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/selenium.pdf)
+
+
+[**"Damegender"**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/damegender.pdf), David Arroyo Menéndez
+
+[![Damegender](/local/images/blog/dia-software-libre/damegender.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/damegender.pdf)
+
+
+[**"Linux Labs at Rey Juan Carlos University: a use case"**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/linux-enla-urjc.pdf), Antonio Gutiérrez Mayoral
+
+[![Linux Labs](/local/images/blog/dia-software-libre/linux-enla-urjc.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/linux-enla-urjc.pdf)
+
+
+[**"The NetGUI/Netkit network emulator for active learning in Telecommunications Engineering subjects"**](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/netgui-netkit.pdf), José Centeno González
+
+[![NetGUI-Netkit](/local/images/blog/dia-software-libre/netgui-netkit.png)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/dia-software-libre/netgui-netkit.pdf)
 
 
 We look forward to seeing you at our upcoming activities!

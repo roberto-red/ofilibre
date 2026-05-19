@@ -7,10 +7,10 @@ description: Presentation at DataMAD, Madrid-Vicálvaro campus, November 14, 202
 extras:
 - name: Mostoles campus presentation
   url: https://eventos.urjc.es/34110/detail/cafe-y-datos-abiertos.html
-image: /transpas/datos-abiertos/Datos_Abiertos.png
+image: /local/transpas/datos-abiertos/Datos_Abiertos.png
 slides:
-  odp: /transpas/datos-abiertos/Datos_Abiertos.odp
-  pdf: /transpas/datos-abiertos/Datos_Abiertos.pdf
+  odp: /local/transpas/datos-abiertos/Datos_Abiertos.odp
+  pdf: /local/transpas/datos-abiertos/Datos_Abiertos.pdf
 title: Open Data
 type: pres
 ---

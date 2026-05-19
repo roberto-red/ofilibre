@@ -4,10 +4,10 @@ categories:
 - Open Publishing
 date: 2023-03-27
 description: Presentation on open publication in research.
-image: /transpas/publicacion-abierta-investigacion/publicacion-abierta-investigacion.png
+image: /local/transpas/publicacion-abierta-investigacion/publicacion-abierta-investigacion.png
 slides:
-  odp: /transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion.odp
-  pdf: /transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion.pdf
+  odp: /local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion.odp
+  pdf: /local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion.pdf
 title: Open Publishing in Research
 type: pres
 ---
@@ -18,10 +18,10 @@ Presentation on open publishing in research.
 
 Other versions of this presentation:
 
-* Doctoral research and open access publishing, Inter-university Doctoral Training Cycle, Universities of the Community of Madrid, February 4, 2025 ([PDF format](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2025-02-04.pdf), [ODP format for LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2025-02-04.odp)).
+* Doctoral research and open access publishing, Inter-university Doctoral Training Cycle, Universities of the Community of Madrid, February 4, 2025 ([PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2025-02-04.pdf), [ODP format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2025-02-04.odp)).
 
-* Open Science and Open Scientific Publishing, Faculty Training Plan, Rey Juan Carlos University, January 14, 2025 ([PDF format](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_PDI_2025-01-13.pdf), [ODP format for LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_PDI_2025-01-13.odp)).
+* Open Science and Open Scientific Publishing, Faculty Training Plan, Rey Juan Carlos University, January 14, 2025 ([PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_PDI_2025-01-13.pdf), [ODP format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_PDI_2025-01-13.odp)).
 
-* Doctoral research and open access publishing, Inter-university Doctoral Training Cycle, Universities of the Community of Madrid, December 13, 2023 ([PDF format](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2023-12.pdf), [ODP format for LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2023-12.odp)).
+* Doctoral research and open access publishing, Inter-university Doctoral Training Cycle, Universities of the Community of Madrid, December 13, 2023 ([PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2023-12.pdf), [ODP format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_EID_2023-12.odp)).
 
-* Open publishing in research, II Free Culture Days of URJC, March 29, 2023 ([PDF format](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_2023-03.pdf), [ODP format for LibreOffice](/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_2023-03.odp)).
+* Open publishing in research, II Free Culture Days of URJC, March 29, 2023 ([PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_2023-03.pdf), [ODP format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/publicacion-abierta-investigacion/Publicacion_Abierta_Investigacion_2023-03.odp)).

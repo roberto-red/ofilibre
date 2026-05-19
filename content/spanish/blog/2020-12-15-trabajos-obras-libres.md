@@ -28,5 +28,5 @@ Entre otros temas, tratamos los siguientes:
 
 Materiales relacionados:
 
-* Transparencias utilizadas: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
+* Transparencias utilizadas: [PDF](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
 * [Video en URJC TV](https://tv.urjc.es/video/5fda6c44d68b140e468b4ce3)

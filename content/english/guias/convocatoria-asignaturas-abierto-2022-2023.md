@@ -22,7 +22,7 @@ The details of the call can be found in the document [Call for the recognition o
 
 The details of this call were presented in a session held on Wednesday, July 13, 2022:
 
-* Slides used in the presentation: [PDF format](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2022-2023.pdf), [ODF format for LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2022-2023.odp).
+* Slides used in the presentation: [PDF format](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2022-2023.pdf), [ODF format for LibreOffice](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2022-2023.odp).
  * [Video of the presentation](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20).
 
 Public online Q&A sessions about the call were held at the following times via [Teams room](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2RlYThlZjgtZDAwNi00MGFhLWI0ZDctYmNiNWY4MGMxMjdl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d):

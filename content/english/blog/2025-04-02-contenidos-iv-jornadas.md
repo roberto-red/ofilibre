@@ -31,57 +31,57 @@ Program of IV Free Culture Days, including links to the videos of the presentati
 
 ### INVITED LECTURE:
 
-* *Citizen Laboratories.* Marcos **García Cristóbal** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/marcosGarcia.pdf)) ([video](https://tv.urjc.es/video/67e4093bbabe0085b35bda9d))
+* *Citizen Laboratories.* Marcos **García Cristóbal** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/marcosGarcia.pdf)) ([video](https://tv.urjc.es/video/67e4093bbabe0085b35bda9d))
 
 ### SHORT PRESENTATIONS: CITIZEN SCIENCE, WIKIPEDIA
 
-* *Connections with the environment: citizen laboratories.* Piedad **Tolmos Rodríguez-Piñero** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Wiki/Piedad_38.pdf)) ([video](https://tv.urjc.es/video/67e4057cbabe00845425ba82))
+* *Connections with the environment: citizen laboratories.* Piedad **Tolmos Rodríguez-Piñero** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Wiki/Piedad_38.pdf)) ([video](https://tv.urjc.es/video/67e4057cbabe00845425ba82))
 
-* *The white book of the Erasmus + VIRION project.* Victoria **Mora de la Torre** and David **García Marín** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Wiki/Victoria_17.pdf)) ([video](https://tv.urjc.es/video/67e40596babe00846a2a86b2))
+* *The white book of the Erasmus + VIRION project.* Victoria **Mora de la Torre** and David **García Marín** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Wiki/Victoria_17.pdf)) ([video](https://tv.urjc.es/video/67e40596babe00846a2a86b2))
 
-* *Do older adults trust Wikipedia? What do they know about free knowledge? What reliability do they give to open sources?* Lizette **Martínez Valerio** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Wiki/LIZETTE_7.pdf)) ([video](https://tv.urjc.es/video/67e405cababe00846a2a86d4))
+* *Do older adults trust Wikipedia? What do they know about free knowledge? What reliability do they give to open sources?* Lizette **Martínez Valerio** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Wiki/LIZETTE_7.pdf)) ([video](https://tv.urjc.es/video/67e405cababe00846a2a86d4))
 
-* *Wikipedia as a pedagogical tool in Communication Sciences.* Antonio **García Jiménez** and Rebeca **Suárez Álvarez** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Wiki/Rebeca_9.pdf)) ([video](https://tv.urjc.es/video/67e405f8babe00842e288027))
+* *Wikipedia as a pedagogical tool in Communication Sciences.* Antonio **García Jiménez** and Rebeca **Suárez Álvarez** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Wiki/Rebeca_9.pdf)) ([video](https://tv.urjc.es/video/67e405f8babe00842e288027))
 
-* *Wikimedia Club: project to improve content on science and innovation in Spanish Wikipedia.* José María **García de Madariaga** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Wiki/JMGMadariaga_12.pdf)) ([video](https://tv.urjc.es/video/67e405cababe0084567d4544))
+* *Wikimedia Club: project to improve content on science and innovation in Spanish Wikipedia.* José María **García de Madariaga** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Wiki/JMGMadariaga_12.pdf)) ([video](https://tv.urjc.es/video/67e405cababe0084567d4544))
 
 ### SHORT PRESENTATIONS: EDUCATION
 
 #### FREE CULTURE IN THE CLASSROOM
 
-* *Behind the cameras: podcast about the professions and professionals in the film industry. Innovation tool in Audiovisual Communication teaching.* Rafael Fernando **Linares Palomar** and Laura **Fernández Ramírez** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/RafaLinares_6.pdf)) ([video](https://tv.urjc.es/video/67e40baebabe00866e7eb8b7))
+* *Behind the cameras: podcast about the professions and professionals in the film industry. Innovation tool in Audiovisual Communication teaching.* Rafael Fernando **Linares Palomar** and Laura **Fernández Ramírez** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/RafaLinares_6.pdf)) ([video](https://tv.urjc.es/video/67e40baebabe00866e7eb8b7))
 
-* *Boosting free culture in the training of future Secondary and Baccalaureate teachers.* Oriol **Borrás Gené**, Almudena **Macías Guillén** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Oriol_10.pdf)) ([video](https://tv.urjc.es/video/67e40bddbabe00866e7eb8c7))
+* *Boosting free culture in the training of future Secondary and Baccalaureate teachers.* Oriol **Borrás Gené**, Almudena **Macías Guillén** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Oriol_10.pdf)) ([video](https://tv.urjc.es/video/67e40bddbabe00866e7eb8c7))
 
 #### IA AND OPEN EDUCATIONAL RESOURCES
 
-* *Production of Open Educational Resources using Artificial Intelligence.* Nerea **Benitez Aranda** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Producción_Recursos_Educativos_Abiertos_Empleando_IAG.pdf)) ([video](https://tv.urjc.es/video/67e40cb4babe0087370922d2))
+* *Production of Open Educational Resources using Artificial Intelligence.* Nerea **Benitez Aranda** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Producción_Recursos_Educativos_Abiertos_Empleando_IAG.pdf)) ([video](https://tv.urjc.es/video/67e40cb4babe0087370922d2))
 
-* *Using Artificial Intelligence to enhance active and interactive learning in the university classroom.* Antonio Julio **López Galisteo** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/AntonioJLGalisteo_13.pdf)) ([video](https://tv.urjc.es/video/67e40db8babe0087673e2150))
+* *Using Artificial Intelligence to enhance active and interactive learning in the university classroom.* Antonio Julio **López Galisteo** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/AntonioJLGalisteo_13.pdf)) ([video](https://tv.urjc.es/video/67e40db8babe0087673e2150))
 
 #### OPEN EDUCATIONAL RESOURCES
 
-* *Creating OER for teaching sustainability organizational.* Iria **Paz Gil** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/iriaPaz_27.pdf)) ([video](https://tv.urjc.es/video/67e40dd3babe0087814504eb))
+* *Creating OER for teaching sustainability organizational.* Iria **Paz Gil** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/iriaPaz_27.pdf)) ([video](https://tv.urjc.es/video/67e40dd3babe0087814504eb))
 
-* *Circular Economy Slow Game Jam: video games and sustainability.* María del Carmen **Gertrudis Casado** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/MariaCarmenGestrudis_18.pdf)) ([video](https://tv.urjc.es/video/67e40dcebabe00876c467608))
+* *Circular Economy Slow Game Jam: video games and sustainability.* María del Carmen **Gertrudis Casado** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/MariaCarmenGestrudis_18.pdf)) ([video](https://tv.urjc.es/video/67e40dcebabe00876c467608))
 
-* *"Recycle and Tell": a citizen science project developed within the European Week of Waste Reduction (EWWR 2024).* Manuel **Gértrudix Barrio** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Manuel_22.pdf)) ([video](https://tv.urjc.es/video/67e40dddbabe0087814504f5))
+* *"Recycle and Tell": a citizen science project developed within the European Week of Waste Reduction (EWWR 2024).* Manuel **Gértrudix Barrio** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/Manuel_22.pdf)) ([video](https://tv.urjc.es/video/67e40dddbabe0087814504f5))
 
 
 ### CHATS
 
 * *Library and its experience in citizen laboratories.* Cristina **Rincón Moreno** ([video](https://tv.urjc.es/video/67e406a4babe0084c3775254))
 
-* *Open educational materials: strategy or serendipity?* Juan Carlos **Aguado Franco** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/JuanCarlosAguadoIV.pdf)) ([video](https://tv.urjc.es/video/67e40d0bbabe0087673e2112))
+* *Open educational materials: strategy or serendipity?* Juan Carlos **Aguado Franco** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/JuanCarlosAguadoIV.pdf)) ([video](https://tv.urjc.es/video/67e40d0bbabe0087673e2112))
 
 
 ### FREE CULTURE AND ITS EXPERIENCES WITHIN THE UNIVERSITY
 
-* *Library: Materials you can use: practical guide for teachers seeking open resources.* Emilio **Alvarado Pérez** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/PresentacionOfiLibreEmilioAlvarado.pdf)) ([video](https://tv.urjc.es/video/67e410e3babe0088815345f2))
+* *Library: Materials you can use: practical guide for teachers seeking open resources.* Emilio **Alvarado Pérez** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/PresentacionOfiLibreEmilioAlvarado.pdf)) ([video](https://tv.urjc.es/video/67e410e3babe0088815345f2))
 
-* *Office of European Projects: Video-Podcast to promote Horizon Europe calls and encourage researcher participation.* Rosa María **Mesa Vélez** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Educacion/RosaMaria_20.pdf)) ([video](https://tv.urjc.es/video/67e40fa6babe00887e22f863))
+* *Office of European Projects: Video-Podcast to promote Horizon Europe calls and encourage researcher participation.* Rosa María **Mesa Vélez** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Educacion/RosaMaria_20.pdf)) ([video](https://tv.urjc.es/video/67e40fa6babe00887e22f863))
 
-* *International Doctoral School: Open publication of Doctoral Theses. Institutional Repository (training activity) and Collection of monographs with Extraordinary Prize.* Inmaculada **Mora**, Isabel **Jiménez**, and María Del Pilar **Abad Romero** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/eidFinal.pdf)) ([video](https://tv.urjc.es/video/67e410acbabe00887d10e0c3))
+* *International Doctoral School: Open publication of Doctoral Theses. Institutional Repository (training activity) and Collection of monographs with Extraordinary Prize.* Inmaculada **Mora**, Isabel **Jiménez**, and María Del Pilar **Abad Romero** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/eidFinal.pdf)) ([video](https://tv.urjc.es/video/67e410acbabe00887d10e0c3))
 
 * *Academic Director of Culture at URJC: Cultural contests and open culture.* Javier Enrique **Otero García** ([video](https://tv.urjc.es/video/67e40fabbabe0088836934a2))
 
@@ -90,13 +90,13 @@ Program of IV Free Culture Days, including links to the videos of the presentati
 
 ### WORKSHOPS
 
-* *Organize, design, and share knowledge with LaTeX.* Marcelo **Moreno Porras** and Patricia **Labrador Ballestero** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Talleres/latex.pdf)) ([all material](https://github.com/marcelomijas/taller-latex-urjc-2025))
+* *Organize, design, and share knowledge with LaTeX.* Marcelo **Moreno Porras** and Patricia **Labrador Ballestero** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Talleres/latex.pdf)) ([all material](https://github.com/marcelomijas/taller-latex-urjc-2025))
     * In this workshop, we presented how to use LaTeX through Overleaf's web to create cheat sheets, very useful for compressing and sharing knowledge. The target audience is professors and researchers.
 
 * *Design, production, and dissemination of educational podcasts.* Pablo **Acosta Gallo**
     * In this workshop, we taught how to create podcasts for educational purposes. Target audience: teachers and students.
 
-* *OpenStreetMap.* Miguel **Sevilla-Callejo**, Iván **Sánchez Ortega** ([slides](/transpas/jornada-cultura-libre/2025/26marzo/Talleres/20250326-taller-osm-urjc.pdf))
+* *OpenStreetMap.* Miguel **Sevilla-Callejo**, Iván **Sánchez Ortega** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/26marzo/Talleres/20250326-taller-osm-urjc.pdf))
     * This workshop aims to introduce the basics of collaborative cartography with OpenStreetMap, with a brief introduction to the project, a brief introduction to the nature of the data on this platform, and then show several tools to introduce data directly on the field with a mobile phone.
 
 * *Introduction to open-source language models.* Asociación de Inteligencia Artificial
@@ -110,25 +110,25 @@ Program of IV Free Culture Days, including links to the videos of the presentati
 
 ### INVITED LECTURES
 
-* *Open publishing and Open Science.* Ignasi **Labastida** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/Labastida_URJC_2025.pdf)) ([video](https://tv.urjc.es/video/67e5601bbabe00d8110e8b9c))
+* *Open publishing and Open Science.* Ignasi **Labastida** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/Labastida_URJC_2025.pdf)) ([video](https://tv.urjc.es/video/67e5601bbabe00d8110e8b9c))
 
 * *Recovering memories. Digital conservation and restoration of damaged photographs due to the DANA.* Pedro **Vicente-Mullor.** ([video](https://tv.urjc.es/video/67e5c6fdbabe0005512c34fa))
 
 ### SHORT PRESENTATIONS: CV IN FREE CULTURE
 
-* *Digital strategies to improve visibility, indexing, and scientific positioning.* Manuel **Gértrudix Barrio** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/2-CV/1-Manuel_21.pdf)) ([video](https://tv.urjc.es/video/67e5590bbabe00d4e705c3fb))
+* *Digital strategies to improve visibility, indexing, and scientific positioning.* Manuel **Gértrudix Barrio** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/2-CV/1-Manuel_21.pdf)) ([video](https://tv.urjc.es/video/67e5590bbabe00d4e705c3fb))
 
-* *The CV of Free Culture.* Pablo **Hinojosa Nava** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/2-CV/2-PabloHinojosa_24.pdf)) ([video](https://tv.urjc.es/video/67e559a8babe00d5400ae0f7))
+* *The CV of Free Culture.* Pablo **Hinojosa Nava** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/2-CV/2-PabloHinojosa_24.pdf)) ([video](https://tv.urjc.es/video/67e559a8babe00d5400ae0f7))
 
-* *Using free software in the automation of document preparation for a congress.* Mauro **Herrero Cantos** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/2-CV/3-Mauro_32.pdf)) ([video](https://tv.urjc.es/video/67e55999babe00d5400ae0ed))
+* *Using free software in the automation of document preparation for a congress.* Mauro **Herrero Cantos** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/2-CV/3-Mauro_32.pdf)) ([video](https://tv.urjc.es/video/67e55999babe00d5400ae0ed))
 
 
 ### SHORT PRESENTATIONS: OPEN EDUCATIONAL RESOURCES AND FREE CULTURE IN THE UNIVERSITY
 
-* *Creating and sharing content with eXeLearning and EducaMadrid.* Daniel **Esteban Roque** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/6-SoftwareLibre/1-Daniel_8.pdf)) ([video](https://tv.urjc.es/video/67e5c033babe00038d2a17fc))
+* *Creating and sharing content with eXeLearning and EducaMadrid.* Daniel **Esteban Roque** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/6-SoftwareLibre/1-Daniel_8.pdf)) ([video](https://tv.urjc.es/video/67e5c033babe00038d2a17fc))
 
-* *Diversity of Licenses in Free Software.* Sergio Raúl **Montes León** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/6-SoftwareLibre/2-Sergio_33.pdf)) ([video](https://tv.urjc.es/video/67e5c038babe0003bc7d46b2))
+* *Diversity of Licenses in Free Software.* Sergio Raúl **Montes León** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/6-SoftwareLibre/2-Sergio_33.pdf)) ([video](https://tv.urjc.es/video/67e5c038babe0003bc7d46b2))
 
-* *EducaMadrid is the Educational Platform of the Community of Madrid.* Adolfo **Sanz De Diego** ([slides](/transpas/jornada-cultura-libre/2025/27marzo/6-SoftwareLibre/3-Adolfo_34.pdf)) ([video](https://tv.urjc.es/video/67e5c093babe0003d9262ce6))
+* *EducaMadrid is the Educational Platform of the Community of Madrid.* Adolfo **Sanz De Diego** ([slides](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/jornada-cultura-libre/2025/27marzo/6-SoftwareLibre/3-Adolfo_34.pdf)) ([video](https://tv.urjc.es/video/67e5c093babe0003d9262ce6))
  
 * *Integrating open datasets in Wikidata, the structured knowledge base of the Wikimedia Foundation.* Ángel **Obregón Sierra** ([presentation

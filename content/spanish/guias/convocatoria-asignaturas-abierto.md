@@ -20,7 +20,7 @@ tags:
 El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la convocatoria y responder a todas tus preguntas sobre la convocatoria. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, es muy posible que el video de esta sesión te interese.
 
 * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
-* [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+* [Transparencias utilizadas durante la sesión](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
 
 El viernes 17 de octubre tuvo lugar una sesión de resolución de dudas y preguntas.
 
@@ -41,7 +41,7 @@ Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](
 * Material de la sesión de presentaciòn del 3 de junio de 2025:
 
   * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
-  * [Transparencias utilizadas durante la sesión](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+  * [Transparencias utilizadas durante la sesión](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
 * [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2025-2026-infografia.pdf)
 * [Guía-resumen para rellenar el formulario de solicitud](/documentos/guiaFormularioSolicitud_25_26.pdf)  
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
