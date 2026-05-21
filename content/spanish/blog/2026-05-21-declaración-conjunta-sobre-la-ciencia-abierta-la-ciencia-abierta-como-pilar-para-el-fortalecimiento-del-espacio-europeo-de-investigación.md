@@ -5,6 +5,7 @@ date: 2026-05-21T05:42:14.141Z
 description: declaración Ciencia Abierta
 categories:
   - Universidad
+  - ciencia abierta
 tags:
   - ciencia abierta
 image: /blog/declaración-conjunta-sobre-la-ciencia-abierta-la-ciencia-abierta-como-pilar-para-el-fortalecimiento-del-espacio-europeo-de-investigación/captura-de-pantalla-2026-05-21-a-las-7.49.03.png
