@@ -7,7 +7,7 @@ categories:
   - Universidad
 tags:
   - ciencia abierta
-image: /logos/logo-ofilibre-2025.jpg
+image: /blog/declaración-conjunta-sobre-la-ciencia-abierta-la-ciencia-abierta-como-pilar-para-el-fortalecimiento-del-espacio-europeo-de-investigación/captura-de-pantalla-2026-05-21-a-las-7.49.03.png
 ---
 Diversas organizaciones europeas vinculadas a universidades, bibliotecas, academias e infraestructuras científicas —entre ellas ALLEA, LIBER, IFLA, OPERAS o SPARC Europe— han publicado una declaración conjunta en la que reivindican la Ciencia Abierta como uno de los pilares fundamentales para fortalecer el Espacio Europeo de Investigación (ERA). (Acceso al documento <https://zenodo.org/records/20165184>)
 
