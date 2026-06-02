@@ -13,4 +13,4 @@ Desde 2022 se celebran, anualmente, las Jornadas de Cultura Libre de la URJC:
 
 * III Jornadas de Cultura Libre (20 y 21 de marzo de 2024): [programa final, incluyendo materiales](/blog/programa-iii-jornadas/), [posters](/blog/posters-iii-jornadas/), [anuncio](/blog/2024-01-10-jornadas/), [fotos](https://commons.wikimedia.org/wiki/Category:Jornadas_de_Cultura_Libre_URJC_2024)
 
-* II Jornadas de Cultura Libre (29 y 30 de marzo de 2023): [programa final, incluyend
+* II Jornadas de Cultura Libre (29 y 30 de marzo de 2023)
