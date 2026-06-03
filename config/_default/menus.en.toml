@@ -42,7 +42,7 @@ hasChildren = true
   [[nav]]
   parent = "resources"
   name = "OfiLibre Code"
-  url = "https://gitlab.etsit.urjc.es/ofilibre/code"
+  url = "https://gitlab.eif.urjc.es/ofilibre/code"
   weight = 5
   target = "_blank"
 
