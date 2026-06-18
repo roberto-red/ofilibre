@@ -1,7 +1,43 @@
-@import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700");
+/*=================================================================
+  Design tokens
+  La fuente Titillium Web se carga de forma no bloqueante desde
+  head.html (preconnect + preload). Para auto-hospedarla en el
+  futuro, basta con sustituir ese <link> por @font-face locales.
+==================================================================*/
+:root {
+  /* Marca */
+  --color-primary: #cb0017;
+  --color-primary-dark: #920616;
+
+  /* Texto y superficies */
+  --color-ink: #232323;
+  --color-text: #000;
+  --color-muted: #555;
+  --color-muted-light: #777;
+  --color-bg-gray: #f5f3f3;
+  --color-surface: #fff;
+  --color-footer: #222222;
+  --color-footer-dark: #1b1b1b;
+  --color-border: #dedede;
+
+  /* Tipografía */
+  --font-base: "Titillium Web", sans-serif;
+
+  /* Formas */
+  --radius-sm: 3px;
+  --radius: 8px;
+  --radius-lg: 10px;
+  --shadow-card: 0 5px 15px rgba(0, 0, 0, 0.05);
+  --shadow-elevated: 0 2px 15px rgba(0, 0, 0, 0.1);
+
+  /* Ritmo */
+  --section-pad: 50px;
+  --transition: 0.3s ease;
+}
+
 body {
   line-height: 1.4;
-  font-family: "Titillium Web", sans-serif;
+  font-family: var(--font-base);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -16,27 +52,27 @@ p {
 }
 
 .section-sm a {
-  color: #cb0017;
+  color: var(--color-primary);
   text-decoration: none;
 }
 
 .section-sm a:hover {
-  color: #cb0017;
+  color: var(--color-primary);
   text-decoration: underline;
 }
 
 .single-presentation a {
-  color: #cb0017;
+  color: var(--color-primary);
   text-decoration: none;
 }
 
 .single-presentation a:hover {
-  color: #cb0017;
+  color: var(--color-primary);
   text-decoration: underline;
 }
 
 p a {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -163,15 +199,15 @@ a, a:focus, a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link.active {
-  border: 1px solid #cb0017;
-  background: #cb0017;
+  border: 1px solid var(--color-primary);
+  background: var(--color-primary);
   color: #fff;
 }
 
 .commonTab .nav-tabs .nav-item .nav-link:hover {
-  border: 1px solid #cb0017;
+  border: 1px solid var(--color-primary);
   border-radius: 0;
-  background: #cb0017;
+  background: var(--color-primary);
   color: #fff;
 }
 
@@ -184,7 +220,7 @@ a, a:focus, a:hover {
 ==================================================================*/
 
 .single-page-header {
-  background: #cb0017;
+  background: var(--color-primary);
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
@@ -210,7 +246,7 @@ a, a:focus, a:hover {
 }
 
 .breadcrumb-item a {
-  color: var(--primary-color);
+  color: var(--color-primary);
   text-decoration: underline;
   text-underline-offset: 3px;
   transition: color 0.2s;
@@ -244,12 +280,12 @@ a, a:focus, a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .navigation {
   transition: .3s all;
-  background: #cb0017;
+  background: var(--color-primary);
 }
 
 .navigation .navbar-nav > li.active .nav-link {
@@ -330,7 +366,7 @@ a, a:focus, a:hover {
 
 .navigation .dropdown .dropdown-item:hover {
   background: transparent;
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .navigation .dropdown .dropdown-menu {
@@ -568,7 +604,7 @@ a, a:focus, a:hover {
 
 .about h4 {
   font-size: 14px;
-  color: #cb0017;
+  color: var(--color-primary);
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -639,7 +675,7 @@ a, a:focus, a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-  border-color: #cb0017;
+  border-color: var(--color-primary);
 }
 
 .contact-form #contact-submit {
@@ -647,7 +683,7 @@ a, a:focus, a:hover {
   padding: 15px 0;
   width: 100%;
   margin: 0;
-  background: #cb0017;
+  background: var(--color-primary);
   color: #fff;
   border-radius: 0;
   cursor: pointer;
@@ -677,7 +713,7 @@ a, a:focus, a:hover {
   height: 30px;
   width: 30px;
   text-align: center;
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .social-icon li a i {
@@ -812,7 +848,7 @@ opacity: 1 !important;
 .feature-icon {
   font-size: 40px;
   margin-bottom: 20px;
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .feature-title {
@@ -864,7 +900,7 @@ opacity: 1 !important;
 }
 
 .activities-list .block {
-  background: #cb0017;
+  background: var(--color-primary);
   color: #fff;
   padding: 30px;
 }
@@ -937,7 +973,7 @@ opacity: 1 !important;
 }
 
 .resources .custom-icon i {
-  color: #cb0017 !important;
+  color: var(--color-primary) !important;
   font-size: 40px !important;
   margin-bottom: 0px !important;
   background: transparent !important;
@@ -1014,8 +1050,8 @@ opacity: 1 !important;
 }
 
 .team-member .member-content ul li a i {
-  color: #cb0017;
-  background: #cb0017;
+  color: var(--color-primary);
+  background: var(--color-primary);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1134,7 +1170,7 @@ opacity: 1 !important;
 }
 
 .post-content a {
-  color: #cb0017;
+  color: var(--color-primary);
   text-decoration: none;
 }
 
@@ -1149,13 +1185,13 @@ opacity: 1 !important;
 }
 
 .post-content li a {
-  color: #cb0017;
+  color: var(--color-primary);
   text-decoration: none;
 }
 
 .post-content a:hover,
 .post-content a:focus {
-  color: #920616;
+  color: var(--color-primary-dark);
   text-decoration: underline;
 }
 
@@ -1176,7 +1212,7 @@ opacity: 1 !important;
 
 .badge-category {
   display: inline-block;
-  background-color: #cb0017;
+  background-color: var(--color-primary);
   color: white !important;
   padding: 0.4em 0.7em;
   font-size: 0.85em;
@@ -1200,7 +1236,7 @@ opacity: 1 !important;
 }
 
 .category-link:hover {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .tag-label {
@@ -1293,7 +1329,7 @@ hr {
 }
 
 .next-prev a:hover {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .next-prev .prev-post i {
@@ -1316,7 +1352,7 @@ hr {
 }
 
 .social-profile ul li a i:hover {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .comments-section {
@@ -1364,7 +1400,7 @@ hr {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #cb0017;
+  color: var(--color-primary);
   font-size: 13px;
 }
 
@@ -1389,7 +1425,7 @@ hr {
 
 .comment-reply-form input:focus, .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #cb0017;
+  border: 1px solid var(--color-primary);
 }
 
 .comment-reply-form textarea, .comment-reply-form .btn-main, .comment-reply-form .btn-main-sm {
@@ -1410,8 +1446,8 @@ hr {
   color: #cccccc;
 }
 .pagination li.active a{
-  background-color: #cb0017 !important;
-  border-color: #cb0017 !important;
+  background-color: var(--color-primary) !important;
+  border-color: var(--color-primary) !important;
   font-weight: 600;
 }
 
@@ -1434,11 +1470,11 @@ hr {
   content: "•";
   position: absolute;
   left: 0;
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .sheet a {
-  color: #cb0017 !important;
+  color: var(--color-primary) !important;
   text-decoration: none;
 }
 
@@ -1469,7 +1505,7 @@ hr {
   position: relative;
   width: 90px;
   margin-bottom: 10px;
-  background: #cb0017
+  background: var(--color-primary)
 }
 
 .inline-block {
@@ -1477,7 +1513,7 @@ hr {
 }
 
 .gradient, .title .border, .resources .activities-item i {
-  background-image: #cb0017;
+  background: var(--color-primary);
 }
 
 .section {
@@ -1531,8 +1567,7 @@ hr {
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #cb0017;
-  background-image: #cb0017;
+  background-color: var(--color-primary);
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -1604,7 +1639,7 @@ hr {
 }
 
 .top-footer li a:hover {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .footer-bottom {
@@ -1639,7 +1674,7 @@ hr {
 }
 
 .footer-bottom a {
-  color: #cb0017;
+  color: var(--color-primary);
 }
 
 .subscribe-form .form-control {
@@ -1662,7 +1697,7 @@ hr {
 ==================================================================*/
 
 #preloader {
-  background: #cb0017;
+  background: var(--color-primary);
   height: 100%;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -1855,4 +1890,238 @@ figure.cited-image figcaption {
   display: inline;
   margin-right: 0.75em;
   white-space: nowrap;
+}
+
+/*=================================================================
+  Utilidades de refactor (estilos antes inline) + estados
+==================================================================*/
+
+/* Logo de la barra de navegación */
+.navbar-logo {
+  height: 60px;
+  width: 240px;
+  object-fit: contain;
+}
+
+/* Miniatura de tarjeta con relación de aspecto fija (blog, listados) */
+.post-thumb--ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 66.666%;
+  overflow: hidden;
+  background-color: var(--color-surface);
+}
+
+.post-thumb--ratio img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.post-title-link {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.post-title-link:hover {
+  color: var(--color-primary-dark);
+}
+
+.text-body-black { color: var(--color-text); }
+.text-muted-soft { color: var(--color-muted); }
+.text-brand { color: var(--color-primary); }
+.text-brand:hover { color: var(--color-primary-dark); }
+
+/* Estados de botón reales (antes :hover no cambiaba nada) */
+.btn-main:hover, .btn-main-sm:hover {
+  background-color: var(--color-primary-dark);
+  color: #fff;
+}
+
+/* Foco visible accesible en elementos interactivos */
+a:focus-visible,
+.btn-main:focus-visible,
+.btn-main-sm:focus-visible,
+.nav-link:focus-visible,
+.feature-card-link:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Mapa de contacto (Leaflet) */
+#map {
+  height: 400px;
+  width: 100%;
+  border-radius: var(--radius);
+  z-index: 1;
+}
+
+/*=================================================================
+  Scrollytelling — Líneas de actuación
+  Mejora progresiva: sin la clase .js-scrolly (añadida por JS),
+  se muestra como lista apilada con imágenes inline (accesible).
+==================================================================*/
+
+/* Columna visual: oculta por defecto; visible solo con JS */
+.scrolly-visual-col {
+  display: none;
+}
+
+.scrolly-sticky {
+  position: sticky;
+  top: 100px;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scrolly-figure {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: scale(0.98);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  pointer-events: none;
+}
+
+.scrolly-figure.is-active {
+  opacity: 1;
+  transform: scale(1);
+  pointer-events: auto;
+}
+
+.scrolly-figure img {
+  max-height: 60vh;
+  width: auto;
+  max-width: 100%;
+}
+
+.scrolly-figure figcaption {
+  margin-top: 1rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
+}
+
+.scrolly-progress {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  gap: 10px;
+}
+
+.scrolly-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #d8d3d3;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.scrolly-dot.is-active {
+  background: var(--color-primary);
+  transform: scale(1.3);
+}
+
+/* Pasos de texto */
+.scrolly-step {
+  padding: 1.5rem 0;
+  border-left: 3px solid transparent;
+  padding-left: 1.5rem;
+  transition: border-color 0.3s ease, opacity 0.3s ease;
+}
+
+.scrolly-step-index {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--color-primary);
+}
+
+.scrolly-step h3 {
+  font-size: 1.7rem;
+  margin: 0.25rem 0 1rem;
+  color: var(--color-ink);
+}
+
+.scrolly-step-img {
+  display: block;
+  margin: 0 0 1.25rem;
+  max-height: 220px;
+}
+
+.scrolly-step-body {
+  color: var(--color-text);
+}
+
+/* --- Estado mejorado con JS (pantallas grandes) --- */
+@media (min-width: 992px) {
+  .js-scrolly .scrolly-visual-col {
+    display: block;
+  }
+
+  .js-scrolly .scrolly-step-img {
+    display: none;
+  }
+
+  .js-scrolly .scrolly-step {
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0.4;
+    border-left-color: var(--color-border);
+    transition: opacity 0.4s ease, border-color 0.4s ease;
+  }
+
+  .js-scrolly .scrolly-step.is-active {
+    opacity: 1;
+    border-left-color: var(--color-primary);
+  }
+}
+
+/* Si el usuario pide menos movimiento, no se aplica el efecto sticky */
+@media (prefers-reduced-motion: reduce) {
+  .scrolly-figure {
+    transition: none;
+  }
+}
+
+/*=================================================================
+  Visor 3D (shortcode modelo3d / <model-viewer>)
+==================================================================*/
+
+.model3d {
+  margin: 1.5rem 0;
+}
+
+.model3d model-viewer {
+  width: 100%;
+  background: var(--color-bg-gray);
+  border-radius: var(--radius);
+  --poster-color: transparent;
+}
+
+.model3d figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  line-height: 1.4;
+  text-align: center;
 }

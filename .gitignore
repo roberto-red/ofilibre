@@ -1,0 +1,8 @@
+# Salida de compilación de Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

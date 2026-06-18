@@ -11,6 +11,43 @@
 	(function ($) {
 		"use strict";
 
+		/* Respeta la preferencia del sistema de reducir movimiento */
+		var prefersReducedMotion = window.matchMedia &&
+			window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+		/* ========================================================================= */
+		/*	Feature Slider (carrusel de novedades de la home)
+		/* =========================================================================  */
+		if ($('#featureSlider').length) {
+			$('#featureSlider').slick({
+				dots: true,
+				arrows: !prefersReducedMotion,
+				infinite: true,
+				speed: 500,
+				slidesToShow: 3,
+				slidesToScroll: 1,
+				autoplay: !prefersReducedMotion,
+				autoplaySpeed: 5000,
+				pauseOnHover: true,
+				pauseOnFocus: true,
+				responsive: [
+					{
+						breakpoint: 992,
+						settings: { slidesToShow: 2, slidesToScroll: 1 }
+					},
+					{
+						breakpoint: 768,
+						settings: {
+							slidesToShow: 1,
+							slidesToScroll: 1,
+							centerMode: true,
+							centerPadding: '20px'
+						}
+					}
+				]
+			});
+		}
+
 		/* ========================================================================= */
 		/*	recursos Filtering Hook
 		/* =========================================================================  */
@@ -208,76 +245,80 @@
 	})(jQuery);
 
 
+	/* ========================================================================= */
+	/*	Mapa de contacto (Leaflet + OpenStreetMap)
+	/* =========================================================================  */
+	(function () {
+		var mapEl = document.getElementById('map');
+		if (!mapEl || typeof L === 'undefined') return;
 
-	window.marker = null;
+		var lat = parseFloat(mapEl.getAttribute('data-lat'));
+		var lng = parseFloat(mapEl.getAttribute('data-long'));
+		if (isNaN(lat) || isNaN(lng)) return;
 
-	function initialize() {
-		var map;
+		var map = L.map(mapEl, { scrollWheelZoom: false }).setView([lat, lng], 17);
 
-		var latitude = $('#map').data('lat');
-		var longitude = $('#map').data('long');
-		var nottingham = new google.maps.LatLng(latitude, longitude);
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 19,
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+		}).addTo(map);
 
-		var style = [{
-			"stylers": [{
-				"hue": "#ff61a6"
-			}, {
-				"visibility": "on"
-			}, {
-				"invert_lightness": true
-			}, {
-				"saturation": 40
-			}, {
-				"lightness": 10
-			}]
-		}];
+		var marker = L.circleMarker([lat, lng], {
+			radius: 10,
+			color: '#fff',
+			weight: 2,
+			fillColor: '#cb0017',
+			fillOpacity: 1
+		}).addTo(map);
 
-		var mapOptions = {
-			// SET THE CENTER
-			center: nottingham,
+		var title = mapEl.getAttribute('data-title');
+		if (title) marker.bindPopup(title).openPopup();
 
-			// SET THE MAP STYLE & ZOOM LEVEL
-			mapTypeId: google.maps.MapTypeId.ROADMAP,
-			zoom: 9,
+		/* El zoom con rueda se activa solo tras interactuar, para no
+		   capturar el scroll de la página de forma accidental. */
+		mapEl.addEventListener('click', function () {
+			map.scrollWheelZoom.enable();
+		});
+	})();
 
-			// SET THE BACKGROUND COLOUR
-			backgroundColor: "#000",
 
-			// REMOVE ALL THE CONTROLS EXCEPT ZOOM
-			zoom: 17,
-			panControl: false,
-			zoomControl: true,
-			mapTypeControl: false,
-			scaleControl: false,
-			streetViewControl: false,
-			overviewMapControl: false,
-			zoomControlOptions: {
-				style: google.maps.ZoomControlStyle.LARGE
+	/* ========================================================================= */
+	/*	Scrollytelling — Líneas de actuación
+	/* =========================================================================  */
+	(function () {
+		var section = document.querySelector('.scrolly');
+		if (!section) return;
+		if (!('IntersectionObserver' in window)) return;
+		if (window.matchMedia &&
+			window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+		section.classList.add('js-scrolly');
+
+		var steps = section.querySelectorAll('.scrolly-step');
+		var figures = section.querySelectorAll('.scrolly-figure');
+		var dots = section.querySelectorAll('.scrolly-dot');
+
+		function setActive(idx) {
+			for (var i = 0; i < steps.length; i++) {
+				steps[i].classList.toggle('is-active', i === idx);
 			}
-
+			for (var j = 0; j < figures.length; j++) {
+				figures[j].classList.toggle('is-active', j === idx);
+			}
+			for (var k = 0; k < dots.length; k++) {
+				dots[k].classList.toggle('is-active', k === idx);
+			}
 		}
-		map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-		// SET THE MAP TYPE
-		var mapType = new google.maps.StyledMapType(style, {
-			name: "Grayscale"
-		});
-		map.mapTypes.set('grey', mapType);
-		map.setMapTypeId('grey');
+		var observer = new IntersectionObserver(function (entries) {
+			entries.forEach(function (entry) {
+				if (entry.isIntersecting) {
+					setActive(parseInt(entry.target.getAttribute('data-step'), 10));
+				}
+			});
+		}, { rootMargin: '-45% 0px -45% 0px', threshold: 0 });
 
-		//CREATE A CUSTOM PIN ICON
-		var marker_image = $('#map').data('marker');
-		var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(25, 33));
-
-		marker = new google.maps.Marker({
-			position: nottingham,
-			map: map,
-			icon: pinIcon,
-			title: 'navigator'
-		});
-	}
-
-	var map = $('#map');
-	if (map.length != 0) {
-		google.maps.event.addDomListener(window, 'load', initialize);
-	}
+		for (var s = 0; s < steps.length; s++) {
+			observer.observe(steps[s]);
+		}
+	})();

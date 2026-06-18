@@ -40,3 +40,14 @@ categories:
 ---
 
 Software utilizado fundamentalmente en la transformación de modelos 3d (obj, stl, x3d...) en un formato valido para impresión 3d (gcode). Este proceso tiene lugar mediante la subdivision del objeto en capas. Tiene la capacidad de adaptarse a los perfiles tecnicos del hardware de cualquier impresora.
+
+<!--
+  Visor 3D de ejemplo. Modelo de muestra "Damaged Helmet" (Khronos, CC BY 4.0).
+  Sustituir `src` por una pieza imprimible propia con licencia libre, p. ej.:
+  {{</* modelo3d src="/models/mi-pieza.glb" alt="Mi pieza" caption="..." */>}}
+  (colocar el archivo .glb en static/models/).
+-->
+{{< modelo3d
+    src="https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/main/2.0/DamagedHelmet/glTF-Binary/DamagedHelmet.glb"
+    alt="Modelo 3D de ejemplo para visualizar antes de imprimir"
+    caption="Modelo de ejemplo: gira y haz zoom con el ratón o el dedo. «Damaged Helmet» por ctxl (Khronos Group), CC BY 4.0. Sustitúyelo por una pieza imprimible propia." >}}

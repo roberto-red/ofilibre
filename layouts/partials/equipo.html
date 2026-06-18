@@ -32,7 +32,7 @@
                         
                         {{ with .URJCprofile }}
                         {{ $linkText := cond (eq $.Site.Language.Lang "es") "Enlace al perfil URJC" "Link to URJC profile" }}
-                        <a href="{{ . }}" style="color: #cb0017; text-decoration: underline;" target="_blank" rel="noopener noreferrer">
+                        <a href="{{ . }}" class="text-brand text-decoration-underline" target="_blank" rel="noopener noreferrer">
                             {{ $linkText }}
                         </a>
                         {{ end }}

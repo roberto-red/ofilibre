@@ -1,0 +1,36 @@
+{{- /*
+  Shortcode: modelo3d
+  Muestra un modelo 3D interactivo (.glb / .gltf) con <model-viewer>.
+
+  Uso en cualquier .md:
+    {{< modelo3d src="/models/pieza.glb" alt="Pieza imprimible" caption="..." >}}
+
+  Parámetros:
+    src     (obligatorio)  Ruta o URL al archivo .glb/.gltf
+    alt     (recomendado)  Texto alternativo accesible
+    poster  (opcional)     Imagen de respaldo mientras carga / sin WebGL
+    caption (opcional)     Pie de figura (ideal para créditos y licencia)
+    height  (opcional)     Alto del visor (por defecto 400px)
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "Modelo 3D interactivo" -}}
+{{- $poster := .Get "poster" -}}
+{{- $caption := .Get "caption" -}}
+{{- $height := .Get "height" | default "400px" -}}
+<figure class="model3d">
+  <model-viewer
+    src="{{ $src }}"
+    alt="{{ $alt }}"
+    {{ with $poster }}poster="{{ . }}"{{ end }}
+    camera-controls
+    touch-action="pan-y"
+    auto-rotate
+    shadow-intensity="1"
+    loading="lazy"
+    reveal="interaction"
+    style="height: {{ $height }};">
+  </model-viewer>
+  {{ with $caption }}<figcaption>{{ . | safeHTML }}</figcaption>{{ end }}
+</figure>
+{{- /* El script solo se carga en páginas que usan este shortcode */ -}}
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>

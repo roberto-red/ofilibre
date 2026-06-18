@@ -73,12 +73,9 @@
 <script src="{{ `plugins/filterzr/jquery.filterizr.min.js` | absURL }}"></script>
 {{ "<!-- Smooth Scroll js -->" | safeHTML }}
 <script src="{{ `plugins/smooth-scroll/dist/js/smooth-scroll.min.js` | absURL }}"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
-
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
