@@ -43,7 +43,7 @@
               <div class="post-item h-100">
                 <a href="{{ .Permalink }}">
                   <div class="post-thumb post-thumb--ratio mb-2 shadow rounded">
-                    <img src="{{ partial "resolve-image" .Params.image }}" alt="{{ .Title }}">
+                    <img src="{{ partial "resolve-image" .Params.image }}" alt="{{ .Title }}" loading="lazy" decoding="async">
                   </div>
                 </a>
 

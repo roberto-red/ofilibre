@@ -38,13 +38,8 @@
 <meta name="twitter:description" content="{{ $ogDesc }}">
 <meta name="twitter:image" content="{{ $ogImage }}">
 
-{{ "<!-- Fonts (carga no bloqueante; para auto-hospedar, sustituir por @font-face local) -->" | safeHTML }}
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-{{ $fonts := "https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap" }}
-<link rel="preload" as="style" href="{{ $fonts }}">
-<link rel="stylesheet" href="{{ $fonts }}" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="{{ $fonts }}"></noscript>
+{{ "<!-- Fonts: Titillium Web auto-hospedada (sin llamadas a Google). Las @font-face están en style.css -->" | safeHTML }}
+<link rel="preload" as="font" type="font/woff2" href="{{ `fonts/titillium-web/titillium-web-400-latin.woff2` | relURL }}" crossorigin>
 
 {{ "<!-- Stylesheets -->" | safeHTML }}
 {{ "<!-- Themefisher Icon font -->" | safeHTML }}

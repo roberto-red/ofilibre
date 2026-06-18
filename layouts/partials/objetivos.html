@@ -42,7 +42,7 @@
                     <article class="scrolly-step {{ if eq $i 0 }}is-active{{ end }}" data-step="{{ $i }}" id="{{ .id }}">
                         <span class="scrolly-step-index">{{ printf "%02d" (add $i 1) }}</span>
                         {{ with .title }}<h3>{{ . }}</h3>{{ end }}
-                        <img class="scrolly-step-img img-fluid rounded shadow" src="{{ partial "resolve-image" .image }}" alt="{{ .title }}">
+                        <img class="scrolly-step-img img-fluid rounded shadow" src="{{ partial "resolve-image" .image }}" alt="{{ .title }}" loading="lazy" decoding="async">
                         {{ with .content }}<div class="scrolly-step-body">{{ . | safeHTML }}</div>{{ end }}
                     </article>
                     {{ end }}

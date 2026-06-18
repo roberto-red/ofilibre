@@ -23,7 +23,7 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                     <div class="team-member text-center h-100">
                         <div class="member-photo ratio ratio-1x1">
-                        <img class="img-fluid object-fit-cover" src="{{ partial "resolve-image" .image }}" alt="{{ .name }}">
+                        <img class="img-fluid object-fit-cover" src="{{ partial "resolve-image" .image }}" alt="{{ .name }}" loading="lazy" decoding="async">
                         </div>
                         <div class="member-content">
                         <h3>{{ .name }}</h3>

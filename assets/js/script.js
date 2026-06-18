@@ -322,3 +322,30 @@
 			observer.observe(steps[s]);
 		}
 	})();
+
+
+	/* ========================================================================= */
+	/*	Botón "volver arriba"
+	/* =========================================================================  */
+	(function () {
+		var btn = document.getElementById('back-to-top');
+		if (!btn) return;
+
+		function toggle() {
+			if (window.pageYOffset > 400) {
+				btn.classList.add('is-visible');
+			} else {
+				btn.classList.remove('is-visible');
+			}
+		}
+
+		var reduce = window.matchMedia &&
+			window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+		window.addEventListener('scroll', toggle, { passive: true });
+		toggle();
+
+		btn.addEventListener('click', function () {
+			window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+		});
+	})();
