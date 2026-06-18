@@ -11,7 +11,7 @@ tags:
   - contratación
   - cienciaabierta
   - proyecto
-image: /logos/logo-ofilibre-2025.jpg
+image: /blog/trabaja-con-nosotros-en-software-libre-repositorios-y-ciencia-abierta/chatgpt-image-18-jun-2026-15_17_35.png
 ---
 <!--\\[if !mso]>
 <style>
