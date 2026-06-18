@@ -2310,6 +2310,25 @@ button:focus-visible {
   border: 0;
 }
 
+/* Constelación generativa de fondo del hero */
+.hero-area {
+  overflow: hidden;
+}
+
+.hero-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.hero-area .container {
+  position: relative;
+  z-index: 1;
+}
+
 /*=================================================================
   Reveal on scroll (fundido + desplazamiento al entrar en viewport)
   Solo se oculta si <html> tiene .js-anim (añadido por JS y solo si

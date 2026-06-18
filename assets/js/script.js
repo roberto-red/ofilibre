@@ -403,3 +403,99 @@
 			wrap.appendChild(iframe);
 		});
 	})();
+
+
+	/* ========================================================================= */
+	/*	Hero: constelación generativa de fondo (nodos rojos conectados)
+	/* =========================================================================  */
+	(function () {
+		var canvas = document.querySelector('.hero-canvas');
+		if (!canvas || !canvas.getContext) return;
+
+		var ctx = canvas.getContext('2d');
+		var COLOR = '203,0,23'; /* #cb0017 */
+		var LINK_DIST = 130;
+		var reduce = window.matchMedia &&
+			window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+		var w, h, dpr, nodes, raf = null, visible = true;
+
+		function initNodes() {
+			var count = Math.max(20, Math.min(70, Math.round(w * h / 16000)));
+			nodes = [];
+			for (var i = 0; i < count; i++) {
+				nodes.push({
+					x: Math.random() * w,
+					y: Math.random() * h,
+					vx: (Math.random() - 0.5) * 0.4,
+					vy: (Math.random() - 0.5) * 0.4,
+					r: Math.random() * 1.6 + 1
+				});
+			}
+		}
+
+		function resize() {
+			dpr = Math.min(window.devicePixelRatio || 1, 2);
+			w = canvas.clientWidth;
+			h = canvas.clientHeight;
+			if (!w || !h) return;
+			canvas.width = w * dpr;
+			canvas.height = h * dpr;
+			ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+			initNodes();
+		}
+
+		function draw() {
+			ctx.clearRect(0, 0, w, h);
+			var i, j, n;
+			for (i = 0; i < nodes.length; i++) {
+				n = nodes[i];
+				if (!reduce) {
+					n.x += n.vx; n.y += n.vy;
+					if (n.x < 0 || n.x > w) n.vx *= -1;
+					if (n.y < 0 || n.y > h) n.vy *= -1;
+				}
+				ctx.beginPath();
+				ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+				ctx.fillStyle = 'rgba(' + COLOR + ',0.55)';
+				ctx.fill();
+			}
+			for (i = 0; i < nodes.length; i++) {
+				for (j = i + 1; j < nodes.length; j++) {
+					var dx = nodes[i].x - nodes[j].x, dy = nodes[i].y - nodes[j].y;
+					var dist = Math.sqrt(dx * dx + dy * dy);
+					if (dist < LINK_DIST) {
+						ctx.beginPath();
+						ctx.moveTo(nodes[i].x, nodes[i].y);
+						ctx.lineTo(nodes[j].x, nodes[j].y);
+						ctx.strokeStyle = 'rgba(' + COLOR + ',' + (0.18 * (1 - dist / LINK_DIST)) + ')';
+						ctx.lineWidth = 1;
+						ctx.stroke();
+					}
+				}
+			}
+		}
+
+		function loop() { draw(); raf = window.requestAnimationFrame(loop); }
+		function start() { if (!raf && nodes) { loop(); } }
+		function stop() { if (raf) { window.cancelAnimationFrame(raf); raf = null; } }
+
+		resize();
+		if (!nodes) return;
+		window.addEventListener('resize', resize);
+
+		if (reduce) { draw(); return; } /* un frame estático, sin animación */
+
+		if ('IntersectionObserver' in window) {
+			new IntersectionObserver(function (entries) {
+				entries.forEach(function (e) {
+					visible = e.isIntersecting;
+					visible ? start() : stop();
+				});
+			}).observe(canvas);
+		} else {
+			start();
+		}
+		document.addEventListener('visibilitychange', function () {
+			if (document.hidden) { stop(); } else if (visible) { start(); }
+		});
+	})();
