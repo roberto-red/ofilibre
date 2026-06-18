@@ -85,8 +85,8 @@
 {{ "<!-- Smooth Scroll js -->" | safeHTML }}
 <script src="{{ `plugins/smooth-scroll/dist/js/smooth-scroll.min.js` | absURL }}"></script>
 {{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
+{{ $script := resources.Get "js/script.js" | minify | fingerprint }}
+<script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
 
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
