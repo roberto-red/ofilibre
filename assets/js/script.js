@@ -485,15 +485,16 @@
 
 		if (reduce) { draw(); return; } /* un frame estático, sin animación */
 
+		/* Arranca siempre; el observer solo sirve para PAUSAR fuera de pantalla */
+		start();
+
 		if ('IntersectionObserver' in window) {
 			new IntersectionObserver(function (entries) {
 				entries.forEach(function (e) {
 					visible = e.isIntersecting;
-					visible ? start() : stop();
+					if (visible) { start(); } else { stop(); }
 				});
 			}).observe(canvas);
-		} else {
-			start();
 		}
 		document.addEventListener('visibilitychange', function () {
 			if (document.hidden) { stop(); } else if (visible) { start(); }
