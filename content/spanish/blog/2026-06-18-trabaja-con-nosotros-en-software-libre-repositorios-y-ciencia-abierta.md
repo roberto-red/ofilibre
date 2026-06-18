@@ -13,22 +13,22 @@ tags:
   - proyecto
 image: /logos/logo-ofilibre-2025.jpg
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -68,9 +68,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -649,9 +649,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -678,11 +678,13 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 ¿Te gustaría trabajar en un proyecto de software libre, ciencia abierta y gestión del conocimiento en la Universidad Rey Juan Carlos? **¡Tienes 5 días para presentarte!**
+
+> **"Se preve que las ofertas de empleo se publiquen el viernes 18 de junio, momento a partir del cual empezarían a contar los 5 días para proponer candidaturas. En cuanto sepamos que está publicado, pondremos aquí el enlace a la convocatoria".**
 
 En los próximos días se abrirá el plazo para presentar solicitudes a **tres contratos de trabajo a jornada completa** vinculados al proyecto **InterAbierta: Interoperabilidad entre infraestructuras de apoyo a la ciencia abierta**, financiado por la Fundación Española para la Ciencia y la Tecnología (FECYT).
 
@@ -720,7 +722,7 @@ Valoraremos conocimientos de programación, tecnologías web, control de version
 ⏳ Duración prevista: 15 meses\
 💰 Salario bruto mensual: 2.400 €\
 🕒 Jornada completa (37,5 horas semanales)\
-🔗 Perfil técnico junior: \[enlace]
+🔗 Perfil técnico junior: Identificador M4226-8061 \[enlace]
 
 **Perfil técnico senior**
 
@@ -736,7 +738,7 @@ Valoraremos especialmente la experiencia en programación, tecnologías web, pla
 ⏳ Duración prevista: 15 meses\
 💰 Salario bruto mensual: 3.000 €\
 🕒 Jornada completa (37,5 horas semanales)\
-🔗 Perfil técnico senior: \[enlace]
+🔗 Perfil técnico senior: Identificador M4226-8060\[enlace]
 
 **Perfil de apoyo a la ciencia abierta y la publicación académica**
 
@@ -752,7 +754,7 @@ Valoraremos conocimientos sobre publicación científica, acceso abierto, gesti�
 ⏳ Duración prevista: 16 meses\
 💰 Salario bruto mensual: 2.200 €\
 🕒 Jornada completa (37,5 horas semanales)\
-🔗 Perfil de apoyo a la ciencia abierta y la publicación académica: \[enlace]
+🔗 Perfil de apoyo a la ciencia abierta y la publicación académica. Identificador Md4226-8059 \[enlace]
 
 **¿Por qué trabajar en InterAbierta?**
 
