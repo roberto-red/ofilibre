@@ -9,7 +9,7 @@ categories:
 tags:
   - trabajo
   - contratación
-  - cienciaabierta
+  - ciencia abierta
   - proyecto
 image: /blog/trabaja-con-nosotros-en-software-libre-repositorios-y-ciencia-abierta/chatgpt-image-18-jun-2026-15_17_35.png
 ---
