@@ -2330,6 +2330,101 @@ button:focus-visible {
 }
 
 /*=================================================================
+  Lectura cómoda en cuerpos de artículo / guía / ficha
+==================================================================*/
+
+.blog-single .post-content,
+.single-post .post-content,
+.single-presentation .post-content,
+.section-sm .content {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+
+.blog-single .post-content p,
+.blog-single .post-content li,
+.single-post .post-content p,
+.single-post .post-content li,
+.single-presentation .post-content p,
+.single-presentation .post-content li,
+.section-sm .content p,
+.section-sm .content li {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+
+.blog-single .post-content h2,
+.single-post .post-content h2,
+.section-sm .content h2 {
+  margin-top: 2rem;
+}
+
+.blog-single .post-content h3,
+.single-post .post-content h3,
+.section-sm .content h3 {
+  margin-top: 1.5rem;
+}
+
+/*=================================================================
+  Barra de progreso de lectura (solo en páginas de contenido)
+==================================================================*/
+
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  width: 0;
+  background: #fff;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  z-index: 1200;
+  transition: width 0.08s linear;
+}
+
+/*=================================================================
+  Header: sombra y compactado al hacer scroll
+==================================================================*/
+
+.top-bar.is-scrolled {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+}
+
+.top-bar.is-scrolled .navbar-nav > li > .nav-link {
+  padding-top: 14px !important;
+  padding-bottom: 14px !important;
+}
+
+.top-bar.is-scrolled .navbar-logo {
+  height: 52px;
+  transition: height 0.2s ease;
+}
+
+/*=================================================================
+  Iconos sociales en el footer
+==================================================================*/
+
+.footer-social {
+  margin-top: 15px;
+}
+
+.footer-social li {
+  display: inline-block;
+  margin-right: 14px;
+}
+
+.footer-social li a {
+  color: #bdbdbd;
+  font-size: 19px;
+  transition: color 0.3s ease, transform 0.2s ease;
+  display: inline-block;
+}
+
+.footer-social li a:hover {
+  color: var(--color-primary);
+  transform: translateY(-2px);
+}
+
+/*=================================================================
   Reveal on scroll (fundido + desplazamiento al entrar en viewport)
   Solo se oculta si <html> tiene .js-anim (añadido por JS y solo si
   NO hay prefers-reduced-motion). Sin JS, todo se ve con normalidad.

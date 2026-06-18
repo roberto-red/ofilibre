@@ -38,6 +38,17 @@
 
         <div class="col-sm-3 col-md-3 col-lg-3 text-right">
           <img src="{{ "images/logos/banner-urjc.png" | absURL }}" alt="Logo Blanco" style="max-width: 300px; height: auto;">
+          {{ $contact := cond (eq $lang "es") .Site.Params.contacto .Site.Params.contact }}
+          {{ with $contact }}
+          <ul class="list-inline footer-social">
+            {{ with .x }}<li><a href="{{ . }}" title="X" target="_blank" rel="noopener"><i class="fab fa-x-twitter"></i></a></li>{{ end }}
+            {{ with .mastodon }}<li><a href="{{ . }}" title="Mastodon" target="_blank" rel="noopener"><i class="fab fa-mastodon"></i></a></li>{{ end }}
+            {{ with .telegram }}<li><a href="{{ . }}" title="Telegram" target="_blank" rel="noopener"><i class="fab fa-telegram-plane"></i></a></li>{{ end }}
+            {{ with .instagram }}<li><a href="{{ . }}" title="Instagram" target="_blank" rel="noopener"><i class="fab fa-square-instagram"></i></a></li>{{ end }}
+            {{ with .gitlab }}<li><a href="{{ . }}" title="GitLab" target="_blank" rel="noopener"><i class="fab fa-gitlab"></i></a></li>{{ end }}
+            {{ with .rss }}<li><a href="{{ . }}" title="RSS"><i class="fas fa-rss"></i></a></li>{{ end }}
+          </ul>
+          {{ end }}
         </div>
 
       </div>

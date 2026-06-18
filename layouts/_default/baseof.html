@@ -3,6 +3,7 @@
     {{- partial "head.html" . -}}
     <body id="body">
         <a href="#content" class="skip-link">{{ if eq .Site.Language.Lang "es" }}Saltar al contenido{{ else }}Skip to content{{ end }}</a>
+        <div id="reading-progress" role="progressbar" aria-label="{{ if eq .Site.Language.Lang "es" }}Progreso de lectura{{ else }}Reading progress{{ end }}" hidden></div>
         {{ partial "preloader.html" . }}
         {{- partial "header.html" . -}}
         <div id="content" tabindex="-1">

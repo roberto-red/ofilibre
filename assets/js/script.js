@@ -500,3 +500,41 @@
 			if (document.hidden) { stop(); } else if (visible) { start(); }
 		});
 	})();
+
+
+	/* ========================================================================= */
+	/*	Barra de progreso de lectura + sombra del header al hacer scroll
+	/* =========================================================================  */
+	(function () {
+		var bar = document.getElementById('reading-progress');
+		var article = document.querySelector(
+			'.blog-single .post-content, .single-post .post-content, .single-presentation .post-content, .section-sm .content'
+		);
+		var header = document.querySelector('.top-bar');
+		var hasArticle = !!(bar && article);
+
+		if (!header && !hasArticle) return;
+		if (hasArticle) { bar.hidden = false; }
+
+		function update() {
+			if (header) {
+				if (window.pageYOffset > 20) {
+					header.classList.add('is-scrolled');
+				} else {
+					header.classList.remove('is-scrolled');
+				}
+			}
+			if (hasArticle) {
+				var top = article.getBoundingClientRect().top + window.pageYOffset;
+				var end = top + article.offsetHeight - window.innerHeight;
+				var pct = end > top ? (window.pageYOffset - top) / (end - top) : 0;
+				pct = Math.max(0, Math.min(1, pct));
+				bar.style.width = (pct * 100) + '%';
+				bar.setAttribute('aria-valuenow', Math.round(pct * 100));
+			}
+		}
+
+		window.addEventListener('scroll', update, { passive: true });
+		window.addEventListener('resize', update);
+		update();
+	})();
