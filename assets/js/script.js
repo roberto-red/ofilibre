@@ -1,4 +1,35 @@
 	/* ========================================================================= */
+	/*	Reveal on scroll (va primero: es vanilla y no debe depender de que
+	/*	el resto del script —jQuery/Slick— cargue sin errores)
+	/* ========================================================================= */
+	(function () {
+		if (!document.documentElement.classList.contains('js-anim')) return;
+		if (!('IntersectionObserver' in window)) {
+			document.documentElement.classList.remove('js-anim');
+			return;
+		}
+
+		var targets = document.querySelectorAll(
+			'.resources-item, .post-item, .contact-meta-block, .team-member'
+		);
+		if (!targets.length) return;
+
+		var observer = new IntersectionObserver(function (entries, obs) {
+			entries.forEach(function (entry) {
+				if (entry.isIntersecting) {
+					entry.target.classList.add('is-revealed');
+					obs.unobserve(entry.target);
+				}
+			});
+		}, { rootMargin: '0px 0px -10% 0px', threshold: 0.1 });
+
+		for (var i = 0; i < targets.length; i++) {
+			targets[i].style.transitionDelay = (i % 4) * 0.07 + 's';
+			observer.observe(targets[i]);
+		}
+	})();
+
+	/* ========================================================================= */
 	/*	Page Preloader
 	/* ========================================================================= */
 
@@ -347,5 +378,28 @@
 
 		btn.addEventListener('click', function () {
 			window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+		});
+	})();
+
+
+	/* ========================================================================= */
+	/*	Hero: facade de vídeo (carga el iframe solo al hacer clic)
+	/* =========================================================================  */
+	(function () {
+		var facade = document.querySelector('.hero-video-facade');
+		if (!facade) return;
+
+		facade.addEventListener('click', function () {
+			var url = facade.getAttribute('data-video');
+			if (!url) return;
+			var sep = url.indexOf('?') > -1 ? '&' : '?';
+			var iframe = document.createElement('iframe');
+			iframe.src = url + sep + 'autoplay=1';
+			iframe.setAttribute('allow', 'autoplay; fullscreen');
+			iframe.setAttribute('allowfullscreen', '');
+			iframe.title = 'La OfiLibre en dos minutos';
+			var wrap = facade.closest('.hero-video');
+			wrap.innerHTML = '';
+			wrap.appendChild(iframe);
 		});
 	})();
