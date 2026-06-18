@@ -684,7 +684,7 @@ w\:* {behavior:url(#default#VML);}
 
 ¿Te gustaría trabajar en un proyecto de software libre, ciencia abierta y gestión del conocimiento en la Universidad Rey Juan Carlos? **¡Tienes 5 días para presentarte!**
 
-> **"Se preve que las ofertas de empleo se publiquen el viernes 18 de junio, momento a partir del cual empezarían a contar los 5 días para proponer candidaturas. En cuanto sepamos que está publicado, pondremos aquí el enlace a la convocatoria".**
+> **"Se preve que las ofertas de empleo se publiquen el viernes 19 de junio, momento a partir del cual empezarían a contar los 5 días para proponer candidaturas. En cuanto sepamos que está publicado, pondremos aquí el enlace a la convocatoria".**
 
 En los próximos días se abrirá el plazo para presentar solicitudes a **tres contratos de trabajo a jornada completa** vinculados al proyecto **InterAbierta: Interoperabilidad entre infraestructuras de apoyo a la ciencia abierta**, financiado por la Fundación Española para la Ciencia y la Tecnología (FECYT).
 
