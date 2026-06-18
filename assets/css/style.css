@@ -2102,26 +2102,3 @@ button:focus-visible {
     transition: none;
   }
 }
-
-/*=================================================================
-  Visor 3D (shortcode modelo3d / <model-viewer>)
-==================================================================*/
-
-.model3d {
-  margin: 1.5rem 0;
-}
-
-.model3d model-viewer {
-  width: 100%;
-  background: var(--color-bg-gray);
-  border-radius: var(--radius);
-  --poster-color: transparent;
-}
-
-.model3d figcaption {
-  margin-top: 0.6rem;
-  font-size: 0.85rem;
-  color: var(--color-muted);
-  line-height: 1.4;
-  text-align: center;
-}
