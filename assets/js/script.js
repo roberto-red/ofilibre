@@ -525,9 +525,9 @@
 				}
 			}
 			if (hasArticle) {
-				var top = article.getBoundingClientRect().top + window.pageYOffset;
-				var end = top + article.offsetHeight - window.innerHeight;
-				var pct = end > top ? (window.pageYOffset - top) / (end - top) : 0;
+				var docEl = document.documentElement;
+				var max = docEl.scrollHeight - docEl.clientHeight;
+				var pct = max > 0 ? window.pageYOffset / max : 0;
 				pct = Math.max(0, Math.min(1, pct));
 				bar.style.width = (pct * 100) + '%';
 				bar.setAttribute('aria-valuenow', Math.round(pct * 100));
