@@ -13,22 +13,22 @@ tags:
   - proyecto
 image: /blog/trabaja-con-nosotros-en-software-libre-repositorios-y-ciencia-abierta/chatgpt-image-19-jun-2026-09_07_39.png
 ---
-<!--\\\[if !mso]>
+<!--\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -68,9 +68,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -649,9 +649,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -678,7 +678,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -686,7 +686,7 @@ w\:* {behavior:url(#default#VML);}
 
 > **La convocatoria se acaba de publicar, hoy 19 de junio.**  Fecha de Inicio de Presentación de Solicitudes 22 de Junio de 2026 a las 00:00 - Fecha de Fin de Presentación de Solicitudes26 de Junio de 2026 a las 23:59**. [Acceso a la convocatoria](https://sede.urjc.es/web/guest/convocatorias?p_p_id=es_tangrambpm_liferay_BpmPortlet_INSTANCE_514ikmouN9nu&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_es_tangrambpm_liferay_BpmPortlet_INSTANCE_514ikmouN9nu_id=-MDtv31000-14jcpJ) (No dejes de leer el Manual de usuario y los anexos, para poder completar bien el proceso de subida de la documentacin requerida)**
 
-En los próximos días se abrirá el plazo para presentar solicitudes a **tres contratos de trabajo a jornada completa** vinculados al proyecto **InterAbierta: Interoperabilidad entre infraestructuras de apoyo a la ciencia abierta**, financiado por la Fundación Española para la Ciencia y la Tecnología (FECYT).
+En los próximos días se abrirá el plazo para presentar solicitudes a **tres contratos de trabajo a jornada completa** (presencial en Madrid) vinculados al proyecto **InterAbierta: Interoperabilidad entre infraestructuras de apoyo a la ciencia abierta**, financiado por la Fundación Española para la Ciencia y la Tecnología (FECYT).
 
 Buscamos personas con perfiles muy diferentes:
 
@@ -724,7 +724,7 @@ Valoraremos conocimientos de programación, tecnologías web, control de version
 🕒 Jornada completa (37,5 horas semanales)\
 🔗 Perfil técnico junior: Identificador M4226-8061 [pgina 26](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)
 
-**[](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)Perfil técnico senior**
+[](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)**Perfil técnico senior**
 
 ¿Has trabajado desarrollando software? ¿Te interesa participar en la construcción de infraestructuras abiertas utilizadas por universidades, revistas científicas y repositorios académicos?
 
@@ -740,7 +740,7 @@ Valoraremos especialmente la experiencia en programación, tecnologías web, pla
 🕒 Jornada completa (37,5 horas semanales)\
 🔗 Perfil técnico senior: Identificador M4226-8060 [pgina 25](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)
 
-**[](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)Perfil de apoyo a la ciencia abierta y la publicación académica**
+[](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)**Perfil de apoyo a la ciencia abierta y la publicación académica**
 
 Este perfil está especialmente orientado a personas procedentes del ámbito de la Información y Documentación, Biblioteconomía, gestión documental, edición académica y publicación científica.
 
