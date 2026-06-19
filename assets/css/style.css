@@ -2566,3 +2566,44 @@ button:focus-visible {
   z-index: 2;
   pointer-events: none;
 }
+
+/* --- Tarjetas de la sección Acciones (rejilla) --- */
+.activities-card {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.activities-card .post-thumb--ratio {
+  padding-bottom: 60%;
+  border-radius: 0;
+}
+
+.activities-card .post-thumb--ratio img {
+  padding: 12px;
+}
+
+.activities-card-link {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+
+.activities-card-body {
+  padding: 18px 22px 22px;
+  flex: 1;
+}
+
+.activities-card-body h4 {
+  color: var(--color-ink);
+  margin-bottom: 8px;
+}
+
+.activities-card-body .description {
+  color: var(--color-muted);
+  line-height: 1.5;
+}
