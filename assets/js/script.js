@@ -538,3 +538,38 @@
 		window.addEventListener('resize', update);
 		update();
 	})();
+
+
+	/* ========================================================================= */
+	/*	Tilt 3D sutil en tarjetas (inclinación según el cursor)
+	/* =========================================================================  */
+	(function () {
+		var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+		var noHover = window.matchMedia && window.matchMedia('(hover: none)').matches;
+		if (reduce || noHover) return;
+
+		var MOVE = 'transform 0.08s ease-out, background 0.3s ease, box-shadow 0.3s ease';
+		var REST = 'transform 0.5s ease, background 0.3s ease, box-shadow 0.3s ease';
+		var cards = document.querySelectorAll('.feature-card, .resources-item, .post-item');
+
+		for (var i = 0; i < cards.length; i++) {
+			(function (card) {
+				card.addEventListener('mouseenter', function () {
+					card.style.transition = MOVE;
+				});
+				card.addEventListener('mousemove', function (e) {
+					var r = card.getBoundingClientRect();
+					var px = (e.clientX - r.left) / r.width;
+					var py = (e.clientY - r.top) / r.height;
+					var rx = ((py - 0.5) * -7).toFixed(2);
+					var ry = ((px - 0.5) * 7).toFixed(2);
+					card.style.transform =
+						'perspective(800px) rotateX(' + rx + 'deg) rotateY(' + ry + 'deg) translateY(-4px)';
+				});
+				card.addEventListener('mouseleave', function () {
+					card.style.transition = REST;
+					card.style.transform = '';
+				});
+			})(cards[i]);
+		}
+	})();

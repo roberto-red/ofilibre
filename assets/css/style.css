@@ -2473,3 +2473,96 @@ button:focus-visible {
 .post-item:hover::after {
   transform: scaleX(1);
 }
+
+/*=================================================================
+  Pulido visual: iconos circulares, tilt 3D, botones, separador
+==================================================================*/
+
+/* --- Iconos con fondo circular (recursos y carrusel) --- */
+.feature-icon {
+  width: 84px;
+  height: 84px;
+  margin: 0 auto 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(203, 0, 23, 0.08);
+  transition: background 0.35s ease, transform 0.35s ease;
+}
+
+.feature-icon i,
+.resources .custom-icon i {
+  font-size: 34px !important;
+  color: var(--color-primary) !important;
+  margin: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  line-height: 1 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  transition: color 0.35s ease;
+}
+
+.feature-card:hover .feature-icon,
+.resources-item:hover .feature-icon {
+  background: var(--color-primary);
+  transform: scale(1.06);
+}
+
+.feature-card:hover .feature-icon i,
+.resources-item:hover .feature-icon i {
+  color: #fff !important;
+}
+
+/* --- Tilt 3D: la inclinación la aplica el JS; aquí solo el contexto 3D --- */
+.feature-card,
+.resources-item,
+.post-item {
+  transform-style: preserve-3d;
+}
+
+/* --- Botones con degradado y flecha --- */
+.btn-main,
+.btn-main-sm {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-dark));
+  box-shadow: 0 3px 10px rgba(203, 0, 23, 0.2);
+}
+
+.btn-main::after {
+  content: "\2192";
+  display: inline-block;
+  margin-left: 8px;
+  transition: transform 0.25s ease;
+}
+
+.btn-main:hover::after {
+  transform: translateX(5px);
+}
+
+.btn-main:hover,
+.btn-main-sm:hover {
+  background: linear-gradient(135deg, var(--color-primary-dark), var(--color-primary));
+  box-shadow: 0 6px 18px rgba(203, 0, 23, 0.35);
+  color: #fff;
+}
+
+/* --- Separador de sección: diagonal al pie del hero (gris -> blanco) --- */
+.hero-area {
+  padding-bottom: 92px;
+}
+
+.hero-area::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 60px;
+  background: #fff;
+  -webkit-clip-path: polygon(0 100%, 100% 0, 100% 100%);
+  clip-path: polygon(0 100%, 100% 0, 100% 100%);
+  z-index: 2;
+  pointer-events: none;
+}
