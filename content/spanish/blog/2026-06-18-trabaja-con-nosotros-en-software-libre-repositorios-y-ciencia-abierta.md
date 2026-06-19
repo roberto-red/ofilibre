@@ -684,7 +684,7 @@ w\:* {behavior:url(#default#VML);}
 
 ¿Te gustaría trabajar en un proyecto de software libre, ciencia abierta y gestión del conocimiento en la Universidad Rey Juan Carlos? **¡Tienes 5 días para presentarte!**
 
-> **La convocatoria se acaba de publicar, hoy 19 de junio, momento a partir del cual empiezan a contar los 5 días para proponer candidaturas. Acceso a la convocatoria** h[ttps://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf**.**](https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/Vice_Inv_Inn_06-26_ca.pdf)
+> **La convocatoria se acaba de publicar, hoy 19 de junio.**  Fecha de Inicio de Presentación de Solicitudes 22 de Junio de 2026 a las 00:00 - Fecha de Fin de Presentación de Solicitudes26 de Junio de 2026 a las 23:59**. [Acceso a la convocatoria](https://sede.urjc.es/web/guest/convocatorias?p_p_id=es_tangrambpm_liferay_BpmPortlet_INSTANCE_514ikmouN9nu&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_es_tangrambpm_liferay_BpmPortlet_INSTANCE_514ikmouN9nu_id=-MDtv31000-14jcpJ) (No dejes de leer el Manual de usuario y los anexos, para poder completar bien el proceso de subida de la documentacin requerida)**
 
 En los próximos días se abrirá el plazo para presentar solicitudes a **tres contratos de trabajo a jornada completa** vinculados al proyecto **InterAbierta: Interoperabilidad entre infraestructuras de apoyo a la ciencia abierta**, financiado por la Fundación Española para la Ciencia y la Tecnología (FECYT).
 
