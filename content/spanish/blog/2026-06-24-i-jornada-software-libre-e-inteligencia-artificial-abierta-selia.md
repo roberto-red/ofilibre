@@ -1,0 +1,42 @@
+---
+title: "seLIA: I Jornada sobre Software Libre e Inteligencia Artificial Abierta"
+date: 2026-06-24
+description: El 6 de julio se celebra en el campus de Fuenlabrada de la URJC la I Jornada sobre Software Libre e Inteligencia Artificial Abierta (seLIA), un espacio para compartir conocimientos, herramientas e ideas sobre la intersección entre el software libre y la IA abierta.
+categories:
+  - jornadas
+  - software libre
+tags: null
+image: /blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/cartel-selia.png
+---
+![Cartel de seLIA: I Jornada sobre Software Libre e Inteligencia Artificial Abierta](/blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/cartel-selia.png)
+
+🤖🔓 Llega **seLIA**, la I Jornada sobre Software Libre e Inteligencia Artificial Abierta.
+
+* 📅 **6 de julio**
+* 📍 **Campus de Fuenlabrada (URJC)**
+
+Un espacio para compartir conocimientos, experiencias, herramientas e ideas sobre la intersección entre el **software libre** y la **inteligencia artificial abierta**.
+
+Los temas que se abordarán incluyen:
+
+* 📦 Modelos y herramientas abiertas
+* 👥 Casos de uso en universidad, empresa y comunidades
+* ⚖️ Aspectos éticos, sociales y legales
+* 🖥️ Infraestructuras y plataformas abiertas
+
+**Dirigido a:** estudiantes, profesorado, personal investigador, desarrolladores, profesionales y público interesado en general.
+
+Esta jornada cuenta con el apoyo de la Oficina de Conocimiento y Cultura Libres de la Universidad Rey Juan Carlos.
+
+📝 [Más información](https://selia.codeberg.page)
+
+Nos vemos en Fuenlabrada 💚
+
+**¡Infórmate y participa!** Mantente al tanto en nuestras redes sociales. Toda la información actualizada y las fechas clave las encontrarás en:
+
+* **Web:** <https://ofilibre.urjc.es/>
+* **Mastodon:** [@OfiLibreURJC@floss.social](https://floss.social/@ofilibreurjc)
+* **Bluesky:** [@ofilibre.bsky.social](https://bsky.app/profile/ofilibre.bsky.social)
+* **Twitter/X:** [@OfiLibreURJC](https://x.com/OfiLibreURJC)
+* **Telegram:** <https://t.me/ofilibreurjc>
+* **Instagram:** [@ofilibreurjc](https://www.instagram.com/ofilibreurjc/)
