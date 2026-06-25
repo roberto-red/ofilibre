@@ -2548,21 +2548,22 @@ button:focus-visible {
   color: #fff;
 }
 
-/* --- Separador de sección: diagonal al pie del hero (gris -> blanco) --- */
+/* --- Separador de sección: diagonal en la parte superior del hero
+       (la sección anterior, blanca, entra en diagonal en el hero gris) --- */
 .hero-area {
-  padding-bottom: 92px;
+  padding-top: 88px;
 }
 
-.hero-area::after {
+.hero-area::before {
   content: "";
   position: absolute;
   left: 0;
   right: 0;
-  bottom: -1px;
+  top: -1px;
   height: 60px;
   background: #fff;
-  -webkit-clip-path: polygon(0 100%, 100% 0, 100% 100%);
-  clip-path: polygon(0 100%, 100% 0, 100% 100%);
+  -webkit-clip-path: polygon(0 0, 100% 0, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 0 100%);
   z-index: 2;
   pointer-events: none;
 }

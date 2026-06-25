@@ -56,7 +56,7 @@
   </div>
 
   <div class="footer-bottom">
-    <p>© 2020-2025. {{ if eq .Site.Language.Lang "es" }}Algunos derechos reservados. Los contenidos de este sitio web se distribuyen bajo una <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">licencia Creative Commons Atribución-Compartir Igual Internacional 4.0</a>, salvo donde se indique lo contrario, o cuando haya derechos previos sobre las obras incluidas. {{ else }}Some rights reserved. The contents of this website are distributed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike International 4.0</a> license, except where otherwise indicated, or where there are prior rights to the works included{{ end }}</p>
+    <p>© 2020-{{ now.Year }}. {{ if eq .Site.Language.Lang "es" }}Algunos derechos reservados. Los contenidos de este sitio web se distribuyen bajo una <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">licencia Creative Commons Atribución-Compartir Igual Internacional 4.0</a>, salvo donde se indique lo contrario, o cuando haya derechos previos sobre las obras incluidas. {{ else }}Some rights reserved. The contents of this website are distributed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike International 4.0</a> license, except where otherwise indicated, or where there are prior rights to the works included{{ end }}</p>
     <h6>
       {{ if eq .Site.Language.Lang "es" }}
         Basado en un tema de <a href="https://themefisher.com/hugo-themes/" target="_blank">Themefisher</a>.
