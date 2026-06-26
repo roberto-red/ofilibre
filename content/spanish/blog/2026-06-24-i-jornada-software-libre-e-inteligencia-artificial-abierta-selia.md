@@ -40,3 +40,8 @@ Nos vemos en Fuenlabrada 💚
 * **Twitter/X:** [@OfiLibreURJC](https://x.com/OfiLibreURJC)
 * **Telegram:** <https://t.me/ofilibreurjc>
 * **Instagram:** [@ofilibreurjc](https://www.instagram.com/ofilibreurjc/)
+
+# Cartel
+
+* [Cartel en PDF (A3)](/blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/selia-cartel-a3.pdf)
+* [Cartel en PDF (A4)](/blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/selia-cartel-a4.pdf)
