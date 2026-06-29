@@ -16,11 +16,7 @@ test:  # builds and tests your site
 
 pages:  # a predefined job that builds your pages and saves them to the specified path.
   script:
-    # $CI_PAGES_URL es la URL real de GitLab Pages de este proyecto.
-    # Así el preview funciona sin tocar el baseURL de producción del config.toml.
-    # Para el dominio definitivo (ofilibre.urjc.es), basta con quitar --baseURL
-    # y configurar el dominio en Settings > Pages.
-    - hugo --buildDrafts --buildFuture --baseURL "$CI_PAGES_URL"
+    - hugo --buildDrafts --buildFuture
   artifacts:
     paths:
       - public
