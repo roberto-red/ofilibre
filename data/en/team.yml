@@ -3,17 +3,17 @@ topTitle: Current members of the office
 title   : OfiLibre Team
 
 member  :
-  - image         : /images/about/equipo/jgb.jpg
+  - image         : /images/about/equipo/jgb.webp
     name          : Jesús González Barahona
     designation   : OfiLibre Coordinator
     URJCprofile   : https://servicios.urjc.es/pdi/ver/jesus.gonzalez_barahona
 
-  - image         : /images/about/equipo/fc.png
+  - image         : /images/about/equipo/fc.webp
     name          : Florencia Claes
     designation   : Open Knowledge Coordinator at OfiLibre
     URJCprofile   : https://servicios.urjc.es/pdi/ver/florencia.claes
 
-  - image         : /images/about/equipo/tz.jpeg
+  - image         : /images/about/equipo/tz.webp
     name          : Tomás Zarza
     designation   : Open Publishing Coordinator at OfiLibre
     URJCprofile   : https://servicios.urjc.es/pdi/ver/tomas.zarza
