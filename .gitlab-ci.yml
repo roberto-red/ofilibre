@@ -16,7 +16,10 @@ test:  # builds and tests your site
 
 pages:  # a predefined job that builds your pages and saves them to the specified path.
   script:
-    - hugo --buildDrafts --buildFuture
+    # baseURL propio de GitLab Pages: sin esto los assets/enlaces apuntarían al
+    # baseURL de config.toml (ofilibre.urjc.es, la producción en Netlify) y la web
+    # servida en ofilibre.gitlab.io cargaría CSS/JS cross-domain y se vería rota.
+    - hugo --buildDrafts --buildFuture --baseURL "$CI_PAGES_URL"
   artifacts:
     paths:
       - public
