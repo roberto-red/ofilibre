@@ -9,7 +9,7 @@
             <div class="col-md-12">
                 <nav class="navbar navbar-expand-lg">
                     <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
-                        <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" style="height: 60px; width: 240px;">
+                        <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="navbar-logo">
                     </a>
                     <div class="d-flex align-items-center">
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
@@ -22,14 +22,14 @@
                     </div>
                     <div class="collapse navbar-collapse" id="navigation">
                         <ul class="navbar-nav ml-auto">
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{ "/" | relLangURL }}">
+                            <li class="nav-item{{ if .IsHome }} active{{ end }}">
+                                <a class="nav-link" href="{{ "/" | relLangURL }}"{{ if .IsHome }} aria-current="page"{{ end }}>
                                     {{ with .Site.Params.home }}{{ . }}{{ end }}
                                 </a>
                             </li>
                                 {{ range site.Menus.nav }}
                                 {{ if .HasChildren }}
-                                    <li class="nav-item dropdown">
+                                    <li class="nav-item dropdown{{ if $.HasMenuCurrent "nav" . }} active{{ end }}">
                                     <a class="nav-link dropdown-toggle" href="{{ .URL | relLangURL }}" role="button" data-toggle="dropdown"
                                         aria-haspopup="true" aria-expanded="false" onclick="window.location.href=this.href">
                                         {{ .Name }}
@@ -48,8 +48,8 @@
                                         </a>
                                     </li>
                                     {{ else }}
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a>
+                                    <li class="nav-item{{ if $.IsMenuCurrent "nav" . }} active{{ end }}">
+                                        <a class="nav-link" href="{{ .URL | absLangURL }}"{{ if $.IsMenuCurrent "nav" . }} aria-current="page"{{ end }}>{{ i18n .Name }}</a>
                                     </li>
                                     {{ end }}
                                     {{ end }}

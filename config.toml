@@ -1,6 +1,6 @@
 baseURL = "https://ofilibre.urjc.es"
 languageCode = "es-es"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "OfiLibre URJC"
 theme = "navigator-hugo"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
@@ -10,8 +10,8 @@ enableGitInfo = false
 pygmentsCodeFences = true
 googleAnalytics = ""
 
-author = "Themefisher"
-description = "This is meta description"
+author = "OfiLibre URJC"
+description = "Oficina de Conocimiento y Cultura Libres de la Universidad Rey Juan Carlos: ayudamos a la comunidad universitaria a comprender y aplicar la cultura libre, la publicación en abierto, los datos abiertos y el software libre."
 
 [taxonomies]
   category = "categories"
@@ -43,7 +43,7 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader/preloader.gif"
 
 # cookies

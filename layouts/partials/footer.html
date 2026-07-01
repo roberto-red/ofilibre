@@ -38,6 +38,17 @@
 
         <div class="col-sm-3 col-md-3 col-lg-3 text-right">
           <img src="{{ "images/logos/banner-urjc.png" | absURL }}" alt="Logo Blanco" style="max-width: 300px; height: auto;">
+          {{ $contact := cond (eq $lang "es") .Site.Params.contacto .Site.Params.contact }}
+          {{ with $contact }}
+          <ul class="list-inline footer-social">
+            {{ with .x }}<li><a href="{{ . }}" title="X" target="_blank" rel="noopener"><i class="fab fa-x-twitter"></i></a></li>{{ end }}
+            {{ with .mastodon }}<li><a href="{{ . }}" title="Mastodon" target="_blank" rel="noopener"><i class="fab fa-mastodon"></i></a></li>{{ end }}
+            {{ with .telegram }}<li><a href="{{ . }}" title="Telegram" target="_blank" rel="noopener"><i class="fab fa-telegram-plane"></i></a></li>{{ end }}
+            {{ with .instagram }}<li><a href="{{ . }}" title="Instagram" target="_blank" rel="noopener"><i class="fab fa-square-instagram"></i></a></li>{{ end }}
+            {{ with .gitlab }}<li><a href="{{ . }}" title="GitLab" target="_blank" rel="noopener"><i class="fab fa-gitlab"></i></a></li>{{ end }}
+            {{ with .rss }}<li><a href="{{ . }}" title="RSS"><i class="fas fa-rss"></i></a></li>{{ end }}
+          </ul>
+          {{ end }}
         </div>
 
       </div>
@@ -45,7 +56,7 @@
   </div>
 
   <div class="footer-bottom">
-    <p>© 2020-2025. {{ if eq .Site.Language.Lang "es" }}Algunos derechos reservados. Los contenidos de este sitio web se distribuyen bajo una <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">licencia Creative Commons Atribución-Compartir Igual Internacional 4.0</a>, salvo donde se indique lo contrario, o cuando haya derechos previos sobre las obras incluidas. {{ else }}Some rights reserved. The contents of this website are distributed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike International 4.0</a> license, except where otherwise indicated, or where there are prior rights to the works included{{ end }}</p>
+    <p>© 2020-{{ now.Year }}. {{ if eq .Site.Language.Lang "es" }}Algunos derechos reservados. Los contenidos de este sitio web se distribuyen bajo una <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">licencia Creative Commons Atribución-Compartir Igual Internacional 4.0</a>, salvo donde se indique lo contrario, o cuando haya derechos previos sobre las obras incluidas. {{ else }}Some rights reserved. The contents of this website are distributed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike International 4.0</a> license, except where otherwise indicated, or where there are prior rights to the works included{{ end }}</p>
     <h6>
       {{ if eq .Site.Language.Lang "es" }}
         Basado en un tema de <a href="https://themefisher.com/hugo-themes/" target="_blank">Themefisher</a>.
@@ -73,12 +84,9 @@
 <script src="{{ `plugins/filterzr/jquery.filterizr.min.js` | absURL }}"></script>
 {{ "<!-- Smooth Scroll js -->" | safeHTML }}
 <script src="{{ `plugins/smooth-scroll/dist/js/smooth-scroll.min.js` | absURL }}"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
 {{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
-
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+{{ $script := resources.Get "js/script.js" | minify | fingerprint }}
+<script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
 
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>

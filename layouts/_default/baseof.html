@@ -2,12 +2,17 @@
 <html class="no-js" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
     <body id="body">
+        <a href="#content" class="skip-link">{{ if eq .Site.Language.Lang "es" }}Saltar al contenido{{ else }}Skip to content{{ end }}</a>
+        <div id="reading-progress" role="progressbar" aria-label="{{ if eq .Site.Language.Lang "es" }}Progreso de lectura{{ else }}Reading progress{{ end }}" hidden></div>
         {{ partial "preloader.html" . }}
         {{- partial "header.html" . -}}
-        <div id="content">
+        <div id="content" tabindex="-1">
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}
-        
+
+        <button id="back-to-top" type="button" aria-label="{{ if eq .Site.Language.Lang "es" }}Volver arriba{{ else }}Back to top{{ end }}">
+            <i class="fas fa-arrow-up" aria-hidden="true"></i>
+        </button>
     </body>
 </html>

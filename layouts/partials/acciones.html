@@ -15,33 +15,25 @@
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-lg-10 mx-auto">
-              {{ range .item }}
-                <div class="activities-item mb-4">
-                  <div class="row align-items-center">
-                    {{ if .link }}
-                      <a href="{{ .link | relLangURL }}" style="text-decoration: none; color: inherit;" class="d-flex align-items-center w-100">
+          <div class="row justify-content-center">
+            {{ range .item }}
+              {{ $a := . }}
+              <div class="col-12 col-sm-6 col-lg-4 mb-4 d-flex">
+                <article class="post-item activities-card w-100">
+                  {{ if $a.link }}<a href="{{ $a.link | relLangURL }}" class="activities-card-link">{{ end }}
+                    {{ with $a.image }}
+                      <div class="post-thumb--ratio">
+                        <img src="{{ partial "resolve-image" . }}" alt="{{ $a.title }}" loading="lazy" decoding="async">
+                      </div>
                     {{ end }}
-
-                    <div class="col-md-3 mb-3 mb-md-0">
-                      {{ with .image }}
-                        <img class="img-fluid rounded shadow activities-image" src="{{ partial "resolve-image" . }}" alt="a">
-                      {{ end }}
+                    <div class="activities-card-body">
+                      <h4>{{ $a.title }}</h4>
+                      <div class="description small">{{ $a.description | markdownify }}</div>
                     </div>
-
-                    <div class="col-md-9">
-                      <h4 class="mb-2">{{ .title }}</h4>
-                      <div class="description small">{{ .description | markdownify }}</div>
-                    </div>
-
-                    {{ if .link }}
-                      </a>
-                    {{ end }}
-                  </div>
-                </div>
-              {{ end }}
-            </div>
+                  {{ if $a.link }}</a>{{ end }}
+                </article>
+              </div>
+            {{ end }}
           </div>
         </div>
     </section>

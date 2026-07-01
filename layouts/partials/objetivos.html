@@ -2,12 +2,12 @@
 {{ $goals := cond (eq .Site.Language.Lang "es") $data.es.objetivos $data.en.goals }}
 {{ with $goals }}
     {{ if .enable }}
-    {{ "<!-- Goals section start -->" | safeHTML }}
-    <section class="ofilibre-mission-vision section">
+    {{ "<!-- Goals section start (scrollytelling) -->" | safeHTML }}
+    <section class="ofilibre-mission-vision section scrolly" id="lineas-actuacion">
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <div class="title">
+                    <div class="title text-center">
                         {{ with .topTitle }}<h4>{{ . }}</h4>{{ end }}
                         {{ with .title }}
                         <h2>{{ . }}</h2>
@@ -17,32 +17,35 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="commonTab">
-                        <ul class="nav nav-tabs justify-content-center" id="myTab">
-                            {{ range $index, $element := .tabItem }}
-                            <li class="nav-item">
-                                <a class="nav-link {{ if eq $index 0 }}active{{ end }}" id="{{ .id }}-tab" data-toggle="tab" href="#{{.id}}">{{ .title }}</a>
-                            </li>
-                            {{ end }}
-                        </ul>
-                        <div class="tab-content" id="myTabContent">
-                            {{ range $index, $element := .tabItem }}
-                            <div class="tab-pane fade {{ if eq $index 0 }}show active{{ end }}" id="{{ .id }}">
-                                <div class="row">
-                                    <div class="col-md-6 align-self-center">
-                                        {{ with .heading }}<h2>{{ . }}</h2>{{ end }}
-                                        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-                                    </div>
-                                    <div class="col-md-6">
-                                        <img class="img-fluid rounded shadow" src="{{ partial "resolve-image" .image }}" alt="tab-image">
-                                    </div>
-                                </div>
-                            </div>
+
+            <div class="row scrolly-grid">
+                {{ "<!-- Columna visual sticky (solo con JS) -->" | safeHTML }}
+                <div class="col-lg-6 scrolly-visual-col">
+                    <div class="scrolly-sticky">
+                        {{ range $i, $e := .tabItem }}
+                        <figure class="scrolly-figure {{ if eq $i 0 }}is-active{{ end }}" data-figure="{{ $i }}">
+                            <img class="img-fluid rounded shadow" src="{{ partial "resolve-image" .image }}" alt="{{ .title }}">
+                            <figcaption>{{ .title }}</figcaption>
+                        </figure>
+                        {{ end }}
+                        <div class="scrolly-progress" aria-hidden="true">
+                            {{ range $i, $e := .tabItem }}
+                            <span class="scrolly-dot {{ if eq $i 0 }}is-active{{ end }}" data-dot="{{ $i }}"></span>
                             {{ end }}
                         </div>
                     </div>
+                </div>
+
+                {{ "<!-- Pasos (texto). Las imágenes inline son el fallback sin JS -->" | safeHTML }}
+                <div class="col-lg-6 scrolly-steps">
+                    {{ range $i, $e := .tabItem }}
+                    <article class="scrolly-step {{ if eq $i 0 }}is-active{{ end }}" data-step="{{ $i }}" id="{{ .id }}">
+                        <span class="scrolly-step-index">{{ printf "%02d" (add $i 1) }}</span>
+                        {{ with .title }}<h3>{{ . }}</h3>{{ end }}
+                        <img class="scrolly-step-img img-fluid rounded shadow" src="{{ partial "resolve-image" .image }}" alt="{{ .title }}" loading="lazy" decoding="async">
+                        {{ with .content }}<div class="scrolly-step-body">{{ . | safeHTML }}</div>{{ end }}
+                    </article>
+                    {{ end }}
                 </div>
             </div>
         </div>

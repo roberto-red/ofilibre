@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-lg-8 text-center">
-        <h1 style="color:#cb0017;">{{ .Title }}</h1>
+        <h1 class="text-brand">{{ .Title }}</h1>
       </div>
     </div>
     <div class="row justify-content-center">
@@ -13,8 +13,8 @@
         <ul class="list-unstyled">
           {{ range .Pages }}
             <li>
-              <a href="{{ .RelPermalink }}" class="d-block mb-3 p-3 border rounded shadow-sm text-decoration-none text-dark" style="transition: 0.2s;">
-                <strong style="color: #cb0017;">{{ .Title }}</strong><br>
+              <a href="{{ .RelPermalink }}" class="d-block mb-3 p-3 border rounded shadow-sm text-decoration-none text-dark">
+                <strong class="text-brand">{{ .Title }}</strong><br>
                 <small>{{ .Params.description | default .Summary | truncate 120 }}...</small>
               </a>
             </li>
