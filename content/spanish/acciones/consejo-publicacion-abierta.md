@@ -7,6 +7,8 @@ url: /acciones/consejo-publicacion-abierta/
 ---
 
 * [Miembros del Consejo](miembros)
+* [29 de junio de 2026](2026-06-29)
+* [23 de enero de 2026](2026-01-23)
 * [18 de febrero de 2025](2025-02-18)
 * [5 de julio de 2024](2024-07-05)
 * [7 de junio de 2023](2023-06-07)
