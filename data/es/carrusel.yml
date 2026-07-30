@@ -1,7 +1,15 @@
+
 enable    : true
 topTitle  : Novedades en la OfiLibre
 title     : Convocatorias abiertas y enlaces de interés
 item  :
+
+  - icon  : fas fa-chalkboard
+    title : Convocatoria de Materiales Docentes en Abierto 2026-2027
+    link  : /guias/convocatoria-asignaturas-abierto/
+    description : >
+      Convocatoria para reconocer el esfuerzo de creación de materiales docentes en acceso abierto, para personal docente de la URJC.
+
   - icon  : fas fa-graduation-cap
     title : MOOC sobre Ciencia Abierta y Cultura Libre
     link  : https://urjcx.urjc.es/courses/cultura-libre-y-ciencia-abierta/
@@ -12,7 +20,13 @@ item  :
     title : Café con OfiLibre
     link  : /acciones/cafes
     description : >
-      Todos los miércoles lectivos, a las 10:00, nos vemos durante 15 minutos en el Café con la OfiLibre, por streaming. Un rato para charlar de forma relajada sobre los temas que nos preocupan. Cada día tratamos un tema: sólo tienes que conectarte y escuchar. Y participar, si te apetece. Puedes ver también las grabaciones de los cafés pasados.
+      Miércoles a las 10:00, 15 minutos en directo: un rato para charlar de forma relajada sobre los temas que nos preocupan. Sólo tienes que conectarte, escuchar y participar, si te apetece. Puedes ver también las grabaciones de los cafés pasados.
+
+  - icon  : fas fa-chalkboard
+    title : Asignaturas en Abierto
+    link  : https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto
+    description : >
+      Asignaturas en abierto de nuestra Universidad: materiales docentes en abierto para todo el mundo.
 
   - icon  : fas fa-box-archive
     title : ¡Tenemos BURJC Digital renovado!
@@ -25,9 +39,3 @@ item  :
     link  : https://monografias.urjc.es/
     description : >
       Monografías publicadas por la Editorial Academia Abierta de nuestra Universidad, todas en acceso abierto.
-
-  - icon  : fas fa-chalkboard
-    title : Asignaturas en Abierto
-    link  : https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto
-    description : >
-      Asignaturas en abierto de nuestra Universidad: materiales docentes en abierto para todo el mundo.

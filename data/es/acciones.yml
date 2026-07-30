@@ -3,12 +3,6 @@ topTitle  : Iniciativas y actividades en el marco de la cultura libre
 title     : Acciones de la OfiLibre
 item      :
 
-  - image : /images/acciones/consejo-pa.png
-    title : Consejo de Publicación Abierta
-    link  : /acciones/consejo-publicacion-abierta/
-    description : >
-      Actas y documentos relativos a las reuniones del Consejo de Publicación Abierta.
-
   - image : /images/acciones/normativa.png
     title : Normativa relacionada con OfiLibre
     link  : /acciones/normativa/
@@ -19,16 +13,23 @@ item      :
     title : Café con OfiLibre
     link  : /acciones/cafes/
     description : >
-      Unos minutos de cada semana dedicados a charlar sobre la cultura libre, la publicación en acceso abierto, el software libre y los datos abiertos, entre otros temas que nos preocupan.
+      Unos minutos de cada semana dedicados a charlar sobre la cultura libre, la ciencia abierta, y las actividades que se desarrollan dentro y fuera de la Universidad alrededor de estos temas.
 
   - image : /images/acciones/jornadas.png
-    title : Jornadas de Cultura Libre
+    title : Jornadas de Cultura Libre y Ciencia Abierta
     link  : /acciones/jornadas/
     description : >
-     Jornadas de Cultura Libre: unos días para celebrar la cultura libre, la publicación en abierto, los datos abiertos y el software libre, entre otros temas que nos preocupan.
+     Unos días para celebrar la cultura libre, la ciencia abierta, la publicación en abierto, los datos abiertos y el software libre, entre otros temas que nos preocupan.
 
   - image : /images/acciones/asignaturas-abierto.png
-    title : Asignaturas en abierto
-    link  : /acciones/asignaturas_abierto/
+    title : Materiales Docentes en Abierto
+    link  : /acciones/materiales-docentes-abierto/
     description : >
-      Materiales relacionados con Programa de Asignaturas en Abierto de la URJC
+      Convocatoria de Materiales Docentes en Abierto de la URJC, que promueve la ceración de materiales doncentes de calidad publicados en acceso abierto.
+
+  - image : /images/acciones/consejo-pa.png
+    title : Consejo de Publicación Abierta
+    link  : /acciones/consejo-publicacion-abierta/
+    description : >
+      Actas y documentos relativos a las reuniones del Consejo de Publicación Abierta.
+

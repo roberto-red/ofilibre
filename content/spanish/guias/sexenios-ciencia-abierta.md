@@ -1,6 +1,5 @@
 ---
 title: Sexenios y Ciencia Abierta
-image: /local/images/guias/logo-ofilibre.png
 date: 2024-01-17
 type: guias
 image: /local/images/logo-ofilibre-2025.jpg

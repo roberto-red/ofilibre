@@ -12,12 +12,12 @@ tags:
 
 **¡Atención!: [video de ayuda a la preparación y depósito de materiales presentados a esta convocatoria](https://tv.urjc.es/video/6a69c19a7a28bbe956023382), disponible en TV URJC**
 
-<iframe src='https://tv.urjc.es/iframe/68e77f01838899c4740f1c78' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
+<iframe src='https://tv.urjc.es/iframe/6a69c19a7a28bbe956023382' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
 
 
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
-El miércoles 16 de septiembre, a las 13:00, tendrá lugar una sesión en la que presentaremos la convocatoria y trataremos de responder a todas tus preguntas sobre ella.
+El miércoles 16 de septiembre de 2026, a las 13:00, tendrá lugar una sesión en la que presentaremos la convocatoria y trataremos de responder a todas tus preguntas sobre ella.
 
 * [Enlace a la sesión de Teams](https://teams.microsoft.com/meet/393770374092054?p=ZI8jPz3sLBt5ngOuS3)
 
@@ -28,7 +28,7 @@ El miércoles 16 de septiembre, a las 13:00, tendrá lugar una sesión en la que
 ### Solicitudes
 
 * Asignaturas de primer y segundo cuatrimestre: Hasta el 18 de enero de 2027 (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de enero, incluido).
-* [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2026-2027".
+* [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2026-2027". Estará abierto a partir del 24 de agosto de 2026.
 
 ### Material auxiliar
 

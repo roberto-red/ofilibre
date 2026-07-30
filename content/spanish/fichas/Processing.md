@@ -23,9 +23,9 @@ tutorials:
     kind: video
 others:
 screenshots:
-    name: Captura de Processing
+  - name: Captura de Processing
     file: captura.png
-    name: Captura de Processing
+  - name: Captura de Processing
     file: captura2.png
 date: 2019-04-08
 type: fichas
