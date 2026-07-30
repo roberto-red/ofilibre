@@ -27,7 +27,7 @@ Tenemos la seguridad de que su dedicación y creatividad nos permitirán seguir 
 
 Si quieres saber más sobre nuestro trabajo o visitarnos:  
 
-* **Oficina:** Despacho 011, Edificio de Rectorado, Campus de Móstoles.  
+* **Oficina:** Despacho 005, Edificio de Rectorado, Campus de Móstoles.  
 * **Web:** <https://ofilibre.urjc.es/>  
 * **Twitter:** [@OfiLibreURJC](https://x.com/OfiLibreURJC)  
 * **Mastodon:** [@OfiLibreURJC@floss.social](https://floss.social/@ofilibreurjc)

@@ -26,7 +26,7 @@ Jesús González Barahona y Francisco Gortázar han estado al frente de la OfiLi
 ### Pero… ¿y dónde está la OfiLibre?
 
 
-* En el despacho 011 del edificio de rectorado en Móstoles. 
+* En el despacho 005 del edificio de rectorado en Móstoles. 
 * Web: https://ofilibre.urjc.es/ 
 * Twitter: https://twitter.com/OfiLibreURJC 
 * Mastodon (http://floss.social): @OfiLibreURJC

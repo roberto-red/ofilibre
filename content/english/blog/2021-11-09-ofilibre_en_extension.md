@@ -29,7 +29,7 @@ Jesús González Barahona and Francisco Gortázar have been at the helm of OfiLi
 ### But... where is OfiLibre?
 
 
-* In office 011 of the Rectorate building in Móstoles.
+* In office 005 of the Rectorate building in Móstoles.
 * Web: https://ofilibre.urjc.es/ 
 * Twitter: https://twitter.com/OfiLibreURJC 
 * Mastodon (http://floss.social): @OfiLibreURJC

@@ -29,7 +29,7 @@ We welcome you to the team! We are eager to see all the ideas and projects we wi
 
 If you want to know more about our work or visit us:
 
-*   **Office:** Room 011, Rectorate Building, Móstoles Campus.
+*   **Office:** Room 005, Rectorate Building, Móstoles Campus.
     
 *   **Web:** [https://ofilibre.urjc.es/](https://ofilibre.urjc.es/)  
     

@@ -36,6 +36,6 @@ From OfiLibre, we applaud this initiative as a key step towards raising awarenes
 With this edition, URJC once again demonstrates its leadership in promoting culture and knowledge, encouraging more members of its university community to participate in future editions and join the movement for an open and accessible culture for all.
 
 **OfiLibre**
-Office 011, ground floor, Rectorate building. C/ Tulipán s/n, 28933 Móstoles (Madrid)
+Office 005, ground floor, Rectorate building. C/ Tulipán s/n, 28933 Móstoles (Madrid)
 **Email:** [ofilibre@urjc.es](mailto:ofilibre@urjc.es)
 **Web:** [https://ofilibre.urjc.es](https://ofilibre.urjc.es)

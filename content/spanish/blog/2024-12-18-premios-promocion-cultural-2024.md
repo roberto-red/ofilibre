@@ -39,7 +39,7 @@ Desde la OfiLibre, se aplaude esta iniciativa como un paso clave hacia la sensib
 Con esta edición, la URJC demuestra una vez más su liderazgo en la promoción de la cultura y el conocimiento, alentando a más miembros de su comunidad universitaria a participar en las próximas ediciones y sumarse al movimiento por una cultura abierta y accesible para todos.
 
 **Oficina de Cultura, Software y Conocimiento Libre (OfiLibre)**  
-Despacho 011, planta baja edificio Rectorado. C/ Tulipán s/n, 28933 Móstoles (Madrid)  
+Despacho 005, planta baja edificio Rectorado. C/ Tulipán s/n, 28933 Móstoles (Madrid)  
 **Correo electrónico:** [ofilibre@urjc.es](mailto:ofilibre@urjc.es)  
 **Web:** [https://ofilibre.urjc.es](https://ofilibre.urjc.es)
 
