@@ -34,6 +34,7 @@ El miércoles 16 de septiembre de 2026, a las 13:00, tendrá lugar una sesión e
 
 * [Video de ayuda a la preparación y depósito de materiales presentados a esta convocatoria](https://tv.urjc.es/video/6a69c19a7a28bbe956023382)
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
+* [Página general con información sobre las últimas convocatorias](/acciones/materiales-docentes-abierto/)
 
 ### Características principales
 
