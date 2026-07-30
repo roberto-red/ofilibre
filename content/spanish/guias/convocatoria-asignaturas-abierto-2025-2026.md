@@ -1,7 +1,7 @@
 ---
-title: Reconocimiento de publicación de materiales docentes en abierto 2026-2027
-date: 2026-07-28
-description: Reconocimiento de publicación de materiales docentes en abierto 2026-2027
+title: Reconocimiento de publicación de materiales docentes en abierto 2025-2026
+date: 2025-06-05
+description: Reconocimiento de publicación de materiales docentes en abierto 2025-2026
 image: /local/images/logo-ofilibre-2025.jpg
 type: guias
 categories:
@@ -10,50 +10,63 @@ categories:
 tags:
 ---
 
-**¡Atención!: [video de ayuda a la preparación y depósito de materiales presentados a esta convocatoria](https://tv.urjc.es/video/6a69c19a7a28bbe956023382), disponible en TV URJC**
+**¡Atención!: Esta guía corresponde a la convocatoria de un curso pasado (2025-2026)**
+
+[Video de la sesión de dudas y preguntas](https://tv.urjc.es/video/68f60cfc83889984ea2621f1) del viernes 17 de octubre de 2025, disponible en TV URJC.
 
 <iframe src='https://tv.urjc.es/iframe/68e77f01838899c4740f1c78' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
 
 
 ### ¡Resolvemos tus dudas sobre la convocatoria!
 
-El miércoles 16 de septiembre, a las 13:00, tendrá lugar una sesión en la que presentaremos la convocatoria y trataremos de responder a todas tus preguntas sobre ella.
+El martes 3 de junio tuvo lugar una sesión en la que tratamos de presentar la convocatoria y responder a todas tus preguntas sobre la convocatoria. Ya sea que estés empezando a informarte o que ya tengas una propuesta en marcha, es muy posible que el video de esta sesión te interese.
 
-* [Enlace a la sesión de Teams](https://teams.microsoft.com/meet/393770374092054?p=ZI8jPz3sLBt5ngOuS3)
+* [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+* [Transparencias utilizadas durante la sesión](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
 
-### Texto de la convocatoria
+El viernes 17 de octubre tuvo lugar una sesión de resolución de dudas y preguntas.
 
-* [Documento que describe la Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2026-2027](https://sede.urjc.es/convocatorias), aprobado por el Consejo de Gobierno del 22 de julio de 2026 ([copia alojada en este sitio web](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf)).
+* [Video de la sesión](https://tv.urjc.es/video/68f60cfc83889984ea2621f1)
+
+### Convocatoria
+
+Convocatorias en la [sede virtual de la Universidad, sección de convocatorias](https://sede.urjc.es/convocatorias). (También puedes descargarlo directamente haciendo [clic aquí](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf))
 
 ### Solicitudes
 
-* Asignaturas de primer y segundo cuatrimestre: Hasta el 18 de enero de 2027 (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de enero, incluido).
-* [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2026-2027".
+* Asignaturas primer cuatrimestre: Hasta el 17 de noviembre de 2025 para asignaturas del primer cuatrimestre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 15 de noviembre, incluido).
+* Asignaturas segundo cuatrimestre: Hasta el 16 de febrero de 2026 para asignaturas del segundo cuatrimestre  (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 14 de febrero, incluido).
+* [Formularios de solicitud](https://sede.urjc.es/en/convocatorias): en la sección de convocatorias, busca "Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2025-2026", de primer o segundo cuatrimestre, según sea la asignatura
 
 ### Material auxiliar
 
-* [Video de ayuda a la preparación y depósito de materiales presentados a esta convocatoria](https://tv.urjc.es/video/6a69c19a7a28bbe956023382)
+* Material de la sesión de presentaciòn del 3 de junio de 2025:
+
+  * [Video de la sesión](https://tv.urjc.es/video/684038a5b0e0d0c7eb0ec512)
+  * [Transparencias utilizadas durante la sesión](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto-2025-2026.pdf)
+* [Infografía-resumen de la convocatoria](/documentos/convocatoria-asignaturas-abierto-2025-2026-infografia.pdf)
+* [Guía-resumen para rellenar el formulario de solicitud](/documentos/guiaFormularioSolicitud_25_26.pdf)  
 * Ejemplos de asignaturas en acceso abierto reconocidas en convocatorias anteriores: [Zona de asignaturas en acceso abierto del aula virtual de la Universidad](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto).
 
 ### Características principales
 
-Esta quinta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa del Vicerrectorado de Investigación, Doctorado y Biblioteca, con la colaboración de otros Vicerrectorados, y otros órganos de la Universidad.
+Esta cuarta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado.
 
-Los detalles de la convocatoria pueden consultarse en el documento aprobado por Consejo de Gobierno (ver enlace más arriba). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
+Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2025-2026](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y la convocatoria, tendrá validez la convocatoria, que es el oficialmente publicado por la Universidad.
 
 ### Objeto
 
-Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2026-2027.
+Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2025-2026.
 
 ### Participación
 
-La participación en esta convocatoria se hace proponiendo asignaturas de grado o máster, de docencia oficial en la URJC durante el curso 2026-2027. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
+La participación en esta convocatoria se hace proponiendo asignaturas del [aula virtual de la URJC](https://aulavirtual.urjc.es), que tendrán que ser de docencia oficial en un grado o máster universitario de la URJC durante el curso 2025-2026. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
 
 ### Publicación de materiales en acceso abierto
 
 Los materiales que se sometan a evaluación deben tener en [lugar visible la licencia bajo la que se publican](/blog/publicar-abierto/), que tendrá que ser una de las licencias de publicación en acceso abierto aprobadas por el Consejo de Publicación Abierta de la URJC, con el consentimiento de todos sus autores (licencias [Atribución](https://creativecommons.org/licenses/by/4.0/deed.es) o [Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es) de Creative Commons).
 
-Los materiales en formato bibliográfico (guías, apuntes, colecciones de problemas y ejercicios, colecciones de exámenes, presentaciones, etc.) deben publicarse en el repositorio abierto institucional, [BURJC Digital](https://burjcdigital.urjc.es), en un único depósito. Los vídeos y audios deben subirse a [TV URJC](https://tv.urjc.es/).
+Los materiales en formato bibliográfico (guías, apuntes, colecciones de problemas y ejercicios, colecciones de exámenes, presentaciones, etc.) deben publicarse en el repositorio abierto institucional, [BURJC Digital](https://burjcdigital.urjc.es). Los vídeos y audios deben subirse a [TV URJC](https://tv.urjc.es/).
 
 Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y vídeos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://urjc.atlassian.net/wiki/spaces/BDCP/pages/9899928/Procedimiento+de+subida+de+v+deos+Convocatoria+para+el+reconocimiento+de+publicaci+n+de+asignaturas+en+acceso+abierto).
 
@@ -101,7 +114,7 @@ Para todos los materiales que se depositen en BURJC Digital con idea de presenta
 ```
 Material docente en abierto de la Universidad Rey Juan Carlos
 
-©2026 Autora Mengánez Zutánez  
+©2025 Autora Mengánez Zutánez  
 Algunos derechos reservados  
 Este documento se distribuye bajo la licencia  
 “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
@@ -134,7 +147,7 @@ Este es un ejemplo:
 ![](https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master/local/images/cc-by-sa-miniatura.jpg)
 
 ```
-©2026 Autora Hermenegilda Gómez Stravinsky
+©2024 Autora Hermenegilda Gómez Stravinsky
 
 Algunos derechos reservados 
 
