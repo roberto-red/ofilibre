@@ -74,7 +74,7 @@ A la convocatoria se podrán presentar asignaturas individuales, entendiendo com
 
 Para formalizar la solicitud para una asignatura o grupo de asignaturas, una vez sus materiales se hayan publicado en abierto, la realizará el responsable de grupo de actas de una de las asignaturas agrupadas (según figure en el Plan de Ordenación Docente) rellenando los datos solicitados en el procedimiento de solicitud para esta convocatoria que se encuentra en la sede electrónica de la Universidad (ver enlace al principio de este documento).
 
-Las asignaturas que se impartan durante el primer cuatrimestre podrán presentarse hasta el día 17 de noviembre de 2025, y las que se impartan durante el segundo cuatrimestre, hasta el 16 de febrero de 2026.
+Las solicitudes podrán presentarse hasta el día 18 de enero de 2027.
 
 ### Resolución de dudas
 
