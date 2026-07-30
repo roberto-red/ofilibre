@@ -23,7 +23,7 @@ El miércoles 16 de septiembre, a las 13:00, tendrá lugar una sesión en la que
 
 ### Texto de la convocatoria
 
-* [Documento que describe la Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2026-2027](https://sede.urjc.es/convocatorias), aprobado por el Consejo de Gobierno del 22 de julio de 2026 ([copia alojada en este sitio web](/documentos/convocatoria-asignaturas-abierto-2025-2026.pdf)).
+* [Documento que describe la Convocatoria para el reconocimiento de la publicación en acceso abierto de materiales docentes del curso 2026-2027](https://sede.urjc.es/convocatorias), aprobado por el Consejo de Gobierno del 22 de julio de 2026 ([copia alojada en este sitio web](/documentos/convocatoria-asignaturas-abierto-2026-2027.pdf)).
 
 ### Solicitudes
 
