@@ -11,13 +11,13 @@ tags:
   - wikimedia;wikipedia;materialesdocentesenabierto;
 image: /blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo.png
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ image: /blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +638,9 @@ image: /blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,48 +663,42 @@ image: /blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1026"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
-La semana pasada tuvimos la oportunidad de presentar en [Wikimanía -encuentro mundial de la comunidad wikipedista](<https://wikimania.wikimedia.org/wiki/2026:Wikimania/es>)- la convocatoria de Materiales docentes en abierto de nuestra universidad en la mesa titulada *New Frontiers in Higher Education Wiki Collaboration*. [](<https://wikimedia.eventyay.com/wm/wikimania2026/talk/RBRBX9/>)
-
- 
+La semana pasada tuvimos la oportunidad de presentar en [Wikimanía -encuentro mundial de la comunidad wikipedista](https://wikimania.wikimedia.org/wiki/2026:Wikimania/es)- la convocatoria de Materiales docentes en abierto de nuestra universidad en la mesa titulada *New Frontiers in Higher Education Wiki Collaboration*. [](https://wikimedia.eventyay.com/wm/wikimania2026/talk/RBRBX9/)
 
 Wikimanía (que este año tuvo lugar en París) es un encuentro anual donde, personas voluntarias, colectivos, asociaciones e instituciones se encuentran para compartir, debatir y crecer juntos en torno al Conocimiento libre y los proyectos Wikimedia, donde Wikipedia es el más conocido.
 
-[Andrew Lih](<https://www.andrewlih.com/>), [](https://www.andrewlih.com/)wikipedista residente en el Instituto Tecnológico de Massachussetts (MIT) y wikipedista de larga trayectoria, propuso hacer una mesa redonda con la gente que trabajaba vídeo en abierto, a partir de su experiencia como residente en el MIT y su trabajo sobre la inclusión de los materiales del OpenCourseWare (OCW) en Wikipedia.
+[Andrew Lih](https://www.andrewlih.com/), [](https://www.andrewlih.com/)wikipedista residente en el Instituto Tecnológico de Massachussetts (MIT) y wikipedista de larga trayectoria, propuso hacer una mesa redonda con la gente que trabajaba vídeo en abierto, a partir de su experiencia como residente en el MIT y su trabajo sobre la inclusión de los materiales del OpenCourseWare (OCW) en Wikipedia.
 
 Un wikipedista en residencia intenta aprovechar los recursos de la institución donde reside y potenciarlos mediante la inclusión en -por ejemplo- Wikipedia, haciendo que la enciclopedia se nutra de fuentes sólidas y confiables.
 
-Desde OfiLibre, cuando desarrollamos la antigua convocatoria de Asignaturas en acceso abierto (ahora llamada [Materiales docentes en acceso abierto](<https://ofilibre.urjc.es/acciones/materiales-docentes-abierto/>)), tomamos como inspiración la propuesta nacida hace 25 años en el MIT: el OCW. Así que la invitación a participar de esta mesa fue algo muy muy emocionante para nosotros, en especial para Florencia que es quien tuvo la oportunidad de asistir.
+Desde OfiLibre, cuando desarrollamos la antigua convocatoria de Asignaturas en acceso abierto (ahora llamada [Materiales docentes en acceso abierto](https://ofilibre.urjc.es/acciones/materiales-docentes-abierto/)), tomamos como inspiración la propuesta nacida hace 25 años en el MIT: el OCW. Así que la invitación a participar de esta mesa fue algo muy muy emocionante para nosotros, en especial para Florencia que es quien tuvo la oportunidad de asistir.
 
 Florencia Claes recibió una beca total por parte de la Fundación Wikimedia, que le permitió asistir y participar activamente de la conferencia.
 
- 
-
-La mesa redonda puso especial hincapié en los contenidos de vídeo y de cómo estos podrían integrarse en Wikipedia para explicar mejor y con un respaldo académico, los contenidos de los artículos enciclopédicos. El [Grupo de Wikimedistas Vascos](<https://wikimedia.eus/>), [](https://wikimedia.eus/)representados por Aiora Mujika y Magi, mostraron el trabajo que vienen haciendo hace algunos años. Su modelo de trabajo es el siguiente: desde su grupo generan el guión del vídeo, desde la universidad lo mejoran, y el grupo lo graba y publica en Youtube y Wikimedia Commons con licencia CCBYSA. En el caso del [OCW](<https://ocw.mit.edu/>), presentado por Curt Newton y Peter Kaufman, son los docentes responsables de los cursos quienes generan junto con la unidad de producción los vídeos, pero estos tienen licencia CCBYNC, por lo que por ahora, tal cual están, no son fácilmente integrables en la enciclopedia (que promueve el uso de CCBYSA y compatibles). En el caso de OfiLibre, nuestra convocatoria, y atendiendo a lo que promueve nuestra universidad Rey Juan Carlos, usamos licencias CCBY y CCBYSA, por lo que podríamos perfectamente integrar nuestros materiales en los artículos de Wikipedia (subidos previamente a Wikimedia Commons). Este paso aún no está dado por nuestra parte, pero creemos que podría ser un buen escaparate para nuestra producción docente y a la vez un gran apoyo para la calidad de Wikipedia.
-
- 
+La mesa redonda puso especial hincapié en los contenidos de vídeo y de cómo estos podrían integrarse en Wikipedia para explicar mejor y con un respaldo académico, los contenidos de los artículos enciclopédicos. El [Grupo de Wikimedistas Vascos](https://wikimedia.eus/), [](https://wikimedia.eus/)representados por Aiora Mujika y Magi, mostraron el trabajo que vienen haciendo hace algunos años. Su modelo de trabajo es el siguiente: desde su grupo generan el guión del vídeo, desde la universidad lo mejoran, y el grupo lo graba y publica en Youtube y Wikimedia Commons con licencia CCBYSA. En el caso del [OCW](https://ocw.mit.edu/), presentado por Curt Newton y Peter Kaufman, son los docentes responsables de los cursos quienes generan junto con la unidad de producción los vídeos, pero estos tienen licencia CCBYNC, por lo que por ahora, tal cual están, no son fácilmente integrables en la enciclopedia (que promueve el uso de CCBYSA y compatibles). En el caso de OfiLibre, nuestra convocatoria, y atendiendo a lo que promueve nuestra universidad Rey Juan Carlos, usamos licencias CCBY y CCBYSA, por lo que podríamos perfectamente integrar nuestros materiales en los artículos de Wikipedia (subidos previamente a Wikimedia Commons). Este paso aún no está dado por nuestra parte, pero creemos que podría ser un buen escaparate para nuestra producción docente y a la vez un gran apoyo para la calidad de Wikipedia.
 
 Wikimanía permitió a OfiLibre conectarse directamente con los responsables del OCW, pero también participar activamente en los talleres de Creative Commons y REA de la Unesco. Encuentros como este promueven el intercambio y crecimiento mutuos. ¡Por muchas Wikimanías más!
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -744,9 +738,9 @@ Wikimanía permitió a OfiLibre conectarse directamente con los responsables del
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1325,9 +1319,9 @@ Wikimanía permitió a OfiLibre conectarse directamente con los responsables del
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1350,21 +1344,27 @@ Wikimanía permitió a OfiLibre conectarse directamente con los responsables del
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1026"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
-Vídeo del encuentro [disponible en Youtube](<https://www.youtube.com/watch?v=PnHW-dpyOGo&t=5186s>)
+Vídeo del encuentro [disponible en Youtube](https://www.youtube.com/watch?v=PnHW-dpyOGo&t=5186s)
 
 <!--EndFragment-->
 
 <!--EndFragment-->
+
+
+
+```
+<a title="Luisalvaz, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, undefined" href="https://commons.wikimedia.org/wiki/File:New_Frontiers_in_Higher_Education_Wiki_Collaboration_panel_at_Wikimania_2026_14.jpg"><img width="330" alt="Panel New Frontiers in Higher Education Wiki Collaboration en Wikimania 2026" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/New_Frontiers_in_Higher_Education_Wiki_Collaboration_panel_at_Wikimania_2026_14.jpg/330px-New_Frontiers_in_Higher_Education_Wiki_Collaboration_panel_at_Wikimania_2026_14.jpg"></a>
+```
