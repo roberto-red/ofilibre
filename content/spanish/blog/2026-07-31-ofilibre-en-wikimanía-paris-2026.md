@@ -676,7 +676,7 @@ image: /blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo
 
 <!--StartFragment-->
 
-La semana pasada tuvimos la oportunidad de presentar en [Wikimanía -encuentro mundial de la comunidad wikipedista](https://wikimania.wikimedia.org/wiki/2026:Wikimania/es)- la convocatoria de Materiales docentes en abierto de nuestra universidad en la mesa titulada *New Frontiers in Higher Education Wiki Collaboration*. [](https://wikimedia.eventyay.com/wm/wikimania2026/talk/RBRBX9/)
+La semana pasada tuvimos la oportunidad de presentar en [Wikimanía -encuentro mundial de la comunidad wikipedista](https://wikimania.wikimedia.org/wiki/2026:Wikimania/es)- la convocatoria de [Materiales docentes en abierto ](https://ofilibre.urjc.es/acciones/materiales-docentes-abierto/)de nuestra universidad en la mesa titulada [*New Frontiers in Higher Education Wiki Collaboration*.](https://wikimedia.eventyay.com/wm/wikimania2026/talk/RBRBX9/) [](https://wikimedia.eventyay.com/wm/wikimania2026/talk/RBRBX9/)
 
 Wikimanía (que este año tuvo lugar en París) es un encuentro anual donde, personas voluntarias, colectivos, asociaciones e instituciones se encuentran para compartir, debatir y crecer juntos en torno al Conocimiento libre y los proyectos Wikimedia, donde Wikipedia es el más conocido.
 
