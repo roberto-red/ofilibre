@@ -1,16 +1,16 @@
 ---
-title: "Día del Software Libre"
+title: Día del Software Libre
 date: 2019-09-15
 slug: dia-software-libre
+description: Serie de charlas informativas sobre distintos tipos de software y
+  alternativas con motivo del Día del Software Libre
 categories:
-    - Software Libre
+  - Software Libre
 tags:
-    - Charlas
-description: "Serie de charlas informativas sobre distintos tipos de software y alternativas con motivo del Día del Software Libre"
-image: "/local/images/blog/software-freedom/sfd.png"
+  - Charlas
+image: /local/images/blog/software-freedom/sfd.png
 ---
-
-El Día del Software Libre es una celebración anual internacional del Software Libre. Este día es un esfuerzo educativo público con el objetivo de aumentar el conocimiento del Software Libre y sus ventajas, y fomentar su uso. La Oficina de Conocimiento y Cultura Libres quiere celebrar este día con toda la comunidad universitaria, para ello, estamos organizando una serie de charlas sobre el Software Libre que tendrán lugar en el Campus de Móstoles el próximo 23 de septiembre de
+El Día del Software Libre es una celebración anual internacional del Software Libre. Este día es un esfuerzo educativo público con el objetivo de aumentar el conocimiento del Software Libre y sus ventajas, y fomentar su uso. La Oficina de Conocimiento y Cultura Libres (OfiLibre) quiere celebrar este día con toda la comunidad universitaria, para ello, estamos organizando una serie de charlas sobre el Software Libre que tendrán lugar en el Campus de Móstoles el próximo 23 de septiembre de
 13:00 a 15:00:
 
 * "FPGAs libres: compartiendo hardware", Juan González Gómez
