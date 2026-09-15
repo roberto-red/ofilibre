@@ -48,7 +48,7 @@ Esta convocatoria pretende promover el trabajo del personal docente de la URJC p
 
 ### Participación
 
-La participación en esta convocatoria se hace proponiendo asignaturas de grado o máster, de docencia oficial en la URJC durante el curso 2026-2027. Los materiales docentes de esas asignaturas se habrán publicado previamente en abierto.
+La participación en esta convocatoria se hace proponiendo asignaturas de grado o máster, de docencia oficial en la URJC durante el curso 2026-2027. Las personas participantes deberán cumplir además los requisitos establecidos en el apartado 3 de la convocatoria (situación de servicio activo, vinculación con la URJC, etc.). Los materiales docentes de esas asignaturas se habrán publicado previamente en acceso abierto.
 
 ### Publicación de materiales en acceso abierto
 
@@ -120,13 +120,24 @@ Pueden verse más detalles sobre cómo licenciar y marcar la licencia de la obra
 
 #### Si ya me he presentado en convocatorias anteriores, ¿puedo participar en esta con la misma asignatura?
 
-Solo pueden presentarse asignaturas que no han recibido la calificación de asignaturas en abierto en las convocatorias precedentes de los dos últimos cursos.
+Sí, pero los materiales deben ser sustancialmente diferentes de los presentados a las convocatorias de los dos últimos cursos en una asignatura que fue reconocida como "Acceso Abierto" o "Destacadamente en Acceso Abierto". Se considerarán sustancialmente diferentes si al menos el 80% del material es claramente distinto.
 
 #### ¿Hay algún formato específico para los documentos (presentaciones, documentos de texto...)?
 
 Aunque no es obligatorio, en la OfiLibre se han elaborado unas [plantillas que pueden ser utilizadas para los materiales publicados en acceso abierto](/guias/plantillas-asignaturas-abierto/).
 
-#### ¿Cómo especifico la licencia en mis documentos?
+#### ¿Qué licencias se pueden utilizar en los materiales?
+
+Son dos las licencias que han sido aprobadas por el Consejo de Publicación Abierta de la URJC como licencias válidas para materiales en abierto que no sean software:
+
+* Creative Commons BY (Atribución) 4.0
+* Creative Commons BY-SA (Atribución-CompartirIgual) 4.0.
+
+En la [Guía sobre la publicación de materiales docentes en acceso abierto](/guias/materiales-docentes-abierto/) se explican en más detalle ambas licencias.
+
+En el caso de software, presentado en la categoría correspondiente, podrán utilizarse licencias reconocidas como "open source" por la Open Source Initiative.
+
+#### ¿Cómo especifico la licencia en mis materiales?
 
 Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aparecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. Puede ver más información en [esta guía de publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto/#marcado-con-la-licencia-elegida) donde se explica con más detalle cómo incluir la licencia en los materiales.
 
@@ -154,16 +165,6 @@ Esta licencia no se aplica a materiales de terceros que puedan estar incluidos e
 
 [Aquí puedes ver ejemplos](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto) de asignaturas publicadas en la convocatoria anterior
 
-#### ¿Cómo especifico la licencia en mis documentos?
-
-Son dos las licencias que han sido aprobadas por el Consejo de Publicación Abierta de la URJC como licencias válidas para materiales en abierto:
-
-* Creative Commons BY (Atribución) 4.0
-* Creative Commons BY-SA (Atribución-CompartirIgual) 4.0.
-
-En la [Guía sobre la publicación de materiales docentes en acceso abierto](/guias/materiales-docentes-abierto/) se explican en más detalle ambas licencias.
-
-Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aparecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. 
 
 #### ¿Quién puede subir los materiales de una asignatura al archivo abierto?
 
