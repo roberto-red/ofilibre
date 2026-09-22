@@ -1,7 +1,7 @@
 baseURL = "https://ofilibre.urjc.es"
 languageCode = "es-es"
 title = "OfiLibre URJC"
-theme = "navigator-hugo"
+theme = ["navigator-hugo", "netlify-cms"]
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 summaryLength = 10
