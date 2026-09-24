@@ -13,6 +13,10 @@ googleAnalytics = ""
 author = "OfiLibre URJC"
 description = "Oficina de Conocimiento y Cultura Libres de la Universidad Rey Juan Carlos: ayudamos a la comunidad universitaria a comprender y aplicar la cultura libre, la publicación en abierto, los datos abiertos y el software libre."
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [taxonomies]
   category = "categories"
   tag = "tags"
