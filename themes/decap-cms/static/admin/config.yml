@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: turbo-github
+  turbo_site_id: f5c8ad16-8cbe-49f9-b2aa-f4f4abd765ef
 media_folder: static
 public_folder: /
 collections:
