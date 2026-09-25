@@ -5,7 +5,7 @@ date: 2026-05-20T11:01:04.883Z
 description: Blog del café del miércoles 25
 categories:
   - Universidad
-image: /blog/charla-con-los-directores-de-la-revista-asri-andrea-de-la-rubia-y-miguel-ángel-rego/foto-blog.png
+image: blog/charla-con-los-directores-de-la-revista-asri-andrea-de-la-rubia-y-miguel-ángel-rego/foto-blog.png
 ---
 ![ASRI](/blog/charla-con-los-directores-de-la-revista-asri-andrea-de-la-rubia-y-miguel-ángel-rego/logo-de-cc-by.png)
 

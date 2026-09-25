@@ -6,7 +6,7 @@ categories:
   - jornadas
   - software libre
 tags: null
-image: /blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/cartel-selia.png
+image: blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/cartel-selia.png
 ---
 ![Cartel de seLIA: I Jornada sobre Software Libre e Inteligencia Artificial Abierta](/blog/i-jornada-software-libre-e-inteligencia-artificial-abierta-selia/cartel-selia.png)
 

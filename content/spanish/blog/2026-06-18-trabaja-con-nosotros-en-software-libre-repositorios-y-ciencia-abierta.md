@@ -11,7 +11,7 @@ tags:
   - contratación
   - ciencia abierta
   - proyecto
-image: /blog/trabaja-con-nosotros-en-software-libre-repositorios-y-ciencia-abierta/chatgpt-image-19-jun-2026-09_07_39.png
+image: blog/trabaja-con-nosotros-en-software-libre-repositorios-y-ciencia-abierta/chatgpt-image-19-jun-2026-09_07_39.png
 ---
 <!--\\\\[if !mso]>
 <style>

@@ -4,7 +4,7 @@ date: 2026-05-25T09:59:28.455Z
 description: Blog del cafe del 8 de Abril
 categories:
   - Universidad
-image: /blog/las-jornadas-pasadas-y-el-futuro-eslibre-café-con-ofilibre/foto-blog-1-.png
+image: blog/las-jornadas-pasadas-y-el-futuro-eslibre-café-con-ofilibre/foto-blog-1-.png
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>

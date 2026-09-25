@@ -7,7 +7,7 @@ description: Abrimos la inscripción para las Jornadas de Cultura Libre y Cienci
 categories:
   - jornadas
 tags: null
-image: /blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
+image: blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
 ---
 
 🔓 Ya están abiertas las inscripciones para asistentes a las V Jornadas de Cultura Libre y Ciencia Abierta de la URJC.

@@ -5,7 +5,7 @@ date: 2026-05-22T08:11:28.881Z
 description: Blog del CafeOfilibre que se hizo el 18/03/2026
 categories:
   - Universidad
-image: /blog/blog-las-ii-jornadas-nacionales-de-ciencia-abierta-y-las-v-jornadas-de-cultura-libre-y-ciencia-abierta/foto-blog.png
+image: blog/blog-las-ii-jornadas-nacionales-de-ciencia-abierta-y-las-v-jornadas-de-cultura-libre-y-ciencia-abierta/foto-blog.png
 ---
 ![ASRI]()
 

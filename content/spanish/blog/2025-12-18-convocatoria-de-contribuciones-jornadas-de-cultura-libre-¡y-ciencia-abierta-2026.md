@@ -11,7 +11,7 @@ categories:
   - jornadas
   - convocatorias
 tags: null
-image: /blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
+image: blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
 ---
 En esta quinta edición abrimos de nuevo nuestras puertas para contar con la participación activa de docentes, personal investigador, asociaciones, colectivos, estudiantes y cualquier otro grupo de la comunidad universitaria, que deseen compartir conocimientos o mostrar iniciativas relacionadas con el conocimiento abierto.
 
