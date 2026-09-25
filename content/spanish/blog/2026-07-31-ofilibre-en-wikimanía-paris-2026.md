@@ -9,7 +9,7 @@ categories:
   - Universidad
 tags:
   - REA
-image: blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo.png
+image: /blog/ofilibre-en-wikimanía-paris-2026/500px-wikimania_2026_panneau_colo.png
 ---
 <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>

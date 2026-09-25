@@ -8,7 +8,7 @@ categories:
     - Jornadas
 tags:
     - Software Libre
-image: blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
+image: /blog/convocatoria-de-contribuciones-jornadas-de-cultura-libre-¡y-ciencia-abierta-2026/save-the-date-v-jornadas.jpg
 
 ---
 

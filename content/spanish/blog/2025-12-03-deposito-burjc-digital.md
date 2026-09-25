@@ -9,7 +9,7 @@ tags:
   - acceso abierto
   - ciencia abierta
   - BURJC Digital
-image: blog/burjc_digital_square.png
+image: /blog/burjc_digital_square.png
 ---
 ![BURJC Digital logo: a toy figure with a magnifying glass](/blog/burjc_digital.png "BURJC Digital logo")
 

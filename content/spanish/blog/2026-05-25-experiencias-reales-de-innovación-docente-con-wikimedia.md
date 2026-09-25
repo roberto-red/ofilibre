@@ -5,7 +5,7 @@ description: Noticia sobre la importante publicación de Innovación docente con
   Wikimedia. Experiencias compartidas en las universidades españolas
 categories:
   - Universidad
-image: blog/experiencias-reales-de-innovación-docente-con-wikimedia/d837499f90ff7e72d4b2e8f286884ef8_m.jpg
+image: /blog/experiencias-reales-de-innovación-docente-con-wikimedia/d837499f90ff7e72d4b2e8f286884ef8_m.jpg
 ---
 ![ASRI](/blog/experiencias-reales-de-innovación-docente-con-wikimedia/d837499f90ff7e72d4b2e8f286884ef8_m.jpg)
 
