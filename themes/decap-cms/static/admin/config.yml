@@ -15,7 +15,7 @@ collections:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
       - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["Universidad"]}
       - { label: 'Etiquetas', name: 'tags', widget: 'list'}
@@ -33,7 +33,7 @@ collections:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
       - { label: 'Logo', name: 'image', widget: 'image' }
       - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
@@ -51,7 +51,7 @@ collections:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD' }
       - { label: 'Logo', name: 'image', widget: 'image' }
       - { label: 'Página web', name: 'website', widget: 'string' }
       - { label: 'Página web (español)', name: 'website_es', widget: 'string', required: false }
@@ -104,7 +104,7 @@ collections:
       preview: true
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'datetime', date_format: 'YYYY-MM-DD' }
       - { label: 'Descripción', name: 'description', widget: 'string' }
       - { label: 'Logo', name: 'image', widget: 'image' }
       - label: 'Transparencias'
