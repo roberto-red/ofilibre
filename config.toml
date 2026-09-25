@@ -25,7 +25,7 @@ description = "Oficina de Conocimiento y Cultura Libres de la Universidad Rey Ju
   home = ["HTML", "JSON", "RSS"]
 
 [params]
-rawBase = "https://gitlab.com/ofilibre/ofilibre.gitlab.io/-/raw/master"
+rawBase = "https://raw.githubusercontent.com/roberto-red/roberto-red.github.io/refs/heads/main"
 showLanguageSwitcher = true
 logo = "images/logos/banner-urjc.png"
 menufixed = true
